@@ -41,26 +41,9 @@ lxgr.tagFolder("MICUSP_Sample/","MICUSP_sample_tagged/") #12 seconds on my compu
 micuspDictionary = lxgr.countTagsFolder("MICUSP_sample_tagged/")
 lxgr.writeCounts(micuspDictionary,"sampleMicuspOutputFile.txt")
 
-# Tag MICASE files
-## First, we will make sure that we are in the correct working directory (yours will look a bit different!)
-os.chdir('/Users/kristopherkyle/Desktop/Programming/GitHub/kristopherkyle/AACL2024_Workshop/')
+##########################################################
+### Now, try this process with the MICASE sample files ###
+##########################################################
 
-## Then, we will make sure that we have a folder to put tagged MICUSP files in
-os.mkdir("MICASE_sample_tagged/")
-
-## Tag files in MICUSP folder
-lxgr.tagFolder("MICASE_Sample/","MICASE_sample_tagged/") #40 seconds on my computer
-
-###########################
-### Fix tag your files! ###
-###########################
-
-## Count tags
-micaseDictionary = lxgr.countTagsFolder("MICASE_sample_tagged/")
-lxgr.writeCounts(micaseDictionary,"sampleMicaseOutputFile.txt")
-
-################################################
-### Conduct awesome, world-changing analyses ###
-################################################
 
 
