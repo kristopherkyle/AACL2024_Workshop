@@ -1,0 +1,1643 @@
+#sentid = 0
+0	When	when		rb	advl								WRB	advmod	2
+1	Marx	marx		nn		proper							NNP	nsubj	2
+2	wrote	write	finitecls+advl	vbmain	vblex	past	simple	active	advlcls	whcls			VBD	advcl	8
+3	those	those		dt	dt_dem								DT	det	4
+4	words	word		nn	pl								NNS	dobj	2
+5	,	,											,	punct	8
+6	Europe	europe		nn		proper							NNP	nsubjpass	8
+7	was	be		vbaux									VBD	auxpass	8
+8	caught	catch		vbmain	vblex	past	simple	pasv_agls	compcls		vcomp	compdel	VBN	ccomp	20
+9	in	in	in+advl	in	advl								IN	prep	8
+10	a	a		dt	art								DT	det	11
+11	maelstrom	maelstrom		nn									NN	pobj	9
+12	-	-											:	punct	20
+13	the	the		dt	art								DT	det	16
+14	very	very	rb+jjrbmod	rb	adjmod								JJ	advmod	15
+15	material	material	attr+npremod	jj	attr								JJ	amod	16
+16	fabric	fabric		nn									NN	nsubj	20
+17	of	of	of+npostmod	in	nmod								IN	prep	16
+18	life	life		nn									NN	pobj	17
+19	was	be		vbaux									VBD	aux	20
+20	undergoing	undergo		vbmain	vblex	past	prog	active					VBG	ROOT	20
+21	fundamental	fundamental	attr+npremod	jj	attr								JJ	amod	24
+22	,	,											,	punct	24
+23	transformative	transformative	attr+npremod	jj	attr								JJ	amod	24
+24	change	change		nn									NN	dobj	20
+25	.	.											.	punct	20
+
+#sentid = 1
+0	All	all											DT	nsubj	7
+1	that	that		relpro	relpro_that	sg							WDT	nsubj	2
+2	was	be	finitecls+rel	vbmain	be	past	simple	active	nmod_cls	thatcls	rel		VBD	relcl	0
+3	seemingly	seemingly	rb+jjrbmod	rb	adjmod	ly							RB	advmod	4
+4	solid	solid		jj	pred								JJ	acomp	2
+5	,	,											,	punct	7
+6	was	be		vbaux									VBD	aux	7
+7	melting	melt		vbmain	vblex	past	prog	active					VBG	ROOT	7
+8	into	into	in+advl	in	advl								IN	prep	7
+9	air	air		nn									NN	pobj	8
+10	.	.											.	punct	7
+
+#sentid = 2
+0	Entire	entire	attr+npremod	jj	attr								JJ	amod	1
+1	landscapes	landscape		nn	pl								NNS	nsubjpass	4
+2	were	be		vbaux									VBD	aux	4
+3	being	be		vbaux									VBG	auxpass	4
+4	obliterated	obliterate		vbmain	vblex	past	simple	pasv_agls	compcls		vcomp	compdel	VBN	ccomp	25
+5	,	,											,	punct	25
+6	cities	city		nn	pl	nom							NNS	nsubjpass	9
+7	were	be		vbaux									VBD	aux	9
+8	being	be		vbaux									VBG	auxpass	9
+9	built	build		vbmain	vblex	past	simple	pasv_agls	compcls		vcomp	compdel	VBN	ccomp	25
+10	at	at	in+advl	in	advl								IN	prep	9
+11	a	a		dt	art								DT	det	13
+12	frenetic	frenetic	attr+npremod	jj	attr								JJ	amod	13
+13	pace	pace		nn									NN	pobj	10
+14	,	,											,	punct	25
+15	enormous	enormous	attr+npremod	jj	attr								JJ	amod	16
+16	wealth	wealth		nn									NN	nsubjpass	19
+17	was	be		vbaux									VBD	aux	19
+18	being	be		vbaux									VBG	auxpass	19
+19	created	create		vbmain	vblex	past	simple	pasv_agls	compcls		vcomp	compdel	VBN	ccomp	25
+20	,	,											,	punct	25
+21	material	material	attr+npremod	jj	attr								JJ	amod	22
+22	goods	good		nn	pl								NNS	nsubjpass	25
+23	were	be		vbaux									VBD	aux	25
+24	being	be		vbaux									VBG	auxpass	25
+25	churned	churn		vbmain	phrsv	past	simple	pasv_agls					VBN	ROOT	25
+26	out	out		rb	prtcle								RP	prt	25
+27	.	.											.	punct	25
+
+#sentid = 3
+0	And	and		cc	cls								CC	cc	5
+1	concomitantly	concomitantly	rb+advl	rb	advl	ly							RB	advmod	5
+2	,	,											,	punct	5
+3	great	great	attr+npremod	jj	attr								JJ	amod	4
+4	misery	misery		nn		nom							NN	nsubj	5
+5	abounded	abound		vbmain	vblex	past	simple	active	compcls		vcomp	compdel	VBD	ccomp	30
+6	-	-											:	punct	30
+7	children	child		nn	pl								NNS	nsubj	9
+8	were	be		vbaux									VBD	aux	9
+9	funneling	funnel		vbmain	vblex	past	prog	active	compcls		vcomp	compdel	VBG	ccomp	30
+10	through	through	in+advl	in	advl								IN	prep	9
+11	mines	mine		nn	pl								NNS	pobj	10
+12	that	that		relpro	relpro_that	sg							WDT	nsubj	14
+13	often	often	rb+advl	rb	advl								RB	advmod	14
+14	collapsed	collapse	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls	thatcls	rel		VBD	relcl	11
+15	upon	upon	in+advl	in	advl								IN	prep	14
+16	them	they		pro	pl								PRP	pobj	15
+17	,	,											,	punct	30
+18	women	woman		nn	pl								NNS	nsubj	20
+19	were	be		vbaux									VBD	aux	20
+20	working	work		vbmain	vblex	past	prog	active	compcls		vcomp	compdel	VBG	ccomp	30
+21	hours	hour		nn	pl								NNS	npadvmod	20
+22	on	on		in	nmod								IN	prep	21
+23	end	end		nn									NN	pobj	22
+24	in	in	in+advl	in	advl								IN	prep	20
+25	sweltering	swelter	attr+npremod	jj	attr	ing							VBG	amod	26
+26	factories	factory		nn	pl	nom							NNS	pobj	24
+27	,	,											,	punct	30
+28	men	man		nn	pl								NNS	nsubj	30
+29	were	be		vbaux									VBD	aux	30
+30	performing	perform		vbmain	vblex	past	prog	active					VBG	ROOT	30
+31	tasks	task		nn	pl								NNS	dobj	30
+32	that	that		relpro	relpro_that	sg							WDT	nsubj	34
+33	would	would		vbaux	mod	prd							MD	aux	34
+34	leave	leave	finitecls+rel	vbmain	vblex	vp_w_modal	simple	active	nmod_cls	thatcls	rel		VB	relcl	31
+35	them	they		pro	pl								PRP	dobj	34
+36	blind	blind		jj	attr								JJ	amod	40
+37	,	,											,	punct	40
+38	maimed	maimed		jj	attr								JJ	amod	40
+39	,	,											,	punct	40
+40	dead	dead											JJ	oprd	34
+41	.	.											.	punct	30
+
+#sentid = 4
+0	Even	even	rb+advl	rb	advl								RB	advmod	4
+1	as	as		cs	cs_othr								IN	mark	4
+2	citadels	citadel		nn	pl								NNS	nsubj	4
+3	were	be		vbaux									VBD	aux	4
+4	rising	rise	finitecls+advl	vbmain	vblex	past	prog	active	advlcls		other_advl		VBG	advcl	11
+5	,	,											,	punct	11
+6	the	the		dt	art								DT	det	7
+7	ground	ground		nn									NN	nsubj	11
+8	around	around	in+npostmod	in	nmod								IN	prep	7
+9	them	they		pro	pl								PRP	pobj	8
+10	was	be		vbaux									VBD	aux	11
+11	seeping	seep		vbmain	vblex	past	prog	active					VBG	ROOT	11
+12	into	into	in+advl	in	advl								IN	prep	11
+13	despair	despair		nn									NN	pobj	12
+14	.	.											.	punct	11
+
+#sentid = 5
+0	Things	thing		nn	pl	nom							NNS	nsubj	1
+1	are	be		vbmain	be	pres	simple	active					VBP	ROOT	1
+2	not	not											RB	neg	4
+3	much	much	rb+jjrbmod	rb	adjmod								RB	advmod	4
+4	different	different		jj	pred								JJ	acomp	1
+5	in	in	in+advl	in	advl								IN	prep	1
+6	parts	part		nn	pl								NNS	pobj	5
+7	of	of	of+npostmod	in	nmod								IN	prep	6
+8	China	china		nn		proper							NNP	pobj	7
+9	today	today		nn									NN	npadvmod	1
+10	.	.											.	punct	1
+
+#sentid = 6
+0	But	but		cc	cls								CC	cc	2
+1	that	that		pro	dem	sg							DT	nsubj	2
+2	falls	fall		vbmain	vblex	pres	simple	active					VBZ	ROOT	2
+3	short	short											JJ	oprd	2
+4	.	.											.	punct	2
+
+#sentid = 7
+0	For	for		cc	cls								CC	cc	8
+1	,	,											,	punct	8
+2	in	in	in+advl	in	advl								IN	prep	8
+3	fact	fact		nn									NN	pobj	2
+4	,	,											,	punct	8
+5	one	one		pro	other	pl							PRP	nsubj	8
+6	can	can		vbaux	mod	pos							MD	aux	8
+7	today	today		nn									NN	npadvmod	8
+8	take	take		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	8
+9	a	a		dt	art								DT	det	12
+10	thirty	thirty											CD	nummod	11
+11	minute	minute	nn+npremod	nn			npremod						NN	compound	12
+12	drive	drive		nn									NN	dobj	8
+13	out	out	rb+advl	rb	advl								IN	advmod	8
+14	to	to		in	in_othr								IN	prep	13
+15	the	the		dt	art								DT	det	18
+16	inner	inner	attr+npremod	jj	attr								JJ	amod	17
+17	city	city	nn+npremod	nn		nom	npremod						NN	compound	18
+18	spaces	space		nn	pl								NNS	pobj	14
+19	of	of	of+npostmod	in	nmod								IN	prep	18
+20	Detroit	detroit		nn		proper							NNP	pobj	19
+21	and	and		cc	phrs								CC	cc	8
+22	face	face		vbmain	vblex	nonfinite	simple	active					VB	conj	8
+23	similar	similar	attr+npremod	jj	attr								JJ	amod	24
+24	despair	despair		nn									NN	dobj	22
+25	.	.											.	punct	8
+
+#sentid = 8
+0	True	true	rb+advl	rb	advl								JJ	advmod	4
+1	,	,											,	punct	4
+2	one	one		pro	other	pl							PRP	nsubj	4
+3	can	can		vbaux	mod	pos							MD	aux	4
+4	make	make		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	4
+5	a	a		dt	art								DT	det	9
+6	thirty	thirty											CD	nummod	7
+7	hour	hour	nn+npremod	nn			npremod						NN	compound	9
+8	plane	plane	nn+npremod	nn			npremod						NN	compound	9
+9	journey	journey		nn									NN	dobj	4
+10	to	to	in+npostmod	in	nmod								IN	prep	9
+11	Karachi	karachi		nn		proper							NNP	pobj	10
+12	,	,											,	punct	4
+13	and	and		cc	phrs								CC	cc	4
+14	see	see		vbmain	vblex	nonfinite	simple	active					VB	conj	4
+15	it	it		pro	3rd	sg							PRP	dobj	14
+16	in	in	in+advl	in	advl								IN	prep	14
+17	even	even	rb+jjrbmod	rb	othr								RB	advmod	18
+18	more	more	rb+jjrbmod	rb	adjmod								RBR	advmod	19
+19	vivid	vivid	attr+npremod	jj	attr								JJ	amod	20
+20	form	form		nn									NN	pobj	16
+21	in	in	in+advl	in	advl								IN	prep	14
+22	the	the		dt	art								DT	det	23
+23	slums	slum		nn	pl								NNS	pobj	21
+24	of	of	of+npostmod	in	nmod								IN	prep	23
+25	Liyari	liyari		nn		proper							NNP	pobj	24
+26	.	.											.	punct	4
+
+#sentid = 9
+0	In	in	in+advl	in	advl								IN	prep	12
+1	the	the		dt	art								DT	det	2
+2	colonies	colony		nn	pl								NNS	pobj	0
+3	(	(											-LRB-	punct	2
+4	or	or		cc	phrs								CC	cc	2
+5	,	,											,	punct	6
+6	ex	ex		nn	pl								NNS	conj	2
+7	-	-		nn	pl								NNS	conj	2
+8	colonies	colony		nn	pl								NNS	conj	2
+9	)	)											-RRB-	punct	2
+10	,	,											-RRB-	punct	12
+11	capitalism	capitalism		nn		nom							NN	nsubj	12
+12	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	12
+13	always	always	rb+advl	rb	advl								RB	advmod	12
+14	a	a		dt	art								DT	det	15
+15	little	little		jj	attr								RB	amod	16
+16	more	more	rb+jjrbmod	rb	adjmod								RBR	advmod	17
+17	naked	naked		jj	pred								JJ	acomp	12
+18	.	.											.	punct	12
+
+#sentid = 10
+0	But	but		cc	cls								CC	cc	7
+1	in	in	in+advl	in	advl								IN	prep	7
+2	either	either		dt									DT	det	3
+3	spatiality	spatiality		nn		nom							NN	pobj	1
+4	,	,											,	punct	7
+5	despair	despair		nn									NN	dep	7
+6	it	it		pro	3rd	sg							PRP	nsubj	7
+7	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	7
+8	.	.											.	punct	7
+
+#sentid = 11
+0	And	and		cc	cls								CC	cc	3
+1	it	it		pro	3rd	sg							PRP	nsubj	3
+2	is	be		vbaux									VBZ	aux	3
+3	growing	grow		vbmain	vblex	pres	prog	active					VBG	ROOT	3
+4	at	at	in+advl	in	advl								IN	prep	3
+5	a	a		dt	art								DT	det	7
+6	faster	fast	attr+npremod	jj	attr								JJR	amod	7
+7	rate	rate		nn		nom							NN	pobj	4
+8	than	than	in+npostmod	in	nmod								IN	prep	7
+9	in	in		in	in_othr								IN	prep	8
+10	Marx	marx	s+gen	dt	poss	proper	sgen						NNP	poss	12
+11	's	's											POS	case	10
+12	Europe	europe		nn		proper							NNP	pobj	9
+13	.	.											.	punct	3
+
+#sentid = 12
+0	Given	give	edcls+advl	vbmain	advl	nonfinite	simple	active		edcls			VBN	prep	16
+1	this	this		dt	dt_dem								DT	det	5
+2	tangible	tangible		jj	attr								JJ	amod	5
+3	"	"											``	punct	5
+4	really	really	rb+jjrbmod	rb	othr	ly							RB	advmod	5
+5	real	real											JJ	pobj	0
+6	,	,											''	punct	10
+7	"	"											''	punct	10
+8	the	the		dt	art								DT	det	9
+9	question	question		nn		nom							NN	nsubj	10
+10	arises	arise		vbmain	vblex	pres	simple	active					VBZ	parataxis	16
+11	,	,											,	punct	10
+12	how	how		rb	advl								WRB	advmod	16
+13	could	could		vbaux	mod	pos							MD	aux	16
+14	one	one		pro	other	pl							PRP	nsubj	16
+15	even	even	rb+advl	rb	advl		splaux						RB	advmod	16
+16	question	question		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	16
+17	the	the		dt	art								DT	det	18
+18	need	need		nn									NN	dobj	16
+19	for	for	in+npostmod	in	nmod								IN	prep	18
+20	revolution	revolution		nn		nom							NN	pobj	19
+21	?	?											.	punct	16
+
+#sentid = 13
+0	Marx	marx		nn		proper							NNP	nsubj	1
+1	wrote	write		vbmain	vblex	past	simple	active					VBD	ROOT	1
+2	his	his		dt	poss	sg							PRP$	poss	3
+3	words	word		nn	pl								NNS	dobj	1
+4	as	as	in+advl	in	advl								IN	prep	1
+5	a	a		dt	art								DT	det	6
+6	call	call		nn									NN	pobj	4
+7	for	for	in+npostmod	in	nmod								IN	prep	6
+8	action	action		nn		nom							NN	pobj	7
+9	,	,											,	punct	4
+10	as	as		in	in_othr								IN	prep	4
+11	a	a		dt	art								DT	det	12
+12	reminder	reminder		nn		nom							NN	pobj	10
+13	of	of	of+npostmod	in	nmod								IN	prep	12
+14	what	what											WP	nsubj	15
+15	was	be	whcls+incomp	vbmain	be	past	simple	active	compcls	whcls	incomp		VBD	pcomp	13
+16	the	the		dt	art								DT	det	17
+17	need	need		nn									NN	attr	15
+18	of	of	of+npostmod	in	nmod								IN	prep	17
+19	that	that		dt	dt_dem								DT	det	22
+20	spatio	spatio	nn+npremod	nn			npremod						NN	compound	22
+21	-	-											HYPH	punct	22
+22	temporality	temporality		nn		nom							NN	pobj	18
+23	.	.											.	punct	1
+
+#sentid = 14
+0	And	and		cc	cls								CC	cc	3
+1	here	here	rb+advl	rb	advl								RB	advmod	3
+2	we	we		pro	1st								PRP	nsubj	3
+3	are	be		vbmain	be	pres	simple	active					VBP	ROOT	3
+4	,	,											,	punct	3
+5	faced	face	edcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	edcls			VBN	advcl	3
+6	with	with	in+advl	in	advl								IN	prep	5
+7	an	an		dt									DT	det	16
+8	even	even	rb+jjrbmod	rb	othr								RB	advmod	9
+9	more	more	rb+jjrbmod	rb	adjmod								RBR	advmod	10
+10	encompassing	encompassing	attr+npremod	jj	attr								JJ	amod	16
+11	,	,											,	punct	16
+12	far	far	rb+advl	rb	advl								RB	advmod	13
+13	reaching	reach	attr+npremod	jj	attr	ing							VBG	amod	16
+14	,	,											,	punct	16
+15	pernicious	pernicious	attr+npremod	jj	attr								JJ	amod	16
+16	reality	reality		nn		nom							NN	pobj	6
+17	,	,											,	punct	3
+18	questioning	question	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	3
+19	whether	whether		cs	cs_othr								IN	mark	21
+20	there	there											EX	expl	21
+21	is	be		vbmain	be	pres	simple	active	compcls		other_advl	compdel	VBZ	ccomp	18
+22	need	need		nn									NN	attr	21
+23	for	for	in+npostmod	in	nmod								IN	prep	22
+24	revolution	revolution		nn		nom							NN	pobj	23
+25	in	in	in+advl	in	advl								IN	prep	21
+26	our	our		dt	poss								PRP$	poss	29
+27	spatio	spatio	nn+npremod	nn			npremod						NN	compound	29
+28	-	-											HYPH	punct	29
+29	temporalities	temporality		nn	pl	nom							NNS	pobj	25
+30	?	?											.	punct	3
+
+#sentid = 15
+0	It	it		pro	3rd	sg							PRP	nsubj	1
+1	reminds	remind		vbmain	vblex	pres	simple	active					VBZ	ROOT	1
+2	one	one		pro	other	pl							CD	dobj	1
+3	of	of	in+advl	in	advl								IN	prep	1
+4	Antoinette	antoinette	s+gen	dt	poss	proper	sgen						NNP	poss	7
+5	's	's											POS	case	4
+6	infamous	infamous	attr+npremod	jj	attr								JJ	amod	7
+7	suggestion	suggestion		nn		nom							NN	pobj	3
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	cake	cake		nn									NN	pobj	8
+10	.	.											.	punct	1
+
+#sentid = 16
+0													_SP	dep	12
+1	To	to		to									TO	aux	2
+2	be	be	tocls+advl	vbmain	be	nonfinite	simple	active	advlcls	tocls			VB	advcl	12
+3	sure	sure		jj	pred								JJ	acomp	2
+4	,	,											,	punct	12
+5	what	what											WP	attr	10
+6	"	"											``	punct	10
+7	revolution	revolution		nn		nom							NN	attr	10
+8	,	,											''	punct	10
+9	"	"											''	punct	10
+10	is	be		vbmain	be	pres	simple	active	compcls	whcls	vcomp		VBZ	csubj	12
+11	will	will		vbaux	mod	prd							MD	aux	12
+12	vary	vary		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	12
+13	in	in	in+advl	in	advl								IN	prep	12
+14	the	the		dt	art								DT	det	18
+15	various	various	attr+npremod	jj	attr								JJ	amod	18
+16	spatio	spatio	nn+npremod	nn			npremod						NN	compound	18
+17	-	-											HYPH	punct	18
+18	temporalities	temporality		nn	pl	nom							NNS	pobj	13
+19	we	we		pro	1st								PRP	nsubjpass	21
+20	are	be		vbaux									VBP	auxpass	21
+21	situated	situate	finitecls+rel	vbmain	vblex	pres	simple	pasv_agls	nmod_cls		rel	reldel	VBN	relcl	18
+22	in	in	in+advl	in	advl								IN	prep	21
+23	.	.											.	punct	12
+
+#sentid = 17
+0	For	for	in+advl	in	advl								IN	prep	10
+1	example	example		nn									NN	pobj	0
+2	,	,											,	punct	10
+3	in	in	in+advl	in	advl								IN	prep	10
+4	Pakistan	pakistan		nn		proper							NNP	pobj	3
+5	,	,											,	punct	10
+6	achieving	achieve		vbmain	vblex	nonfinite	simple	active	compcls	ingcls	vcomp		VBG	csubj	10
+7	land	land	nn+npremod	nn			npremod						NN	compound	8
+8	reform	reform		nn									NN	dobj	6
+9	would	would		vbaux	mod	prd							MD	aux	10
+10	be	be		vbmain	be	vp_w_modal	simple	active	compcls		vcomp	compdel	VB	ccomp	25
+11	a	a		dt	art								DT	det	12
+12	revolution	revolution		nn		nom							NN	attr	10
+13	because	because		cs	cos								IN	mark	16
+14	it	it		pro	3rd	sg							PRP	nsubj	16
+15	would	would		vbaux	mod	prd							MD	aux	16
+16	be	be	finitecls+advl	vbmain	be	vp_w_modal	simple	active	advlcls		causative		VB	advcl	10
+17	a	a		dt	art								DT	det	20
+18	fundamentally	fundamentally	rb+jjrbmod	rb	adjmod	ly							RB	advmod	19
+19	transformative	transformative	attr+npremod	jj	attr								JJ	amod	20
+20	event	event		nn		nom							NN	attr	16
+21	-	-											:	punct	25
+22	land	land	nn+npremod	nn			npremod						NN	compound	23
+23	reform	reform		nn									NN	nsubj	25
+24	would	would		vbaux	mod	prd							MD	aux	25
+25	alter	alter		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	25
+26	Pakistan	pakistan	s+gen	dt	poss	proper	sgen						NNP	poss	29
+27	's	's											POS	case	26
+28	class	class	nn+npremod	nn			npremod						NN	compound	29
+29	structure	structure		nn		nom							NN	dobj	25
+30	,	,											,	punct	29
+31	its	its		dt	poss								PRP$	poss	33
+32	power	power	nn+npremod	nn		nom	npremod						NN	compound	33
+33	hierarchies	hierarchy		nn	pl								NNS	conj	29
+34	,	,											,	punct	33
+35	the	the		dt	art								DT	det	36
+36	composition	composition		nn		nom							NN	conj	33
+37	and	and		cc	phrs								CC	cc	36
+38	logics	logic		nn	pl								NNS	conj	36
+39	of	of	of+npostmod	in	nmod								IN	prep	36
+40	its	its		dt	poss								PRP$	poss	41
+41	institutions	institution		nn	pl	nom							NNS	pobj	39
+42	,	,											,	punct	41
+43	the	the		dt	art								DT	det	44
+44	mechanisms	mechanism		nn	pl	nom							NNS	conj	36
+45	and	and		cc	phrs								CC	cc	44
+46	processes	process		nn	pl	nom							NNS	conj	44
+47	of	of	of+npostmod	in	nmod								IN	prep	44
+48	domination	domination		nn		nom							NN	pobj	47
+49	and	and		cc	phrs								CC	cc	48
+50	control	control		nn									NN	conj	48
+51	that	that		relpro	relpro_that	sg							WDT	nsubj	52
+52	pervade	pervade	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls	thatcls	rel		VBP	relcl	44
+53	,	,											,	punct	44
+54	and	and		cc	phrs								CC	cc	44
+55	the	the		dt	art								DT	det	56
+56	discourse	discourse		nn									NN	conj	44
+57	on	on	in+npostmod	in	nmod								IN	prep	56
+58	subjectivities	subjectivity		nn	pl	nom							NNS	pobj	57
+59	that	that		relpro	relpro_that	sg							WDT	nsubj	60
+60	exists	exist	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls	thatcls	rel		VBZ	relcl	56
+61	-	-											:	punct	25
+62	because	because		cs	cos								IN	mark	65
+63	it	it		pro	3rd	sg							PRP	nsubj	65
+64	would	would		vbaux	mod	prd							MD	aux	65
+65	entail	entail	finitecls+advl	vbmain	vblex	vp_w_modal	simple	active	advlcls		causative		VB	advcl	25
+66	the	the		dt	art								DT	det	67
+67	collapse	collapse		nn									NN	dobj	65
+68	of	of	of+npostmod	in	nmod								IN	prep	67
+69	the	the		dt	art								DT	det	71
+70	existing	exist	attr+npremod	jj	attr	ing							VBG	amod	71
+71	categories	category		nn	pl	nom							NNS	pobj	68
+72	of	of	of+npostmod	in	nmod								IN	prep	71
+73	life	life		nn									NN	pobj	72
+74	and	and		cc	phrs								CC	cc	73
+75	being	being		nn		nom							NN	conj	73
+76	.	.											.	punct	25
+
+#sentid = 18
+0	It	it		pro	3rd	sg							PRP	nsubj	1
+1	is	be		vbmain	be	pres	simple	active	compcls		vcomp	compdel	VBZ	ccomp	20
+2	important	important		jj	pred								JJ	acomp	1
+3	to	to		to									TO	aux	4
+4	note	note	xtrapos+tocls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	1
+5	how	how		comp	comp_wh								WRB	advmod	8
+6	this	this		pro	dem	sg							DT	nsubj	8
+7	would	would		vbaux	mod	prd							MD	aux	8
+8	happen	happen	whcls+vcomp	vbmain	vblex	vp_w_modal	simple	active	compcls	whcls	vcomp		VB	ccomp	4
+9	-	-											:	punct	20
+10	the	the		dt	art								DT	det	13
+11	actual	actual	attr+npremod	jj	attr								JJ	amod	13
+12	land	land	nn+npremod	nn			npremod						NN	compound	13
+13	reforms	reform		nn	pl								NNS	nsubj	20
+14	,	,											,	punct	20
+15	in	in	in+advl	in	advl								IN	prep	20
+16	and	and		cc									CC	cc	15
+17	of	of											IN	conj	15
+18	themselves	themselves		pro	pl								PRP	pobj	17
+19	,	,											,	punct	20
+20	are	be		vbmain	be	pres	simple	active					VBP	ROOT	20
+21	only	only		rb	othr	ly							RB	advmod	22
+22	one	one											CD	nummod	23
+23	piece	piece		nn									NN	attr	20
+24	,	,											,	punct	23
+25	perhaps	perhaps		rb	othr								RB	advmod	23
+26	the	the		dt	art								DT	det	28
+27	last	last	attr+npremod	jj	attr								JJ	amod	28
+28	piece	piece	appos+npostmod	nn			nappos						NN	appos	23
+29	of	of	of+npostmod	in	nmod								IN	prep	28
+30	the	the		dt	art								DT	det	31
+31	act	act		nn									NN	pobj	29
+32	that	that		relpro	relpro_that	sg							WDT	nsubj	34
+33	would	would		vbaux	mod	prd							MD	aux	34
+34	bring	bring	finitecls+rel	vbmain	vblex	vp_w_modal	simple	active	nmod_cls	thatcls	rel		VB	relcl	31
+35	these	these		dt	dt_dem								DT	det	36
+36	changes	change		nn	pl								NNS	dobj	34
+37	.	.											.	punct	20
+
+#sentid = 19
+0	It	it		pro	3rd	sg							PRP	nsubj	1
+1	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	1
+2	the	the		dt	art								DT	det	3
+3	process	process		nn		nom							NN	attr	1
+4	of	of	of+npostmod	in	nmod								IN	prep	3
+5	getting	get	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	4
+6	to	to	in+advl	in	advl								IN	prep	5
+7	the	the		dt	art								DT	det	8
+8	point	point		nn									NN	pobj	6
+9	where	where		rb	advl								WRB	advmod	14
+10	land	land	nn+npremod	nn			npremod						NN	compound	11
+11	reforms	reform		nn	pl								NNS	nsubjpass	14
+12	can	can		vbaux	mod	pos							MD	aux	14
+13	be	be		vbaux									VB	auxpass	14
+14	implemented	implement	finitecls+rel	vbmain	vblex	vp_w_modal	simple	pasv_agls	nmod_cls	whcls	rel		VBN	relcl	8
+15	that	that		pro	dem	sg							WDT	nsubj	19
+16	in	in	in+advl	in	advl								IN	prep	19
+17	fact	fact		nn									NN	pobj	16
+18	,	,											,	punct	19
+19	is	be	thatcls+vcomp	vbmain	be	pres	simple	active	compcls		vcomp	compdel	VBZ	ccomp	1
+20	where	where		comp	comp_wh								WRB	advmod	23
+21	the	the		dt	art								DT	det	22
+22	revolution	revolution		nn		nom							NN	nsubj	23
+23	lies	lie	whcls+vcomp	vbmain	vblex	pres	simple	active	compcls	whcls	vcomp		VBZ	ccomp	19
+24	.	.											.	punct	1
+
+#sentid = 20
+0	For	for		cc	cls								CC	cc	37
+1	,	,											,	punct	37
+2	in	in	in+advl	in	advl								IN	prep	22
+3	order	order		nn		nom							NN	pobj	2
+4	to	to		to									TO	aux	5
+5	get	get		vbmain	vblex	nonfinite	simple	active	nmod_cls		ncomp		VB	acl	3
+6	to	to	in+advl	in	advl								IN	prep	5
+7	the	the		dt	art								DT	det	8
+8	point	point		nn									NN	pobj	6
+9	where	where		rb	advl								WRB	advmod	14
+10	land	land	nn+npremod	nn			npremod						NN	compound	11
+11	reforms	reform		nn	pl								NNS	nsubjpass	14
+12	can	can		vbaux	mod	pos							MD	aux	14
+13	be	be		vbaux									VB	auxpass	14
+14	implemented	implement	finitecls+rel	vbmain	vblex	vp_w_modal	simple	pasv_agls	nmod_cls	whcls	rel		VBN	relcl	8
+15	,	,											,	punct	22
+16	amongst	amongst	in+advl	in	advl								IN	prep	22
+17	other	other	attr+npremod	jj	attr								JJ	amod	18
+18	things	thing		nn	pl	nom							NNS	pobj	16
+19	,	,											,	punct	22
+20	mobilization	mobilization		nn		nom							NN	nsubj	22
+21	would	would		vbaux	mod	prd							MD	aux	22
+22	have	have		vbmain	vblex	vp_w_modal	simple	active	compcls		vcomp	compdel	VB	ccomp	37
+23	to	to		to									TO	aux	24
+24	occur	occur		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	xcomp	22
+25	that	that		pro	dem	sg							WDT	nsubj	27
+26	would	would		vbaux	mod	prd							MD	aux	27
+27	bring	bring	thatcls+vcomp	vbmain	vblex	vp_w_modal	simple	active	compcls		vcomp	compdel	VB	ccomp	22
+28	peasants	peasant		nn	pl	nom							NNS	dobj	27
+29	and	and		cc	phrs								CC	cc	28
+30	the	the		dt	art								DT	det	32
+31	urban	urban		jj	attr								JJ	amod	32
+32	poor	poor											JJ	conj	28
+33	together	together	rb+advl	rb	advl								RB	advmod	27
+34	,	,											,	punct	37
+35	contestation	contestation		nn		nom							NN	nsubj	37
+36	would	would		vbaux	mod	prd							MD	aux	37
+37	have	have		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	37
+38	to	to		to									TO	aux	39
+39	focus	focus		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	xcomp	37
+40	not	not											RB	neg	41
+41	across	across	in+advl	in	advl								IN	prep	39
+42	identitive	identitive	attr+npremod	jj	attr								JJ	amod	43
+43	cleavages	cleavage		nn	pl	nom							NNS	pobj	41
+44	that	that		relpro	relpro_that	sg							WDT	nsubj	45
+45	work	work	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls	thatcls	rel		VBP	relcl	43
+46	to	to		to									TO	aux	47
+47	fracture	fracture	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	45
+48	the	the		dt	art								DT	det	51
+49	under	under	nn+npremod	nn		nom	npremod						NN	compound	51
+50	-	-											HYPH	punct	51
+51	classes	class		nn	pl								NNS	dobj	47
+52	,	,											,	punct	41
+53	but	but		cc									CC	cc	41
+54	on	on											IN	conj	41
+55	the	the		dt	art								DT	det	57
+56	feudal	feudal	attr+npremod	jj	attr								JJ	amod	57
+57	elite	elite		nn	pl	nom							NNS	pobj	54
+58	and	and		cc	phrs								CC	cc	57
+59	their	their		dt	poss								PRP$	poss	60
+60	nexus	nexus		nn									NN	conj	57
+61	of	of	of+npostmod	in	nmod								IN	prep	60
+62	power	power		nn		nom							NN	pobj	61
+63	and	and		cc	phrs								CC	cc	62
+64	influence	influence		nn		nom							NN	conj	62
+65	in	in	in+npostmod	in	nmod								IN	prep	60
+66	the	the		dt	art								DT	det	67
+67	military	military		nn		nom							NN	pobj	65
+68	,	,											,	punct	65
+69	in	in		in	in_othr								IN	prep	65
+70	bureaucracy	bureaucracy		nn		nom							NN	pobj	69
+71	,	,											,	punct	65
+72	in	in		in	in_othr								IN	prep	65
+73	industry	industry		nn		nom							NN	pobj	72
+74	.	.											.	punct	37
+
+#sentid = 21
+0	In	in	in+advl	in	advl								IN	prep	5
+1	other	other	attr+npremod	jj	attr								JJ	amod	2
+2	words	word		nn	pl								NNS	pobj	0
+3	,	,											,	punct	5
+4	it	it		pro	3rd	sg							PRP	nsubj	5
+5	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	5
+6	in	in	in+advl	in	advl								IN	prep	5
+7	this	this		dt	dt_dem								DT	det	8
+8	mobilization	mobilization		nn		nom							NN	pobj	6
+9	that	that	rb+advl	rb	advl								WDT	advmod	26
+10	the	the		dt	art								DT	det	12
+11	existing	exist	attr+npremod	jj	attr	ing							VBG	amod	12
+12	categories	category		nn	pl	nom							NNS	nsubjpass	26
+13	of	of	of+npostmod	in	nmod								IN	prep	12
+14	life	life		nn									NN	pobj	13
+15	and	and		cc	phrs								CC	cc	14
+16	being	being		nn		nom							NN	conj	14
+17	that	that		relpro	relpro_that	sg							WDT	nsubj	18
+18	serve	serve	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls	thatcls	rel		VBP	relcl	12
+19	to	to		to									TO	aux	20
+20	divide	divide	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	18
+21	and	and		cc	phrs								CC	cc	20
+22	fracture	fracture		vbmain	vblex	nonfinite	simple	active					VB	conj	20
+23	,	,											,	punct	26
+24	will	will		vbaux	mod	prd							MD	aux	26
+25	be	be		vbaux									VB	auxpass	26
+26	contested	contest	thatcls+vcomp	vbmain	vblex	vp_w_modal	simple	pasv_agls	compcls		vcomp	compdel	VBN	ccomp	5
+27	and	and		cc	phrs								CC	cc	26
+28	erased	erase		vbmain	vblex	nonfinite	simple	active		edcls			VBN	conj	26
+29	.	.											.	punct	5
+
+#sentid = 22
+0	Only	only	rb+jjrbmod	rb	othr	ly							RB	advmod	1
+1	then	then		rb	link								RB	advmod	5
+2	would	would		vbaux	mod	prd							MD	aux	5
+3	a	a		dt	art								DT	det	4
+4	movement	movement		nn		nom							NN	nsubj	5
+5	come	come		vbmain	phrsv	vp_w_modal	simple	active					VB	ROOT	5
+6	about	about		rb	prtcle								RP	prt	5
+7	that	that		relpro	relpro_that	sg							WDT	nsubj	9
+8	could	could		vbaux	mod	pos							MD	aux	9
+9	challenge	challenge	finitecls+rel	vbmain	vblex	vp_w_modal	simple	active	nmod_cls	thatcls	rel		VB	relcl	4
+10	the	the		dt	art								DT	det	12
+11	feudal	feudal	attr+npremod	jj	attr								JJ	amod	12
+12	elite	elite		nn		nom							NN	dobj	9
+13	sufficiently	sufficiently	rb+advl	rb	advl	ly							RB	advmod	9
+14	to	to		to									TO	aux	15
+15	achieve	achieve	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls			VB	xcomp	13
+16	land	land	nn+npremod	nn			npremod						NN	compound	17
+17	reforms	reform		nn	pl								NNS	dobj	15
+18	,	,											,	punct	9
+19	and	and		cc	phrs								CC	cc	9
+20	in	in	in+advl	in	advl								IN	prep	26
+21	that	that		dt	dt_dem								DT	det	24
+22	final	final	attr+npremod	jj	attr								JJ	amod	24
+23	formal	formal	attr+npremod	jj	attr								JJ	amod	24
+24	act	act		nn									NN	pobj	20
+25	,	,											,	punct	26
+26	do	do		vbmain	phrsv	nonfinite	simple	active					VB	conj	9
+27	away	away		rb	prtcle								RP	prt	26
+28	with	with	in+advl	in	advl								IN	prep	26
+29	them	they		pro	pl								PRP	pobj	28
+30	all	all											DT	appos	29
+31	together	together		rb	othr								RB	advmod	29
+32	.	.											.	punct	5
+
+#sentid = 23
+0													_SP	dep	2
+1	This	this		pro	dem	sg							DT	nsubj	2
+2	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	2
+3	why	why		comp	comp_wh								WRB	advmod	5
+4	Castaneda	castaneda		nn		proper							NNP	nsubj	5
+5	falls	fall	whcls+vcomp	vbmain	vblex	pres	simple	active	compcls	whcls	vcomp		VBZ	ccomp	2
+6	woefully	woefully	rb+jjrbmod	rb	othr	ly							RB	advmod	7
+7	short	short											JJ	oprd	5
+8	.	.											.	punct	2
+
+#sentid = 24
+0	The	the		dt	art								DT	det	1
+1	goal	goal		nn		nom							NN	nsubj	22
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	achieving	achieve	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	2
+4	a	a		dt	art								DT	det	7
+5	social	social		jj	attr								JJ	amod	6
+6	democratic	democratic	attr+npremod	jj	attr								JJ	amod	7
+7	society	society		nn									NN	dobj	3
+8	in	in	in+npostmod	in	nmod								IN	prep	7
+9	Pakistan	pakistan		nn		proper							NNP	pobj	8
+10	,	,											,	punct	3
+11	with	with	in+advl	in	advl								IN	prep	3
+12	the	the		dt	art								DT	det	14
+13	first	first	attr+npremod	jj	attr								JJ	amod	14
+14	step	step		nn									NN	pobj	11
+15	of	of	of+npostmod	in	nmod								IN	prep	14
+16	introducing	introduce	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	15
+17	land	land	nn+npremod	nn			npremod						NN	compound	18
+18	reforms	reform		nn	pl								NNS	dobj	16
+19	in	in	in+advl	in	advl								IN	prep	16
+20	Pakistan	pakistan		nn		proper							NNP	pobj	19
+21	,	,											,	punct	3
+22	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	22
+23	in	in	in+advl	in	advl								IN	prep	22
+24	its	its		dt	poss								PRP$	poss	26
+25	very	very	attr+npremod	jj	attr								JJ	amod	26
+26	essence	essence		nn		nom							NN	pobj	23
+27	,	,											,	punct	22
+28	in	in	in+advl	in	advl								IN	prep	22
+29	no	no		dt									DT	det	30
+30	way	way		nn									NN	pobj	28
+31	,	,											,	punct	22
+32	a	a		dt	art								DT	det	35
+33	"	"											``	punct	35
+34	lesser	less	attr+npremod	jj	attr								JJR	amod	35
+35	evil	evil		nn									NN	attr	22
+36	,	,											''	punct	35
+37	"	"											''	punct	35
+38	but	but		cc	phrs								CC	cc	35
+39	a	a		dt	art								DT	det	41
+40	utopian	utopian	attr+npremod	jj	attr								JJ	amod	41
+41	ideal	ideal		nn		nom							NN	conj	35
+42	.	.											.	punct	22
+
+#sentid = 25
+0	Utopian	utopian											JJ	ROOT	0
+1	,	,											,	punct	0
+2	because	because		cs	cos								IN	mark	9
+3	the	the		dt	art								DT	det	4
+4	process	process		nn		nom							NN	nsubj	9
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	achieving	achieve	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	5
+7	land	land	nn+npremod	nn			npremod						NN	compound	8
+8	reforms	reform		nn	pl								NNS	dobj	6
+9	requires	require	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		causative		VBZ	advcl	0
+10	the	the		dt	art								DT	det	13
+11	nitty	nitty	nn+npremod	nn			npremod						NN	compound	13
+12	-	-											HYPH	punct	13
+13	gritty	gritty		nn									NN	dobj	9
+14	of	of	of+npostmod	in	nmod								IN	prep	13
+15	long	long	attr+npremod	jj	attr								JJ	amod	18
+16	,	,											,	punct	18
+17	hard	hard	attr+npremod	jj	attr								JJ	amod	18
+18	struggle	struggle		nn									NN	pobj	14
+19	,	,											,	punct	14
+20	of	of		in	in_othr								IN	prep	14
+21	contesting	contest	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	20
+22	the	the		dt	art								DT	det	24
+23	existing	exist	attr+npremod	jj	attr	ing							VBG	amod	24
+24	categories	category		nn	pl	nom							NNS	dobj	21
+25	of	of	of+npostmod	in	nmod								IN	prep	24
+26	life	life		nn									NN	pobj	25
+27	and	and		cc	phrs								CC	cc	26
+28	being	be		vbmain	be	nonfinite	simple	active		ingcls			VBG	conj	26
+29	,	,											,	punct	9
+30	of	of	in+advl	in	advl								IN	prep	9
+31	mobilizing	mobilize	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	30
+32	the	the		dt	art								DT	det	33
+33	populace	populace		nn									NN	dobj	31
+34	to	to	in+advl	in	advl								IN	prep	31
+35	such	such											PDT	predet	37
+36	a	a		dt	art								DT	det	37
+37	degree	degree		nn		nom							NN	pobj	34
+38	and	and		cc	phrs								CC	cc	37
+39	magnitude	magnitude		nn									NN	conj	37
+40	through	through	in+advl	in	advl								IN	prep	31
+41	this	this		dt	dt_dem								DT	det	42
+42	contestation	contestation		nn		nom							NN	pobj	40
+43	that	that		comp	comp_that								IN	mark	45
+44	they	they		pro	pl								PRP	nsubj	45
+45	pose	pose	thatcls+vcomp	vbmain	vblex	pres	simple	active	compcls	thatcls	vcomp		VBP	ccomp	31
+46	a	a		dt	art								DT	det	47
+47	threat	threat		nn									NN	dobj	45
+48	to	to	in+npostmod	in	nmod								IN	prep	47
+49	the	the		dt	art								DT	det	52
+50	existing	exist	attr+npremod	jj	attr	ing							VBG	amod	52
+51	social	social	attr+npremod	jj	attr								JJ	amod	52
+52	order	order		nn		nom							NN	pobj	48
+53	,	,											,	punct	0
+54	and	and		cc	phrs								CC	cc	0
+55	this	this		pro	dem	sg							DT	nsubj	58
+56	will	will		vbaux	mod	prd							MD	aux	58
+57	inevitably	inevitably	rb+advl	rb	advl	ly	splaux						RB	advmod	58
+58	mean	mean		vbmain	vblex	vp_w_modal	simple	active					VB	conj	0
+59	experiencing	experience	ingcls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	vcomp		VBG	xcomp	58
+60	the	the		dt	art								DT	det	61
+61	bullets	bullet		nn	pl	nom							NNS	dobj	59
+62	of	of	of+npostmod	in	nmod								IN	prep	61
+63	death	death	nn+npremod	nn			npremod						NN	compound	64
+64	squads	squad		nn	pl								NNS	pobj	62
+65	,	,											,	punct	59
+66	facing	face		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	dep	59
+67	the	the		dt	art								DT	det	69
+68	rolling	roll	attr+npremod	jj	attr	ing							VBG	amod	69
+69	tanks	tank		nn	pl								NNS	dobj	66
+70	,	,											,	punct	59
+71	living	live		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	dep	59
+72	through	through	in+advl	in	advl								IN	prep	71
+73	abject	abject	attr+npremod	jj	attr								JJ	amod	74
+74	turmoil	turmoil		nn									NN	pobj	72
+75	.	.											.	punct	58
+
+#sentid = 26
+0	In	in	in+advl	in	advl								IN	prep	4
+1	short	short		jj	attr								JJ	amod	0
+2	,	,											,	punct	4
+3	it	it		pro	3rd	sg							PRP	nsubj	4
+4	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	4
+5	utopian	utopian		jj	pred								JJ	acomp	4
+6	because	because		cs	cos								IN	mark	12
+7	achieving	achieve		vbmain	vblex	nonfinite	simple	active	compcls	ingcls	vcomp		VBG	csubj	12
+8	that	that		dt	dt_dem								DT	det	11
+9	social	social		jj	attr								JJ	amod	10
+10	democratic	democratic	attr+npremod	jj	attr								JJ	amod	11
+11	society	society		nn									NN	dobj	7
+12	appears	appear	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		causative		VBZ	advcl	4
+13	highly	highly	rb+jjrbmod	rb	othr	ly							RB	advmod	14
+14	unlikely	unlikely											JJ	oprd	12
+15	.	.											.	punct	4
+
+#sentid = 27
+0	And	and		cc	cls								CC	cc	52
+1	then	then		rb	link								RB	advmod	52
+2	to	to		to									TO	aux	3
+3	think	think		vbmain	prepv	nonfinite	simple	active	compcls	tocls	vcomp		VB	csubj	52
+4	of	of	in+advl	in	advl								IN	prep	3
+5	a	a		dt	art								DT	det	6
+6	world	world		nn									NN	pobj	4
+7	composed	compose	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	6
+8	only	only		rb	othr	ly							RB	advmod	9
+9	of	of	in+advl	in	advl								IN	prep	7
+10	social	social		jj	attr								JJ	amod	11
+11	democratic	democratic	attr+npremod	jj	attr								JJ	amod	12
+12	states	state		nn	pl	nom							NNS	pobj	9
+13	modeled	model	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	12
+14	on	on	in+advl	in	advl								IN	prep	13
+15	Sweden	sweden		nn		proper							NNP	pobj	14
+16	,	,											,	punct	3
+17	as	as	in+advl	in	advl								IN	prep	3
+18	a	a		dt	art								DT	det	21
+19	"	"											``	punct	21
+20	lesser	less	attr+npremod	jj	attr								JJR	amod	21
+21	evil	evil		nn									NN	pobj	17
+22	,	,											''	punct	3
+23	"	"											''	punct	3
+24	to	to	in+advl	in	advl								IN	prep	3
+25	the	the		dt	art								DT	det	31
+26	current	current	attr+npremod	jj	attr								JJ	amod	31
+27	neo	neo	attr+npremod	jj	attr								JJ	amod	31
+28	-	-	attr+npremod	jj	attr								JJ	amod	31
+29	liberal	liberal	attr+npremod	jj	attr								JJ	amod	31
+30	global	global	attr+npremod	jj	attr								JJ	amod	31
+31	system	system		nn									NN	pobj	24
+32	that	that		relpro	relpro_that	sg							WDT	nsubj	33
+33	functions	function	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls	thatcls	rel		VBZ	relcl	31
+34	,	,											,	punct	33
+35	perpetuates	perpetuate		vbmain	vblex	pres	simple	active					VBZ	dep	33
+36	itself	itself											PRP	dobj	35
+37	,	,											,	punct	35
+38	precisely	precisely		rb	othr	ly							RB	advmod	39
+39	through	through	in+advl	in	advl								IN	prep	35
+40	uneven	uneven	attr+npremod	jj	attr								JJ	amod	42
+41	geographic	geographic	attr+npremod	jj	attr								JJ	amod	42
+42	development	development		nn		nom							NN	pobj	39
+43	,	,											,	punct	33
+44	without	without	in+advl	in	advl								IN	prep	33
+45	the	the		dt	art								DT	det	48
+46	nitty	nitty	nn+npremod	nn			npremod						NN	compound	48
+47	-	-											HYPH	punct	48
+48	gritty	gritty		nn									NN	pobj	44
+49	of	of	of+npostmod	in	nmod								IN	prep	48
+50	struggle	struggle		nn									NN	pobj	49
+51	,	,											,	punct	52
+52	sees	see		vbmain	vblex	pres	simple	active					VBZ	ROOT	52
+53	us	we		pro	pl								PRP	nsubj	54
+54	jump	jump		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	ccomp	52
+55	from	from	in+advl	in	advl								IN	prep	54
+56	utopia	utopia		nn									NN	pobj	55
+57	into	into	in+advl	in	advl								IN	prep	54
+58	flights	flight		nn	pl								NNS	pobj	57
+59	of	of	of+npostmod	in	nmod								IN	prep	58
+60	fantasy	fantasy		nn									NN	pobj	59
+61	.	.											.	punct	52
+
+#sentid = 28
+0													_SP	dep	16
+1	And	and		cc	phrs								CC	cc	16
+2	this	this		pro	dem	sg							DT	nsubj	3
+3	is	be		vbmain	be	pres	simple	active	compcls		vcomp	compdel	VBZ	ccomp	16
+4	where	where		rb	advl								WRB	advmod	6
+5	Harvey	harvey		nn		proper							NNP	nsubj	6
+6	is	be	finitecls+advl	vbmain	be	pres	simple	active	advlcls	whcls			VBZ	advcl	3
+7	instructive	instructive		jj	pred								JJ	acomp	6
+8	,	,											,	punct	16
+9	in	in	in+advl	in	advl								IN	prep	16
+10	positing	posit	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	9
+11	"	"											``	punct	10
+12	dialectical	dialectical	attr+npremod	jj	attr								JJ	amod	13
+13	utopianism	utopianism		nn		nom							NN	dobj	10
+14	"	"											''	punct	10
+15	he	he		pro	3rd	sg							PRP	nsubj	16
+16	reminds	remind		vbmain	vblex	pres	simple	active					VBZ	ROOT	16
+17	us	we		pro	pl								PRP	dobj	16
+18	that	that		comp	comp_that								IN	mark	22
+19	the	the		dt	art								DT	det	21
+20	utopian	utopian	attr+npremod	jj	attr								JJ	amod	21
+21	ideal	ideal		nn		nom							NN	nsubj	22
+22	is	be	thatcls+vcomp	vbmain	be	pres	simple	active	compcls	thatcls	vcomp		VBZ	ccomp	16
+23	today	today		nn									NN	npadvmod	22
+24	essential	essential		jj	pred								JJ	acomp	22
+25	.	.											.	punct	16
+
+#sentid = 29
+0	But	but		cc	cls								CC	cc	6
+1	the	the		dt	art								DT	det	2
+2	achievement	achievement		nn		nom							NN	nsubj	6
+3	of	of	of+npostmod	in	nmod								IN	prep	2
+4	it	it		pro	3rd	sg							PRP	pobj	3
+5	should	should		vbaux	mod	nec							MD	aux	6
+6	come	come		vbmain	prepv	vp_w_modal	simple	active					VB	ROOT	6
+7	from	from	in+advl	in	advl								IN	prep	6
+8	focusing	focus	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	7
+9	on	on	in+advl	in	advl								IN	prep	8
+10	the	the		dt	art								DT	det	11
+11	particular	particular											JJ	pobj	9
+12	(	(											-LRB-	punct	11
+13	say	say											UH	intj	16
+14	,	,											,	punct	16
+15	land	land	nn+npremod	nn			npremod						NN	compound	16
+16	reform	reform	appos+npostmod	nn			nappos						NN	appos	11
+17	in	in	in+npostmod	in	nmod								IN	prep	16
+18	Pakistan	pakistan		nn		proper							NNP	pobj	17
+19	)	)											-RRB-	punct	11
+20	with	with	in+advl	in	advl								IN	prep	8
+21	an	an		dt									DT	det	22
+22	eye	eye		nn									NN	pobj	20
+23	on	on	in+npostmod	in	nmod								IN	prep	22
+24	the	the		dt	art								DT	det	25
+25	universal	universal											JJ	pobj	23
+26	.	.											.	punct	6
+
+#sentid = 30
+0	First	first		rb	link								RB	advmod	17
+1	,	,											,	punct	17
+2	because	because		cs	cos								IN	mark	17
+3	even	even	rb+advl	rb	advl								RB	advmod	7
+4	as	as		cs	cs_othr								IN	mark	7
+5	hierarchies	hierarchy		nn	pl								NNS	nsubjpass	7
+6	are	be		vbaux									VBP	auxpass	7
+7	nested	nest	finitecls+advl	vbmain	vblex	pres	simple	pasv_agls	advlcls		other_advl		VBN	advcl	17
+8	in	in	in+advl	in	advl								IN	prep	7
+9	a	a		dt	art								DT	det	14
+10	specific	specific	attr+npremod	jj	attr								JJ	amod	14
+11	spatio	spatio		jj	attr								JJ	amod	13
+12	-	-											HYPH	punct	13
+13	temporal	temporal	attr+npremod	jj	attr								JJ	amod	14
+14	reality	reality		nn		nom							NN	pobj	8
+15	,	,											,	punct	17
+16	they	they		pro	pl								PRP	nsubj	17
+17	are	be		vbmain	be	pres	simple	active			causative		VBP	ROOT	17
+18	after	after	rb+jjrbmod	rb	othr								RB	advmod	19
+19	all	all	rb+advl	rb	advl								RB	advmod	17
+20	,	,											,	punct	17
+21	hierarchies	hierarchy		nn	pl								NNS	attr	17
+22	,	,											,	punct	17
+23	and	and		cc	cls								CC	cc	17
+24	they	they		pro	pl								PRP	nsubj	25
+25	extend	extend		vbmain	vblex	pres	simple	active					VBP	conj	17
+26	far	far		rb	othr								RB	advmod	27
+27	beyond	beyond	in+advl	in	advl								IN	prep	25
+28	the	the		dt	art								DT	det	29
+29	borders	border		nn	pl	nom							NNS	pobj	27
+30	of	of	of+npostmod	in	nmod								IN	prep	29
+31	nation	nation	nn+npremod	nn		nom	npremod						NN	compound	32
+32	states	state		nn	pl	nom							NNS	pobj	30
+33	into	into	in+advl	in	advl								IN	prep	25
+34	the	the		dt	art								DT	det	35
+35	configurations	configuration		nn	pl	nom							NNS	pobj	33
+36	of	of	of+npostmod	in	nmod								IN	prep	35
+37	power	power		nn		nom							NN	pobj	36
+38	that	that		relpro	relpro_that	sg							WDT	nsubj	39
+39	dominate	dominate	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls	thatcls	rel		VBP	relcl	35
+40	the	the		dt	art								DT	det	42
+41	global	global	attr+npremod	jj	attr								JJ	amod	42
+42	system	system		nn									NN	dobj	39
+43	.	.											.	punct	17
+
+#sentid = 31
+0	And	and		cc	cls								CC	cc	10
+1	threats	threat		nn	pl								NNS	nsubj	10
+2	and	and		cc	phrs								CC	cc	1
+3	challenges	challenge		nn	pl								NNS	conj	1
+4	at	at	in+npostmod	in	nmod								IN	prep	1
+5	the	the		dt	art								DT	det	6
+6	base	base		nn									NN	pobj	4
+7	of	of	of+npostmod	in	nmod								IN	prep	6
+8	the	the		dt	art								DT	det	9
+9	hierarchy	hierarchy		nn									NN	pobj	7
+10	reverberate	reverberate		vbmain	vblex	pres	simple	active					VBP	ROOT	10
+11	through	through	in+advl	in	advl								IN	prep	10
+12	to	to		in	in_othr								IN	prep	11
+13	its	its		dt	poss								PRP$	poss	14
+14	top	top		nn									NN	pobj	12
+15	,	,											,	punct	10
+16	eliciting	elicit	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	10
+17	a	a		dt	art								DT	det	18
+18	counter	counter		nn		nom							NN	dobj	16
+19	-	-		nn									NN	dobj	16
+20	response	response		nn									NN	dobj	16
+21	down	down	in+advl	in	advl								IN	prep	16
+22	the	the		dt	art								DT	det	23
+23	line	line		nn									NN	pobj	21
+24	.	.											.	punct	10
+
+#sentid = 32
+0	Which	which											WDT	nsubj	1
+1	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	1
+2	to	to		to									TO	aux	3
+3	say	say	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	1
+4	that	that		comp	comp_that								IN	mark	12
+5	if	if		cs	cnd								IN	mark	8
+6	a	a		dt	art								DT	det	7
+7	movement	movement		nn		nom							NN	nsubj	8
+8	arose	arise	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		conditional		VBD	advcl	12
+9	in	in	in+advl	in	advl								IN	prep	8
+10	Pakistan	pakistan		nn		proper							NNP	pobj	9
+11	that	that		pro	dem	sg							WDT	nsubj	12
+12	posed	pose	thatcls+vcomp	vbmain	vblex	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	3
+13	a	a		dt	art								DT	det	15
+14	real	real	attr+npremod	jj	attr								JJ	amod	15
+15	challenge	challenge		nn									NN	dobj	12
+16	to	to	in+npostmod	in	nmod								IN	prep	15
+17	the	the		dt	art								DT	det	20
+18	existing	exist	attr+npremod	jj	attr	ing							VBG	amod	20
+19	feudal	feudal	attr+npremod	jj	attr								JJ	amod	20
+20	order	order		nn		nom							NN	pobj	16
+21	,	,											,	punct	25
+22	it	it		pro	3rd	sg							PRP	nsubj	25
+23	would	would		vbaux	mod	prd							MD	aux	25
+24	simultaneously	simultaneously	rb+advl	rb	advl	ly	splaux						RB	advmod	25
+25	pose	pose	thatcls+vcomp	vbmain	vblex	vp_w_modal	simple	active	compcls		vcomp	compdel	VB	ccomp	3
+26	a	a		dt	art								DT	det	27
+27	challenge	challenge		nn									NN	dobj	25
+28	to	to	in+npostmod	in	nmod								IN	prep	27
+29	the	the		dt	art								DT	det	30
+30	networks	network		nn	pl								NNS	pobj	28
+31	of	of	of+npostmod	in	nmod								IN	prep	30
+32	power	power		nn		nom							NN	pobj	31
+33	globally	globally		rb	othr	ly							RB	advmod	30
+34	(	(											-LRB-	punct	30
+35	e.g.	e.g.		rb	othr								FW	advmod	36
+36	in	in	in+npostmod	in	nmod								IN	prep	30
+37	the	the		dt	art								DT	det	38
+38	U.S.	u.s.		nn		proper							NNP	pobj	36
+39	,	,											,	punct	36
+40	and	and		cc									CC	cc	36
+41	Europe	europe		nn		proper							NNP	conj	36
+42	)	)											-RRB-	punct	30
+43	,	,											-RRB-	punct	25
+44	and	and		cc	cls								CC	cc	25
+45	so	so		cc	cls								RB	cc	25
+46	this	this		dt	dt_dem								DT	det	47
+47	movement	movement		nn		nom							NN	nsubj	49
+48	would	would		vbaux	mod	prd							MD	aux	49
+49	have	have		vbmain	vblex	vp_w_modal	simple	active					VB	conj	25
+50	to	to		to									TO	aux	51
+51	deal	deal		vbmain	prepv	nonfinite	simple	active	compcls		vcomp	compdel	VB	xcomp	49
+52	with	with	in+advl	in	advl								IN	prep	51
+53	not	not											RB	neg	56
+54	just	just		rb	othr								RB	advmod	56
+55	a	a		dt	art								DT	det	56
+56	counter	counter		nn		nom							NN	pobj	52
+57	-	-	appos+npostmod	nn			nappos						NN	appos	56
+58	response	response		nn									NN	pobj	52
+59	from	from	in+npostmod	in	nmod								IN	prep	58
+60	Pakistan	pakistan	s+gen	dt	poss	proper	sgen						NNP	poss	63
+61	's	's											POS	case	60
+62	feudal	feudal	attr+npremod	jj	attr								JJ	amod	63
+63	elite	elite		nn		nom							NN	pobj	59
+64	,	,											,	punct	63
+65	but	but		cc	phrs								CC	cc	63
+66	elites	elite		nn	pl	nom							NNS	conj	63
+67	everywhere	everywhere		rb	othr								RB	advmod	66
+68	.	.											.	punct	1
+
+#sentid = 33
+0	Therefore	therefore		rb	link								RB	advmod	7
+1	,	,											,	punct	7
+2	to	to		to									TO	aux	3
+3	ignore	ignore		vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	csubj	7
+4	the	the		dt	art								DT	det	5
+5	universal	universal											JJ	dobj	3
+6	would	would		vbaux	mod	prd							MD	aux	7
+7	be	be		vbmain	be	vp_w_modal	simple	active					VB	ROOT	7
+8	to	to		to									TO	aux	13
+9	at	at	in+advl	in	advl								IN	prep	13
+10	the	the		dt	art								DT	det	11
+11	outset	outset		nn									NN	pobj	9
+12	,	,											,	punct	13
+13	undermine	undermine	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	7
+14	the	the		dt	art								DT	det	15
+15	chances	chance		nn	pl	nom							NNS	dobj	13
+16	of	of	of+npostmod	in	nmod								IN	prep	15
+17	success	success		nn		nom							NN	pobj	16
+18	of	of	of+npostmod	in	nmod								IN	prep	17
+19	the	the		dt	art								DT	det	20
+20	movement	movement		nn		nom							NN	pobj	18
+21	.	.											.	punct	7
+
+#sentid = 34
+0													_SP	dep	3
+1	But	but		cc	phrs								CC	cc	3
+2	there	there											EX	expl	3
+3	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	3
+4	a	a		dt	art								DT	det	6
+5	second	second	attr+npremod	jj	attr								JJ	amod	6
+6	reason	reason		nn									NN	attr	3
+7	why	why		rb	advl								WRB	advmod	12
+8	an	an		dt									DT	det	9
+9	eye	eye		nn									NN	nsubjpass	12
+10	must	must		vbaux	mod	nec							MD	aux	12
+11	be	be		vbaux									VB	auxpass	12
+12	kept	keep	finitecls+rel	vbmain	vblex	vp_w_modal	simple	pasv_agls	nmod_cls	whcls	rel		VBN	relcl	6
+13	on	on	in+advl	in	advl								IN	prep	12
+14	the	the		dt	art								DT	det	15
+15	universal	universal											JJ	pobj	13
+16	.	.											.	punct	3
+
+#sentid = 35
+0	And	and		cc	cls								CC	cc	2
+1	this	this		pro	dem	sg							DT	nsubj	2
+2	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	2
+3	where	where		rb	advl								WRB	advmod	6
+4	we	we		pro	1st								PRP	nsubj	6
+5	can	can		vbaux	mod	pos							MD	aux	6
+6	answer	answer	finitecls+advl	vbmain	vblex	vp_w_modal	simple	active	advlcls	whcls			VB	advcl	2
+7	the	the		dt	art								DT	det	8
+8	question	question		nn		nom							NN	dobj	6
+9	posed	pose	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	8
+10	by	by											IN	agent	9
+11	Arrighi	arrighi		nn		proper							NNP	pobj	10
+12	,	,											,	punct	11
+13	Hopkins	hopkins		nn		proper							NNP	conj	11
+14	,	,											,	punct	13
+15	and	and		cc	phrs								CC	cc	13
+16	Wallerstein	wallerstein		nn		proper							NNP	conj	13
+17	,	,											,	punct	8
+18	"	"											``	punct	8
+19	1968	1968											CD	appos	8
+20	.	.											.	punct	2
+
+#sentid = 36
+0	A	a		dt	art								DT	det	1
+1	Rehearsal	rehearsal		nn		nom							NN	ROOT	1
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	What	what											WP	pobj	2
+4	?	?											''	punct	1
+5	"	"											''	punct	1
+
+#sentid = 37
+0	As	as		cs	cs_othr								IN	mark	2
+1	Paige	paige		nn		proper							NNP	nsubj	2
+2	points	point	finitecls+advl	vbmain	phrsv	pres	simple	active	advlcls		other_advl		VBZ	advcl	9
+3	out	out		rb	prtcle								RP	prt	2
+4	,	,											,	punct	9
+5	the	the		dt	art								DT	det	6
+6	movements	movement		nn	pl	nom							NNS	nsubj	9
+7	of	of	of+npostmod	in	nmod								IN	prep	6
+8	1968	1968											CD	pobj	7
+9	opened	open		vbmain	vblex	past	simple	active					VBD	ROOT	9
+10	the	the		dt	art								DT	det	11
+11	door	door		nn		nom							NN	dobj	9
+12	to	to	in+npostmod	in	nmod								IN	prep	11
+13	realizations	realization		nn	pl	nom							NNS	pobj	12
+14	that	that		cs	cs_othr								IN	mark	17
+15	suffering	suffering		nn		nom							NN	nsubj	17
+16	maybe	maybe	rb+advl	rb	advl								RB	advmod	17
+17	situated	situate	finitecls+advl	vbmain	vblex	past	simple	active	advlcls				VBD	advcl	32
+18	,	,											,	punct	17
+19	but	but		cc	phrs								CC	cc	17
+20	it	it		pro	3rd	sg							PRP	nsubj	21
+21	is	be	finitecls+advl	vbmain	be	pres	simple	active	advlcls				VBZ	advcl	32
+22	not	not											RB	neg	21
+23	unrelated	unrelated		jj	pred								JJ	acomp	21
+24	,	,											,	punct	32
+25	that	that		relpro	relpro_that								IN	mark	32
+26	for	for	in+advl	in	advl								IN	prep	32
+27	example	example		nn									NN	pobj	26
+28	,	,											,	punct	32
+29	it	it		pro	3rd	sg							PRP	nsubj	32
+30	does	do		vbaux									VBZ	aux	32
+31	not	not											RB	neg	32
+32	stop	stop	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls	thatcls	rel		VB	relcl	13
+33	at	at	in+advl	in	advl								IN	prep	32
+34	those	those		dt	dt_dem								DT	det	38
+35	abstract	abstract	attr+npremod	jj	attr								JJ	amod	38
+36	,	,											,	punct	38
+37	mandated	mandate	attr+npremod	jj	attr	ed							VBN	amod	38
+38	boundaries	boundary		nn	pl	nom							NNS	pobj	33
+39	of	of	of+npostmod	in	nmod								IN	prep	38
+40	nation	nation	nn+npremod	nn		nom	npremod						NN	compound	42
+41	-	-											HYPH	punct	42
+42	states	state		nn	pl	nom							NNS	pobj	39
+43	.	.											.	punct	9
+
+#sentid = 38
+0	That	that		dt	dt_dem								DT	det	1
+1	suffering	suffering		nn		nom							NN	nsubjpass	4
+2	can	can		vbaux	mod	pos							MD	aux	4
+3	be	be		vbaux									VB	auxpass	4
+4	shared	share		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	4
+5	.	.											.	punct	4
+
+#sentid = 39
+0	That	that											IN	mark	12
+1	the	the		dt	art								DT	det	2
+2	particulars	particular		nn	pl								NNS	nsubjpass	12
+3	we	we		pro	1st								PRP	nsubj	4
+4	experience	experience	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls		rel	reldel	VBP	relcl	2
+5	,	,											,	punct	2
+6	whether	whether	in+npostmod	in	nmod								IN	prep	2
+7	good	good		jj	attr								JJ	amod	6
+8	or	or		cc	phrs								CC	cc	7
+9	bad	bad											JJ	conj	7
+10	,	,											,	punct	2
+11	are	be		vbaux									VBP	auxpass	12
+12	linked	link		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	12
+13	to	to	in+advl	in	advl								IN	prep	12
+14	the	the		dt	art								DT	det	16
+15	particular	particular	attr+npremod	jj	attr								JJ	amod	16
+16	someone	someone		nn	other	sg							NN	pobj	13
+17	,	,											,	punct	24
+18	faraway	faraway	rb+advl	rb	advl								RB	advmod	24
+19	,	,											,	punct	24
+20	spatially	spatially	rb+advl	rb	advl	ly							RB	advmod	24
+21	and	and		cc	phrs								CC	cc	20
+22	temporally	temporally											RB	conj	20
+23	,	,											,	punct	24
+24	experiences	experience	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls		rel		VBZ	relcl	16
+25	or	or		cc	phrs								CC	cc	24
+26	has	have		vbaux									VBZ	aux	27
+27	experienced	experience		vbmain	vblex	pres	perf	active					VBN	conj	24
+28	.	.											.	punct	12
+
+#sentid = 40
+0	It	it		pro	3rd	sg							PRP	nsubj	1
+1	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	1
+2	indeed	indeed	rb+advl	rb	advl								RB	advmod	1
+3	a	a		dt	art								DT	det	4
+4	pity	pity		nn		nom							NN	attr	1
+5	therefore	therefore	rb+advl	rb	advl								RB	advmod	1
+6	,	,											,	punct	1
+7	that	that		comp	comp_that								IN	mark	12
+8	the	the		dt	art								DT	det	9
+9	movements	movement		nn	pl	nom							NNS	nsubj	12
+10	did	do		vbaux									VBD	aux	12
+11	not	not											RB	neg	12
+12	go	go	thatcls+vcomp	vbmain	prepv	past	simple	active	compcls	thatcls	vcomp		VB	ccomp	1
+13	through	through	in+advl	in	advl								IN	prep	12
+14	that	that		dt	dt_dem								DT	det	15
+15	door	door		nn		nom							NN	pobj	13
+16	.	.											.	punct	1
+
+#sentid = 41
+0	Instead	instead	rb+advl	rb	advl								RB	advmod	4
+1	,	,											,	punct	4
+2	the	the		dt	art								DT	det	3
+3	movements	movement		nn	pl	nom							NNS	nsubj	4
+4	stayed	stay		vbmain	vblex	past	simple	active					VBD	ROOT	4
+5	within	within	in+advl	in	advl								IN	prep	4
+6	the	the		dt	art								DT	det	7
+7	realm	realm		nn									NN	pobj	5
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	discourse	discourse		nn									NN	pobj	8
+10	,	,											,	punct	4
+11	and	and		cc	phrs								CC	cc	4
+12	fixated	fixate		vbmain	vblex	past	simple	active					VBD	conj	4
+13	themselves	themselves		pro	pl								PRP	dobj	12
+14	on	on	in+advl	in	advl								IN	prep	12
+15	discoursing	discourse	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	14
+16	about	about	in+advl	in	advl								IN	prep	15
+17	subjectivities	subjectivity		nn	pl	nom							NNS	pobj	16
+18	,	,											,	punct	12
+19	ignoring	ignore		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	conj	12
+20	the	the		dt	art								DT	det	21
+21	structures	structure		nn	pl								NNS	dobj	19
+22	that	that		relpro	relpro_that	sg							WDT	nsubj	23
+23	produce	produce	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls	thatcls	rel		VBP	relcl	21
+24	those	those		dt	dt_dem								DT	det	25
+25	subjectivities	subjectivity		nn	pl	nom							NNS	dobj	23
+26	,	,											,	punct	21
+27	the	the		dt	art								DT	det	32
+28	"	"											``	punct	32
+29	really	really	rb+jjrbmod	rb	adjmod	ly							RB	advmod	30
+30	real	real	attr+npremod	jj	attr								JJ	amod	32
+31	"	"											''	punct	32
+32	tangibles	tangible	appos+npostmod	nn	pl		nappos						NNS	appos	21
+33	that	that		relpro	relpro_that	sg							WDT	nsubj	34
+34	create	create	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls	thatcls	rel		VBP	relcl	32
+35	those	those		dt	dt_dem								DT	det	36
+36	fractures	fracture		nn	pl								NNS	dobj	34
+37	.	.											.	punct	4
+
+#sentid = 42
+0	Mere	mere	attr+npremod	jj	attr								JJ	amod	1
+1	sloganeering	sloganeering		nn		nom							NN	nsubjpass	9
+2	,	,											,	punct	9
+3	being	be	ingcls+advl	vbmain	be	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	9
+4	counter	counter		nn		nom							NN	attr	3
+5	-	-		nn									NN	attr	3
+6	culture	culture		nn		nom							NN	attr	3
+7	,	,											,	punct	9
+8	became	became		vbaux									VBD	auxpass	9
+9	seen	see		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	9
+10	as	as	in+advl	in	advl								IN	prep	9
+11	enough	enough		jj	attr								JJ	amod	10
+12	.	.											.	punct	9
+
+#sentid = 43
+0	But	but		cc	cls								CC	cc	12
+1	as	as		cs	cs_othr								IN	mark	5
+2	Eric	eric		nn		proper	npremod						NNP	compound	3
+3	Hobsbawm	hobsbawm		nn		proper							NNP	nsubj	5
+4	neatly	neatly	rb+advl	rb	advl	ly							RB	advmod	5
+5	puts	put	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		other_advl		VBZ	advcl	12
+6	it	it		pro	3rd	sg							PRP	dobj	5
+7	,	,											,	punct	12
+8	"	"											``	punct	12
+9	Shocking	shock		vbmain	vblex	nonfinite	simple	active	compcls	ingcls	vcomp		VBG	csubj	12
+10	the	the		dt	art								DT	det	11
+11	bourgeoisie	bourgeoisie		nn									NN	dobj	9
+12	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	12
+13	,	,											,	punct	12
+14	alas	alas											UH	intj	12
+15	,	,											,	punct	12
+16	easier	easy		jj	pred								JJR	acomp	12
+17	than	than	in+comparative	in	jcomp								IN	prep	16
+18	overthrowing	overthrow	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	17
+19	him	he		pro	3rd	sg							PRP	dobj	18
+20	.	.											.	punct	12
+21	"	"											.	punct	12
+
+#sentid = 44
+0													_SP	dep	17
+1	On	on	in+advl	in	advl								IN	prep	17
+2	the	the		dt	art								DT	det	4
+3	other	other	attr+npremod	jj	attr								JJ	amod	4
+4	hand	hand		nn									NN	pobj	1
+5	,	,											,	punct	17
+6	a	a		dt	art								DT	det	8
+7	dialectical	dialectical	attr+npremod	jj	attr								JJ	amod	8
+8	utopianism	utopianism		nn		nom							NN	nsubj	17
+9	that	that		relpro	relpro_that	sg							WDT	nsubj	10
+10	keeps	keep	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls	thatcls	rel		VBZ	relcl	8
+11	its	its		dt	poss								PRP$	poss	12
+12	eye	eye		nn									NN	dobj	10
+13	on	on	in+advl	in	advl								IN	prep	10
+14	the	the		dt	art								DT	det	15
+15	universal	universal											JJ	pobj	13
+16	will	will		vbaux	mod	prd							MD	aux	17
+17	note	note		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	17
+18	how	how		comp	comp_wh								WRB	advmod	21
+19	the	the		dt	art								DT	det	20
+20	universal	universal											JJ	nsubj	21
+21	creates	create	whcls+vcomp	vbmain	vblex	pres	simple	active	compcls	whcls	vcomp		VBZ	ccomp	17
+22	the	the		dt	art								DT	det	23
+23	particular	particular											JJ	dobj	21
+24	,	,											,	punct	17
+25	and	and		cc	phrs								CC	cc	17
+26	will	will		vbaux	mod	prd							MD	aux	27
+27	call	call		vbmain	vblex	vp_w_modal	simple	active					VB	conj	17
+28	attention	attention		nn		nom							NN	dobj	27
+29	to	to	in+advl	in	advl								IN	prep	27
+30	that	that		pro	dem	sg							DT	pobj	29
+31	.	.											.	punct	17
+
+#sentid = 45
+0	A	a		dt	art								DT	det	2
+1	dialectical	dialectical	attr+npremod	jj	attr								JJ	amod	2
+2	utopianism	utopianism		nn		nom							NN	nsubj	4
+3	will	will		vbaux	mod	prd							MD	aux	4
+4	walk	walk		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	4
+5	through	through	in+advl	in	advl								IN	prep	4
+6	the	the		dt	art								DT	det	7
+7	door	door		nn		nom							NN	pobj	5
+8	opened	open	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	7
+9	by	by											IN	agent	8
+10	the	the		dt	art								DT	det	11
+11	movements	movement		nn	pl	nom							NNS	pobj	9
+12	of	of	of+npostmod	in	nmod								IN	prep	11
+13	1968	1968											CD	pobj	12
+14	.	.											.	punct	4
+
+#sentid = 46
+0	It	it		pro	3rd	sg							PRP	nsubj	2
+1	will	will		vbaux	mod	prd							MD	aux	2
+2	produce	produce		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	2
+3	better	well	attr+npremod	jj	attr								JJR	amod	4
+4	architects	architect		nn	pl								NNS	dobj	2
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	us	we		pro	pl								PRP	pobj	5
+7	all	all											DT	appos	6
+8	,	,											,	punct	2
+9	because	because		cs	cos								IN	mark	12
+10	it	it		pro	3rd	sg							PRP	nsubj	12
+11	will	will		vbaux	mod	prd							MD	aux	12
+12	allow	allow	finitecls+advl	vbmain	vblex	vp_w_modal	simple	active	advlcls		causative		VB	advcl	2
+13	us	we		pro	pl								PRP	nsubj	15
+14	to	to		to									TO	aux	15
+15	use	use		vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	ccomp	12
+16	the	the		dt	art								DT	det	17
+17	resources	resource		nn	pl								NNS	dobj	15
+18	of	of	of+npostmod	in	nmod								IN	prep	17
+19	the	the		dt	art								DT	det	20
+20	universal	universal											JJ	pobj	18
+21	not	not											RB	neg	22
+22	as	as	in+advl	in	advl								IN	prep	15
+23	an	an		dt									DT	det	24
+24	alternative	alternative		nn									NN	pobj	22
+25	to	to	in+npostmod	in	nmod								IN	prep	24
+26	the	the		dt	art								DT	det	27
+27	particular	particular											JJ	pobj	25
+28	,	,											,	punct	22
+29	but	but		cc									CC	cc	22
+30	in	in											IN	conj	22
+31	conjunction	conjunction		nn		nom							NN	pobj	30
+32	with	with	in+npostmod	in	nmod								IN	prep	31
+33	it	it		pro	3rd	sg							PRP	pobj	32
+34	.	.											.	punct	2
+
+#sentid = 47
+0	It	it		pro	3rd	sg							PRP	nsubj	2
+1	will	will		vbaux	mod	prd							MD	aux	2
+2	allow	allow		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	2
+3	us	we		pro	pl								PRP	nsubj	5
+4	to	to		to									TO	aux	5
+5	use	use		vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	ccomp	2
+6	,	,											,	punct	5
+7	and	and		cc	phrs								CC	cc	5
+8	make	make		vbmain	vblex	nonfinite	simple	active					VB	conj	5
+9	better	well	attr+npremod	jj	attr								JJR	amod	10
+10	use	use		nn									NN	dobj	8
+11	,	,											,	punct	8
+12	of	of	in+advl	in	advl								IN	prep	8
+13	all	all											PDT	predet	15
+14	the	the		dt	art								DT	det	15
+15	resources	resource		nn	pl								NNS	pobj	12
+16	now	now	rb+jjrbmod	rb	adjmod								RB	advmod	17
+17	available	available		jj	attr								JJ	amod	15
+18	to	to	in+jcomp	in	jcomp								IN	prep	17
+19	us	we		pro	pl								PRP	pobj	18
+20	.	.											.	punct	2
+
+#sentid = 48
+0	And	and		cc	cls								CC	cc	7
+1	in	in	in+advl	in	advl								IN	prep	7
+2	doing	do	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	1
+3	so	so	rb+advl	rb	advl								RB	advmod	2
+4	,	,											,	punct	7
+5	it	it		pro	3rd	sg							PRP	nsubj	7
+6	will	will		vbaux	mod	prd							MD	aux	7
+7	allow	allow		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	7
+8	the	the		dt	art								DT	det	9
+9	particular	particular											JJ	nsubj	11
+10	to	to		to									TO	aux	11
+11	surmount	surmount		vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	ccomp	7
+12	the	the		dt	art								DT	det	13
+13	counter	counter		nn		nom							NN	dobj	11
+14	-	-		nn									NN	dobj	11
+15	response	response		nn									NN	dobj	11
+16	that	that		relpro	relpro_that	sg							WDT	nsubj	18
+17	will	will		vbaux	mod	prd							MD	aux	18
+18	come	come	finitecls+rel	vbmain	vblex	vp_w_modal	simple	active	nmod_cls	thatcls	rel		VB	relcl	15
+19	down	down	in+advl	in	advl								IN	prep	18
+20	the	the		dt	art								DT	det	22
+21	nested	nested	attr+npremod	jj	attr								JJ	amod	22
+22	hierarchy	hierarchy		nn									NN	pobj	19
+23	.	.											.	punct	7
+
+#sentid = 49
+0													_SP	dep	4
+1	So	so		rb	link								RB	advmod	4
+2	,	,											,	punct	4
+3	we	we		pro	1st								PRP	nsubj	4
+4	have	have		vbmain	vblex	pres	simple	active					VBP	ROOT	4
+5	a	a		dt	art								DT	det	6
+6	choice	choice		nn									NN	dobj	4
+7	.	.											.	punct	4
+
+#sentid = 50
+0	We	we		pro	1st								PRP	nsubj	2
+1	can	can		vbaux	mod	pos							MD	aux	2
+2	sit	sit		vbmain	phrsv	vp_w_modal	simple	active					VB	ROOT	2
+3	back	back		rb	prtcle								RB	prt	2
+4	and	and		cc	phrs								CC	cc	2
+5	wonder	wonder		vbmain	vblex	nonfinite	simple	active					VB	conj	2
+6	whether	whether		cs	cs_othr								IN	mark	8
+7	revolution	revolution		nn		nom							NN	nsubj	8
+8	is	be		vbmain	be	pres	simple	active	compcls		other_advl	compdel	VBZ	ccomp	5
+9	possible	possible		jj	pred								JJ	acomp	8
+10	today	today		nn									NN	npadvmod	8
+11	.	.											.	punct	2
+
+#sentid = 51
+0	If	if		cs	cnd								IN	mark	2
+1	we	we		pro	1st								PRP	nsubj	2
+2	do	do	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		conditional		VBP	advcl	9
+3	so	so	rb+advl	rb	advl								RB	advmod	2
+4	,	,											,	punct	9
+5	we	we		pro	1st								PRP	nsubj	9
+6	might	might		vbaux	mod	pos							MD	aux	9
+7	as	as		rb	othr								RB	advmod	8
+8	well	well	rb+advl	rb	advl		splaux						RB	advmod	9
+9	let	let		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	9
+10	the	the		dt	art								DT	det	11
+11	processes	process		nn	pl	nom							NNS	nsubj	17
+12	of	of	of+npostmod	in	nmod								IN	prep	11
+13	neo	neo	attr+npremod	jj	attr								JJ	amod	16
+14	-	-	attr+npremod	jj	attr								JJ	amod	16
+15	liberal	liberal	attr+npremod	jj	attr								JJ	amod	16
+16	capitalism	capitalism		nn		nom							NN	pobj	12
+17	run	run		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	ccomp	9
+18	amok	amok	rb+advl	rb	advl								RB	advmod	17
+19	.	.											.	punct	9
+
+#sentid = 52
+0	Eventually	eventually	rb+advl	rb	advl	ly							RB	advmod	4
+1	,	,											,	punct	4
+2	they	they		pro	pl								PRP	nsubj	4
+3	will	will		vbaux	mod	prd							MD	aux	4
+4	produce	produce		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	4
+5	the	the		dt	art								DT	det	6
+6	kinds	kind		nn	pl								NNS	dobj	4
+7	of	of	of+npostmod	in	nmod								IN	prep	6
+8	mind	mind		nn									NN	npadvmod	9
+9	numbing	numb	attr+npremod	jj	attr	ing							VBG	amod	12
+10	,	,											,	punct	12
+11	devastating	devastating	attr+npremod	jj	attr								JJ	amod	12
+12	disparities	disparity		nn	pl	nom							NNS	pobj	7
+13	that	that		relpro	relpro_that	sg							WDT	nsubj	15
+14	will	will		vbaux	mod	prd							MD	aux	15
+15	see	see	finitecls+rel	vbmain	vblex	vp_w_modal	simple	active	nmod_cls	thatcls	rel		VB	relcl	12
+16	reality	reality		nn		nom							NN	dobj	15
+17	either	either											CC	preconj	18
+18	made	make	edcls+rel	vbmain	phrsv	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	16
+19	up	up		rb	prtcle								RP	prt	18
+20	of	of	in+advl	in	advl								IN	prep	18
+21	suicide	suicide	nn+npremod	nn			npremod						NN	compound	22
+22	bombers	bomber		nn	pl	nom							NNS	pobj	20
+23	and	and		cc	phrs								CC	cc	22
+24	the	the		dt	art								DT	det	26
+25	collateral	collateral	attr+npremod	jj	attr								JJ	amod	26
+26	damage	damage		nn		nom							NN	conj	22
+27	of	of	of+npostmod	in	nmod								IN	prep	26
+28	bunker	bunker		nn		nom							NN	npadvmod	30
+29	-	-											HYPH	punct	30
+30	busting	bust	attr+npremod	jj	attr	ing							VBG	amod	31
+31	bombs	bomb		nn	pl								NNS	pobj	27
+32	,	,											,	punct	4
+33	or	or		cc	cls								CC	cc	4
+34	more	more	rb+jjrbmod	rb	othr								RBR	advmod	35
+35	optimistically	optimistically	rb+advl	rb	advl	ly							RB	advmod	41
+36	,	,											,	punct	41
+37	they	they		pro	pl								PRP	nsubj	41
+38	could	could		vbaux	mod	pos							MD	aux	41
+39	possibly	possibly	rb+advl	rb	advl	ly	splaux						RB	advmod	41
+40	finally	finally		rb	link	ly	splaux						RB	advmod	41
+41	produce	produce		vbmain	vblex	vp_w_modal	simple	active					VB	conj	4
+42	that	that		dt	dt_dem								DT	det	43
+43	rupture	rupture		nn		nom							NN	dobj	41
+44	through	through	in+npostmod	in	nmod								IN	prep	43
+45	violent	violent	attr+npremod	jj	attr								JJ	amod	47
+46	class	class	nn+npremod	nn			npremod						NN	compound	47
+47	struggle	struggle		nn									NN	pobj	44
+48	that	that		pro	dem	sg							WDT	pobj	55
+49	the	the		dt	art								DT	det	51
+50	historical	historical	attr+npremod	jj	attr								JJ	amod	51
+51	materialists	materialist		nn	pl	nom							NNS	nsubj	54
+52	have	have		vbaux									VBP	aux	54
+53	always	always	rb+advl	rb	advl		splaux						RB	advmod	54
+54	talked	talk	finitecls+rel	vbmain	prepv	pres	perf	active	nmod_cls		rel	reldel	VBN	relcl	47
+55	about	about	in+advl	in	advl								IN	prep	54
+56	.	.											.	punct	41
+
+#sentid = 53
+0	On	on	in+advl	in	advl								IN	prep	7
+1	the	the		dt	art								DT	det	3
+2	other	other	attr+npremod	jj	attr								JJ	amod	3
+3	hand	hand		nn									NN	pobj	0
+4	,	,											,	punct	7
+5	we	we		pro	1st								PRP	nsubj	7
+6	could	could		vbaux	mod	pos							MD	aux	7
+7	choose	choose		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	7
+8	to	to		to									TO	aux	9
+9	embrace	embrace	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	7
+10	the	the		dt	art								DT	det	11
+11	praxis	praxis		nn									NN	dobj	9
+12	inherent	inherent		jj	attr								JJ	amod	11
+13	in	in	in+jcomp	in	jcomp								IN	prep	12
+14	our	our		dt	poss								PRP$	poss	16
+15	species	specie		nn	pl	nom	npremod						NNS	compound	16
+16	being	be		vbmain	be	nonfinite	simple	active		ingcls			VBG	pobj	13
+17	,	,											,	punct	9
+18	and	and		cc	phrs								CC	cc	9
+19	realize	realize		vbmain	vblex	nonfinite	simple	active					VB	conj	9
+20	that	that		comp	comp_that								IN	mark	31
+21	revolution	revolution		nn		nom							NN	nsubj	22
+22	is	be		vbmain	be	pres	simple	active	compcls		vcomp	compdel	VBZ	ccomp	31
+23	not	not											RB	neg	22
+24	just	just		rb	othr								RB	advmod	25
+25	on	on	in+advl	in	advl								IN	prep	22
+26	the	the		dt	art								DT	det	27
+27	agenda	agenda		nn									NN	pobj	25
+28	today	today		nn									NN	npadvmod	22
+29	,	,											,	punct	31
+30	it	it		pro	3rd	sg							PRP	nsubj	31
+31	is	be	thatcls+vcomp	vbmain	be	pres	simple	active	compcls	thatcls	vcomp		VBZ	ccomp	19
+32	the	the		dt	art								DT	det	33
+33	agenda	agenda		nn									NN	attr	31
+34	.	.											.	punct	7
+
+#sentid = 54
+0	And	and		cc	cls								CC	cc	3
+1	we	we		pro	1st								PRP	nsubj	3
+2	can	can		vbaux	mod	pos							MD	aux	3
+3	act	act		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	3
+4	in	in	in+advl	in	advl								IN	prep	3
+5	our	our		dt	poss								PRP$	poss	8
+6	various	various	attr+npremod	jj	attr								JJ	amod	8
+7	situated	situate	attr+npremod	jj	attr	ed							VBN	amod	8
+8	particulars	particular		nn	pl								NNS	pobj	4
+9	,	,											,	punct	3
+10	and	and		cc	phrs								CC	cc	3
+11	work	work		vbmain	vblex	nonfinite	simple	active					VB	conj	3
+12	together	together	rb+advl	rb	advl								RB	advmod	11
+13	universally	universally	rb+advl	rb	advl	ly							RB	advmod	11
+14	,	,											,	punct	11
+15	to	to		to									TO	aux	16
+16	change	change		vbmain	vblex	nonfinite	simple	active		tocls			VB	conj	11
+17	the	the		dt	art								DT	det	18
+18	world	world		nn									NN	dobj	16
+19	.	.											.	punct	3

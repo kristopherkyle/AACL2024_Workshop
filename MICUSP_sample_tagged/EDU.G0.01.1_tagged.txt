@@ -1,0 +1,2643 @@
+#sentid = 0
+0	﻿	﻿											NFP	punct	17
+1	For	for		in	in_othr								IN	prep	6
+2	most	most	attr+npremod	jj	attr								JJS	amod	3
+3	students	student		nn	pl	nom							NNS	pobj	1
+4	,	,											,	punct	6
+5	even	even		rb	othr								RB	advmod	6
+6	for	for	in+advl	in	advl								IN	prep	17
+7	most	most	attr+npremod	jj	attr								JJS	amod	8
+8	economists	economist		nn	pl	nom							NNS	pobj	6
+9	,	,											,	punct	17
+10	the	the		dt	art								DT	det	12
+11	economic	economic	attr+npremod	jj	attr								JJ	amod	12
+12	concept	concept		nn									NN	nsubj	17
+13	of	of	of+npostmod	in	nmod								IN	prep	12
+14	demand	demand		nn									NN	pobj	13
+15	is	be		vbaux									VBZ	aux	17
+16	not	not											RB	neg	17
+17	going	go		vbmain	vblex	pres	prog	active					VBG	ROOT	17
+18	to	to		to									TO	aux	19
+19	be	be	tocls+vcomp	vbmain	be	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	17
+20	the	the		dt	art								DT	det	23
+21	most	most	rb+jjrbmod	rb	adjmod								RBS	advmod	22
+22	exciting	exciting	attr+npremod	jj	attr								JJ	amod	23
+23	topic	topic		nn									NN	attr	19
+24	to	to		to									TO	aux	25
+25	learn	learn	tocls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	rel		VB	relcl	23
+26	about	about	in+advl	in	advl								IN	prep	25
+27	for	for	in+advl	in	advl								IN	prep	25
+28	a	a		dt	art								DT	det	29
+29	hour	hour		nn									NN	pobj	27
+30	and	and		cc	phrs								CC	cc	32
+31	a	a											DT	quantmod	32
+32	half	half		nn									NN	nummod	29
+33	.	.											.	punct	17
+
+#sentid = 1
+0	Yet	yet		cc	cls								CC	cc	2
+1	this	this		pro	dem	sg							DT	nsubj	2
+2	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	2
+3	what	what											WP	pobj	20
+4	I	i		pro	1st	sg							PRP	nsubj	5
+5	subjected	subject	thatcls+vcomp	vbmain	vblex	past	simple	active	compcls		vcomp	compdel	VBD	ccomp	2
+6	my	my		dt	poss								PRP$	poss	7
+7	class	class		nn									NN	dobj	5
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	thirty	thirty											CD	nummod	12
+10	ninth	ninth	attr+npremod	jj	attr								JJ	amod	11
+11	grade	grade	nn+npremod	nn			npremod						NN	compound	12
+12	students	student		nn	pl	nom							NNS	pobj	8
+13	,	,											,	punct	7
+14	at	at	in+npostmod	in	nmod								IN	prep	7
+15	West	west		nn		proper	npremod						NNP	compound	16
+16	Bloomfield	bloomfield		nn		proper	npremod						NNP	compound	18
+17	High	high		nn		proper	npremod						NNP	compound	18
+18	School	school		nn		proper							NNP	pobj	14
+19	,	,											,	punct	5
+20	to	to	in+advl	in	advl								IN	prep	5
+21	.	.											.	punct	2
+
+#sentid = 2
+0	As	as	in+advl	in	advl								IN	prep	16
+1	an	an		dt									DT	det	4
+2	introductory	introductory	attr+npremod	jj	attr								JJ	amod	4
+3	economics	economic	nn+npremod	nn	pl		npremod						NNS	compound	4
+4	class	class		nn									NN	pobj	0
+5	,	,											,	punct	4
+6	that	that		pro	dem	sg							WDT	dobj	9
+7	students	student		nn	pl	nom							NNS	nsubj	9
+8	must	must		vbaux	mod	nec							MD	aux	9
+9	take	take	finitecls+rel	vbmain	vblex	vp_w_modal	simple	active	nmod_cls		rel		VB	relcl	4
+10	before	before		cs	cs_othr								IN	mark	12
+11	they	they		pro	pl								PRP	nsubj	12
+12	graduate	graduate	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		other_advl		VBP	advcl	9
+13	,	,											,	punct	16
+14	they	they		pro	pl								PRP	nsubjpass	16
+15	were	be		vbaux									VBD	auxpass	16
+16	bound	bind		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	16
+17	to	to		to									TO	aux	18
+18	learn	learn	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	16
+19	about	about	in+advl	in	advl								IN	prep	18
+20	demand	demand		nn									NN	pobj	19
+21	sooner	soon	rb+advl	rb	advl								RBR	advmod	18
+22	or	or		cc	phrs								CC	cc	21
+23	later	later											RBR	conj	21
+24	,	,											,	punct	16
+25	so	so											IN	dep	29
+26	I	i		pro	1st	sg							PRP	nsubj	29
+27	do	do		vbaux									VBP	aux	29
+28	not	not											RB	neg	29
+29	feel	feel	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls				VB	advcl	16
+30	too	too	rb+jjrbmod	rb	adjmod								RB	advmod	31
+31	bad	bad		jj	pred								JJ	acomp	29
+32	.	.											.	punct	16
+
+#sentid = 3
+0	The	the		dt	art								DT	det	1
+1	lesson	lesson		nn									NN	nsubjpass	9
+2	that	that		pro	dem	sg							WDT	dobj	4
+3	I	i		pro	1st	sg							PRP	nsubj	4
+4	describe	describe	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls		rel		VBP	relcl	1
+5	in	in	in+advl	in	advl								IN	prep	4
+6	this	this		dt	dt_dem								DT	det	7
+7	paper	paper		nn		nom							NN	pobj	5
+8	was	be		vbaux									VBD	auxpass	9
+9	developed	develop		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	9
+10	and	and		cc	phrs								CC	cc	9
+11	taught	teach		vbmain	vblex	nonfinite	simple	active		edcls			VBN	conj	9
+12	in	in	in+advl	in	advl								IN	prep	11
+13	early	early	attr+npremod	jj	attr								JJ	amod	14
+14	March	march		nn		proper							NNP	pobj	12
+15	.	.											.	punct	9
+
+#sentid = 4
+0	The	the		dt	art								DT	det	1
+1	lesson	lesson		nn									NN	nsubj	2
+2	was	be		vbmain	be	past	simple	active					VBD	ROOT	2
+3	the	the		dt	art								DT	det	4
+4	students	student	nn+npremod	nn	pl	nom	npremod						NNS	nmod	6
+5	first	first	attr+npremod	jj	attr								JJ	amod	6
+6	exposure	exposure		nn		nom							NN	attr	2
+7	to	to	in+npostmod	in	nmod								IN	prep	6
+8	the	the		dt	art								DT	det	10
+9	economic	economic	attr+npremod	jj	attr								JJ	amod	10
+10	concept	concept		nn									NN	pobj	7
+11	of	of	of+npostmod	in	nmod								IN	prep	10
+12	demand	demand		nn									NN	pobj	11
+13	.	.											.	punct	2
+
+#sentid = 5
+0	In	in	in+advl	in	advl								IN	prep	12
+1	terms	term		nn	pl								NNS	pobj	0
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	where	where		comp	comp_wh								WRB	advmod	5
+4	it	it		pro	3rd	sg							PRP	nsubj	5
+5	fit	fit	whcls+incomp	vbmain	vblex	pres	simple	active	compcls	whcls	incomp		VBP	pcomp	2
+6	into	into	in+advl	in	advl								IN	prep	5
+7	the	the		dt	art								DT	det	9
+8	overall	overall	attr+npremod	jj	attr								JJ	amod	9
+9	semester	semester		nn		nom							NN	pobj	6
+10	it	it		pro	3rd	sg							PRP	nsubjpass	12
+11	was	be		vbaux									VBD	auxpass	12
+12	preceded	precede		vbmain	vblex	past	simple	pasv_by					VBN	ROOT	12
+13	by	by											IN	agent	12
+14	business	business	nn+npremod	nn		nom	npremod						NN	compound	15
+15	organization	organization	nn+npremod	nn		nom	npremod						NN	compound	16
+16	types	type		nn	pl								NNS	pobj	13
+17	and	and		cc	phrs								CC	cc	12
+18	followed	follow		vbmain	vblex	nonfinite	simple	active		edcls			VBN	conj	12
+19	by	by											IN	agent	18
+20	introduction	introduction		nn		nom							NN	pobj	19
+21	to	to	in+npostmod	in	nmod								IN	prep	20
+22	supply	supply		nn									NN	pobj	21
+23	.	.											.	punct	12
+
+#sentid = 6
+0	For	for	in+advl	in	advl								IN	prep	4
+1	my	my		dt	poss								PRP$	poss	2
+2	lesson	lesson		nn									NN	pobj	0
+3	I	i		pro	1st	sg							PRP	nsubj	4
+4	developed	develop		vbmain	vblex	past	simple	active					VBD	ROOT	4
+5	a	a		dt	art								DT	det	6
+6	notesheet	notesheet		nn									NN	dobj	4
+7	that	that		pro	dem	sg							WDT	pobj	12
+8	students	student		nn	pl	nom							NNS	nsubj	10
+9	could	could		vbaux	mod	pos							MD	aux	10
+10	follow	follow	finitecls+rel	vbmain	vblex	vp_w_modal	simple	active	nmod_cls		rel	reldel	VB	relcl	6
+11	along	along	rb+advl	rb	advl								RP	advmod	10
+12	with	with	in+advl	in	advl								IN	prep	10
+13	and	and		cc	phrs								CC	cc	4
+14	served	serve		vbmain	prepv	past	simple	active					VBD	conj	4
+15	as	as	in+advl	in	advl								IN	prep	14
+16	an	an		dt									DT	det	17
+17	outline	outline		nn									NN	pobj	15
+18	for	for	in+npostmod	in	nmod								IN	prep	17
+19	me	i		pro	1st	sg							PRP	pobj	18
+20	as	as		cs	cs_othr								IN	mark	22
+21	I	i		pro	1st	sg							PRP	nsubj	22
+22	taught	teach	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		other_advl		VBD	advcl	14
+23	.	.											.	punct	4
+
+#sentid = 7
+0	In	in	in+advl	in	advl								IN	prep	6
+1	terms	term		nn	pl								NNS	pobj	0
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	economic	economic	attr+npremod	jj	attr								JJ	amod	4
+4	modeling	modeling		nn		nom							NN	pobj	2
+5	there	there											EX	expl	6
+6	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	6
+7	perhaps	perhaps	rb+advl	rb	advl								RB	advmod	6
+8	no	no		dt									DT	det	11
+9	more	more	rb+jjrbmod	rb	adjmod								RBR	advmod	10
+10	important	important	attr+npremod	jj	attr								JJ	amod	11
+11	topic	topic		nn									NN	attr	6
+12	to	to		to									TO	aux	13
+13	grasp	grasp	tocls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	rel		VB	relcl	11
+14	than	than	in+advl	in	advl								IN	prep	13
+15	demand	demand		nn									NN	pobj	14
+16	,	,											,	punct	6
+17	so	so		cc	cls								CC	cc	6
+18	I	i		pro	1st	sg							PRP	nsubj	19
+19	wanted	want		vbmain	vblex	past	simple	active					VBD	conj	6
+20	to	to		to									TO	aux	21
+21	make	make		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	xcomp	19
+22	sure	sure		jj	pred								JJ	acomp	21
+23	that	that		cs	cs_othr								IN	mark	27
+24	the	the		dt	art								DT	det	25
+25	students	student		nn	pl	nom							NNS	nsubj	27
+26	could	could		vbaux	mod	pos							MD	aux	27
+27	understand	understand	finitecls+advl	vbmain	vblex	vp_w_modal	simple	active	advlcls				VB	advcl	22
+28	it	it		pro	3rd	sg							PRP	dobj	27
+29	in	in	in+advl	in	advl								IN	prep	27
+30	their	their		dt	poss								PRP$	poss	32
+31	own	own	attr+npremod	jj	attr								JJ	amod	32
+32	terms	term		nn	pl								NNS	pobj	29
+33	.	.											.	punct	19
+
+#sentid = 8
+0	To	to		to									TO	aux	1
+1	achieve	achieve	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	8
+2	this	this		pro	dem	sg							DT	dobj	1
+3	,	,											,	punct	8
+4	throughout	throughout	in+advl	in	advl								IN	prep	8
+5	the	the		dt	art								DT	det	6
+6	lesson	lesson		nn									NN	pobj	4
+7	I	i		pro	1st	sg							PRP	nsubj	8
+8	relied	rely		vbmain	prepv	past	simple	active					VBD	ROOT	8
+9	on	on	in+advl	in	advl								IN	prep	8
+10	the	the		dt	art								DT	det	11
+11	students	student		nn	pl	nom							NNS	pobj	9
+12	to	to		to									TO	aux	13
+13	define	define	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	8
+14	the	the		dt	art								DT	det	15
+15	terms	term		nn	pl								NNS	dobj	13
+16	on	on	in+npostmod	in	nmod								IN	prep	15
+17	the	the		dt	art								DT	det	18
+18	notesheet	notesheet		nn									NN	pobj	16
+19	using	use	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	13
+20	terms	term		nn	pl								NNS	dobj	19
+21	from	from	in+npostmod	in	nmod								IN	prep	20
+22	their	their		dt	poss								PRP$	poss	24
+23	everyday	everyday	attr+npremod	jj	attr								JJ	amod	24
+24	life	life		nn									NN	pobj	21
+25	and	and		cc	phrs								CC	cc	19
+26	using	use		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	conj	19
+27	examples	example		nn	pl								NNS	dobj	26
+28	that	that		pro	dem	sg							WDT	dobj	30
+29	they	they		pro	pl								PRP	nsubj	30
+30	provided	provide	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls		rel		VBD	relcl	27
+31	,	,											,	punct	13
+32	rather	rather		rb	othr								RB	advmod	33
+33	than	than		cc	phrs								IN	cc	13
+34	rely	rely		vbmain	prepv	nonfinite	simple	active					VB	conj	13
+35	on	on	in+advl	in	advl								IN	prep	34
+36	vague	vague	attr+npremod	jj	attr								JJ	amod	38
+37	textbook	textbook	nn+npremod	nn			npremod						NN	compound	38
+38	definitions	definition		nn	pl	nom							NNS	pobj	35
+39	.	.											.	punct	8
+
+#sentid = 9
+0	I	i		pro	1st	sg							PRP	nsubj	1
+1	started	start		vbmain	phrsv	past	simple	active	compcls		vcomp	compdel	VBD	ccomp	19
+2	the	the		dt	art								DT	det	3
+3	lesson	lesson		nn									NN	dobj	1
+4	out	out		rb	prtcle								RP	prt	1
+5	with	with	in+advl	in	advl								IN	prep	1
+6	this	this		dt	dt_dem								DT	det	7
+7	idea	idea		nn									NN	pobj	5
+8	in	in	in+npostmod	in	nmod								IN	prep	7
+9	mind	mind		nn									NN	pobj	8
+10	,	,											,	punct	19
+11	on	on	in+advl	in	advl								IN	prep	19
+12	the	the		dt	art								DT	det	13
+13	top	top		nn									NN	pobj	11
+14	of	of	of+npostmod	in	nmod								IN	prep	13
+15	the	the		dt	art								DT	det	17
+16	note	note	nn+npremod	nn			npremod						NN	compound	17
+17	sheet	sheet		nn									NN	pobj	14
+18	there	there											EX	expl	19
+19	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	19
+20	space	space		nn									NN	attr	19
+21	for	for		cs	cs_othr								IN	mark	24
+22	students	student		nn	pl	nom							NNS	nsubj	24
+23	to	to		to									TO	aux	24
+24	define	define		vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	other_advl		VB	relcl	20
+25	the	the		dt	art								DT	det	26
+26	terms	term		nn	pl								NNS	dobj	24
+27	.	.											.	punct	19
+
+#sentid = 10
+0	market	market		nn									NN	ROOT	0
+1	,	,											,	punct	0
+2	demand	demand		nn									NN	conj	0
+3	,	,											,	punct	2
+4	quantity	quantity		nn		nom							NN	conj	2
+5	demanded	demand	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	4
+6	,	,											,	punct	5
+7	and	and		cc	phrs								CC	cc	4
+8	demand	demand	nn+npremod	nn			npremod						NN	compound	9
+9	schedule	schedule		nn									NN	conj	4
+10	.	.											.	punct	0
+
+#sentid = 11
+0	I	i		pro	1st	sg							PRP	nsubj	1
+1	assigned	assign		vbmain	vblex	past	simple	active					VBD	ROOT	1
+2	the	the		dt	art								DT	det	3
+3	students	student		nn	pl	nom							NNS	dobj	1
+4	into	into	in+advl	in	advl								IN	prep	1
+5	groups	group		nn	pl								NNS	pobj	4
+6	and	and		cc	cls								CC	cc	1
+7	they	they		pro	pl								PRP	nsubj	8
+8	defined	define		vbmain	vblex	past	simple	active					VBD	conj	1
+9	the	the		dt	art								DT	det	10
+10	terms	term		nn	pl								NNS	dobj	8
+11	based	base	edcls+advl	vbmain	advl	nonfinite	simple	active		edcls			VBN	prep	8
+12	on	on	in+advl	in	advl								IN	prep	11
+13	what	what											WP	dep	15
+14	they	they		pro	pl								PRP	nsubj	15
+15	thought	think		vbmain	vblex	past	simple	active	compcls		incomp	compdel	VBD	pcomp	12
+16	the	the		dt	art								DT	det	17
+17	term	term		nn									NN	nsubj	18
+18	meant	mean	thatcls+vcomp	vbmain	vblex	past	simple	active	compcls		vcomp	compdel	VBD	ccomp	15
+19	.	.											.	punct	8
+
+#sentid = 12
+0	Then	then		rb	link								RB	advmod	5
+1	as	as	in+advl	in	advl								IN	prep	5
+2	a	a		dt	art								DT	det	3
+3	class	class		nn									NN	pobj	1
+4	we	we		pro	1st								PRP	nsubj	5
+5	discussed	discuss		vbmain	vblex	past	simple	active					VBD	ROOT	5
+6	each	each		dt									DT	det	7
+7	group	group	s+gen	dt	poss		sgen						NN	poss	9
+8	’s	’s											POS	case	7
+9	definitions	definition		nn	pl	nom							NNS	dobj	5
+10	and	and		cc	phrs								CC	cc	5
+11	as	as	in+advl	in	advl								IN	prep	14
+12	a	a		dt	art								DT	det	13
+13	class	class		nn									NN	pobj	11
+14	came	come		vbmain	phrsv	past	simple	active					VBD	conj	5
+15	up	up		rb	prtcle								RP	prt	14
+16	with	with	in+advl	in	advl								IN	prep	14
+17	one	one											CD	nummod	19
+18	final	final	attr+npremod	jj	attr								JJ	amod	19
+19	definition	definition		nn		nom							NN	pobj	16
+20	of	of	of+npostmod	in	nmod								IN	prep	19
+21	each	each		dt									DT	det	22
+22	term	term		nn									NN	pobj	20
+23	.	.											.	punct	5
+
+#sentid = 13
+0	Once	once		cs	cs_othr								IN	mark	2
+1	I	i		pro	1st	sg							PRP	nsubj	2
+2	was	be	finitecls+advl	vbmain	be	past	simple	active	advlcls		other_advl		VBD	advcl	13
+3	certain	certain		jj	pred								JJ	acomp	2
+4	that	that		comp	comp_that								IN	mark	9
+5	all	all											DT	nsubj	9
+6	of	of		in	in_othr								IN	prep	5
+7	the	the		dt	art								DT	det	8
+8	students	student		nn	pl	nom							NNS	pobj	6
+9	understood	understand	thatcls+jcomp	vbmain	vblex	past	simple	active	compcls	thatcls	jcomp		VBD	ccomp	3
+10	the	the		dt	art								DT	det	11
+11	terms	term		nn	pl								NNS	dobj	9
+12	I	i		pro	1st	sg							PRP	nsubj	13
+13	used	use		vbmain	vblex	past	simple	active					VBD	ROOT	13
+14	the	the		dt	art								DT	det	16
+15	four	four											CD	nummod	16
+16	terms	term		nn	pl								NNS	dobj	13
+17	that	that		pro	dem	sg							WDT	dobj	21
+18	we	we		pro	1st								PRP	nsubj	21
+19	had	have		vbaux									VBD	aux	21
+20	just	just	rb+advl	rb	advl		splaux						RB	advmod	21
+21	defined	define	finitecls+rel	vbmain	vblex	past	perf	active	nmod_cls		rel		VBN	relcl	16
+22	to	to		to									TO	aux	23
+23	demonstrate	demonstrate	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	13
+24	and	and		cc	phrs								CC	cc	23
+25	explain	explain		vbmain	vblex	nonfinite	simple	active					VB	conj	23
+26	the	the		dt	art								DT	det	27
+27	process	process		nn		nom							NN	dobj	25
+28	of	of	of+npostmod	in	nmod								IN	prep	27
+29	using	use	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	28
+30	a	a		dt	art								DT	det	32
+31	demand	demand	nn+npremod	nn			npremod						NN	compound	32
+32	schedule	schedule		nn									NN	dobj	29
+33	to	to		to									TO	aux	34
+34	create	create	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	29
+35	a	a		dt	art								DT	det	37
+36	demand	demand	nn+npremod	nn			npremod						NN	compound	37
+37	curve	curve		nn									NN	dobj	34
+38	.	.											.	punct	13
+
+#sentid = 14
+0													_SP	dep	12
+1	As	as		cs	cs_othr								IN	mark	3
+2	I	i		pro	1st	sg							PRP	nsubj	3
+3	walked	walk	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		other_advl		VBD	advcl	12
+4	through	through	in+advl	in	advl								IN	prep	3
+5	an	an		dt									DT	det	6
+6	example	example		nn									NN	pobj	4
+7	on	on	in+npostmod	in	nmod								IN	prep	6
+8	the	the		dt	art								DT	det	10
+9	white	white	attr+npremod	jj	attr								JJ	amod	10
+10	board	board		nn									NN	pobj	7
+11	students	student		nn	pl	nom							NNS	nsubj	12
+12	followed	follow		vbmain	phrsv	past	simple	active					VBD	ROOT	12
+13	along	along		rb	prtcle								RP	prt	12
+14	on	on	in+advl	in	advl								IN	prep	12
+15	their	their		dt	poss								PRP$	poss	16
+16	notesheet	notesheet		nn									NN	pobj	14
+17	.	.											.	punct	12
+
+#sentid = 15
+0	Once	once		cs	cs_othr								IN	mark	2
+1	I	i		pro	1st	sg							PRP	nsubj	2
+2	completed	complete	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		other_advl		VBD	advcl	5
+3	this	this		pro	dem	sg							DT	dobj	2
+4	I	i		pro	1st	sg							PRP	nsubj	5
+5	called	call		vbmain	vblex	past	simple	active					VBD	ROOT	5
+6	on	on	in+advl	in	advl								IN	prep	5
+7	a	a		dt	art								DT	det	8
+8	student	student		nn		nom							NN	pobj	6
+9	,	,											,	punct	5
+10	at	at	in+advl	in	advl								IN	prep	5
+11	random	random		jj	attr								JJ	amod	10
+12	,	,											,	punct	5
+13	to	to		to									TO	aux	14
+14	repeat	repeat	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	5
+15	the	the		dt	art								DT	det	16
+16	steps	step		nn	pl								NNS	dobj	14
+17	of	of	of+npostmod	in	nmod								IN	prep	16
+18	how	how		comp	comp_wh								WRB	advmod	21
+19	to	to		to									TO	aux	21
+20	properly	properly	rb+advl	rb	advl	ly	splaux						RB	advmod	21
+21	graph	graph		vbmain	vblex	nonfinite	simple	active	compcls	tocls	incomp		VB	pcomp	17
+22	a	a		dt	art								DT	det	24
+23	demand	demand	nn+npremod	nn			npremod						NN	compound	24
+24	curve	curve		nn									NN	dobj	21
+25	back	back	rb+advl	rb	advl								RB	advmod	21
+26	to	to		in	in_othr								IN	prep	25
+27	me	i		pro	1st	sg							PRP	pobj	26
+28	so	so		cs	cs_othr								IN	mark	32
+29	that	that		cs	cs_othr								IN	mark	32
+30	I	i		pro	1st	sg							PRP	nsubj	32
+31	could	could		vbaux	mod	pos							MD	aux	32
+32	asses	asses	finitecls+advl	vbmain	vblex	vp_w_modal	simple	active	advlcls		other_advl		VB	advcl	14
+33	if	if		cs	cnd								IN	mark	35
+34	students	student		nn	pl	nom							NNS	nsubj	35
+35	understood	understand		vbmain	vblex	past	simple	active	compcls		conditional	compdel	VBD	ccomp	32
+36	the	the		dt	art								DT	det	37
+37	process	process		nn		nom							NN	dobj	35
+38	.	.											.	punct	5
+
+#sentid = 16
+0	From	from	in+advl	in	advl								IN	prep	3
+1	here	here											RB	pcomp	0
+2	I	i		pro	1st	sg							PRP	nsubj	3
+3	used	use		vbmain	vblex	past	simple	active					VBD	ROOT	3
+4	the	the		dt	art								DT	det	6
+5	demand	demand	nn+npremod	nn			npremod						NN	compound	6
+6	curve	curve		nn									NN	dobj	3
+7	that	that		pro	dem	sg							WDT	dobj	10
+8	I	i		pro	1st	sg							PRP	nsubj	10
+9	just	just	rb+advl	rb	advl								RB	advmod	10
+10	created	create	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls		rel		VBD	relcl	6
+11	to	to		to									TO	aux	12
+12	explain	explain	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	3
+13	the	the		dt	art								DT	det	14
+14	law	law		nn									NN	dobj	12
+15	of	of	of+npostmod	in	nmod								IN	prep	14
+16	demand	demand		nn									NN	pobj	15
+17	and	and		cc	phrs								CC	cc	14
+18	why	why		rb	advl								WRB	advmod	20
+19	there	there											EX	expl	20
+20	is	be		vbmain	be	pres	simple	active					VBZ	conj	14
+21	an	an		dt									DT	det	23
+22	inverse	inverse	attr+npremod	jj	attr								JJ	amod	23
+23	relationship	relationship		nn		nom							NN	attr	20
+24	between	between	in+npostmod	in	nmod								IN	prep	23
+25	price	price		nn									NN	pobj	24
+26	and	and		cc	phrs								CC	cc	25
+27	quantity	quantity		nn		nom							NN	conj	25
+28	.	.											.	punct	3
+
+#sentid = 17
+0	Keeping	keep	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	17
+1	all	all											DT	dobj	0
+2	of	of		in	in_othr								IN	prep	1
+3	the	the		dt	art								DT	det	7
+4	definitional	definitional	attr+npremod	jj	attr								JJ	amod	7
+5	and	and		cc	phrs								CC	cc	4
+6	procedural	procedural											JJ	conj	4
+7	concepts	concept		nn	pl								NNS	pobj	2
+8	that	that		pro	dem	sg							WDT	dobj	12
+9	I	i		pro	1st	sg							PRP	nsubj	12
+10	had	have		vbaux									VBD	aux	12
+11	just	just	rb+advl	rb	advl		splaux						RB	advmod	12
+12	covered	cover	finitecls+rel	vbmain	vblex	past	perf	active	nmod_cls		rel		VBN	relcl	7
+13	in	in	in+advl	in	advl								IN	prep	12
+14	mind	mind		nn									NN	pobj	13
+15	,	,											,	punct	17
+16	I	i		pro	1st	sg							PRP	nsubj	17
+17	told	tell		vbmain	vblex	past	simple	active					VBD	ROOT	17
+18	the	the		dt	art								DT	det	19
+19	students	student		nn	pl	nom							NNS	dobj	17
+20	that	that		comp	comp_that								IN	mark	24
+21	we	we		pro	1st								PRP	nsubj	24
+22	were	be		vbmain	be	past	simple	active					VBD	dep	24
+23	had	have		vbaux									VBD	aux	24
+24	arrived	arrive	thatcls+vcomp	vbmain	prepv	past	perf	active	compcls	thatcls	vcomp		VBN	ccomp	17
+25	at	at	in+advl	in	advl								IN	prep	24
+26	the	the		dt	art								DT	det	29
+27	most	most	rb+jjrbmod	rb	adjmod								RBS	advmod	28
+28	important	important	attr+npremod	jj	attr								JJ	amod	29
+29	point	point		nn									NN	pobj	25
+30	in	in	in+npostmod	in	nmod								IN	prep	29
+31	the	the		dt	art								DT	det	32
+32	lesson	lesson		nn									NN	pobj	30
+33	.	.											.	punct	17
+
+#sentid = 18
+0	shifting	shift		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	ROOT	0
+1	the	the		dt	art								DT	det	3
+2	demand	demand	nn+npremod	nn			npremod						NN	compound	3
+3	curves	curve		nn	pl								NNS	dobj	0
+4	.	.											.	punct	0
+
+#sentid = 19
+0	Before	before		cs	cs_othr								IN	mark	3
+1	students	student		nn	pl	nom							NNS	nsubj	3
+2	would	would		vbaux	mod	prd							MD	aux	3
+3	be	be	finitecls+advl	vbmain	be	vp_w_modal	simple	active	advlcls		other_advl		VB	advcl	11
+4	able	able		jj	pred								JJ	acomp	3
+5	to	to		to									TO	aux	7
+6	properly	properly	rb+advl	rb	advl	ly	splaux						RB	advmod	7
+7	shift	shift	tocls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	jcomp		VB	xcomp	4
+8	them	they		pro	pl								PRP	dobj	7
+9	they	they		pro	pl								PRP	nsubj	11
+10	would	would		vbaux	mod	prd							MD	aux	11
+11	have	have		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	11
+12	to	to		to									TO	aux	13
+13	know	know		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	xcomp	11
+14	what	what											WP	nsubj	15
+15	shifted	shift	whcls+vcomp	vbmain	vblex	past	simple	active	compcls	whcls	vcomp		VBD	ccomp	13
+16	them	they		pro	pl								PRP	dobj	15
+17	.	.											.	punct	11
+
+#sentid = 20
+0	There	there											EX	expl	1
+1	are	be		vbmain	be	pres	simple	active					VBP	ROOT	1
+2	five	five											CD	nummod	4
+3	basic	basic	attr+npremod	jj	attr								JJ	amod	4
+4	determinants	determinant		nn	pl	nom							NNS	attr	1
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	demand	demand		nn									NN	pobj	5
+7	and	and		cc	cls								CC	cc	1
+8	these	these		pro	dem	pl							DT	nsubj	9
+9	are	be		vbmain	be	pres	simple	active					VBP	conj	1
+10	the	the		dt	art								DT	det	12
+11	five	five											CD	nummod	12
+12	factors	factor		nn	pl	nom							NNS	attr	9
+13	that	that		relpro	relpro_that	sg							WDT	nsubj	14
+14	have	have	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls	thatcls	rel		VBP	relcl	12
+15	the	the		dt	art								DT	det	16
+16	ability	ability		nn		nom							NN	dobj	14
+17	to	to		to									TO	aux	18
+18	shift	shift	tocls+ncomp	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	ncomp		VB	acl	16
+19	demand	demand	nn+npremod	nn			npremod						NN	compound	20
+20	curves	curve		nn	pl								NNS	dobj	18
+21	.	.											.	punct	9
+
+#sentid = 21
+0	To	to		to									TO	aux	1
+1	make	make	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	11
+2	this	this		pro	dem	sg							DT	nsubj	3
+3	easy	easy											JJ	ccomp	1
+4	for	for		cs	cs_othr								IN	mark	8
+5	the	the		dt	art								DT	det	6
+6	students	student		nn	pl	nom							NNS	nsubj	8
+7	to	to		to									TO	aux	8
+8	understand	understand	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls	other_advl		VB	advcl	3
+9	I	i		pro	1st	sg							PRP	nsubj	11
+10	had	have		vbaux									VBD	aux	11
+11	listed	list		vbmain	vblex	past	perf	active					VBN	ROOT	11
+12	the	the		dt	art								DT	det	14
+13	five	five											CD	nummod	14
+14	determinants	determinant		nn	pl	nom							NNS	dobj	11
+15	of	of	of+npostmod	in	nmod								IN	prep	14
+16	demand	demand		nn									NN	pobj	15
+17	on	on	in+advl	in	advl								IN	prep	11
+18	the	the		dt	art								DT	det	19
+19	notesheet	notesheet		nn									NN	pobj	17
+20	along	along	in+advl	in	advl								IN	prep	11
+21	with	with		in	in_othr								IN	prep	20
+22	the	the		dt	art								DT	det	23
+23	components	component		nn	pl	nom							NNS	pobj	21
+24	of	of	of+npostmod	in	nmod								IN	prep	23
+25	each	each											DT	pobj	24
+26	.	.											.	punct	11
+
+#sentid = 22
+0	I	i		pro	1st	sg							PRP	nsubj	2
+1	again	again	rb+advl	rb	advl								RB	advmod	2
+2	had	have		vbmain	vblex	past	simple	active					VBD	ROOT	2
+3	the	the		dt	art								DT	det	4
+4	students	student		nn	pl	nom							NNS	nsubj	5
+5	create	create		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	ccomp	2
+6	definitions	definition		nn	pl	nom							NNS	dobj	5
+7	for	for	in+npostmod	in	nmod								IN	prep	6
+8	each	each		dt									DT	det	9
+9	term	term		nn									NN	pobj	7
+10	but	but		cc	cls								CC	cc	2
+11	this	this		dt	dt_dem								DT	det	12
+12	time	time		nn									NN	npadvmod	14
+13	we	we		pro	1st								PRP	nsubj	14
+14	did	do		vbmain	vblex	past	simple	active					VBD	conj	2
+15	it	it		pro	3rd	sg							PRP	dobj	14
+16	as	as	in+advl	in	advl								IN	prep	14
+17	an	an		dt									DT	det	19
+18	entire	entire	attr+npremod	jj	attr								JJ	amod	19
+19	class	class		nn									NN	pobj	16
+20	and	and		cc									CC	cc	16
+21	not	not											RB	neg	22
+22	in	in											IN	conj	16
+23	small	small	attr+npremod	jj	attr								JJ	amod	24
+24	groups	group		nn	pl								NNS	pobj	22
+25	.	.											.	punct	14
+
+#sentid = 23
+0	After	after		cs	cs_othr								IN	mark	5
+1	the	the		dt	art								DT	det	2
+2	class	class		nn									NN	nsubj	5
+3	had	have		vbaux									VBD	aux	5
+4	sufficiently	sufficiently	rb+advl	rb	advl	ly	splaux						RB	advmod	5
+5	defined	define	finitecls+advl	vbmain	vblex	past	perf	active	advlcls		other_advl		VBN	advcl	10
+6	each	each		dt									DT	det	7
+7	term	term		nn									NN	dobj	5
+8	,	,											,	punct	10
+9	I	i		pro	1st	sg							PRP	nsubj	10
+10	provided	provide		vbmain	vblex	past	simple	active					VBD	ROOT	10
+11	an	an		dt									DT	det	12
+12	example	example		nn									NN	dobj	10
+13	on	on	in+npostmod	in	nmod								IN	prep	12
+14	the	the		dt	art								DT	det	15
+15	overhead	overhead		nn									NN	pobj	13
+16	of	of	of+npostmod	in	nmod								IN	prep	15
+17	how	how		comp	comp_wh								WRB	advmod	26
+18	a	a		dt	art								DT	det	19
+19	change	change		nn									NN	nsubj	26
+20	in	in	in+npostmod	in	nmod								IN	prep	19
+21	that	that		dt	dt_dem								DT	det	22
+22	determinant	determinant		nn		nom							NN	pobj	20
+23	of	of	of+npostmod	in	nmod								IN	prep	22
+24	demand	demand		nn									NN	pobj	23
+25	would	would		vbaux	mod	prd							MD	aux	26
+26	shift	shift	whcls+incomp	vbmain	vblex	vp_w_modal	simple	active	compcls	whcls	incomp		VB	pcomp	16
+27	the	the		dt	art								DT	det	29
+28	demand	demand	nn+npremod	nn			npremod						NN	compound	29
+29	curve	curve		nn									NN	dobj	26
+30	(	(											-LRB-	punct	43
+31	i.e.	i.e.		rb	link								FW	advmod	43
+32	an	an		dt									DT	det	33
+33	increase	increase		nn									NN	nsubj	43
+34	in	in	in+npostmod	in	nmod								IN	prep	33
+35	the	the		dt	art								DT	det	36
+36	number	number		nn		nom							NN	pobj	34
+37	of	of	of+npostmod	in	nmod								IN	prep	36
+38	buyers	buyer		nn	pl	nom							NNS	pobj	37
+39	in	in	in+npostmod	in	nmod								IN	prep	38
+40	a	a		dt	art								DT	det	41
+41	market	market		nn									NN	pobj	39
+42	would	would		vbaux	mod	prd							MD	aux	43
+43	result	result		vbmain	prepv	vp_w_modal	simple	active					VB	parataxis	26
+44	in	in	in+advl	in	advl								IN	prep	43
+45	an	an		dt									DT	det	46
+46	increase	increase		nn									NN	pobj	44
+47	in	in	in+npostmod	in	nmod								IN	prep	46
+48	demand	demand		nn									NN	pobj	47
+49	and	and		cc	phrs								CC	cc	43
+50	shift	shift		vbmain	vblex	nonfinite	simple	active					VB	conj	43
+51	the	the		dt	art								DT	det	53
+52	demand	demand	nn+npremod	nn			npremod						NN	compound	53
+53	curve	curve		nn									NN	dobj	50
+54	to	to	in+advl	in	advl								IN	prep	50
+55	the	the		dt	art								DT	det	56
+56	right	right		nn									NN	pobj	54
+57	.	.											-RRB-	punct	43
+58	)	)											-RRB-	punct	10
+
+#sentid = 24
+0	Once	once		cs	cs_othr								IN	mark	2
+1	we	we		pro	1st								PRP	nsubj	2
+2	wrapped	wrap	finitecls+advl	vbmain	phrsv	past	simple	active	advlcls		other_advl		VBD	advcl	13
+3	up	up		rb	prtcle								RP	prt	2
+4	our	our		dt	poss								PRP$	poss	5
+5	discussion	discussion		nn									NN	dobj	2
+6	of	of	of+npostmod	in	nmod								IN	prep	5
+7	the	the		dt	art								DT	det	8
+8	determinants	determinant		nn	pl	nom							NNS	pobj	6
+9	of	of	of+npostmod	in	nmod								IN	prep	8
+10	demand	demand		nn									NN	pobj	9
+11	I	i		pro	1st	sg							PRP	nsubj	13
+12	briefly	briefly	rb+advl	rb	advl	ly							RB	advmod	13
+13	lectured	lecture		vbmain	vblex	past	simple	active					VBD	ROOT	13
+14	about	about	in+advl	in	advl								IN	prep	13
+15	what	what											WP	nsubj	18
+16	would	would		vbaux	mod	prd							MD	aux	18
+17	not	not											RB	neg	18
+18	shift	shift	whcls+incomp	vbmain	vblex	vp_w_modal	simple	active	compcls	whcls	incomp		VB	pcomp	14
+19	the	the		dt	art								DT	det	21
+20	demand	demand	nn+npremod	nn			npremod						NN	compound	21
+21	curve	curve		nn									NN	dobj	18
+22	.	.											.	punct	13
+
+#sentid = 25
+0	I	i		pro	1st	sg							PRP	nsubj	1
+1	saved	save		vbmain	vblex	past	simple	active					VBD	ROOT	1
+2	this	this		dt	dt_dem								DT	det	3
+3	piece	piece		nn									NN	dobj	1
+4	of	of	of+npostmod	in	nmod								IN	prep	3
+5	information	information		nn		nom							NN	pobj	4
+6	for	for	in+advl	in	advl								IN	prep	1
+7	the	the		dt	art								DT	det	9
+8	back	back	attr+npremod	jj	attr								JJ	amod	9
+9	end	end		nn									NN	pobj	6
+10	of	of	of+npostmod	in	nmod								IN	prep	9
+11	class	class		nn									NN	pobj	10
+12	because	because		cs	cos								IN	mark	14
+13	I	i		pro	1st	sg							PRP	nsubj	14
+14	wanted	want	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		causative		VBD	advcl	35
+15	to	to		to									TO	aux	16
+16	make	make		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	xcomp	14
+17	sure	sure											JJ	ccomp	16
+18	that	that		cs	cs_othr								IN	mark	20
+19	students	student		nn	pl	nom							NNS	nsubj	20
+20	were	be	finitecls+advl	vbmain	be	past	simple	active	advlcls				VBD	advcl	17
+21	most	most	rb+jjrbmod	rb	adjmod								RBS	advmod	22
+22	attentive	attentive		jj	pred								JJ	acomp	20
+23	to	to	in+jcomp	in	jcomp								IN	prep	22
+24	it	it		pro	3rd	sg							PRP	pobj	23
+25	,	,											,	punct	35
+26	because	because		cs	cos								IN	mark	35
+27	it	it		pro	3rd	sg							PRP	nsubj	35
+28	shifting	shift		vbmain	vblex	nonfinite	simple	active	compcls	ingcls	vcomp		VBG	csubj	35
+29	demand	demand	nn+npremod	nn			npremod						NN	compound	30
+30	curves	curve		nn	pl								NNS	dobj	28
+31	with	with	in+advl	in	advl								IN	prep	28
+32	non	non		nn	pl								NNS	pobj	31
+33	-	-		nn	pl								NNS	pobj	31
+34	determinants	determinant		nn	pl	nom							NNS	pobj	31
+35	is	be	finitecls+advl	vbmain	be	pres	simple	active	advlcls		causative		VBZ	advcl	1
+36	a	a		dt	art								DT	det	38
+37	common	common	attr+npremod	jj	attr								JJ	amod	38
+38	error	error		nn		nom							NN	attr	35
+39	that	that		pro	dem	sg							WDT	dobj	42
+40	many	many	attr+npremod	jj	attr								JJ	amod	41
+41	students	student		nn	pl	nom							NNS	nsubj	42
+42	make	make	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls		rel		VBP	relcl	38
+43	.	.											.	punct	1
+
+#sentid = 26
+0	Following	follow		vbmain	advl	nonfinite	simple	active		ingcls			VBG	prep	4
+1	this	this		dt	dt_dem								DT	det	2
+2	tidbit	tidbit		nn									NN	pobj	0
+3	I	i		pro	1st	sg							PRP	nsubj	4
+4	instructed	instruct		vbmain	vblex	past	simple	active					VBD	ROOT	4
+5	the	the		dt	art								DT	det	6
+6	students	student		nn	pl	nom							NNS	dobj	4
+7	to	to		to									TO	aux	8
+8	complete	complete	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	4
+9	the	the		dt	art								DT	det	10
+10	set	set		nn									NN	dobj	8
+11	of	of	of+npostmod	in	nmod								IN	prep	10
+12	problems	problem		nn	pl								NNS	pobj	11
+13	on	on	in+npostmod	in	nmod								IN	prep	10
+14	the	the		dt	art								DT	det	15
+15	back	back		nn									NN	pobj	13
+16	of	of	of+npostmod	in	nmod								IN	prep	15
+17	the	the		dt	art								DT	det	18
+18	worksheet	worksheet		nn									NN	pobj	16
+19	that	that		relpro	relpro_that	sg							WDT	nsubj	20
+20	asked	ask	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls	thatcls	rel		VBD	relcl	18
+21	the	the		dt	art								DT	det	22
+22	students	student		nn	pl	nom							NNS	dobj	20
+23	to	to		to									TO	aux	25
+24	appropriately	appropriately	rb+advl	rb	advl	ly	splaux						RB	advmod	25
+25	draw	draw	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	20
+26	and	and		cc	phrs								CC	cc	25
+27	shift	shift		vbmain	vblex	nonfinite	simple	active					VB	conj	25
+28	the	the		dt	art								DT	det	30
+29	demand	demand	nn+npremod	nn			npremod						NN	compound	30
+30	curves	curve		nn	pl								NNS	dobj	27
+31	.	.											.	punct	4
+
+#sentid = 27
+0	Once	once		cs	cs_othr								IN	mark	4
+1	the	the		dt	art								DT	det	2
+2	students	student		nn	pl	nom							NNS	nsubj	4
+3	had	have		vbaux									VBD	aux	4
+4	finished	finish	finitecls+advl	vbmain	vblex	past	perf	active	advlcls		other_advl		VBN	advcl	7
+5	this	this		pro	dem	sg							DT	dobj	4
+6	we	we		pro	1st								PRP	nsubj	7
+7	went	go		vbmain	vblex	past	simple	active					VBD	ROOT	7
+8	over	over	in+advl	in	advl								IN	prep	7
+9	the	the		dt	art								DT	det	10
+10	answers	answer		nn	pl	nom							NNS	pobj	8
+11	on	on	in+npostmod	in	nmod								IN	prep	10
+12	the	the		dt	art								DT	det	13
+13	whiteboard	whiteboard		nn									NN	pobj	11
+14	.	.											.	punct	7
+
+#sentid = 28
+0	One	one											CD	nummod	1
+1	student	student		nn		nom							NN	nsubjpass	3
+2	was	be		vbaux									VBD	auxpass	3
+3	assigned	assign		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	3
+4	to	to		to									TO	aux	5
+5	present	present	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	3
+6	their	their		dt	poss								PRP$	poss	7
+7	solution	solution		nn		nom							NN	dobj	5
+8	to	to	in+npostmod	in	nmod								IN	prep	7
+9	each	each		dt									DT	det	10
+10	problem	problem		nn									NN	pobj	8
+11	and	and		cc	phrs								CC	cc	5
+12	explain	explain		vbmain	vblex	nonfinite	simple	active					VB	conj	5
+13	their	their		dt	poss								PRP$	poss	14
+14	solution	solution		nn		nom							NN	dobj	12
+15	.	.											.	punct	3
+
+#sentid = 29
+0	The	the		dt	art								DT	det	1
+1	students	student		nn	pl	nom							NNS	nsubj	4
+2	then	then		rb	link								RB	advmod	4
+3	either	either											CC	preconj	4
+4	critiqued	critique		vbmain	vblex	past	simple	active					VBD	ROOT	4
+5	or	or		cc	phrs								CC	cc	4
+6	approved	approve		vbmain	vblex	past	simple	active					VBD	conj	4
+7	of	of	in+advl	in	advl								IN	prep	6
+8	the	the		dt	art								DT	det	10
+9	students	student	nn+npremod	nn	pl	nom	npremod						NNS	compound	10
+10	solution	solution		nn		nom							NN	pobj	7
+11	.	.											.	punct	4
+
+#sentid = 30
+0	By	by	in+advl	in	advl								IN	prep	12
+1	the	the		dt	art								DT	det	2
+2	time	time		nn									NN	pobj	0
+3	we	we		pro	1st								PRP	nsubj	5
+4	had	have		vbaux									VBD	aux	5
+5	gone	go	finitecls+rel	vbmain	prepv	past	perf	active	nmod_cls		rel	reldel	VBN	relcl	2
+6	through	through	in+advl	in	advl								IN	prep	5
+7	each	each		dt									DT	det	8
+8	problem	problem		nn									NN	pobj	6
+9	the	the		dt	art								DT	det	10
+10	bell	bell		nn									NN	nsubj	12
+11	was	be		vbaux									VBD	aux	12
+12	ringing	ring		vbmain	vblex	past	prog	active					VBG	ROOT	12
+13	and	and		cc	cls								CC	cc	12
+14	the	the		dt	art								DT	det	15
+15	class	class		nn									NN	nsubj	17
+16	was	be		vbaux									VBD	aux	17
+17	filling	fill		vbmain	phrsv	past	prog	active					VBG	conj	12
+18	out	out		rb	prtcle								RP	prt	17
+19	.	.											.	punct	17
+
+#sentid = 31
+0													_SP	dep	13
+1	The	the		dt	art								DT	det	2
+2	theory	theory		nn		nom							NN	nsubj	13
+3	of	of	of+npostmod	in	nmod								IN	prep	2
+4	development	development		nn		nom							NN	pobj	3
+5	that	that		pro	dem	sg							WDT	nsubj	8
+6	I	i		pro	1st	sg							PRP	nsubj	7
+7	think	think	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls		rel	reldel	VBP	relcl	2
+8	is	be	thatcls+vcomp	vbmain	be	pres	simple	active	compcls		vcomp	compdel	VBZ	ccomp	7
+9	most	most	rb+jjrbmod	rb	adjmod								RBS	advmod	10
+10	relevant	relevant		jj	pred								JJ	acomp	8
+11	to	to		to									TO	aux	12
+12	discuss	discuss	tocls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	jcomp		VB	xcomp	10
+13	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	13
+14	sociocultural	sociocultural	attr+npremod	jj	attr								JJ	amod	15
+15	theory	theory		nn		nom							NN	attr	13
+16	,	,											,	punct	15
+17	specifically	specifically		rb	othr	ly							RB	advmod	19
+18	the	the		dt	art								DT	det	19
+19	framework	framework	appos+npostmod	nn			nappos						NN	appos	15
+20	proposed	propose	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	19
+21	by	by											IN	agent	20
+22	Vygotsky	vygotsky		nn		proper							NNP	pobj	21
+23	.	.											.	punct	13
+
+#sentid = 32
+0	I	i		pro	1st	sg							PRP	nsubj	1
+1	think	think		vbmain	vblex	pres	simple	active					VBP	ROOT	1
+2	that	that		comp	comp_that								IN	mark	6
+3	this	this		dt	dt_dem								DT	det	5
+4	developmental	developmental	attr+npremod	jj	attr								JJ	amod	5
+5	theory	theory		nn		nom							NN	nsubj	6
+6	was	be	thatcls+vcomp	vbmain	be	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	1
+7	really	really	rb+jjrbmod	rb	adjmod	ly							RB	advmod	8
+8	applicable	applicable		jj	pred								JJ	acomp	6
+9	in	in	in+advl	in	advl								IN	prep	6
+10	this	this		dt	dt_dem								DT	det	11
+11	lesson	lesson		nn									NN	pobj	9
+12	because	because		cs	cos								IN	mark	15
+13	I	i		pro	1st	sg							PRP	nsubj	15
+14	was	be		vbaux									VBD	aux	15
+15	introducing	introduce	finitecls+advl	vbmain	vblex	past	prog	active	advlcls		causative		VBG	advcl	6
+16	one	one		pro	other	pl							CD	dobj	15
+17	of	of		in	in_othr								IN	prep	16
+18	the	the		dt	art								DT	det	20
+19	foundational	foundational	attr+npremod	jj	attr								JJ	amod	20
+20	concepts	concept		nn	pl								NNS	pobj	17
+21	in	in	in+npostmod	in	nmod								IN	prep	20
+22	the	the		dt	art								DT	det	23
+23	discipline	discipline		nn									NN	pobj	21
+24	of	of	of+npostmod	in	nmod								IN	prep	23
+25	economics	economic		nn	pl								NNS	pobj	24
+26	and	and		cc	cls								CC	cc	1
+27	because	because	in+advl	in	advl								IN	prep	32
+28	of	of											IN	pcomp	27
+29	this	this		pro	dem	sg							DT	pobj	27
+30	I	i		pro	1st	sg							PRP	nsubj	32
+31	really	really	rb+advl	rb	advl	ly							RB	advmod	32
+32	focused	focus		vbmain	vblex	past	simple	active					VBD	conj	1
+33	my	my		dt	poss								PRP$	poss	34
+34	lesson	lesson		nn									NN	dobj	32
+35	on	on	in+advl	in	advl								IN	prep	32
+36	showing	show	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	35
+37	students	student		nn	pl	nom							NNS	dobj	36
+38	how	how		rb	advl								WRB	advmod	40
+39	to	to		to									TO	aux	40
+40	construct	construct	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	36
+41	an	an		dt									DT	det	42
+42	understanding	understanding		nn		nom							NN	dobj	40
+43	of	of	of+npostmod	in	nmod								IN	prep	42
+44	the	the		dt	art								DT	det	45
+45	concept	concept		nn									NN	pobj	43
+46	and	and		cc	phrs								CC	cc	40
+47	how	how		rb	advl								WRB	advmod	50
+48	to	to		to									TO	aux	50
+49	practically	practically	rb+advl	rb	advl	ly	splaux						RB	advmod	50
+50	use	use		vbmain	vblex	nonfinite	simple	active		tocls			VB	conj	40
+51	it	it		pro	3rd	sg							PRP	dobj	50
+52	.	.											.	punct	1
+
+#sentid = 33
+0	Because	because	in+advl	in	advl								IN	prep	4
+1	of	of											IN	pcomp	0
+2	this	this		pro	dem	sg							DT	pobj	0
+3	I	i		pro	1st	sg							PRP	nsubj	4
+4	used	use		vbmain	vblex	past	simple	active					VBD	ROOT	4
+5	a	a		dt	art								DT	det	6
+6	lot	lot		nn									NN	dobj	4
+7	of	of	of+npostmod	in	nmod								IN	prep	6
+8	guided	guide	attr+npremod	jj	attr	ed							VBN	amod	9
+9	examples	example		nn	pl								NNS	pobj	7
+10	to	to		to									TO	aux	11
+11	show	show	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	4
+12	students	student		nn	pl	nom							NNS	dobj	11
+13	how	how		rb	advl								WRB	advmod	17
+14	to	to		to									TO	aux	15
+15	construct	construct	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	11
+16	and	and		cc	phrs								CC	cc	15
+17	shift	shift		vbmain	vblex	nonfinite	simple	active					VB	conj	15
+18	demand	demand	nn+npremod	nn			npremod						NN	compound	19
+19	curves	curve		nn	pl								NNS	dobj	17
+20	.	.											.	punct	4
+
+#sentid = 34
+0	This	this		pro	dem	sg							DT	nsubjpass	3
+1	can	can		vbaux	mod	pos							MD	aux	3
+2	be	be		vbaux									VB	auxpass	3
+3	seen	see		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	3
+4	as	as	in+advl	in	advl								IN	prep	3
+5	an	an		dt									DT	det	6
+6	example	example		nn									NN	pobj	4
+7	of	of	of+npostmod	in	nmod								IN	prep	6
+8	zone	zone		nn									NN	pobj	7
+9	of	of	of+npostmod	in	nmod								IN	prep	8
+10	proximal	proximal	attr+npremod	jj	attr								JJ	amod	11
+11	development	development		nn		nom							NN	pobj	9
+12	because	because		cs	cos								IN	mark	17
+13	I	i		pro	1st	sg							PRP	nsubj	17
+14	,	,											,	punct	17
+15	initially	initially	rb+advl	rb	advl	ly							RB	advmod	17
+16	,	,											,	punct	17
+17	had	have	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		causative		VBD	advcl	3
+18	to	to		to									TO	aux	19
+19	show	show		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	xcomp	17
+20	the	the		dt	art								DT	det	21
+21	students	student		nn	pl	nom							NNS	dobj	19
+22	how	how		rb	advl								WRB	advmod	24
+23	to	to		to									TO	aux	24
+24	construct	construct	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	19
+25	the	the		dt	art								DT	det	27
+26	demand	demand	nn+npremod	nn			npremod						NN	compound	27
+27	curves	curve		nn	pl								NNS	dobj	24
+28	and	and		cc	phrs								CC	cc	24
+29	then	then		rb	link								RB	advmod	32
+30	how	how		rb	advl								WRB	advmod	32
+31	to	to		to									TO	aux	32
+32	shift	shift		vbmain	vblex	nonfinite	simple	active		tocls			VB	conj	24
+33	them	they		pro	pl								PRP	dobj	32
+34	but	but		cc	cls								CC	cc	17
+35	at	at	in+advl	in	advl								IN	prep	42
+36	the	the		dt	art								DT	det	37
+37	end	end		nn									NN	pobj	35
+38	of	of	of+npostmod	in	nmod								IN	prep	37
+39	the	the		dt	art								DT	det	40
+40	lesson	lesson		nn									NN	pobj	38
+41	they	they		pro	pl								PRP	nsubj	42
+42	were	be		vbmain	be	past	simple	active					VBD	conj	17
+43	able	able		jj	pred								JJ	acomp	42
+44	to	to		to									TO	aux	45
+45	construct	construct	tocls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	jcomp		VB	xcomp	43
+46	and	and		cc	phrs								CC	cc	45
+47	shift	shift		vbmain	vblex	nonfinite	simple	active					VB	conj	45
+48	them	they		pro	pl								PRP	dobj	47
+49	independent	independent											JJ	oprd	47
+50	of	of	in+jcomp	in	jcomp								IN	prep	49
+51	my	my		dt	poss								PRP$	poss	52
+52	help	help		nn									NN	pobj	50
+53	.	.											.	punct	3
+
+#sentid = 35
+0	The	the		dt	art								DT	det	1
+1	students	student		nn	pl	nom							NNS	nsubj	3
+2	were	be		vbaux									VBD	aux	3
+3	learning	learn		vbmain	vblex	past	prog	active					VBG	ROOT	3
+4	the	the		dt	art								DT	det	5
+5	practices	practice		nn	pl								NNS	dobj	3
+6	of	of	of+npostmod	in	nmod								IN	prep	5
+7	economic	economic	attr+npremod	jj	attr								JJ	amod	8
+8	modeling	modeling		nn		nom							NN	pobj	6
+9	,	,											,	punct	8
+10	which	which		relpro	relpro_wh								WDT	nsubj	11
+11	is	be	finitecls+rel	vbmain	be	pres	simple	active	nmod_cls	whcls	rel		VBZ	relcl	8
+12	the	the		dt	art								DT	det	13
+13	practice	practice		nn									NN	attr	11
+14	of	of	of+npostmod	in	nmod								IN	prep	13
+15	writing	write	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	14
+16	and	and		cc	phrs								CC	cc	15
+17	graphing	graph		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	conj	15
+18	economic	economic	attr+npremod	jj	attr								JJ	amod	19
+19	observations	observation		nn	pl	nom							NNS	dobj	17
+20	.	.											.	punct	3
+
+#sentid = 36
+0	In	in	in+advl	in	advl								IN	prep	5
+1	this	this		dt	dt_dem								DT	det	2
+2	way	way		nn									NN	pobj	0
+3	I	i		pro	1st	sg							PRP	nsubj	5
+4	was	be		vbaux									VBD	aux	5
+5	passing	pass		vbmain	phrsv	past	prog	active					VBG	ROOT	5
+6	on	on		rb	prtcle								RP	prt	5
+7	the	the		dt	art								DT	det	9
+8	"	"											``	punct	9
+9	culture	culture		nn		nom							NN	dobj	5
+10	"	"											''	punct	9
+11	of	of	of+npostmod	in	nmod								IN	prep	9
+12	the	the		dt	art								DT	det	13
+13	discipline	discipline		nn									NN	pobj	11
+14	to	to	in+advl	in	advl								IN	prep	5
+15	them	they		pro	pl								PRP	pobj	14
+16	.	.											.	punct	5
+
+#sentid = 37
+0	Throughout	throughout	in+advl	in	advl								IN	prep	6
+1	my	my		dt	poss								PRP$	poss	3
+2	lesson	lesson	nn+npremod	nn			npremod						NN	compound	3
+3	planning	planning		nn		nom							NN	pobj	0
+4	I	i		pro	1st	sg							PRP	nsubjpass	6
+5	was	be		vbaux									VBD	auxpass	6
+6	focused	focus		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	6
+7	on	on	in+advl	in	advl								IN	prep	6
+8	thinking	think	ingcls+incomp	vbmain	prepv	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	7
+9	about	about	in+advl	in	advl								IN	prep	8
+10	how	how		comp	comp_wh								WRB	advmod	12
+11	to	to		to									TO	aux	12
+12	scaffold	scaffold		vbmain	vblex	nonfinite	simple	active	compcls	tocls	incomp		VB	pcomp	9
+13	the	the		dt	art								DT	det	14
+14	students	student	nn+npremod	nn	pl	nom	npremod						NNS	compound	15
+15	understanding	understanding		nn		nom							NN	dobj	12
+16	and	and		cc	phrs								CC	cc	15
+17	development	development		nn		nom							NN	conj	15
+18	in	in	in+advl	in	advl								IN	prep	12
+19	terms	term		nn	pl								NNS	pobj	18
+20	of	of	of+npostmod	in	nmod								IN	prep	19
+21	understanding	understand	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	20
+22	the	the		dt	art								DT	det	23
+23	concept	concept		nn									NN	dobj	21
+24	of	of	of+npostmod	in	nmod								IN	prep	23
+25	demand	demand		nn									NN	pobj	24
+26	.	.											.	punct	6
+
+#sentid = 38
+0	Sociocultural	sociocultural	attr+npremod	jj	attr								JJ	amod	1
+1	theory	theory		nn		nom							NN	nsubj	2
+2	emphasizes	emphasize		vbmain	vblex	pres	simple	active					VBZ	ROOT	2
+3	participation	participation		nn		nom							NN	dobj	2
+4	in	in	in+npostmod	in	nmod								IN	prep	3
+5	activities	activity		nn	pl	nom							NNS	pobj	4
+6	that	that		relpro	relpro_that	sg							WDT	nsubj	7
+7	require	require	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls	thatcls	rel		VBP	relcl	5
+8	cognitive	cognitive	attr+npremod	jj	attr								JJ	amod	11
+9	and	and		cc	phrs								CC	cc	8
+10	communicative	communicative											JJ	conj	8
+11	functions	function		nn	pl	nom							NNS	dobj	7
+12	.	.											.	punct	2
+
+#sentid = 39
+0	By	by	in+advl	in	advl								IN	prep	18
+1	having	have	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	0
+2	the	the		dt	art								DT	det	3
+3	students	student		nn	pl	nom							NNS	nsubj	4
+4	define	define		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	ccomp	1
+5	terms	term		nn	pl								NNS	dobj	4
+6	in	in	in+advl	in	advl								IN	prep	4
+7	their	their		dt	poss								PRP$	poss	9
+8	own	own	attr+npremod	jj	attr								JJ	amod	9
+9	words	word		nn	pl								NNS	pobj	6
+10	and	and		cc	phrs								CC	cc	4
+11	provide	provide		vbmain	vblex	nonfinite	simple	active					VB	conj	4
+12	many	many											JJ	dobj	11
+13	of	of	in+jcomp	in	jcomp								IN	prep	12
+14	their	their		dt	poss								PRP$	poss	16
+15	own	own	attr+npremod	jj	attr								JJ	amod	16
+16	examples	example		nn	pl								NNS	pobj	13
+17	I	i		pro	1st	sg							PRP	nsubj	18
+18	was	be		vbmain	be	past	simple	active					VBD	ROOT	18
+19	able	able		jj	pred								JJ	acomp	18
+20	to	to		to									TO	aux	21
+21	have	have	tocls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	jcomp		VB	xcomp	19
+22	students	student		nn	pl	nom							NNS	nsubj	23
+23	think	think		vbmain	prepv	nonfinite	simple	active	compcls		vcomp	compdel	VB	ccomp	21
+24	about	about	in+advl	in	advl								IN	prep	23
+25	what	what		comp	comp_wh								WP	dobj	28
+26	they	they		pro	pl								PRP	nsubj	28
+27	were	be		vbaux									VBD	aux	28
+28	learning	learn	whcls+incomp	vbmain	vblex	past	prog	active	compcls	whcls	incomp		VBG	pcomp	24
+29	and	and		cc	phrs								CC	cc	23
+30	then	then		rb	link								RB	advmod	31
+31	communicate	communicate		vbmain	vblex	nonfinite	simple	active					VB	conj	23
+32	it	it		pro	3rd	sg							PRP	dobj	31
+33	back	back	rb+advl	rb	advl								RB	advmod	31
+34	to	to		in	in_othr								IN	prep	33
+35	me	i		pro	1st	sg							PRP	pobj	34
+36	.	.											.	punct	18
+
+#sentid = 40
+0	Although	although		cs	con								IN	mark	5
+1	Vygotsky	vygotsky	s+gen	dt	poss	proper	sgen						NNP	poss	3
+2	's	's											POS	case	1
+3	theory	theory		nn		nom							NN	nsubj	5
+4	traditionally	traditionally	rb+advl	rb	advl	ly							RB	advmod	5
+5	applied	apply	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		concessive		VBD	advcl	11
+6	in	in	in+advl	in	advl								IN	prep	5
+7	more	more	rb+jjrbmod	rb	adjmod								RBR	advmod	8
+8	cultural	cultural	attr+npremod	jj	attr								JJ	amod	9
+9	contexts	context		nn	pl								NNS	pobj	6
+10	I	i		pro	1st	sg							PRP	nsubj	11
+11	think	think		vbmain	vblex	pres	simple	active					VBP	ROOT	11
+12	that	that		comp	comp_that								IN	mark	17
+13	it	it		pro	3rd	sg							PRP	nsubjpass	17
+14	can	can		vbaux	mod	pos							MD	aux	17
+15	still	still	rb+advl	rb	advl		splaux						RB	advmod	17
+16	be	be		vbaux									VB	auxpass	17
+17	applied	apply	thatcls+vcomp	vbmain	vblex	vp_w_modal	simple	pasv_agls	compcls	thatcls	vcomp		VBN	ccomp	11
+18	here	here	rb+advl	rb	advl								RB	advmod	17
+19	because	because		cs	cos								IN	mark	27
+20	I	i		pro	1st	sg							PRP	nsubj	27
+21	was	be		vbaux									VBD	aux	27
+22	,	,											,	punct	27
+23	in	in	in+advl	in	advl								IN	prep	27
+24	a	a		dt	art								DT	det	25
+25	way	way		nn									NN	pobj	23
+26	,	,											,	punct	27
+27	passing	pass	finitecls+advl	vbmain	phrsv	past	prog	active	advlcls		causative		VBG	advcl	17
+28	on	on		rb	prtcle								RP	prt	27
+29	the	the		dt	art								DT	det	30
+30	culture	culture		nn		nom							NN	dobj	27
+31	and	and		cc	phrs								CC	cc	30
+32	practices	practice		nn	pl								NNS	conj	30
+33	of	of	of+npostmod	in	nmod								IN	prep	30
+34	a	a		dt	art								DT	det	35
+35	discipline	discipline		nn									NN	pobj	33
+36	which	which		relpro	relpro_wh								WDT	nsubj	39
+37	in	in	in+advl	in	advl								IN	prep	39
+38	itself	itself											PRP	pobj	37
+39	has	have	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls	whcls	rel		VBZ	relcl	35
+40	rules	rule		nn	pl								NNS	dobj	39
+41	,	,											,	punct	40
+42	norms	norm		nn	pl								NNS	conj	40
+43	,	,											,	punct	42
+44	and	and		cc	phrs								CC	cc	42
+45	methods	method		nn	pl								NNS	conj	42
+46	of	of	of+npostmod	in	nmod								IN	prep	45
+47	inquiry	inquiry		nn		nom							NN	pobj	46
+48	much	much		rb	othr								RB	advmod	49
+49	like	like	in+npostmod	in	nmod								IN	prep	40
+50	a	a		dt	art								DT	det	51
+51	culture	culture		nn		nom							NN	pobj	49
+52	.	.											.	punct	11
+
+#sentid = 41
+0													_SP	dep	5
+1	Also	also	rb+advl	rb	advl								RB	advmod	5
+2	in	in	in+advl	in	advl								IN	prep	5
+3	this	this		dt	dt_dem								DT	det	4
+4	lesson	lesson		nn									NN	pobj	2
+5	were	be		vbmain	be	past	simple	active					VBD	ROOT	5
+6	elements	element		nn	pl	nom							NNS	nsubj	5
+7	of	of	of+npostmod	in	nmod								IN	prep	6
+8	cooperative	cooperative	attr+npremod	jj	attr								JJ	amod	10
+9	learning	learning	nn+npremod	nn		nom	npremod						NN	compound	10
+10	theory	theory		nn		nom							NN	pobj	7
+11	.	.											.	punct	5
+
+#sentid = 42
+0	Cooperative	cooperative	attr+npremod	jj	attr								JJ	amod	1
+1	learning	learning		nn		nom							NN	nsubj	2
+2	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	2
+3	an	an		dt									DT	det	4
+4	approach	approach		nn									NN	attr	2
+5	to	to	in+npostmod	in	nmod								IN	prep	4
+6	instruction	instruction		nn		nom							NN	pobj	5
+7	in	in	in+advl	in	advl								IN	prep	22
+8	which	which											WDT	pobj	7
+9	students	student		nn	pl	nom							NNS	nsubj	10
+10	work	work	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls		rel	reldel	VBP	relcl	4
+11	in	in	in+advl	in	advl								IN	prep	10
+12	small	small	attr+npremod	jj	attr								JJ	amod	13
+13	groups	group		nn	pl								NNS	pobj	11
+14	of	of	of+npostmod	in	nmod								IN	prep	13
+15	peers	peer		nn	pl	nom							NNS	pobj	14
+16	to	to		to									TO	aux	17
+17	achieve	achieve	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	10
+18	a	a		dt	art								DT	det	20
+19	common	common	attr+npremod	jj	attr								JJ	amod	20
+20	goal	goal		nn		nom							NN	dobj	17
+21	and	and		cc	phrs								CC	cc	17
+22	help	help		vbmain	vblex	nonfinite	simple	active					VB	conj	17
+23	one	one		nn	other	pl							NN	nsubj	25
+24	another	another											DT	appos	23
+25	learn	learn		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	ccomp	22
+26	.	.											.	punct	2
+
+#sentid = 43
+0	I	i		pro	1st	sg							PRP	nsubj	1
+1	used	use		vbmain	vblex	past	simple	active	compcls		vcomp	compdel	VBD	ccomp	19
+2	this	this		dt	dt_dem								DT	det	4
+3	learning	learning	nn+npremod	nn		nom	npremod						NN	compound	4
+4	theory	theory		nn		nom							NN	dobj	1
+5	throughout	throughout	in+advl	in	advl								IN	prep	1
+6	my	my		dt	poss								PRP$	poss	7
+7	lesson	lesson		nn									NN	pobj	5
+8	,	,											,	punct	19
+9	for	for		cc	phrs								IN	cc	19
+10	almost	almost		rb	othr								RB	advmod	11
+11	all	all											DT	dep	19
+12	of	of		in	in_othr								IN	prep	11
+13	the	the		dt	art								DT	det	14
+14	definitions	definition		nn	pl	nom							NNS	pobj	12
+15	on	on	in+npostmod	in	nmod								IN	prep	14
+16	the	the		dt	art								DT	det	17
+17	worksheet	worksheet		nn									NN	pobj	15
+18	students	student		nn	pl	nom							NNS	nsubj	19
+19	came	come		vbmain	phrsv	past	simple	active					VBD	ROOT	19
+20	up	up		rb	prtcle								RP	prt	19
+21	with	with	in+advl	in	advl								IN	prep	19
+22	their	their		dt	poss								PRP$	poss	24
+23	own	own	attr+npremod	jj	attr								JJ	amod	24
+24	definitions	definition		nn	pl	nom							NNS	pobj	21
+25	and	and		cc	phrs								CC	cc	19
+26	refined	refine		vbmain	vblex	past	simple	active					VBD	conj	19
+27	them	they		pro	pl								PRP	dobj	26
+28	without	without	in+advl	in	advl								IN	prep	26
+29	the	the		dt	art								DT	det	30
+30	aid	aid		nn									NN	pobj	28
+31	of	of	of+npostmod	in	nmod								IN	prep	30
+32	the	the		dt	art								DT	det	33
+33	textbook	textbook		nn									NN	pobj	31
+34	or	or		cc									CC	cc	28
+35	by	by											IN	conj	28
+36	guidance	guidance		nn		nom							NN	pobj	35
+37	.	.											.	punct	19
+
+#sentid = 44
+0	Students	student		nn	pl	nom							NNS	nsubj	1
+1	provided	provide		vbmain	vblex	past	simple	active					VBD	ROOT	1
+2	examples	example		nn	pl								NNS	dobj	1
+3	and	and		cc	phrs								CC	cc	1
+4	explained	explain		vbmain	vblex	past	simple	active					VBD	conj	1
+5	how	how		comp	comp_wh								WRB	advmod	7
+6	they	they		pro	pl								PRP	nsubj	7
+7	fit	fit	whcls+vcomp	vbmain	vblex	pres	simple	active	compcls	whcls	vcomp		VBP	ccomp	4
+8	into	into	in+advl	in	advl								IN	prep	7
+9	each	each		dt									DT	det	11
+10	particular	particular	attr+npremod	jj	attr								JJ	amod	11
+11	determinant	determinant		nn		nom							NN	pobj	8
+12	.	.											.	punct	1
+
+#sentid = 45
+0	The	the		dt	art								DT	det	2
+1	whole	whole	attr+npremod	jj	attr								JJ	amod	2
+2	class	class		nn									NN	nsubj	4
+3	really	really	rb+advl	rb	advl	ly							RB	advmod	4
+4	cooperated	cooperate		vbmain	vblex	past	simple	active					VBD	ROOT	4
+5	and	and		cc	phrs								CC	cc	4
+6	worked	work		vbmain	vblex	past	simple	active					VBD	conj	4
+7	together	together	rb+advl	rb	advl								RB	advmod	6
+8	to	to		to									TO	aux	9
+9	provide	provide	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	6
+10	an	an		dt									DT	det	11
+11	understanding	understanding		nn		nom							NN	dobj	9
+12	of	of	of+npostmod	in	nmod								IN	prep	11
+13	what	what		comp	comp_wh								WP	dobj	16
+14	each	each		dt									DT	det	15
+15	term	term		nn									NN	nsubj	16
+16	meant	mean	whcls+incomp	vbmain	vblex	past	simple	active	compcls	whcls	incomp		VBD	pcomp	12
+17	.	.											.	punct	4
+
+#sentid = 46
+0	I	i		pro	1st	sg							PRP	nsubj	1
+1	think	think		vbmain	vblex	pres	simple	active					VBP	ROOT	1
+2	that	that		comp	comp_that								IN	mark	5
+3	this	this		pro	dem	sg							DT	nsubj	5
+4	really	really	rb+advl	rb	advl	ly							RB	advmod	5
+5	put	put	thatcls+vcomp	vbmain	vblex	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	1
+6	the	the		dt	art								DT	det	7
+7	onus	onus		nn									NN	dobj	5
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	the	the		dt	art								DT	det	10
+10	learning	learning		nn		nom							NN	pobj	8
+11	into	into	in+advl	in	advl								IN	prep	5
+12	the	the		dt	art								DT	det	13
+13	student	student	s+gen	dt	poss	nom	sgen						NN	poss	15
+14	’s	’s											POS	case	13
+15	hands	hand		nn	pl								NNS	pobj	11
+16	and	and		cc	cls								CC	cc	5
+17	it	it		pro	3rd	sg							PRP	nsubj	19
+18	also	also	rb+advl	rb	advl								RB	advmod	19
+19	put	put		vbmain	vblex	past	simple	active					VBD	conj	5
+20	the	the		dt	art								DT	det	23
+21	vague	vague	attr+npremod	jj	attr								JJ	amod	23
+22	economic	economic	attr+npremod	jj	attr								JJ	amod	23
+23	terms	term		nn	pl								NNS	dobj	19
+24	into	into	in+advl	in	advl								IN	prep	19
+25	definitions	definition		nn	pl	nom							NNS	pobj	24
+26	that	that		pro	dem	sg							WDT	dobj	31
+27	they	they		pro	pl								PRP	nsubj	29
+28	can	can		vbaux	mod	pos							MD	aux	29
+29	understand	understand	finitecls+rel	vbmain	vblex	vp_w_modal	simple	active	nmod_cls		rel	reldel	VB	relcl	25
+30	and	and		cc	phrs								CC	cc	29
+31	use	use		vbmain	vblex	nonfinite	simple	active					VB	conj	29
+32	.	.											.	punct	19
+
+#sentid = 47
+0	In	in	in+advl	in	advl								IN	prep	8
+1	this	this		dt	dt_dem								DT	det	2
+2	way	way		nn									NN	pobj	0
+3	the	the		dt	art								DT	det	4
+4	class	class		nn									NN	nsubj	8
+5	was	be		vbaux									VBD	aux	8
+6	also	also	rb+advl	rb	advl		splaux						RB	advmod	8
+7	self	self		nn									NN	npadvmod	8
+8	correcting	correct		vbmain	vblex	past	prog	active					VBG	ROOT	8
+9	in	in		cs	cs_othr								IN	mark	27
+10	that	that		cs	cs_othr								IN	mark	27
+11	,	,											,	punct	27
+12	when	when		rb	advl								WRB	advmod	15
+13	we	we		pro	1st								PRP	nsubj	15
+14	would	would		vbaux	mod	prd							MD	aux	15
+15	go	go	finitecls+advl	vbmain	vblex	vp_w_modal	simple	active	advlcls	whcls			VB	advcl	27
+16	over	over	in+advl	in	advl								IN	prep	15
+17	the	the		dt	art								DT	det	18
+18	answers	answer		nn	pl	nom							NNS	pobj	16
+19	to	to	in+npostmod	in	nmod								IN	prep	18
+20	the	the		dt	art								DT	det	22
+21	problem	problem		nn			npremod						NN	compound	22
+22	set	set		vbmain	vblex	nonfinite	simple	active		edcls			VBN	pobj	19
+23	or	or		cc	phrs								CC	cc	22
+24	terms	term		nn	pl								NNS	conj	22
+25	the	the		dt	art								DT	det	26
+26	class	class		nn									NN	nsubj	27
+27	was	be	finitecls+advl	vbmain	be	past	simple	active	advlcls		other_advl		VBD	advcl	8
+28	able	able		jj	pred								JJ	acomp	27
+29	to	to		to									TO	aux	30
+30	moderate	moderate	tocls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	jcomp		VB	xcomp	28
+31	one	one		nn	other	pl							NN	dobj	30
+32	another	another		dt									DT	det	31
+33	by	by	in+advl	in	advl								IN	prep	30
+34	explaining	explain	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	33
+35	why	why		comp	comp_wh								WRB	advmod	38
+36	an	an		dt									DT	det	37
+37	answer	answer		nn		nom							NN	nsubj	38
+38	was	be	whcls+vcomp	vbmain	be	past	simple	active	compcls	whcls	vcomp		VBD	ccomp	34
+39	incorrect	incorrect		jj	pred								JJ	acomp	38
+40	or	or		cc	phrs								CC	cc	38
+41	how	how		rb	advl								WRB	advmod	43
+42	to	to		to									TO	aux	43
+43	modify	modify		vbmain	vblex	nonfinite	simple	active		tocls			VB	conj	38
+44	an	an		dt									DT	det	45
+45	answer	answer		nn		nom							NN	dobj	43
+46	to	to		to									TO	aux	47
+47	make	make	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	43
+48	it	it		pro	3rd	sg							PRP	nsubj	49
+49	correct	correct											JJ	ccomp	47
+50	.	.											.	punct	8
+
+#sentid = 48
+0	There	there											EX	expl	1
+1	was	be		vbmain	be	past	simple	active	compcls		vcomp	compdel	VBD	ccomp	17
+2	no	no		dt									DT	det	4
+3	one	one											CD	nummod	4
+4	student	student		nn		nom							NN	attr	1
+5	who	who		relpro	relpro_wh								WP	nsubj	6
+6	was	be	finitecls+rel	vbmain	be	past	simple	active	nmod_cls	whcls	rel		VBD	relcl	4
+7	the	the		dt	art								DT	det	8
+8	leader	leader		nn		nom							NN	attr	6
+9	of	of	of+npostmod	in	nmod								IN	prep	8
+10	the	the		dt	art								DT	det	11
+11	group	group		nn									NN	pobj	9
+12	rather	rather		rb	link								RB	advmod	17
+13	all	all											DT	nsubj	17
+14	of	of		in	in_othr								IN	prep	13
+15	the	the		dt	art								DT	det	16
+16	students	student		nn	pl	nom							NNS	pobj	14
+17	played	play		vbmain	vblex	past	simple	active					VBD	ROOT	17
+18	a	a		dt	art								DT	det	19
+19	role	role		nn									NN	dobj	17
+20	in	in	in+advl	in	advl								IN	prep	17
+21	completing	complete	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	20
+22	the	the		dt	art								DT	det	24
+23	lessons	lesson	nn+npremod	nn	pl		npremod						NNS	compound	24
+24	tasks	task		nn	pl								NNS	dobj	21
+25	.	.											.	punct	17
+
+#sentid = 49
+0	I	i		pro	1st	sg							PRP	nsubj	1
+1	think	think		vbmain	vblex	pres	simple	active					VBP	ROOT	1
+2	that	that		comp	comp_that								IN	mark	5
+3	cooperative	cooperative	attr+npremod	jj	attr								JJ	amod	4
+4	learning	learning		nn		nom							NN	nsubj	5
+5	worked	work	thatcls+vcomp	vbmain	vblex	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	1
+6	well	well	rb+advl	rb	advl								RB	advmod	5
+7	in	in	in+advl	in	advl								IN	prep	5
+8	this	this		dt	dt_dem								DT	det	9
+9	case	case		nn									NN	pobj	7
+10	because	because		cs	cos								IN	mark	13
+11	the	the		dt	art								DT	det	12
+12	students	student		nn	pl	nom							NNS	nsubj	13
+13	had	have	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		causative		VBD	advcl	5
+14	clear	clear	attr+npremod	jj	attr								JJ	amod	15
+15	goals	goal		nn	pl	nom							NNS	dobj	13
+16	that	that		pro	dem	sg							WDT	pobj	20
+17	they	they		pro	pl								PRP	nsubj	19
+18	were	be		vbaux									VBD	aux	19
+19	working	work	finitecls+rel	vbmain	vblex	past	prog	active	nmod_cls		rel	reldel	VBG	relcl	15
+20	toward	toward	in+advl	in	advl								IN	prep	19
+21	(	(											-LRB-	punct	15
+22	defining	define	ingcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	ingcls	ncomp		VBG	acl	15
+23	terms	term		nn	pl								NNS	dobj	22
+24	,	,											,	punct	22
+25	coming	come		vbmain	phrsv	nonfinite	simple	active		ingcls			VBG	dep	22
+26	up	up		rb	prtcle								RP	prt	25
+27	with	with	in+advl	in	advl								IN	prep	25
+28	examples	example		nn	pl								NNS	pobj	27
+29	)	)											-RRB-	punct	15
+30	and	and		cc	cls								CC	cc	13
+31	because	because		cs	cos								IN	mark	35
+32	I	i		pro	1st	sg							PRP	nsubj	35
+33	did	do		vbaux									VBD	aux	35
+34	not	not											RB	neg	35
+35	allow	allow		vbmain	vblex	past	simple	active			causative		VB	conj	13
+36	the	the		dt	art								DT	det	37
+37	students	student		nn	pl	nom							NNS	dative	35
+38	an	an		dt									DT	det	40
+39	excessive	excessive	attr+npremod	jj	attr								JJ	amod	40
+40	amount	amount		nn									NN	dobj	35
+41	of	of	of+npostmod	in	nmod								IN	prep	40
+42	time	time		nn									NN	pobj	41
+43	,	,											,	punct	40
+44	which	which		relpro	relpro_wh								WDT	nsubj	47
+45	might	might		vbaux	mod	pos							MD	aux	47
+46	have	have		vbaux									VB	aux	47
+47	encouraged	encourage	finitecls+rel	vbmain	vblex	vp_w_modal	perf	active	nmod_cls	whcls	rel		VBN	relcl	40
+48	them	they		pro	pl								PRP	dobj	47
+49	to	to		to									TO	aux	50
+50	get	get	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	47
+51	off	off	in+advl	in	advl								IN	prep	50
+52	task	task		nn									NN	pobj	51
+53	.	.											.	punct	1
+
+#sentid = 50
+0	Additionally	additionally	rb+advl	rb	advl	ly							RB	advmod	3
+1	the	the		dt	art								DT	det	2
+2	students	student		nn	pl	nom							NNS	nsubj	3
+3	were	be		vbmain	be	past	simple	active					VBD	ROOT	3
+4	dependant	dependant		jj	pred								JJ	acomp	3
+5	upon	upon	in+jcomp	in	jcomp								IN	prep	4
+6	one	one		nn	other	pl							NN	pobj	5
+7	another	another		dt									DT	det	6
+8	for	for	in+advl	in	advl								IN	prep	3
+9	the	the		dt	art								DT	det	10
+10	completion	completion		nn		nom							NN	pobj	8
+11	of	of	of+npostmod	in	nmod								IN	prep	10
+12	the	the		dt	art								DT	det	13
+13	lesson	lesson		nn									NN	pobj	11
+14	.	.											.	punct	3
+
+#sentid = 51
+0	they	they		pro	pl								PRP	nsubj	1
+1	needed	need		vbmain	vblex	past	simple	active					VBD	ROOT	1
+2	to	to		to									TO	aux	3
+3	work	work		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	xcomp	1
+4	together	together	rb+advl	rb	advl								RB	advmod	3
+5	to	to		to									TO	aux	6
+6	define	define	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	3
+7	terms	term		nn	pl								NNS	dobj	6
+8	and	and		cc	phrs								CC	cc	6
+9	find	find		vbmain	vblex	nonfinite	simple	active					VB	conj	6
+10	solutions	solution		nn	pl	nom							NNS	dobj	9
+11	to	to	in+npostmod	in	nmod								IN	prep	10
+12	the	the		dt	art								DT	det	13
+13	question	question		nn		nom							NN	pobj	11
+14	set	set	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	13
+15	on	on	in+advl	in	advl								IN	prep	14
+16	the	the		dt	art								DT	det	17
+17	worksheet	worksheet		nn									NN	pobj	15
+18	.	.											.	punct	1
+
+#sentid = 52
+0	The	the		dt	art								DT	det	1
+1	lesson	lesson		nn									NN	nsubj	2
+2	moved	move		vbmain	vblex	past	simple	active					VBD	ROOT	2
+3	at	at	in+advl	in	advl								IN	prep	2
+4	the	the		dt	art								DT	det	5
+5	pace	pace		nn									NN	pobj	3
+6	of	of	of+npostmod	in	nmod								IN	prep	5
+7	the	the		dt	art								DT	det	8
+8	student	student		nn		nom							NN	pobj	6
+9	and	and		cc	phrs								CC	cc	2
+10	in	in	in+advl	in	advl								IN	prep	13
+11	this	this		dt	dt_dem								DT	det	12
+12	way	way		nn									NN	pobj	10
+13	ensured	ensure		vbmain	vblex	past	simple	active					VBD	conj	2
+14	that	that		comp	comp_that								IN	mark	16
+15	we	we		pro	1st								PRP	nsubj	16
+16	spent	spend	thatcls+vcomp	vbmain	vblex	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	13
+17	ample	ample	attr+npremod	jj	attr								JJ	amod	18
+18	time	time		nn									NN	dobj	16
+19	on	on	in+advl	in	advl								IN	prep	16
+20	each	each		dt									DT	det	21
+21	topic	topic		nn									NN	pobj	19
+22	and	and		cc	phrs								CC	cc	21
+23	concept	concept		nn									NN	conj	21
+24	.	.											.	punct	2
+
+#sentid = 53
+0	The	the		dt	art								DT	det	1
+1	class	class	s+gen	dt	poss		sgen						NN	poss	3
+2	'	'											POS	case	1
+3	ability	ability		nn		nom							NN	nsubj	13
+4	to	to		to									TO	aux	5
+5	monitor	monitor	tocls+ncomp	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	ncomp		VB	acl	3
+6	itself	itself											PRP	dobj	5
+7	and	and		cc	phrs								CC	cc	5
+8	keep	keep		vbmain	vblex	nonfinite	simple	active					VB	conj	5
+9	one	one		nn	other	pl							NN	dobj	8
+10	another	another		dt									DT	det	9
+11	on	on	in+advl	in	advl								IN	prep	8
+12	task	task		nn									NN	pobj	11
+13	was	be		vbmain	be	past	simple	active					VBD	ROOT	13
+14	not	not											RB	neg	13
+15	entirely	entirely	rb+advl	rb	advl	ly							RB	advmod	13
+16	the	the		dt	art								DT	det	17
+17	product	product		nn									NN	attr	13
+18	of	of	of+npostmod	in	nmod								IN	prep	17
+19	my	my		dt	poss								PRP$	poss	20
+20	teaching	teaching		nn		nom							NN	pobj	18
+21	,	,											,	punct	13
+22	more	more	rb+jjrbmod	rb	othr								RBR	advmod	23
+23	likely	likely		rb	othr	ly							RB	advmod	25
+24	the	the		dt	art								DT	det	25
+25	fruit	fruit		nn									NN	dep	13
+26	of	of	of+npostmod	in	nmod								IN	prep	25
+27	my	my		dt	poss								PRP$	poss	29
+28	cooperating	cooperate	attr+npremod	jj	attr	ing							VBG	amod	29
+29	teachers	teacher	nn+npremod	nn	pl	nom	npremod						NNS	compound	31
+30	classroom	classroom	nn+npremod	nn			npremod						NN	compound	31
+31	management	management		nn		nom							NN	pobj	26
+32	,	,											,	punct	13
+33	but	but		cc	cls								CC	cc	13
+34	that	that		dt	dt_dem								DT	det	35
+35	foundation	foundation		nn		nom							NN	nsubj	36
+36	helped	help		vbmain	vblex	past	simple	active					VBD	conj	13
+37	set	set		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	xcomp	36
+38	the	the		dt	art								DT	det	39
+39	foundation	foundation		nn		nom							NN	dobj	37
+40	for	for	in+npostmod	in	nmod								IN	prep	39
+41	the	the		dt	art								DT	det	42
+42	success	success		nn		nom							NN	pobj	40
+43	of	of	of+npostmod	in	nmod								IN	prep	42
+44	the	the		dt	art								DT	det	46
+45	cooperative	cooperative	attr+npremod	jj	attr								JJ	amod	46
+46	learning	learning		nn		nom							NN	pobj	43
+47	used	use	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	46
+48	in	in	in+advl	in	advl								IN	prep	47
+49	my	my		dt	poss								PRP$	poss	50
+50	lesson	lesson		nn									NN	pobj	48
+51	.	.											.	punct	36
+
+#sentid = 54
+0													_SP	dep	7
+1	As	as		cs	cs_othr								IN	mark	3
+2	I	i		pro	1st	sg							PRP	nsubj	3
+3	planned	plan	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		other_advl		VBD	advcl	7
+4	my	my		dt	poss								PRP$	poss	5
+5	lesson	lesson		nn									NN	dobj	3
+6	I	i		pro	1st	sg							PRP	nsubj	7
+7	began	begin		vbmain	vblex	past	simple	active					VBD	ROOT	7
+8	to	to		to									TO	aux	9
+9	realize	realize	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	7
+10	how	how	rb+jjrbmod	rb	adjmod								WRB	advmod	11
+11	important	important		jj	pred								JJ	acomp	15
+12	student	student	nn+npremod	nn		nom	npremod						NN	compound	13
+13	motivation	motivation		nn		nom							NN	nsubj	15
+14	would	would		vbaux	mod	prd							MD	aux	15
+15	be	be	thatcls+vcomp	vbmain	be	vp_w_modal	simple	active	compcls		vcomp	compdel	VB	ccomp	9
+16	to	to	in+advl	in	advl								IN	prep	15
+17	the	the		dt	art								DT	det	18
+18	success	success		nn		nom							NN	pobj	16
+19	of	of	of+npostmod	in	nmod								IN	prep	18
+20	it	it		pro	3rd	sg							PRP	pobj	19
+21	.	.											.	punct	7
+
+#sentid = 55
+0	If	if		cs	cnd								IN	mark	2
+1	students	student		nn	pl	nom							NNS	nsubj	2
+2	were	be	finitecls+advl	vbmain	be	past	simple	active	advlcls		conditional		VBD	advcl	16
+3	not	not											RB	neg	2
+4	motivated	motivate		jj	pred	ed							VBN	acomp	2
+5	to	to		to									TO	aux	6
+6	participate	participate	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	4
+7	,	,											,	punct	6
+8	share	share		vbmain	vblex	nonfinite	simple	active					VB	conj	6
+9	,	,											,	punct	8
+10	or	or		cc	phrs								CC	cc	8
+11	volunteer	volunteer		nn		nom							NN	conj	8
+12	the	the		dt	art								DT	det	13
+13	lesson	lesson		nn									NN	nsubj	16
+14	would	would		vbaux	mod	prd							MD	aux	16
+15	have	have		vbaux									VB	aux	16
+16	flopped	flop		vbmain	vblex	vp_w_modal	perf	active					VBN	ROOT	16
+17	.	.											.	punct	16
+
+#sentid = 56
+0	The	the		dt	art								DT	det	1
+1	lesson	lesson		nn									NN	nsubjpass	3
+2	was	be		vbaux									VBD	auxpass	3
+3	designed	design		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	3
+4	to	to		to									TO	aux	5
+5	engage	engage	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	3
+6	students	student		nn	pl	nom							NNS	dobj	5
+7	and	and		cc	phrs								CC	cc	5
+8	make	make		vbmain	vblex	nonfinite	simple	active					VB	conj	5
+9	them	they		pro	pl								PRP	nsubj	11
+10	active	active	attr+npremod	jj	attr								JJ	amod	11
+11	participants	participant		nn	pl	nom							NNS	ccomp	8
+12	in	in	in+npostmod	in	nmod								IN	prep	11
+13	it	it		pro	3rd	sg							PRP	pobj	12
+14	.	.											.	punct	3
+
+#sentid = 57
+0	I	i		pro	1st	sg							PRP	nsubj	1
+1	feel	feel		vbmain	vblex	pres	simple	active					VBP	ROOT	1
+2	that	that		comp	comp_that								IN	mark	20
+3	if	if		cs	cnd								IN	mark	6
+4	it	it		pro	3rd	sg							PRP	nsubjpass	6
+5	were	be		vbaux									VBD	auxpass	6
+6	designed	design	finitecls+advl	vbmain	vblex	past	simple	pasv_agls	advlcls		conditional		VBN	advcl	20
+7	in	in	in+advl	in	advl								IN	prep	6
+8	way	way		nn									NN	pobj	7
+9	such	such		jj	attr								JJ	amod	13
+10	that	that		relpro	relpro_that								IN	mark	13
+11	the	the		dt	art								DT	det	12
+12	students	student		nn	pl	nom							NNS	nsubj	13
+13	were	be	finitecls+rel	vbmain	be	past	simple	active	nmod_cls	thatcls	rel		VBD	relcl	8
+14	not	not											RB	neg	13
+15	participatory	participatory		jj	pred								JJ	acomp	13
+16	they	they		pro	pl								PRP	nsubj	20
+17	would	would		vbaux	mod	prd							MD	aux	20
+18	not	not											RB	neg	20
+19	have	have		vbaux									VB	aux	20
+20	taken	take	thatcls+vcomp	vbmain	vblex	vp_w_modal	perf	active	compcls	thatcls	vcomp		VBN	ccomp	1
+21	as	as		rb	othr								RB	advmod	22
+22	much	much											JJ	dobj	20
+23	away	away	rb+advl	rb	advl								RB	advmod	20
+24	from	from		in	in_othr								IN	prep	23
+25	it	it		pro	3rd	sg							PRP	pobj	24
+26	.	.											.	punct	1
+
+#sentid = 58
+0	The	the		dt	art								DT	det	1
+1	aspects	aspect		nn	pl								NNS	nsubj	13
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	motivation	motivation		nn		nom							NN	pobj	2
+4	that	that		relpro	relpro_that	sg							WDT	nsubj	7
+5	I	i		pro	1st	sg							PRP	nsubj	7
+6	could	could		vbaux	mod	pos							MD	aux	7
+7	see	see	finitecls+rel	vbmain	vblex	vp_w_modal	simple	active	nmod_cls	thatcls	rel		VB	relcl	1
+8	working	work	ingcls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	vcomp		VBG	xcomp	7
+9	well	well	rb+advl	rb	advl								RB	advmod	8
+10	in	in	in+advl	in	advl								IN	prep	8
+11	the	the		dt	art								DT	det	12
+12	lesson	lesson		nn									NN	pobj	10
+13	were	be		vbmain	be	past	simple	active					VBD	ROOT	13
+14	that	that		comp	comp_that								IN	mark	26
+15	there	there											EX	expl	16
+16	were	be		vbmain	be	past	simple	active	compcls		vcomp	compdel	VBD	ccomp	26
+17	clear	clear	attr+npremod	jj	attr								JJ	amod	18
+18	goals	goal		nn	pl	nom							NNS	attr	16
+19	to	to	in+npostmod	in	nmod								IN	prep	18
+20	each	each		dt									DT	det	21
+21	activity	activity		nn		nom							NN	pobj	19
+22	,	,											,	punct	26
+23	students	student		nn	pl	nom							NNS	nsubj	26
+24	were	be		vbaux									VBD	aux	26
+25	clearly	clearly	rb+advl	rb	advl	ly	splaux						RB	advmod	26
+26	exerting	exert	thatcls+vcomp	vbmain	vblex	past	prog	active	compcls	thatcls	vcomp		VBG	ccomp	13
+27	mental	mental	attr+npremod	jj	attr								JJ	amod	28
+28	effort	effort		nn									NN	dobj	26
+29	and	and		cc	phrs								CC	cc	28
+30	cognitive	cognitive	attr+npremod	jj	attr								JJ	amod	31
+31	energy	energy		nn									NN	conj	28
+32	to	to	in+advl	in	advl								IN	prep	26
+33	the	the		dt	art								DT	det	34
+34	tasks	task		nn	pl								NNS	pobj	32
+35	,	,											,	punct	26
+36	and	and		cc	phrs								CC	cc	26
+37	being	be		vbmain	be	nonfinite	simple	active		ingcls			VBG	conj	26
+38	persistent	persistent		jj	pred								JJ	acomp	37
+39	in	in	in+jcomp	in	jcomp								IN	prep	38
+40	their	their		dt	poss								PRP$	poss	41
+41	work	work		nn									NN	pobj	39
+42	when	when		rb	advl								WRB	advmod	44
+43	they	they		pro	pl								PRP	nsubj	44
+44	encountered	encounter	finitecls+advl	vbmain	vblex	past	simple	active	advlcls	whcls			VBD	advcl	37
+45	difficulty	difficulty		nn									NN	dobj	44
+46	.	.											.	punct	13
+
+#sentid = 59
+0	Although	although		cs	con								IN	mark	2
+1	I	i		pro	1st	sg							PRP	nsubj	2
+2	noticed	notice	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		concessive		VBD	advcl	8
+3	these	these		dt	dt_dem								DT	det	4
+4	indicators	indicator		nn	pl	nom							NNS	dobj	2
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	motivation	motivation		nn		nom							NN	pobj	5
+7	I	i		pro	1st	sg							PRP	nsubj	8
+8	am	be		vbmain	be	pres	simple	active					VBP	ROOT	8
+9	conflicted	conflicted		jj	pred								JJ	acomp	8
+10	as	as	in+jcomp	in	jcomp								IN	prep	9
+11	to	to											IN	pcomp	10
+12	whether	whether		cs	cs_othr								IN	mark	14
+13	to	to		to									TO	aux	14
+14	attribute	attribute		vbmain	vblex	nonfinite	simple	active	compcls	tocls	other_advl		VB	pcomp	10
+15	these	these		dt	dt_dem								DT	det	16
+16	behaviors	behavior		nn	pl	nom							NNS	dobj	14
+17	to	to	in+advl	in	advl								IN	prep	14
+18	intrinsic	intrinsic	attr+npremod	jj	attr								JJ	amod	21
+19	or	or		cc	phrs								CC	cc	18
+20	extrinsic	extrinsic											JJ	conj	18
+21	motivation	motivation		nn		nom							NN	pobj	17
+22	.	.											.	punct	8
+
+#sentid = 60
+0	I	i		pro	1st	sg							PRP	nsubj	2
+1	would	would		vbaux	mod	prd							MD	aux	2
+2	like	like		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	2
+3	to	to		to									TO	aux	4
+4	think	think	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	2
+5	that	that		comp	comp_that								IN	mark	8
+6	the	the		dt	art								DT	det	7
+7	students	student		nn	pl	nom							NNS	nsubj	8
+8	were	be	thatcls+vcomp	vbmain	be	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	4
+9	engaged	engage		jj	pred	ed							VBN	acomp	8
+10	and	and		cc	phrs								CC	cc	9
+11	trying	try		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	conj	9
+12	because	because		cs	cos								IN	mark	14
+13	I	i		pro	1st	sg							PRP	nsubj	14
+14	am	be	finitecls+advl	vbmain	be	pres	simple	active	advlcls		causative		VBP	advcl	8
+15	such	such											PDT	predet	18
+16	a	a		dt	art								DT	det	18
+17	great	great	attr+npremod	jj	attr								JJ	amod	18
+18	teacher	teacher		nn		nom							NN	attr	14
+19	and	and		cc	phrs								CC	cc	14
+20	had	have		vbmain	vblex	past	simple	active					VBD	conj	14
+21	a	a		dt	art								DT	det	24
+22	really	really	rb+jjrbmod	rb	adjmod	ly							RB	advmod	23
+23	great	great	attr+npremod	jj	attr								JJ	amod	24
+24	lesson	lesson		nn									NN	dobj	20
+25	.	.											.	punct	2
+
+#sentid = 61
+0	The	the		dt	art								DT	det	3
+1	more	more	rb+jjrbmod	rb	adjmod								RBR	advmod	2
+2	likely	likely	attr+npremod	jj	attr								JJ	amod	3
+3	conclusion	conclusion		nn									NN	nsubj	4
+4	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	4
+5	that	that		comp	comp_that								IN	mark	8
+6	the	the		dt	art								DT	det	7
+7	students	student		nn	pl	nom							NNS	nsubj	8
+8	were	be	thatcls+vcomp	vbmain	be	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	4
+9	on	on	in+advl	in	advl								IN	prep	8
+10	their	their		dt	poss								PRP$	poss	12
+11	best	good	attr+npremod	jj	attr								JJS	amod	12
+12	behavior	behavior		nn		nom							NN	pobj	9
+13	and	and		cc									CC	cc	9
+14	trying	try		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	conj	9
+15	because	because		cs	cos								IN	mark	17
+16	I	i		pro	1st	sg							PRP	nsubj	17
+17	am	be	finitecls+advl	vbmain	be	pres	simple	active	advlcls		causative		VBP	advcl	8
+18	a	a		dt	art								DT	det	20
+19	student	student	nn+npremod	nn		nom	npremod						NN	compound	20
+20	teacher	teacher		nn		nom							NN	attr	17
+21	and	and		cc	cls								CC	cc	17
+22	they	they		pro	pl								PRP	nsubj	24
+23	usually	usually	rb+advl	rb	advl	ly							RB	advmod	24
+24	behave	behave		vbmain	vblex	pres	simple	active					VBP	conj	17
+25	better	well	rb+advl	rb	advl								RBR	advmod	24
+26	when	when		rb	advl								WRB	advmod	28
+27	I	i		pro	1st	sg							PRP	nsubj	28
+28	teach	teach	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls	whcls			VBP	advcl	24
+29	.	.											.	punct	4
+
+#sentid = 62
+0	Perhaps	perhaps	rb+advl	rb	advl								RB	advmod	6
+1	my	my		dt	poss								PRP$	poss	3
+2	cooperating	cooperate	attr+npremod	jj	attr	ing							VBG	amod	3
+3	teacher	teacher		nn		nom							NN	nsubj	6
+4	had	have		vbaux									VBD	aux	6
+5	"	"											``	punct	6
+6	threatened	threaten		vbmain	vblex	past	perf	active					VBN	ROOT	6
+7	"	"											''	punct	6
+8	them	they		pro	pl								PRP	dobj	6
+9	in	in	in+advl	in	advl								IN	prep	6
+10	some	some		dt									DT	det	11
+11	way	way		nn									NN	pobj	9
+12	to	to		to									TO	aux	13
+13	coerce	coerce	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	6
+14	their	their		dt	poss								PRP$	poss	16
+15	good	good	attr+npremod	jj	attr								JJ	amod	16
+16	behavior	behavior		nn		nom							NN	dobj	13
+17	and	and		cc	phrs								CC	cc	16
+18	effort	effort		nn									NN	conj	16
+19	.	.											.	punct	6
+
+#sentid = 63
+0	At	at	in+advl	in	advl								IN	prep	6
+1	the	the		dt	art								DT	det	3
+2	same	same	attr+npremod	jj	attr								JJ	amod	3
+3	time	time		nn									NN	pobj	0
+4	though	though		rb	link								IN	advmod	6
+5	these	these		pro	dem	pl							DT	nsubj	6
+6	are	be		vbmain	be	pres	simple	active	compcls		vcomp	compdel	VBP	ccomp	27
+7	really	really	rb+jjrbmod	rb	adjmod	ly							RB	advmod	8
+8	excellent	excellent	attr+npremod	jj	attr								JJ	amod	9
+9	students	student		nn	pl	nom							NNS	attr	6
+10	and	and		cc	cls								CC	cc	6
+11	they	they		pro	pl								PRP	nsubj	13
+12	must	must		vbaux	mod	nec							MD	aux	13
+13	have	have		vbmain	vblex	vp_w_modal	simple	active					VB	conj	6
+14	at	at		rb	othr								IN	advmod	15
+15	least	least		rb	othr								JJS	advmod	18
+16	some	some		dt									DT	det	18
+17	intrinsic	intrinsic	attr+npremod	jj	attr								JJ	amod	18
+18	motivation	motivation		nn		nom							NN	dobj	13
+19	that	that		relpro	relpro_that	sg							WDT	nsubj	20
+20	keeps	keep	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls	thatcls	rel		VBZ	relcl	18
+21	them	they		pro	pl								PRP	dobj	20
+22	going	go	ingcls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	vcomp		VBG	xcomp	20
+23	,	,											,	punct	27
+24	after	after	rb+jjrbmod	rb	othr								RB	advmod	25
+25	all	all	rb+advl	rb	advl								RB	advmod	27
+26	they	they		pro	pl								PRP	nsubj	27
+27	attend	attend		vbmain	vblex	pres	simple	active					VBP	ROOT	27
+28	one	one		pro	other	pl							CD	dobj	27
+29	of	of		in	in_othr								IN	prep	28
+30	the	the		dt	art								DT	det	34
+31	top	top	attr+npremod	jj	attr								JJ	amod	34
+32	fifty	fifty											CD	nummod	34
+33	high	high	attr+npremod	jj	attr								JJ	amod	34
+34	schools	school		nn	pl								NNS	pobj	29
+35	in	in	in+npostmod	in	nmod								IN	prep	34
+36	America	america		nn		proper							NNP	pobj	35
+37	,	,											,	punct	27
+38	according	accord		vbmain	advl	nonfinite	simple	active		ingcls			VBG	prep	27
+39	to	to	in+advl	in	advl								IN	prep	38
+40	Newsweek	newsweek		nn		proper							NNP	pobj	39
+41	.	.											.	punct	27
+
+#sentid = 64
+0	Overall	overall	rb+advl	rb	advl								RB	advmod	2
+1	there	there											EX	expl	2
+2	were	be		vbmain	be	past	simple	active					VBD	ROOT	2
+3	probably	probably	rb+advl	rb	advl	ly							RB	advmod	2
+4	many	many	attr+npremod	jj	attr								JJ	amod	6
+5	motivation	motivation	nn+npremod	nn		nom	npremod						NN	compound	6
+6	factors	factor		nn	pl	nom							NNS	attr	2
+7	in	in	in+advl	in	advl								IN	prep	2
+8	play	play		nn									NN	pobj	7
+9	when	when		rb	advl								WRB	advmod	12
+10	I	i		pro	1st	sg							PRP	nsubj	12
+11	was	be		vbaux									VBD	aux	12
+12	teaching	teach	finitecls+advl	vbmain	vblex	past	prog	active	advlcls	whcls			VBG	advcl	2
+13	this	this		dt	dt_dem								DT	det	14
+14	lesson	lesson		nn									NN	dobj	12
+15	,	,											,	punct	2
+16	yet	yet		cc	cls								CC	cc	2
+17	I	i		pro	1st	sg							PRP	nsubj	18
+18	think	think		vbmain	vblex	pres	simple	active					VBP	conj	2
+19	they	they		pro	pl								PRP	nsubj	21
+20	all	all											DT	appos	19
+21	came	come	thatcls+vcomp	vbmain	vblex	past	simple	active	compcls		vcomp	compdel	VBD	ccomp	18
+22	together	together	rb+advl	rb	advl								RB	advmod	21
+23	quite	quite	rb+jjrbmod	rb	othr								RB	advmod	24
+24	well	well	rb+advl	rb	advl								RB	advmod	21
+25	and	and		cc	phrs								CC	cc	21
+26	enhanced	enhance		vbmain	vblex	past	simple	active					VBD	conj	21
+27	the	the		dt	art								DT	det	28
+28	quality	quality		nn		nom							NN	dobj	26
+29	of	of	of+npostmod	in	nmod								IN	prep	28
+30	the	the		dt	art								DT	det	31
+31	lesson	lesson		nn									NN	pobj	29
+32	.	.											.	punct	18
+
+#sentid = 65
+0													_SP	dep	4
+1	This	this		dt	dt_dem								DT	det	2
+2	lesson	lesson		nn									NN	nsubj	4
+3	also	also	rb+advl	rb	advl								RB	advmod	4
+4	contained	contain		vbmain	vblex	past	simple	active					VBD	ROOT	4
+5	aspects	aspect		nn	pl								NNS	dobj	4
+6	of	of	of+npostmod	in	nmod								IN	prep	5
+7	formal	formal	attr+npremod	jj	attr								JJ	amod	10
+8	and	and		cc	phrs								CC	cc	7
+9	informal	informal											JJ	conj	7
+10	assessment	assessment		nn		nom							NN	pobj	6
+11	.	.											.	punct	4
+
+#sentid = 66
+0	Much	much											JJ	nsubj	10
+1	of	of	in+jcomp	in	jcomp								IN	prep	0
+2	the	the		dt	art								DT	det	3
+3	assessment	assessment		nn		nom							NN	pobj	1
+4	that	that		pro	dem	sg							WDT	dobj	6
+5	I	i		pro	1st	sg							PRP	nsubj	6
+6	did	do	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls		rel		VBD	relcl	3
+7	throughout	throughout	in+advl	in	advl								IN	prep	6
+8	the	the		dt	art								DT	det	9
+9	lesson	lesson		nn									NN	pobj	7
+10	was	be		vbmain	be	past	simple	active					VBD	ROOT	10
+11	informal	informal		jj	pred								JJ	acomp	10
+12	and	and		cc	phrs								CC	cc	11
+13	formative	formative											JJ	conj	11
+14	.	.											.	punct	10
+
+#sentid = 67
+0	This	this		dt	dt_dem								DT	det	2
+1	formative	formative	attr+npremod	jj	attr								JJ	amod	2
+2	assessment	assessment		nn		nom							NN	nsubjpass	4
+3	was	be		vbaux									VBD	auxpass	4
+4	done	do		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	4
+5	throughout	throughout	in+advl	in	advl								IN	prep	4
+6	the	the		dt	art								DT	det	7
+7	lesson	lesson		nn									NN	pobj	5
+8	as	as		cs	cs_othr								IN	mark	10
+9	I	i		pro	1st	sg							PRP	nsubj	10
+10	asked	ask	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		other_advl		VBD	advcl	4
+11	students	student		nn	pl	nom							NNS	dative	10
+12	questions	question		nn	pl	nom							NNS	dobj	10
+13	,	,											,	punct	10
+14	evaluated	evaluate		vbmain	vblex	past	simple	active					VBD	dep	10
+15	their	their		dt	poss								PRP$	poss	16
+16	answers	answer		nn	pl	nom							NNS	dobj	14
+17	,	,											,	punct	10
+18	and	and		cc	phrs								CC	cc	10
+19	as	as											IN	conj	10
+20	when	when		comp	comp_wh								WRB	advmod	22
+21	I	i		pro	1st	sg							PRP	nsubj	22
+22	probed	probe	whcls+incomp	vbmain	vblex	past	simple	active	compcls	whcls	incomp		VBD	pcomp	19
+23	students	student		nn	pl	nom							NNS	dobj	22
+24	for	for	in+advl	in	advl								IN	prep	22
+25	deeper	deep	attr+npremod	jj	attr								JJR	amod	26
+26	thinking	thinking		nn		nom							NN	pobj	24
+27	and	and		cc	phrs								CC	cc	26
+28	knowledge	knowledge		nn									NN	conj	26
+29	.	.											.	punct	4
+
+#sentid = 68
+0	This	this		dt	dt_dem								DT	det	2
+1	formative	formative	attr+npremod	jj	attr								JJ	amod	2
+2	assessment	assessment		nn		nom							NN	nsubj	3
+3	served	serve		vbmain	prepv	past	simple	active					VBD	ROOT	3
+4	as	as	in+advl	in	advl								IN	prep	3
+5	a	a		dt	art								DT	det	6
+6	guide	guide		nn									NN	pobj	4
+7	to	to	in+npostmod	in	nmod								IN	prep	6
+8	my	my		dt	poss								PRP$	poss	9
+9	teaching	teaching		nn		nom							NN	pobj	7
+10	because	because		cs	cos								IN	mark	12
+11	I	i		pro	1st	sg							PRP	nsubj	12
+12	was	be	finitecls+advl	vbmain	be	past	simple	active	advlcls		causative		VBD	advcl	3
+13	able	able		jj	pred								JJ	acomp	12
+14	asses	asses	thatcls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls		jcomp	compdel	VB	xcomp	13
+15	if	if		cs	cnd								IN	mark	18
+16	students	student		nn	pl	nom							NNS	nsubj	18
+17	were	be		vbaux									VBD	aux	18
+18	understanding	understand		vbmain	vblex	past	prog	active	compcls		conditional	compdel	VBG	ccomp	14
+19	the	the		dt	art								DT	det	20
+20	material	material		nn		nom							NN	dobj	18
+21	throughout	throughout	in+advl	in	advl								IN	prep	18
+22	my	my		dt	poss								PRP$	poss	23
+23	lesson	lesson		nn									NN	pobj	21
+24	,	,											,	punct	18
+25	and	and		cc	cls								CC	cc	18
+26	I	i		pro	1st	sg							PRP	nsubj	29
+27	could	could		vbaux	mod	pos							MD	aux	29
+28	either	either											CC	preconj	29
+29	go	go		vbmain	vblex	vp_w_modal	simple	active					VB	conj	18
+30	back	back	rb+advl	rb	advl								RB	advmod	29
+31	and	and		cc	phrs								CC	cc	29
+32	reinforce	reinforce		vbmain	vblex	nonfinite	simple	active					VB	conj	29
+33	a	a		dt	art								DT	det	34
+34	concept	concept		nn									NN	dobj	32
+35	or	or		cc	phrs								CC	cc	29
+36	move	move		vbmain	vblex	nonfinite	simple	active					VB	conj	29
+37	on	on	in+advl	in	advl								IN	prep	36
+38	to	to		in	in_othr								IN	prep	37
+39	another	another											DT	pobj	38
+40	.	.											.	punct	3
+
+#sentid = 69
+0	Both	both											CC	predet	5
+1	my	my		dt	poss								PRP$	poss	5
+2	formal	formal	attr+npremod	jj	attr								JJ	amod	5
+3	and	and		cc	phrs								CC	cc	2
+4	informal	informal											JJ	conj	2
+5	assessments	assessment		nn	pl	nom							NNS	nsubj	6
+6	stayed	stay		vbmain	vblex	past	simple	active					VBD	ROOT	6
+7	at	at	in+advl	in	advl								IN	prep	6
+8	the	the		dt	art								DT	det	9
+9	level	level		nn									NN	pobj	7
+10	of	of	of+npostmod	in	nmod								IN	prep	9
+11	understand	understand		vbmain	vblex	nonfinite	simple	active	compcls		incomp	compdel	VB	pcomp	10
+12	and	and		cc	phrs								CC	cc	11
+13	apply	apply		vbmain	vblex	nonfinite	simple	active					VB	conj	11
+14	on	on	in+advl	in	advl								IN	prep	13
+15	Bloom	bloom	s+gen	dt	poss	proper	sgen						NNP	poss	17
+16	's	's											POS	case	15
+17	Taxonomy	taxonomy		nn									NN	pobj	14
+18	.	.											.	punct	6
+
+#sentid = 70
+0	The	the		dt	art								DT	det	3
+1	only	only	attr+npremod	jj	attr								JJ	amod	3
+2	higher	high	attr+npremod	jj	attr								JJR	amod	3
+3	level	level		nn									NN	nsubj	11
+4	of	of	of+npostmod	in	nmod								IN	prep	3
+5	thinking	thinking		nn		nom							NN	pobj	4
+6	that	that		pro	dem	sg							WDT	pobj	10
+7	I	i		pro	1st	sg							PRP	nsubj	8
+8	assessed	assess	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls		rel	reldel	VBD	relcl	3
+9	students	student		nn	pl	nom							NNS	dobj	8
+10	on	on	in+advl	in	advl								IN	prep	8
+11	was	be		vbmain	be	past	simple	active					VBD	ROOT	11
+12	the	the		dt	art								DT	det	14
+13	create	create	attr+npremod	jj	attr								VB	amod	14
+14	level	level		nn									NN	attr	11
+15	,	,											,	punct	11
+16	but	but		cc	cls								CC	cc	11
+17	even	even	rb+jjrbmod	rb	othr								RB	advmod	18
+18	then	then		rb	link								RB	advmod	21
+19	I	i		pro	1st	sg							PRP	nsubj	21
+20	had	have		vbaux									VBD	aux	21
+21	guided	guide		vbmain	vblex	past	perf	active					VBN	conj	11
+22	the	the		dt	art								DT	det	23
+23	students	student		nn	pl	nom							NNS	dobj	21
+24	through	through	in+advl	in	advl								IN	prep	21
+25	many	many	attr+npremod	jj	attr								JJ	amod	26
+26	examples	example		nn	pl								NNS	pobj	24
+27	of	of	of+npostmod	in	nmod								IN	prep	26
+28	how	how		comp	comp_wh								WRB	advmod	30
+29	to	to		to									TO	aux	30
+30	create	create		vbmain	vblex	nonfinite	simple	active	compcls	tocls	incomp		VB	pcomp	27
+31	demand	demand	nn+npremod	nn			npremod						NN	compound	32
+32	curves	curve		nn	pl								NNS	dobj	30
+33	so	so		cs	cs_othr								IN	mark	35
+34	it	it		pro	3rd	sg							PRP	nsubj	35
+35	was	be	finitecls+advl	vbmain	be	past	simple	active	advlcls		other_advl		VBD	advcl	30
+36	not	not											RB	neg	35
+37	true	true	attr+npremod	jj	attr								JJ	amod	38
+38	creation	creation		nn		nom							NN	attr	35
+39	.	.											.	punct	21
+
+#sentid = 71
+0	My	my		dt	poss								PRP$	poss	2
+1	formal	formal	attr+npremod	jj	attr								JJ	amod	2
+2	assessment	assessment		nn		nom							NN	nsubj	3
+3	was	be		vbmain	be	past	simple	active					VBD	ROOT	3
+4	the	the		dt	art								DT	det	5
+5	problem	problem		nn									NN	attr	3
+6	set	set	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	5
+7	on	on	in+advl	in	advl								IN	prep	6
+8	the	the		dt	art								DT	det	9
+9	back	back		nn									NN	pobj	7
+10	of	of	of+npostmod	in	nmod								IN	prep	9
+11	the	the		dt	art								DT	det	12
+12	worksheet	worksheet		nn									NN	pobj	10
+13	where	where		rb	advl								WRB	advmod	18
+14	I	i		pro	1st	sg							PRP	nsubj	15
+15	were	be	finitecls+rel	vbmain	be	past	simple	active	nmod_cls		rel	reldel	VBD	relcl	5
+16	to	to		to									TO	aux	18
+17	appropriately	appropriately	rb+advl	rb	advl	ly	splaux						RB	advmod	18
+18	shift	shift	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	15
+19	demand	demand	nn+npremod	nn			npremod						NN	compound	20
+20	curves	curve		nn	pl								NNS	dobj	18
+21	based	base	edcls+advl	vbmain	advl	nonfinite	simple	active		edcls			VBN	prep	18
+22	on	on	in+advl	in	advl								IN	prep	21
+23	the	the		dt	art								DT	det	24
+24	scenario	scenario		nn									NN	pobj	22
+25	described	describe	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	24
+26	in	in	in+advl	in	advl								IN	prep	25
+27	each	each		dt									DT	det	28
+28	problem	problem		nn									NN	pobj	26
+29	.	.											.	punct	3
+
+#sentid = 72
+0	As	as		cs	cs_othr								IN	mark	2
+1	I	i		pro	1st	sg							PRP	nsubj	2
+2	listened	listen	finitecls+advl	vbmain	prepv	past	simple	active	advlcls		other_advl		VBD	advcl	13
+3	to	to	in+advl	in	advl								IN	prep	2
+4	the	the		dt	art								DT	det	5
+5	students	student		nn	pl	nom							NNS	nsubj	6
+6	explain	explain		vbmain	vblex	nonfinite	simple	active	compcls		incomp	compdel	VB	pcomp	3
+7	their	their		dt	poss								PRP$	poss	8
+8	answers	answer		nn	pl	nom							NNS	dobj	6
+9	in	in	in+advl	in	advl								IN	prep	6
+10	this	this		dt	dt_dem								DT	det	11
+11	section	section		nn		nom							NN	pobj	9
+12	I	i		pro	1st	sg							PRP	nsubj	13
+13	was	be		vbmain	be	past	simple	active					VBD	ROOT	13
+14	able	able		jj	pred								JJ	acomp	13
+15	to	to		to									TO	aux	16
+16	see	see	tocls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	jcomp		VB	xcomp	14
+17	where	where		comp	comp_wh								WRB	advmod	20
+18	students	student	nn+npremod	nn	pl	nom	npremod						NNS	compound	19
+19	understanding	understanding		nn		nom							NN	nsubj	20
+20	was	be	whcls+vcomp	vbmain	be	past	simple	active	compcls	whcls	vcomp		VBD	ccomp	16
+21	.	.											.	punct	13
+
+#sentid = 73
+0	I	i		pro	1st	sg							PRP	nsubj	1
+1	think	think		vbmain	vblex	pres	simple	active					VBP	ROOT	1
+2	that	that		comp	comp_that								IN	mark	4
+3	students	student		nn	pl	nom							NNS	nsubj	4
+4	knew	know	thatcls+vcomp	vbmain	vblex	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	1
+5	how	how		rb	advl								WRB	advmod	8
+6	to	to		to									TO	aux	8
+7	appropriately	appropriately	rb+advl	rb	advl	ly	splaux						RB	advmod	8
+8	shift	shift	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	4
+9	them	they		pro	pl								PRP	dobj	8
+10	based	base	edcls+advl	vbmain	advl	nonfinite	simple	active		edcls			VBN	prep	8
+11	o	o	in+advl	in	advl								IN	prep	10
+12	the	the		dt	art								DT	det	14
+13	demand	demand	nn+npremod	nn			npremod						NN	compound	14
+14	shock	shock		nn									NN	pobj	11
+15	described	describe	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	14
+16	,	,											,	punct	1
+17	yet	yet		cc	cls								CC	cc	1
+18	I	i		pro	1st	sg							PRP	nsubj	19
+19	think	think		vbmain	vblex	pres	simple	active					VBP	conj	1
+20	that	that		comp	comp_that								IN	mark	22
+21	they	they		pro	pl								PRP	nsubj	22
+22	were	be	thatcls+vcomp	vbmain	be	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	19
+23	still	still	rb+advl	rb	advl								RB	advmod	22
+24	unclear	unclear		jj	pred								JJ	acomp	22
+25	on	on	in+jcomp	in	jcomp								IN	prep	24
+26	what	what											WP	nsubj	27
+27	is	be	whcls+incomp	vbmain	be	pres	simple	active	compcls	whcls	incomp		VBZ	pcomp	25
+28	and	and		cc	phrs								CC	cc	27
+29	is	be		vbmain	be	pres	simple	active					VBZ	conj	27
+30	not	not											RB	neg	29
+31	a	a		dt	art								DT	det	32
+32	determinant	determinant		nn		nom							NN	attr	29
+33	of	of	of+npostmod	in	nmod								IN	prep	32
+34	demand	demand		nn									NN	pobj	33
+35	and	and		cc	phrs								CC	cc	34
+36	the	the		dt	art								DT	det	37
+37	role	role		nn									NN	conj	34
+38	of	of	of+npostmod	in	nmod								IN	prep	37
+39	price	price		nn									NN	pobj	38
+40	.	.											.	punct	19
+
+#sentid = 74
+0	I	i		pro	1st	sg							PRP	nsubj	3
+1	would	would		vbaux	mod	prd							MD	aux	3
+2	have	have		vbaux									VB	aux	3
+3	addressed	address		vbmain	vblex	vp_w_modal	perf	active					VBN	ROOT	3
+4	this	this		dt	dt_dem								DT	det	5
+5	problem	problem		nn									NN	dobj	3
+6	if	if		cs	cnd								IN	mark	9
+7	I	i		pro	1st	sg							PRP	nsubj	9
+8	had	have		vbaux									VBD	aux	9
+9	had	have	finitecls+advl	vbmain	vblex	past	perf	active	advlcls		conditional		VBN	advcl	3
+10	more	more	attr+npremod	jj	attr								JJR	amod	11
+11	time	time		nn									NN	dobj	9
+12	in	in	in+npostmod	in	nmod								IN	prep	11
+13	the	the		dt	art								DT	det	14
+14	class	class		nn									NN	pobj	12
+15	.	.											.	punct	3
+
+#sentid = 75
+0	I	i		pro	1st	sg							PRP	nsubj	1
+1	think	think		vbmain	vblex	pres	simple	active					VBP	ROOT	1
+2	overall	overall	rb+advl	rb	advl								RB	advmod	6
+3	the	the		dt	art								DT	det	5
+4	formal	formal	attr+npremod	jj	attr								JJ	amod	5
+5	assessment	assessment		nn		nom							NN	nsubj	6
+6	was	be	thatcls+vcomp	vbmain	be	past	simple	active	compcls		vcomp	compdel	VBD	ccomp	1
+7	fair	fair		jj	pred								JJ	acomp	6
+8	.	.											.	punct	1
+
+#sentid = 76
+0	there	there											EX	expl	2
+1	really	really	rb+advl	rb	advl	ly							RB	advmod	2
+2	were	be		vbmain	be	past	simple	active					VBD	ROOT	2
+3	no	no		dt									DT	det	7
+4	"	"											``	punct	7
+5	trick	trick	nn+npremod	nn			npremod						NN	nmod	7
+6	"	"											''	punct	7
+7	problems	problem		nn	pl								NNS	attr	2
+8	or	or		cc	phrs								CC	cc	7
+9	anything	anything		nn		nom							NN	conj	7
+10	trying	try	ingcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	ingcls	ncomp		VBG	acl	9
+11	to	to		to									TO	aux	12
+12	throw	throw	tocls+vcomp	vbmain	phrsv	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	10
+13	the	the		dt	art								DT	det	14
+14	student	student		nn		nom							NN	dobj	12
+15	off	off		rb	prtcle								RP	prt	12
+16	.	.											.	punct	2
+
+#sentid = 77
+0	The	the		dt	art								DT	det	2
+1	problem	problem		nn			npremod						NN	compound	2
+2	set	set		vbmain	vblex	nonfinite	simple	active		edcls			VBN	nsubj	3
+3	was	be		vbmain	be	past	simple	active					VBD	ROOT	3
+4	very	very	rb+jjrbmod	rb	adjmod								RB	advmod	6
+5	straight	straight	rb+jjrbmod	rb	adjmod								JJ	advmod	6
+6	forward	forward		jj	pred								JJ	acomp	3
+7	and	and		cc	phrs								CC	cc	3
+8	each	each		dt									DT	det	9
+9	problem	problem		nn									NN	nsubjpass	11
+10	was	be		vbaux									VBD	auxpass	11
+11	meant	mean		vbmain	vblex	past	simple	pasv_agls					VBN	conj	3
+12	to	to		to									TO	aux	13
+13	assess	assess	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	11
+14	understanding	understanding		nn		nom							NN	dobj	13
+15	of	of	of+npostmod	in	nmod								IN	prep	14
+16	a	a		dt	art								DT	det	18
+17	particular	particular	attr+npremod	jj	attr								JJ	amod	18
+18	concept	concept		nn									NN	pobj	15
+19	.	.											.	punct	11
+
+#sentid = 78
+0	For	for	in+advl	in	advl								IN	prep	23
+1	example	example		nn									NN	pobj	0
+2	,	,											,	punct	23
+3	if	if		cs	cnd								IN	mark	7
+4	a	a		dt	art								DT	det	5
+5	student	student		nn		nom							NN	nsubj	7
+6	incorrectly	incorrectly	rb+advl	rb	advl	ly							RB	advmod	7
+7	answered	answer	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		conditional		VBD	advcl	23
+8	problem	problem	nn+npremod	nn			npremod						NN	compound	9
+9	number	number		nn		nom							NN	dobj	7
+10	seven	seven											CD	nummod	9
+11	,	,											,	punct	9
+12	about	about	in+npostmod	in	nmod								IN	prep	9
+13	a	a		dt	art								DT	det	14
+14	change	change		nn									NN	pobj	12
+15	in	in	in+npostmod	in	nmod								IN	prep	14
+16	the	the		dt	art								DT	det	17
+17	price	price		nn									NN	pobj	15
+18	of	of	of+npostmod	in	nmod								IN	prep	17
+19	orange	orange	nn+npremod	nn			npremod						NN	compound	20
+20	juice	juice		nn									NN	pobj	18
+21	,	,											,	punct	23
+22	I	i		pro	1st	sg							PRP	nsubj	23
+23	know	know		vbmain	vblex	pres	simple	active					VBP	ROOT	23
+24	that	that		comp	comp_that								IN	mark	29
+25	that	that		dt	dt_dem								DT	det	26
+26	student	student		nn		nom							NN	nsubj	29
+27	does	do		vbaux									VBZ	aux	29
+28	not	not											RB	neg	29
+29	understand	understand	thatcls+vcomp	vbmain	vblex	pres	simple	active	compcls	thatcls	vcomp		VB	ccomp	23
+30	that	that		comp	comp_that								IN	mark	32
+31	price	price		nn									NN	nsubj	32
+32	is	be	thatcls+vcomp	vbmain	be	pres	simple	active	compcls	thatcls	vcomp		VBZ	ccomp	29
+33	not	not											RB	neg	32
+34	a	a		dt	art								DT	det	35
+35	determinant	determinant		nn		nom							NN	attr	32
+36	of	of	of+npostmod	in	nmod								IN	prep	35
+37	demand	demand		nn									NN	pobj	36
+38	.	.											.	punct	23
+
+#sentid = 79
+0	In	in	in+advl	in	advl								IN	prep	5
+1	this	this		dt	dt_dem								DT	det	2
+2	way	way		nn									NN	pobj	0
+3	the	the		dt	art								DT	det	4
+4	assessment	assessment		nn		nom							NN	nsubj	5
+5	was	be		vbmain	be	past	simple	active					VBD	ROOT	5
+6	very	very	rb+jjrbmod	rb	adjmod								RB	advmod	7
+7	focused	focused		jj	pred								JJ	acomp	5
+8	and	and		cc	phrs								CC	cc	5
+9	can	can		vbaux	mod	pos							MD	aux	10
+10	provide	provide		vbmain	vblex	vp_w_modal	simple	active					VB	conj	5
+11	me	i		pro	1st	sg							PRP	dobj	10
+12	with	with	in+advl	in	advl								IN	prep	10
+13	meaningful	meaningful	attr+npremod	jj	attr								JJ	amod	14
+14	feedback	feedback		nn									NN	pobj	12
+15	.	.											.	punct	5
+
+#sentid = 80
+0													_SP	dep	2
+1	I	i		pro	1st	sg							PRP	nsubj	2
+2	believe	believe		vbmain	vblex	pres	simple	active					VBP	ROOT	2
+3	that	that		comp	comp_that								IN	mark	6
+4	this	this		dt	dt_dem								DT	det	5
+5	lesson	lesson		nn									NN	nsubj	6
+6	was	be	thatcls+vcomp	vbmain	be	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	2
+7	a	a		dt	art								DT	det	10
+8	very	very	rb+jjrbmod	rb	adjmod								RB	advmod	9
+9	good	good	attr+npremod	jj	attr								JJ	amod	10
+10	introduction	introduction		nn		nom							NN	attr	6
+11	to	to	in+npostmod	in	nmod								IN	prep	10
+12	the	the		dt	art								DT	det	13
+13	concept	concept		nn									NN	pobj	11
+14	of	of	of+npostmod	in	nmod								IN	prep	13
+15	demand	demand		nn									NN	pobj	14
+16	,	,											,	punct	6
+17	met	meet		vbmain	vblex	past	simple	active					VBD	conj	6
+18	my	my		dt	poss								PRP$	poss	19
+19	objectives	objective		nn	pl								NNS	dobj	17
+20	,	,											,	punct	17
+21	and	and		cc	phrs								CC	cc	17
+22	most	most	rb+jjrbmod	rb	othr								RBS	advmod	23
+23	importantly	importantly	rb+advl	rb	advl	ly							RB	advmod	24
+24	provided	provide		vbmain	vblex	past	simple	active					VBD	conj	17
+25	the	the		dt	art								DT	det	26
+26	students	student		nn	pl	nom							NNS	dobj	24
+27	with	with	in+advl	in	advl								IN	prep	24
+28	a	a		dt	art								DT	det	30
+29	solid	solid	attr+npremod	jj	attr								JJ	amod	30
+30	foundation	foundation		nn		nom							NN	pobj	27
+31	in	in	in+npostmod	in	nmod								IN	prep	30
+32	the	the		dt	art								DT	det	33
+33	concept	concept		nn									NN	pobj	31
+34	that	that		relpro	relpro_that	sg							WDT	nsubj	36
+35	will	will		vbaux	mod	prd							MD	aux	36
+36	help	help	finitecls+rel	vbmain	vblex	vp_w_modal	simple	active	nmod_cls	thatcls	rel		VB	relcl	30
+37	them	they		pro	pl								PRP	nsubj	38
+38	understand	understand		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	ccomp	36
+39	it	it		pro	3rd	sg							PRP	dobj	38
+40	into	into	in+advl	in	advl								IN	prep	38
+41	the	the		dt	art								DT	det	42
+42	future	future		nn		nom							NN	pobj	40
+43	.	.											.	punct	2
+
+#sentid = 81
+0	When	when		rb	advl								WRB	advmod	2
+1	I	i		pro	1st	sg							PRP	nsubj	2
+2	teach	teach	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls	whcls			VBP	advcl	7
+3	this	this		dt	dt_dem								DT	det	4
+4	lesson	lesson		nn									NN	dobj	2
+5	again	again	rb+advl	rb	advl								RB	advmod	2
+6	there	there											EX	expl	7
+7	are	be		vbmain	be	pres	simple	active					VBP	ROOT	7
+8	two	two											CD	nummod	9
+9	things	thing		nn	pl	nom							NNS	attr	7
+10	that	that		pro	dem	sg							WDT	dobj	13
+11	I	i		pro	1st	sg							PRP	nsubj	13
+12	would	would		vbaux	mod	prd							MD	aux	13
+13	do	do	finitecls+rel	vbmain	vblex	vp_w_modal	simple	active	nmod_cls		rel		VB	relcl	9
+14	differently	differently	rb+advl	rb	advl	ly							RB	advmod	13
+15	.	.											.	punct	7
+
+#sentid = 82
+0	First	first		rb	link								RB	advmod	5
+1	,	,											,	punct	5
+2	I	i		pro	1st	sg							PRP	nsubj	5
+3	would	would		vbaux	mod	prd							MD	aux	5
+4	n't	not											RB	neg	5
+5	allow	allow		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	5
+6	students	student		nn	pl	nom							NNS	nsubj	8
+7	to	to		to									TO	aux	8
+8	use	use		vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	ccomp	5
+9	their	their		dt	poss								PRP$	poss	10
+10	books	book		nn	pl								NNS	dobj	8
+11	when	when		rb	advl								WRB	advmod	13
+12	they	they		pro	pl								PRP	nsubj	13
+13	come	come	finitecls+advl	vbmain	phrsv	pres	simple	active	advlcls	whcls			VBP	advcl	8
+14	up	up		rb	prtcle								RP	prt	13
+15	with	with	in+advl	in	advl								IN	prep	13
+16	their	their		dt	poss								PRP$	poss	17
+17	definitions	definition		nn	pl	nom							NNS	pobj	15
+18	because	because		cs	cos								IN	mark	20
+19	I	i		pro	1st	sg							PRP	nsubj	20
+20	think	think	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		causative		VBP	advcl	5
+21	that	that		comp	comp_that								IN	mark	24
+22	the	the		dt	art								DT	det	23
+23	students	student		nn	pl	nom							NNS	nsubj	24
+24	need	need	thatcls+vcomp	vbmain	vblex	pres	simple	active	compcls	thatcls	vcomp		VBP	ccomp	20
+25	to	to		to									TO	aux	26
+26	be	be		vbmain	be	nonfinite	simple	active	compcls		vcomp	compdel	VB	xcomp	24
+27	able	able		jj	pred								JJ	acomp	26
+28	to	to		to									TO	aux	29
+29	learn	learn	tocls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	jcomp		VB	xcomp	27
+30	from	from	in+advl	in	advl								IN	prep	29
+31	their	their		dt	poss								PRP$	poss	32
+32	peers	peer		nn	pl	nom							NNS	pobj	30
+33	and	and		cc	phrs								CC	cc	29
+34	rely	rely		vbmain	prepv	nonfinite	simple	active					VB	conj	29
+35	on	on	in+advl	in	advl								IN	prep	34
+36	other	other	attr+npremod	jj	attr								JJ	amod	37
+37	things	thing		nn	pl	nom							NNS	pobj	35
+38	outside	outside		rb	othr								RB	advmod	37
+39	of	of		in	in_othr								IN	prep	38
+40	"	"											``	punct	41
+41	experts	expert		nn	pl								NNS	pobj	39
+42	"	"											''	punct	41
+43	or	or		cc	phrs								CC	cc	41
+44	textbooks	textbook		nn	pl								NNS	conj	41
+45	.	.											.	punct	5
+
+#sentid = 83
+0	This	this		pro	dem	sg							DT	nsubj	3
+1	also	also	rb+advl	rb	advl								RB	advmod	3
+2	would	would		vbaux	mod	prd							MD	aux	3
+3	enhance	enhance		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	3
+4	the	the		dt	art								DT	det	5
+5	aspects	aspect		nn	pl								NNS	dobj	3
+6	of	of	of+npostmod	in	nmod								IN	prep	5
+7	cooperative	cooperative	attr+npremod	jj	attr								JJ	amod	8
+8	learning	learning		nn		nom							NN	pobj	6
+9	that	that		pro	dem	sg							WDT	dobj	14
+10	I	i		pro	1st	sg							PRP	nsubj	12
+11	was	be		vbaux									VBD	aux	12
+12	trying	try	finitecls+rel	vbmain	vblex	past	prog	active	nmod_cls		rel	reldel	VBG	relcl	5
+13	to	to		to									TO	aux	14
+14	emphasize	emphasize	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	12
+15	in	in	in+advl	in	advl								IN	prep	14
+16	this	this		dt	dt_dem								DT	det	17
+17	lesson	lesson		nn									NN	pobj	15
+18	.	.											.	punct	3
+
+#sentid = 84
+0	The	the		dt	art								DT	det	2
+1	second	second	attr+npremod	jj	attr								JJ	amod	2
+2	thing	thing		nn		nom							NN	nsubj	8
+3	that	that		pro	dem	sg							WDT	dobj	6
+4	I	i		pro	1st	sg							PRP	nsubj	6
+5	would	would		vbaux	mod	prd							MD	aux	6
+6	do	do	finitecls+rel	vbmain	vblex	vp_w_modal	simple	active	nmod_cls		rel		VB	relcl	2
+7	differently	differently	rb+advl	rb	advl	ly							RB	advmod	6
+8	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	8
+9	to	to		to									TO	aux	10
+10	have	have	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	8
+11	examples	example		nn	pl								NNS	dobj	10
+12	from	from	in+npostmod	in	nmod								IN	prep	11
+13	everyday	everyday	attr+npremod	jj	attr								JJ	amod	14
+14	life	life		nn									NN	pobj	12
+15	or	or		cc	phrs								CC	cc	14
+16	current	current	attr+npremod	jj	attr								JJ	amod	17
+17	events	event		nn	pl	nom							NNS	conj	14
+18	to	to		to									TO	aux	19
+19	illustrate	illustrate	tocls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	rel		VB	relcl	11
+20	each	each		dt									DT	det	21
+21	objective	objective		nn									NN	dobj	19
+22	.	.											.	punct	8
+
+#sentid = 85
+0	I	i		pro	1st	sg							PRP	nsubj	1
+1	picked	pick		vbmain	vblex	past	simple	active					VBD	ROOT	1
+2	objectives	objective		nn	pl								NNS	dobj	1
+3	based	base	edcls+advl	vbmain	advl	nonfinite	simple	active		edcls			VBN	prep	1
+4	upon	upon	in+advl	in	advl								IN	prep	3
+5	what	what											WP	nsubj	8
+6	I	i		pro	1st	sg							PRP	nsubj	7
+7	thought	think		vbmain	vblex	past	simple	active	compcls		incomp	compdel	VBD	pcomp	4
+8	was	be	whcls+vcomp	vbmain	be	past	simple	active	compcls	whcls	vcomp		VBD	ccomp	7
+9	important	important		jj	pred								JJ	acomp	8
+10	for	for		cs	cs_othr								IN	mark	13
+11	students	student		nn	pl	nom							NNS	nsubj	13
+12	to	to		to									TO	aux	13
+13	know	know	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls	other_advl		VB	advcl	9
+14	,	,											,	punct	1
+15	yet	yet		cc	cls								CC	cc	1
+16	I	i		pro	1st	sg							PRP	nsubj	19
+17	did	do		vbaux									VBD	aux	19
+18	not	not											RB	neg	19
+19	have	have		vbmain	vblex	past	simple	active					VB	conj	1
+20	a	a		dt	art								DT	det	22
+21	good	good	attr+npremod	jj	attr								JJ	amod	22
+22	way	way		nn									NN	dobj	19
+23	of	of	of+npostmod	in	nmod								IN	prep	22
+24	conveying	convey	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	23
+25	that	that		pro	dem	sg							DT	dobj	24
+26	to	to	in+advl	in	advl								IN	prep	24
+27	students	student		nn	pl	nom							NNS	pobj	26
+28	when	when		rb	advl								WRB	advmod	30
+29	they	they		pro	pl								PRP	nsubj	30
+30	wanted	want	finitecls+advl	vbmain	vblex	past	simple	active	advlcls	whcls			VBD	advcl	24
+31	to	to		to									TO	aux	32
+32	know	know		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	xcomp	30
+33	more	more											JJR	dobj	32
+34	about	about	in+jcomp	in	jcomp								IN	prep	33
+35	a	a		dt	art								DT	det	36
+36	topic	topic		nn									NN	pobj	34
+37	.	.											.	punct	19
+
+#sentid = 86
+0	I	i		pro	1st	sg							PRP	nsubj	1
+1	stumbled	stumble		vbmain	vblex	past	simple	active					VBD	ROOT	1
+2	for	for	in+advl	in	advl								IN	prep	1
+3	examples	example		nn	pl								NNS	pobj	2
+4	in	in	in+advl	in	advl								IN	prep	1
+5	the	the		dt	art								DT	det	7
+6	first	first	attr+npremod	jj	attr								JJ	amod	7
+7	period	period		nn									NN	pobj	4
+8	when	when		rb	advl								WRB	advmod	10
+9	students	student		nn	pl	nom							NNS	nsubj	10
+10	asked	ask	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls	whcls	rel		VBD	relcl	7
+11	clarifying	clarify	attr+npremod	jj	attr	ing							VBG	amod	12
+12	questions	question		nn	pl	nom							NNS	dobj	10
+13	.	.											.	punct	1
+
+#sentid = 87
+0	I	i		pro	1st	sg							PRP	nsubj	1
+1	think	think		vbmain	vblex	pres	simple	active					VBP	ROOT	1
+2	that	that		comp	comp_that								IN	mark	14
+3	if	if		cs	cnd								IN	mark	6
+4	I	i		pro	1st	sg							PRP	nsubj	6
+5	had	have		vbaux									VBD	aux	6
+6	had	have	finitecls+advl	vbmain	vblex	past	perf	active	advlcls		conditional		VBN	advcl	14
+7	these	these		pro	dem	pl							DT	nsubj	9
+8	already	already	rb+advl	rb	advl								RB	advmod	9
+9	written	write	thatcls+vcomp	vbmain	phrsv	past	simple	active	compcls		vcomp	compdel	VBN	ccomp	6
+10	down	down		rb	prtcle								RP	prt	9
+11	it	it		pro	3rd	sg							PRP	nsubj	14
+12	would	would		vbaux	mod	prd							MD	aux	14
+13	have	have		vbaux									VB	aux	14
+14	been	be	thatcls+vcomp	vbmain	be	vp_w_modal	perf	active	compcls	thatcls	vcomp		VBN	ccomp	1
+15	easier	easy		jj	pred								JJR	acomp	14
+16	for	for		cs	cs_othr								IN	mark	19
+17	me	i		pro	1st	sg							PRP	nsubj	19
+18	to	to		to									TO	aux	19
+19	answer	answer	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls	other_advl		VB	advcl	15
+20	and	and		cc	phrs								CC	cc	15
+21	clearer	clear											JJR	conj	15
+22	for	for		cs	cs_othr								IN	mark	26
+23	the	the		dt	art								DT	det	24
+24	students	student		nn	pl	nom							NNS	nsubj	26
+25	to	to		to									TO	aux	26
+26	understand	understand	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls	other_advl		VB	advcl	21
+27	.	.											.	punct	1
+
+#sentid = 88
+0	Though	though		cs	con								IN	mark	2
+1	it	it		pro	3rd	sg							PRP	nsubj	2
+2	is	be		vbmain	be	pres	simple	active			concessive		VBZ	ROOT	2
+3	tough	tough		jj	pred								JJ	acomp	2
+4	to	to		to									TO	aux	5
+5	anticipate	anticipate	xtrapos+tocls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	2
+6	every	every		dt									DT	det	7
+7	question	question		nn		nom							NN	dobj	5
+8	and	and		cc	phrs								CC	cc	7
+9	point	point		nn									NN	conj	7
+10	a	a		dt	art								DT	det	11
+11	student	student		nn		nom							NN	nsubj	13
+12	may	may		vbaux	mod	pos							MD	aux	13
+13	raise	raise	finitecls+rel	vbmain	vblex	vp_w_modal	simple	active	nmod_cls		rel	reldel	VB	relcl	7
+14	.	.											.	punct	2
+
+#sentid = 89
+0	I	i		pro	1st	sg							PRP	nsubj	1
+1	felt	feel		vbmain	vblex	past	simple	active					VBD	ROOT	1
+2	comfortable	comfortable		jj	pred								JJ	acomp	1
+3	leading	lead	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	1
+4	the	the		dt	art								DT	det	5
+5	class	class		nn									NN	dobj	3
+6	and	and		cc	cls								CC	cc	1
+7	I	i		pro	1st	sg							PRP	nsubj	8
+8	think	think		vbmain	vblex	pres	simple	active					VBP	conj	1
+9	that	that		comp	comp_that								IN	mark	11
+10	I	i		pro	1st	sg							PRP	nsubj	11
+11	got	get	thatcls+vcomp	vbmain	vblex	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	8
+12	a	a		dt	art								DT	det	13
+13	lot	lot		nn									NN	dobj	11
+14	of	of	of+npostmod	in	nmod								IN	prep	13
+15	good	good	attr+npremod	jj	attr								JJ	amod	16
+16	work	work		nn									NN	pobj	14
+17	and	and		cc	phrs								CC	cc	16
+18	participation	participation		nn		nom							NN	conj	16
+19	from	from	in+advl	in	advl								IN	prep	11
+20	many	many											JJ	pobj	19
+21	of	of	in+jcomp	in	jcomp								IN	prep	20
+22	the	the		dt	art								DT	det	23
+23	students	student		nn	pl	nom							NNS	pobj	21
+24	.	.											.	punct	8
+
+#sentid = 90
+0	Overall	overall	rb+advl	rb	advl								RB	advmod	3
+1	,	,											,	punct	3
+2	I	i		pro	1st	sg							PRP	nsubj	3
+3	am	be		vbmain	be	pres	simple	active					VBP	ROOT	3
+4	confident	confident		jj	pred								JJ	acomp	3
+5	that	that		comp	comp_that								IN	mark	7
+6	this	this		pro	dem	sg							DT	nsubj	7
+7	was	be	thatcls+jcomp	vbmain	be	past	simple	active	compcls	thatcls	jcomp		VBD	ccomp	4
+8	a	a		dt	art								DT	det	11
+9	good	good	attr+npremod	jj	attr								JJ	amod	11
+10	learning	learning	nn+npremod	nn		nom	npremod						NN	compound	11
+11	experience	experience		nn		nom							NN	attr	7
+12	for	for	in+npostmod	in	nmod								IN	prep	11
+13	both	both											CC	preconj	15
+14	the	the		dt	art								DT	det	15
+15	students	student		nn	pl	nom							NNS	pobj	12
+16	and	and		cc	phrs								CC	cc	15
+17	myself	myself		pro	1st	sg							PRP	conj	15
+18	.	.											.	punct	3

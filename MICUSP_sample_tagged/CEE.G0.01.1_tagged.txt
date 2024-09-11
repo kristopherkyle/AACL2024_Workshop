@@ -1,0 +1,2086 @@
+#sentid = 0
+0	The	the		dt	art								DT	det	1
+1	goal	goal		nn		nom							NN	nsubj	5
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	this	this		dt	dt_dem								DT	det	4
+4	lab	lab		nn									NN	pobj	2
+5	was	be		vbmain	be	past	simple	active					VBD	ROOT	5
+6	to	to		to									TO	aux	7
+7	acquaint	acquaint	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	5
+8	ourselves	ourselves		pro	pl								PRP	dobj	7
+9	with	with	in+advl	in	advl								IN	prep	7
+10	the	the		dt	art								DT	det	13
+11	absolute	absolute	attr+npremod	jj	attr								JJ	amod	12
+12	volume	volume	nn+npremod	nn			npremod						NN	compound	13
+13	method	method		nn									NN	pobj	9
+14	used	use	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	13
+15	to	to		to									TO	aux	16
+16	proportion	proportion	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	14
+17	Portland	portland	nn+npremod	nn		proper	npremod						NNP	compound	20
+18	cement	cement	nn+npremod	nn		nom	npremod						NN	compound	19
+19	concrete	concrete	nn+npremod	nn			npremod						NN	compound	20
+20	mixtures	mixture		nn	pl								NNS	dobj	16
+21	and	and		cc	phrs								CC	cc	7
+22	to	to		to									TO	aux	23
+23	develop	develop		vbmain	vblex	nonfinite	simple	active		tocls			VB	conj	7
+24	a	a		dt	art								DT	det	28
+25	specific	specific	attr+npremod	jj	attr								JJ	amod	28
+26	concrete	concrete	attr+npremod	jj	attr								JJ	amod	27
+27	mix	mix	nn+npremod	nn			npremod						NN	compound	28
+28	design	design		nn									NN	dobj	23
+29	for	for	in+advl	in	advl								IN	prep	23
+30	a	a		dt	art								DT	det	32
+31	later	later	attr+npremod	jj	attr								JJ	amod	32
+32	project	project		nn									NN	pobj	29
+33	.	.											.	punct	5
+
+#sentid = 1
+0	We	we		pro	1st								PRP	nsubjpass	2
+1	were	be		vbaux									VBD	auxpass	2
+2	involved	involve		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	2
+3	in	in	in+advl	in	advl								IN	prep	2
+4	all	all											PDT	predet	6
+5	the	the		dt	art								DT	det	6
+6	steps	step		nn	pl								NNS	pobj	3
+7	of	of	of+npostmod	in	nmod								IN	prep	6
+8	calculating	calculate	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	7
+9	proportions	proportion		nn	pl	nom							NNS	dobj	8
+10	for	for	in+npostmod	in	nmod								IN	prep	9
+11	the	the		dt	art								DT	det	12
+12	mix	mix		nn									NN	pobj	10
+13	itself	itself											PRP	appos	12
+14	.	.											.	punct	2
+
+#sentid = 2
+0													_SP	dep	3
+1	We	we		pro	1st								PRP	nsubj	3
+2	also	also	rb+advl	rb	advl								RB	advmod	3
+3	used	use		vbmain	vblex	past	simple	active					VBD	ROOT	3
+4	testing	testing	nn+npremod	nn		nom	npremod						NN	compound	5
+5	procedures	procedure		nn	pl								NNS	dobj	3
+6	such	such		jj	attr								JJ	amod	7
+7	as	as	in+npostmod	in	nmod								IN	prep	5
+8	the	the		dt	art								DT	det	10
+9	slump	slump	nn+npremod	nn			npremod						NN	compound	10
+10	test	test		nn									NN	pobj	7
+11	,	,											,	punct	10
+12	unit	unit	nn+npremod	nn			npremod						NN	compound	13
+13	weight	weight		nn									NN	conj	10
+14	,	,											,	punct	13
+15	and	and		cc	phrs								CC	cc	13
+16	amount	amount		nn									NN	conj	13
+17	of	of	of+npostmod	in	nmod								IN	prep	16
+18	air	air		nn									NN	pobj	17
+19	entrained	entrain	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	18
+20	per	per	in+npostmod	in	nmod								IN	prep	16
+21	unit	unit	nn+npremod	nn			npremod						NN	compound	22
+22	volume	volume		nn									NN	pobj	20
+23	.	.											.	punct	3
+
+#sentid = 3
+0	Finally	finally		rb	link	ly							RB	advmod	2
+1	we	we		pro	1st								PRP	nsubj	2
+2	mixed	mix		vbmain	vblex	past	simple	active					VBD	ROOT	2
+3	our	our		dt	poss								PRP$	poss	5
+4	own	own	attr+npremod	jj	attr								JJ	amod	5
+5	proportions	proportion		nn	pl	nom							NNS	dobj	2
+6	of	of	of+npostmod	in	nmod								IN	prep	5
+7	components	component		nn	pl	nom							NNS	pobj	6
+8	and	and		cc	phrs								CC	cc	2
+9	created	create		vbmain	vblex	past	simple	active					VBD	conj	2
+10	our	our		dt	poss								PRP$	poss	11
+11	batch	batch		nn									NN	dobj	9
+12	of	of	of+npostmod	in	nmod								IN	prep	11
+13	concrete	concrete		nn									NN	pobj	12
+14	to	to		to									TO	aux	17
+15	later	later	rb+advl	rb	advl		splaux						RB	advmod	17
+16	be	be		vbaux									VB	auxpass	17
+17	used	use	tocls+rel	vbmain	vblex	nonfinite	simple	pasv_agls	nmod_cls	tocls	rel		VBN	relcl	11
+18	in	in	in+advl	in	advl								IN	prep	17
+19	testing	testing		nn		nom							NN	pobj	18
+20	.	.											.	punct	2
+
+#sentid = 4
+0													_SP	dep	7
+1	I	i		pro	1st	sg							LS	meta	7
+2	)	)											-RRB-	punct	1
+3	Foremost	foremost	rb+advl	rb	advl								RB	advmod	7
+4	,	,											,	punct	7
+5	concrete	concrete	attr+npremod	jj	attr								JJ	amod	6
+6	design	design		nn									NN	nsubj	7
+7	begins	begin		vbmain	prepv	pres	simple	active					VBZ	ROOT	7
+8	with	with	in+advl	in	advl								IN	prep	7
+9	a	a		dt	art								DT	det	10
+10	set	set		nn									NN	pobj	8
+11	of	of	of+npostmod	in	nmod								IN	prep	10
+12	requirements	requirement		nn	pl	nom							NNS	pobj	11
+13	and	and		cc	phrs								CC	cc	12
+14	information	information		nn		nom							NN	conj	12
+15	dealing	deal	ingcls+rel	vbmain	prepv	nonfinite	simple	active	nmod_cls	ingcls	ncomp		VBG	acl	12
+16	with	with	in+advl	in	advl								IN	prep	15
+17	the	the		dt	art								DT	det	18
+18	location	location		nn		nom							NN	pobj	16
+19	of	of	of+npostmod	in	nmod								IN	prep	18
+20	concrete	concrete		nn									NN	pobj	19
+21	and	and		cc	phrs								CC	cc	18
+22	the	the		dt	art								DT	det	23
+23	conditions	condition		nn	pl	nom							NNS	conj	18
+24	it	it		pro	3rd	sg							PRP	nsubj	26
+25	must	must		vbaux	mod	nec							MD	aux	26
+26	uphold	uphold	finitecls+rel	vbmain	vblex	vp_w_modal	simple	active	nmod_cls		rel	reldel	VB	relcl	23
+27	to	to	in+advl	in	advl								IN	prep	26
+28	.	.											.	punct	7
+
+#sentid = 5
+0	These	these		dt	dt_dem								DT	det	1
+1	conditions	condition		nn	pl	nom							NNS	nsubj	2
+2	include	include		vbmain	vblex	pres	simple	active					VBP	ROOT	2
+3	what	what		dt									WP	det	4
+4	type	type		nn									NN	nsubjpass	9
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	structure	structure		nn		nom							NN	pobj	5
+7	is	be		vbaux									VBZ	aux	9
+8	being	be		vbaux									VBG	auxpass	9
+9	formed	form	thatcls+vcomp	vbmain	vblex	pres	simple	pasv_agls	compcls		vcomp	compdel	VBN	ccomp	2
+10	,	,											,	punct	9
+11	the	the		dt	art								DT	det	12
+12	thickness	thickness		nn		nom							NN	conj	9
+13	of	of	of+npostmod	in	nmod								IN	prep	12
+14	the	the		dt	art								DT	det	15
+15	forms	form		nn	pl								NNS	pobj	13
+16	,	,											,	punct	12
+17	reinforcement	reinforcement	nn+npremod	nn		nom	npremod						NN	compound	18
+18	requirements	requirement		nn	pl	nom							NNS	conj	12
+19	,	,											,	punct	18
+20	consolidation	consolidation	nn+npremod	nn		nom	npremod						NN	compound	21
+21	methods	method		nn	pl								NNS	conj	18
+22	,	,											,	punct	21
+23	and	and		cc	phrs								CC	cc	21
+24	most	most	rb+jjrbmod	rb	othr								RBS	advmod	25
+25	importantly	importantly		rb	othr	ly							RB	advmod	21
+26	the	the		dt	art								DT	det	28
+27	compressive	compressive	attr+npremod	jj	attr								JJ	amod	28
+28	strength	strength		nn									NN	conj	21
+29	needed	need	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	28
+30	.	.											.	punct	2
+
+#sentid = 6
+0	Once	once	rb+advl	rb	advl								RB	advmod	6
+1	this	this		dt	dt_dem								DT	det	2
+2	array	array		nn									NN	nsubjpass	6
+3	of	of	of+npostmod	in	nmod								IN	prep	2
+4	input	input		nn									NN	pobj	3
+5	is	be		vbaux									VBZ	auxpass	6
+6	acquired	acquire	finitecls+advl	vbmain	vblex	pres	simple	pasv_agls	advlcls				VBN	advcl	13
+7	,	,											,	punct	13
+8	the	the		dt	art								DT	det	11
+9	mix	mix	nn+npremod	nn			npremod						NN	compound	10
+10	proportioning	proportioning	nn+npremod	nn		nom	npremod						NN	compound	11
+11	process	process		nn		nom							NN	nsubj	13
+12	can	can		vbaux	mod	pos							MD	aux	13
+13	begin	begin		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	13
+14	.	.											.	punct	13
+
+#sentid = 7
+0													_SP	dep	3
+1	II	ii											LS	meta	3
+2	)	)											-RRB-	punct	3
+3	Begin	begin		vbmain	vblex	nonfinite	simple	active					VB	ROOT	3
+4	by	by	in+advl	in	advl								IN	prep	3
+5	choosing	choose	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	4
+6	the	the		dt	art								DT	det	7
+7	concrete	concrete	s+gen	dt	poss		sgen						NN	poss	9
+8	's	's											POS	case	7
+9	slump	slump		nn									NN	dobj	5
+10	.	.											.	punct	3
+
+#sentid = 8
+0	This	this		pro	dem	sg							DT	nsubjpass	3
+1	is	be		vbaux									VBZ	auxpass	3
+2	often	often	rb+advl	rb	advl								RB	advmod	3
+3	specified	specify		vbmain	vblex	pres	simple	pasv_agls	compcls		vcomp	compdel	VBN	ccomp	15
+4	for	for	in+advl	in	advl								IN	prep	3
+5	particular	particular	attr+npremod	jj	attr								JJ	amod	6
+6	jobs	job		nn	pl								NNS	pobj	4
+7	,	,											,	punct	15
+8	however	however		rb	link								RB	advmod	10
+9	when	when		rb	advl								WRB	advmod	10
+10	needed	need	edcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	edcls			VBN	advcl	15
+11	Table	table		nn		proper							NNP	nsubjpass	15
+12	10.1	10.1											CD	nummod	11
+13	can	can		vbaux	mod	pos							MD	aux	15
+14	be	be		vbaux									VB	auxpass	15
+15	used	use		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	15
+16	to	to		to									TO	aux	17
+17	find	find	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	15
+18	an	an		dt									DT	det	20
+19	appropriate	appropriate	attr+npremod	jj	attr								JJ	amod	20
+20	slump	slump		nn									NN	dobj	17
+21	.	.											.	punct	15
+
+#sentid = 9
+0	It	it		pro	3rd	sg							PRP	nsubjpass	2
+1	is	be		vbaux									VBZ	auxpass	2
+2	determined	determine		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	2
+3	according	accord		vbmain	advl	nonfinite	simple	active		ingcls			VBG	prep	2
+4	to	to	in+advl	in	advl								IN	prep	3
+5	what	what		dt									WP	det	6
+6	type	type		nn									NN	dobj	12
+7	of	of	of+npostmod	in	nmod								IN	prep	6
+8	concrete	concrete	attr+npremod	jj	attr								JJ	amod	9
+9	structure	structure		nn		nom							NN	pobj	7
+10	you	you		pro	2nd	sg							PRP	nsubj	12
+11	are	be		vbaux									VBP	aux	12
+12	poring	pore		vbmain	vblex	pres	prog	active	compcls		incomp	compdel	VBG	pcomp	4
+13	.	.											.	punct	2
+
+#sentid = 10
+0	The	the		dt	art								DT	det	1
+1	table	table		nn									NN	nsubj	2
+2	offers	offer		vbmain	vblex	pres	simple	active					VBZ	ROOT	2
+3	a	a		dt	art								DT	det	4
+4	range	range		nn									NN	dobj	2
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	values	value		nn	pl								NNS	pobj	5
+7	,	,											,	punct	2
+8	often	often	rb+advl	rb	advl								RB	advmod	9
+9	wanting	want	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	2
+10	to	to		to									TO	aux	11
+11	choose	choose		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	xcomp	9
+12	the	the		dt	art								DT	det	14
+13	lowest	low	attr+npremod	jj	attr								JJS	amod	14
+14	slump	slump		nn									NN	dobj	11
+15	possible	possible		jj	attr								JJ	amod	14
+16	.	.											.	punct	2
+
+#sentid = 11
+0	In	in	in+advl	in	advl								IN	prep	8
+1	special	special	attr+npremod	jj	attr								JJ	amod	2
+2	situations	situation		nn	pl	nom							NNS	pobj	0
+3	,	,											,	punct	8
+4	other	other	attr+npremod	jj	attr								JJ	amod	5
+5	considerations	consideration		nn	pl	nom							NNS	nsubjpass	8
+6	should	should		vbaux	mod	nec							MD	aux	8
+7	be	be		vbaux									VB	auxpass	8
+8	taken	take		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	8
+9	into	into	in+advl	in	advl								IN	prep	8
+10	account	account		nn									NN	pobj	9
+11	as	as		rb	othr								RB	advmod	12
+12	well	well	rb+advl	rb	advl								RB	advmod	8
+13	.	.											.	punct	8
+
+#sentid = 12
+0													_SP	dep	1
+1	III	iii											LS	meta	15
+2	)	)											-RRB-	punct	1
+3	Once	once	rb+advl	rb	advl								IN	advmod	8
+4	the	the		dt	art								DT	det	5
+5	slump	slump		nn									NN	nsubjpass	8
+6	has	have		vbaux									VBZ	aux	8
+7	been	be		vbaux									VBN	auxpass	8
+8	chosen	choose	finitecls+advl	vbmain	vblex	pres	perf	pasv_agls	advlcls				VBN	advcl	15
+9	,	,											,	punct	15
+10	a	a		dt	art								DT	det	13
+11	maximum	maximum	attr+npremod	jj	attr								JJ	amod	13
+12	aggregate	aggregate	nn+npremod	nn		nom	npremod						NN	compound	13
+13	size	size		nn									NN	nsubjpass	15
+14	is	be		vbaux									VBZ	auxpass	15
+15	determined	determine		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	15
+16	.	.											.	punct	15
+
+#sentid = 13
+0	Many	many	attr+npremod	jj	attr								JJ	amod	1
+1	times	time		nn	pl								NNS	npadvmod	4
+2	this	this		pro	dem	sg							DT	nsubjpass	4
+3	is	be		vbaux									VBZ	auxpass	4
+4	limited	limit		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	4
+5	to	to	in+advl	in	advl								IN	prep	4
+6	the	the		dt	art								DT	det	7
+7	aggregate	aggregate		nn		nom							NN	pobj	5
+8	that	that		relpro	relpro_that	sg							WDT	nsubjpass	10
+9	is	be		vbaux									VBZ	auxpass	10
+10	offered	offer	finitecls+rel	vbmain	vblex	pres	simple	pasv_agls	nmod_cls	thatcls	rel		VBN	relcl	7
+11	in	in	in+advl	in	advl								IN	prep	10
+12	the	the		dt	art								DT	det	13
+13	area	area		nn									NN	pobj	11
+14	or	or		cc	phrs								CC	cc	7
+15	a	a		dt	art								DT	det	16
+16	preference	preference		nn		nom							NN	conj	7
+17	to	to	in+npostmod	in	nmod								IN	prep	16
+18	what	what											WP	nsubjpass	21
+19	should	should		vbaux	mod	nec							MD	aux	21
+20	be	be		vbaux									VB	auxpass	21
+21	used	use	whcls+incomp	vbmain	vblex	vp_w_modal	simple	pasv_agls	compcls	whcls	incomp		VBN	pcomp	17
+22	in	in	in+advl	in	advl								IN	prep	21
+23	the	the		dt	art								DT	det	24
+24	concrete	concrete		nn									NN	pobj	22
+25	.	.											.	punct	4
+
+#sentid = 14
+0	For	for	in+advl	in	advl								IN	prep	8
+1	design	design		nn									NN	pobj	0
+2	with	with	in+npostmod	in	nmod								IN	prep	1
+3	no	no		dt									DT	det	5
+4	supply	supply	nn+npremod	nn			npremod						NN	compound	5
+5	restrictions	restriction		nn	pl	nom							NNS	pobj	2
+6	,	,											,	punct	8
+7	there	there											EX	expl	8
+8	are	be		vbmain	be	pres	simple	active					VBP	ROOT	8
+9	three	three											CD	nummod	10
+10	limitations	limitation		nn	pl	nom							NNS	attr	8
+11	to	to		to									TO	aux	12
+12	take	take	tocls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	rel		VB	relcl	10
+13	into	into	in+advl	in	advl								IN	prep	12
+14	account	account		nn									NN	pobj	13
+15	.	.											.	punct	8
+
+#sentid = 15
+0													_SP	dep	6
+1	IV	iv											LS	punct	0
+2	)	)											-RRB-	punct	1
+3	Next	next	rb+advl	rb	advl								RB	advmod	6
+4	you	you		pro	2nd	sg							PRP	nsubj	6
+5	must	must		vbaux	mod	nec							MD	aux	6
+6	estimate	estimate		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	6
+7	the	the		dt	art								DT	det	8
+8	amount	amount		nn									NN	dobj	6
+9	of	of	of+npostmod	in	nmod								IN	prep	8
+10	mixing	mixing	attr+npremod	nn	attr	nom							NN	amod	11
+11	water	water		nn		nom							NN	pobj	9
+12	required	require	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	8
+13	as	as		rb	othr								RB	advmod	15
+14	well	well		rb	othr								RB	advmod	15
+15	as	as		cc	phrs								IN	cc	8
+16	air	air	nn+npremod	nn			npremod						NN	compound	17
+17	content	content		nn		nom							NN	conj	8
+18	.	.											.	punct	6
+
+#sentid = 16
+0	These	these		pro	dem	pl							DT	nsubjpass	2
+1	are	be		vbaux									VBP	auxpass	2
+2	found	find		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	2
+3	in	in	in+advl	in	advl								IN	prep	2
+4	Table	table		nn									NN	pobj	3
+5	10.2	10.2											CD	nummod	4
+6	and	and		cc	phrs								CC	cc	2
+7	are	be		vbaux									VBP	auxpass	8
+8	based	base		vbmain	vblex	pres	simple	pasv_agls					VBN	conj	2
+9	on	on	in+advl	in	advl								IN	prep	8
+10	the	the		dt	art								DT	det	13
+11	maximum	maximum	attr+npremod	jj	attr								JJ	amod	13
+12	aggregate	aggregate	nn+npremod	nn		nom	npremod						NN	compound	13
+13	size	size		nn									NN	pobj	9
+14	,	,											,	punct	13
+15	slump	slump		nn									NN	conj	13
+16	,	,											,	punct	15
+17	and	and		cc	phrs								CC	cc	15
+18	whether	whether		cs	cs_othr								IN	mark	21
+19	the	the		dt	art								DT	det	20
+20	concrete	concrete		nn									NN	nsubj	21
+21	needs	need		vbmain	vblex	pres	simple	active			other_advl		VBZ	conj	15
+22	to	to		to									TO	aux	26
+23	be	be		vbaux									VB	auxpass	26
+24	air	air		nn									NN	npadvmod	26
+25	-	-											HYPH	punct	26
+26	entrained	entrain		vbmain	vblex	nonfinite	simple	pasv_agls	compcls		vcomp	compdel	VBN	xcomp	21
+27	or	or		cc	phrs								CC	cc	21
+28	not	not											RB	conj	21
+29	.	.											.	punct	2
+
+#sentid = 17
+0	For	for	in+advl	in	advl								IN	prep	13
+1	the	the		dt	art								DT	det	2
+2	case	case		nn									NN	pobj	0
+3	of	of	of+npostmod	in	nmod								IN	prep	2
+4	air	air		nn									NN	npadvmod	6
+5	-	-											HYPH	punct	6
+6	entrained	entrain	attr+npremod	jj	attr	ed							VBN	amod	7
+7	concrete	concrete		nn									NN	pobj	3
+8	,	,											,	punct	13
+9	air	air	nn+npremod	nn			npremod						NN	compound	10
+10	content	content		nn		nom							NN	nsubjpass	13
+11	can	can		vbaux	mod	pos							MD	aux	13
+12	be	be		vbaux									VB	auxpass	13
+13	determined	determine		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	13
+14	based	base	edcls+advl	vbmain	advl	nonfinite	simple	active		edcls			VBN	prep	13
+15	on	on	in+advl	in	advl								IN	prep	14
+16	the	the		dt	art								DT	det	17
+17	severity	severity		nn		nom							NN	pobj	15
+18	of	of	of+npostmod	in	nmod								IN	prep	17
+19	exposure	exposure		nn		nom							NN	pobj	18
+20	.	.											.	punct	13
+
+#sentid = 18
+0	The	the		dt	art								DT	det	1
+1	value	value		nn									NN	nsubj	3
+2	found	find	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	1
+3	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	3
+4	the	the		dt	art								DT	det	5
+5	amount	amount		nn									NN	attr	3
+6	of	of	of+npostmod	in	nmod								IN	prep	5
+7	water	water		nn		nom							NN	pobj	6
+8	required	require	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	5
+9	and	and		cc	phrs								CC	cc	5
+10	percent	percent	nn+npremod	nn		nom	npremod						NN	compound	11
+11	air	air		nn									NN	conj	5
+12	needed	need	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	11
+13	per	per	in+npostmod	in	nmod								IN	prep	11
+14	given	give	attr+npremod	jj	attr	ed							VBN	amod	15
+15	volume	volume		nn									NN	pobj	13
+16	of	of	of+npostmod	in	nmod								IN	prep	15
+17	concrete	concrete		nn									NN	pobj	16
+18	.	.											.	punct	3
+
+#sentid = 19
+0													_SP	dep	13
+1	V	v		in	in_othr								LS	prep	0
+2	)	)											-RRB-	punct	1
+3	Now	now	rb+advl	rb	advl								RB	advmod	13
+4	that	that		comp	comp_that								IN	mark	10
+5	the	the		dt	art								DT	det	6
+6	amount	amount		nn									NN	nsubjpass	10
+7	of	of	of+npostmod	in	nmod								IN	prep	6
+8	water	water		nn		nom							NN	pobj	7
+9	is	be		vbaux									VBZ	auxpass	10
+10	known	know		vbmain	vblex	pres	simple	pasv_agls	compcls	thatcls			VBN	ccomp	3
+11	,	,											,	punct	13
+12	you	you		pro	2nd	sg							PRP	nsubj	13
+13	determine	determine		vbmain	vblex	pres	simple	active					VBP	ROOT	13
+14	the	the		dt	art								DT	det	15
+15	amount	amount		nn									NN	dobj	13
+16	of	of	of+npostmod	in	nmod								IN	prep	15
+17	cement	cement		nn		nom							NN	pobj	16
+18	required	require	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	15
+19	using	use	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	13
+20	the	the		dt	art								DT	det	24
+21	water	water	nn+npremod	nn		nom	npremod						NN	nmod	23
+22	/	/											SYM	punct	23
+23	cement	cement	nn+npremod	nn		nom	npremod						NN	compound	24
+24	ratio	ratio		nn									NN	dobj	19
+25	.	.											.	punct	13
+
+#sentid = 20
+0	In	in	in+advl	in	advl								IN	prep	16
+1	the	the		dt	art								DT	det	2
+2	case	case		nn									NN	pobj	0
+3	of	of	of+npostmod	in	nmod								IN	prep	2
+4	concrete	concrete		nn									NN	pobj	3
+5	made	make	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	4
+6	with	with	in+advl	in	advl								IN	prep	5
+7	Type	type	nn+npremod	nn		proper	npremod						NNP	nmod	10
+8	I	i		pro	1st	sg							CD	nummod	7
+9	Portland	portland	nn+npremod	nn		proper	npremod						NNP	compound	10
+10	cement	cement		nn		nom							NN	pobj	6
+11	,	,											,	punct	16
+12	Table	table		nn		proper							NNP	nsubjpass	16
+13	10.3	10.3											CD	nummod	12
+14	can	can		vbaux	mod	pos							MD	aux	16
+15	be	be		vbaux									VB	auxpass	16
+16	used	use		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	16
+17	to	to		to									TO	aux	18
+18	give	give	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	16
+19	a	a		dt	art								DT	det	21
+20	general	general	attr+npremod	jj	attr								JJ	amod	21
+21	estimate	estimate		nn		nom							NN	dobj	18
+22	of	of	of+npostmod	in	nmod								IN	prep	21
+23	the	the		dt	art								DT	det	24
+24	amount	amount		nn									NN	pobj	22
+25	of	of	of+npostmod	in	nmod								IN	prep	24
+26	cement	cement		nn		nom							NN	pobj	25
+27	required	require	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	24
+28	.	.											.	punct	16
+
+#sentid = 21
+0	The	the		dt	art								DT	det	4
+1	water	water	nn+npremod	nn		nom	npremod						NN	nmod	3
+2	/	/											SYM	punct	3
+3	cement	cement	nn+npremod	nn		nom	npremod						NN	compound	4
+4	ratio	ratio		nn									NN	nsubjpass	6
+5	is	be		vbaux									VBZ	auxpass	6
+6	based	base		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	6
+7	on	on	in+advl	in	advl								IN	prep	6
+8	the	the		dt	art								DT	det	10
+9	design	design	nn+npremod	nn			npremod						NN	compound	10
+10	strength	strength		nn									NN	pobj	7
+11	for	for	in+npostmod	in	nmod								IN	prep	10
+12	the	the		dt	art								DT	det	13
+13	concrete	concrete		nn									NN	pobj	11
+14	as	as		rb	othr								RB	advmod	16
+15	well	well		rb	othr								RB	advmod	16
+16	as	as		cc	phrs								IN	cc	10
+17	whether	whether		cs	cs_othr								IN	mark	19
+18	it	it		pro	3rd	sg							PRP	nsubj	19
+19	needs	need		vbmain	vblex	pres	simple	active			other_advl		VBZ	conj	10
+20	to	to		to									TO	aux	24
+21	be	be		vbaux									VB	auxpass	24
+22	air	air		nn									NN	dep	24
+23	-	-											HYPH	punct	24
+24	entrained	entrain		vbmain	vblex	nonfinite	simple	pasv_agls	compcls		vcomp	compdel	VBN	xcomp	19
+25	or	or		cc	phrs								CC	cc	19
+26	not	not											RB	conj	19
+27	.	.											.	punct	6
+
+#sentid = 22
+0	Using	use	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	9
+1	the	the		dt	art								DT	det	2
+2	ratio	ratio		nn									NN	dobj	0
+3	the	the		dt	art								DT	det	4
+4	amount	amount		nn									NN	nsubjpass	9
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	cement	cement		nn		nom							NN	pobj	5
+7	is	be		vbaux									VBZ	auxpass	9
+8	thus	thus		rb	link								RB	advmod	9
+9	calculated	calculate		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	9
+10	.	.											.	punct	9
+
+#sentid = 23
+0													_SP	dep	17
+1	VI	vi											LS	meta	17
+2	)	)											-RRB-	punct	1
+3	The	the		dt	art								DT	det	4
+4	amount	amount		nn									NN	nsubjpass	17
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	coarse	coarse	attr+npremod	jj	attr								JJ	amod	7
+7	aggregate	aggregate		nn		nom							NN	pobj	5
+8	to	to		to									TO	aux	10
+9	be	be		vbaux									VB	auxpass	10
+10	used	use	tocls+rel	vbmain	vblex	nonfinite	simple	pasv_agls	nmod_cls	tocls	rel		VBN	relcl	4
+11	in	in	in+advl	in	advl								IN	prep	10
+12	the	the		dt	art								DT	det	13
+13	mix	mix		nn									NN	pobj	11
+14	must	must		vbaux	mod	nec							MD	aux	17
+15	now	now	rb+advl	rb	advl		splaux						RB	advmod	17
+16	be	be		vbaux									VB	auxpass	17
+17	determined	determine		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	17
+18	.	.											.	punct	17
+
+#sentid = 24
+0	This	this		pro	dem	sg							DT	nsubjpass	3
+1	can	can		vbaux	mod	pos							MD	aux	3
+2	be	be		vbaux									VB	auxpass	3
+3	done	do		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	3
+4	utilizing	utilize	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	3
+5	Table	table		nn									NN	dobj	4
+6	10.8	10.8											CD	nummod	5
+7	.	.											.	punct	3
+
+#sentid = 25
+0	Based	base	edcls+advl	vbmain	advl	nonfinite	simple	active		edcls			VBN	prep	19
+1	on	on	in+advl	in	advl								IN	prep	0
+2	the	the		dt	art								DT	det	5
+3	maximum	maximum	attr+npremod	jj	attr								JJ	amod	5
+4	aggregate	aggregate	nn+npremod	nn		nom	npremod						NN	compound	5
+5	size	size		nn									NN	pobj	1
+6	and	and		cc	phrs								CC	cc	5
+7	the	the		dt	art								DT	det	9
+8	fineness	fineness	nn+npremod	nn		nom	npremod						NN	compound	9
+9	modulus	modulus		nn									NN	conj	5
+10	of	of	of+npostmod	in	nmod								IN	prep	9
+11	the	the		dt	art								DT	det	13
+12	fine	fine	attr+npremod	jj	attr								JJ	amod	13
+13	aggregate	aggregate		nn		nom							NN	pobj	10
+14	,	,											,	punct	19
+15	a	a		dt	art								DT	det	16
+16	value	value		nn									NN	nsubjpass	19
+17	can	can		vbaux	mod	pos							MD	aux	19
+18	be	be		vbaux									VB	auxpass	19
+19	found	find		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	19
+20	in	in	in+advl	in	advl								IN	prep	19
+21	the	the		dt	art								DT	det	22
+22	table	table		nn									NN	pobj	20
+23	.	.											.	punct	19
+
+#sentid = 26
+0	This	this		dt	dt_dem								DT	det	1
+1	number	number		nn		nom							NN	nsubjpass	4
+2	is	be		vbaux									VBZ	auxpass	4
+3	then	then		rb	link								RB	advmod	4
+4	multiplied	multiply		vbmain	vblex	pres	simple	pasv_by					VBN	ROOT	4
+5	by	by											IN	agent	4
+6	the	the		dt	art								DT	det	10
+7	dry	dry	rb+advl	rb	advl								RB	advmod	8
+8	rodded	rodde	attr+npremod	jj	attr	ed							VBN	amod	10
+9	unit	unit	nn+npremod	nn			npremod						NN	compound	10
+10	weight	weight		nn									NN	pobj	5
+11	of	of	of+npostmod	in	nmod								IN	prep	10
+12	the	the		dt	art								DT	det	14
+13	coarse	coarse	attr+npremod	jj	attr								JJ	amod	14
+14	aggregate	aggregate		nn		nom							NN	pobj	11
+15	to	to		to									TO	aux	16
+16	find	find	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	4
+17	the	the		dt	art								DT	det	19
+18	required	require	attr+npremod	jj	attr	ed							VBN	amod	19
+19	mass	mass		nn									NN	dobj	16
+20	to	to		to									TO	aux	22
+21	be	be		vbaux									VB	auxpass	22
+22	used	use	tocls+rel	vbmain	vblex	nonfinite	simple	pasv_agls	nmod_cls	tocls	rel		VBN	relcl	19
+23	.	.											.	punct	4
+
+#sentid = 27
+0													_SP	dep	6
+1	VII	vii											LS	meta	6
+2	)	)											-RRB-	punct	1
+3	Everything	everything		nn	other	nom							NN	nsubjpass	6
+4	is	be		vbaux									VBZ	auxpass	6
+5	now	now	rb+advl	rb	advl								RB	advmod	6
+6	known	know		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	6
+7	except	except	in+npostmod	in	nmod								IN	prep	3
+8	the	the		dt	art								DT	det	9
+9	mass	mass		nn									NN	pobj	7
+10	of	of	of+npostmod	in	nmod								IN	prep	9
+11	fine	fine	attr+npremod	jj	attr								JJ	amod	12
+12	aggregate	aggregate		nn		nom							NN	pobj	10
+13	.	.											.	punct	6
+
+#sentid = 28
+0	To	to		to									TO	aux	1
+1	do	do	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	12
+2	this	this		pro	dem	sg							DT	dobj	1
+3	the	the		dt	art								DT	det	5
+4	total	total	attr+npremod	jj	attr								JJ	amod	5
+5	mass	mass		nn									NN	nsubjpass	12
+6	of	of	of+npostmod	in	nmod								IN	prep	5
+7	the	the		dt	art								DT	det	9
+8	concrete	concrete	attr+npremod	jj	attr								JJ	amod	9
+9	mix	mix		nn									NN	pobj	6
+10	must	must		vbaux	mod	nec							MD	aux	12
+11	be	be		vbaux									VB	auxpass	12
+12	found	find		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	12
+13	.	.											.	punct	12
+
+#sentid = 29
+0													_SP	dep	6
+1	The	the		dt	art								DT	det	3
+2	known	known	attr+npremod	jj	attr								JJ	amod	3
+3	masses	masse		nn	pl								NNS	nsubjpass	6
+4	can	can		vbaux	mod	pos							MD	aux	6
+5	be	be		vbaux									VB	auxpass	6
+6	subtracted	subtract		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	6
+7	from	from	in+advl	in	advl								IN	prep	6
+8	Um	um		nn		proper							NNP	pobj	7
+9	to	to		to									TO	aux	10
+10	find	find	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	6
+11	the	the		dt	art								DT	det	13
+12	fine	fine	attr+npremod	jj	attr								JJ	amod	13
+13	aggregate	aggregate	s+gen	dt	poss	nom	sgen						NN	poss	15
+14	's	's											POS	case	13
+15	mass	mass		nn									NN	dobj	10
+16	.	.											.	punct	6
+
+#sentid = 30
+0													_SP	dep	0
+1	VIII	viii											LS	punct	0
+2	)	)											-RRB-	punct	1
+
+#sentid = 31
+0	Final	final	attr+npremod	jj	attr								JJ	amod	1
+1	adjusts	adjust		nn	pl								NNS	nsubjpass	5
+2	must	must		vbaux	mod	nec							MD	aux	5
+3	now	now	rb+advl	rb	advl		splaux						RB	advmod	5
+4	be	be		vbaux									VB	auxpass	5
+5	made	make		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	5
+6	for	for	in+npostmod	in	nmod								IN	prep	1
+7	moisture	moisture		nn		nom							NN	pobj	6
+8	in	in	in+npostmod	in	nmod								IN	prep	7
+9	the	the		dt	art								DT	det	10
+10	aggregate	aggregate		nn		nom							NN	pobj	8
+11	.	.											.	punct	5
+
+#sentid = 32
+0	In	in	in+advl	in	advl								IN	prep	16
+1	the	the		dt	art								DT	det	2
+2	case	case		nn									NN	pobj	0
+3	of	of	of+npostmod	in	nmod								IN	prep	2
+4	surface	surface	nn+npremod	nn			npremod						NN	compound	5
+5	moisture	moisture		nn		nom							NN	pobj	3
+6	on	on	in+npostmod	in	nmod								IN	prep	5
+7	the	the		dt	art								DT	det	8
+8	aggregate	aggregate		nn		nom							NN	pobj	6
+9	,	,											,	punct	16
+10	this	this		dt	dt_dem								DT	det	11
+11	percent	percent		nn		nom							NN	nsubjpass	16
+12	of	of	of+npostmod	in	nmod								IN	prep	11
+13	water	water		nn		nom							NN	pobj	12
+14	must	must		vbaux	mod	nec							MD	aux	16
+15	be	be		vbaux									VB	auxpass	16
+16	calculated	calculate		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	16
+17	and	and		cc	phrs								CC	cc	16
+18	subtracted	subtract		vbmain	vblex	nonfinite	simple	active		edcls			VBN	conj	16
+19	from	from	in+advl	in	advl								IN	prep	18
+20	the	the		dt	art								DT	det	22
+21	required	require	attr+npremod	jj	attr	ed							VBN	amod	22
+22	amount	amount		nn									NN	pobj	19
+23	of	of	of+npostmod	in	nmod								IN	prep	22
+24	water	water		nn		nom							NN	pobj	23
+25	in	in	in+npostmod	in	nmod								IN	prep	22
+26	the	the		dt	art								DT	det	27
+27	mix	mix		nn									NN	pobj	25
+28	.	.											.	punct	16
+
+#sentid = 33
+0	However	however		rb	link								RB	advmod	11
+1	,	,											,	punct	11
+2	when	when		rb	advl								WRB	advmod	3
+3	using	use	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	11
+4	OD	od	nn+npremod	nn		proper	npremod						NNP	compound	5
+5	aggregates	aggregate		nn	pl	nom							NNS	dobj	3
+6	,	,											,	punct	11
+7	the	the		dt	art								DT	det	8
+8	absorption	absorption		nn		nom							NN	nsubjpass	11
+9	must	must		vbaux	mod	nec							MD	aux	11
+10	be	be		vbaux									VB	auxpass	11
+11	used	use		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	11
+12	to	to		to									TO	aux	13
+13	find	find	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	11
+14	the	the		dt	art								DT	det	15
+15	amount	amount		nn									NN	dobj	13
+16	of	of	of+npostmod	in	nmod								IN	prep	15
+17	water	water		nn		nom							NN	pobj	16
+18	needed	need	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	15
+19	to	to		to									TO	aux	20
+20	fill	fill		vbmain	vblex	nonfinite	simple	active	advlcls				VB	advcl	18
+21	the	the		dt	art								DT	det	22
+22	pores	pore		nn	pl								NNS	dobj	20
+23	,	,											,	punct	11
+24	and	and		cc	phrs								CC	cc	11
+25	this	this		pro	dem	sg							DT	nsubjpass	28
+26	must	must		vbaux	mod	nec							MD	aux	28
+27	be	be		vbaux									VB	auxpass	28
+28	added	add		vbmain	prepv	vp_w_modal	simple	pasv_agls					VBN	conj	11
+29	to	to	in+advl	in	advl								IN	prep	28
+30	the	the		dt	art								DT	det	32
+31	required	required	attr+npremod	jj	attr								JJ	amod	32
+32	water	water		nn		nom							NN	pobj	29
+33	needed	need	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	32
+34	in	in	in+advl	in	advl								IN	prep	33
+35	the	the		dt	art								DT	det	36
+36	concrete	concrete		nn									NN	pobj	34
+37	.	.											.	punct	28
+
+#sentid = 34
+0													_SP	dep	13
+1	Once	once		cs	cs_othr								IN	mark	5
+2	concrete	concrete		nn									NN	nsubjpass	5
+3	has	have		vbaux									VBZ	aux	5
+4	been	be		vbaux									VBN	auxpass	5
+5	designed	design	finitecls+advl	vbmain	vblex	pres	perf	pasv_agls	advlcls		other_advl		VBN	advcl	13
+6	and	and		cc	phrs								CC	cc	5
+7	is	be		vbmain	be	pres	simple	active					VBZ	conj	5
+8	ready	ready		jj	pred								JJ	acomp	7
+9	to	to		to									TO	aux	11
+10	be	be		vbaux									VB	auxpass	11
+11	made	make	tocls+jcomp	vbmain	vblex	nonfinite	simple	pasv_agls	compcls	tocls	jcomp		VBN	xcomp	8
+12	,	,											,	punct	13
+13	follow	follow		vbmain	vblex	nonfinite	simple	active					VB	ROOT	13
+14	ASTM	astm	nn+npremod	nn		proper	npremod						NNP	nmod	16
+15	C-192	c-192											CD	nummod	14
+16	guidelines	guideline		nn	pl								NNS	dobj	13
+17	for	for	in+npostmod	in	nmod								IN	prep	16
+18	producing	produce	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	17
+19	and	and		cc	phrs								CC	cc	18
+20	curing	cure		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	conj	18
+21	concrete	concrete		nn									NN	dobj	20
+22	.	.											.	punct	13
+
+#sentid = 35
+0	Basic	basic	attr+npremod	jj	attr								JJ	amod	1
+1	procedure	procedure		nn		nom							NN	nsubj	2
+2	begins	begin		vbmain	vblex	pres	simple	active					VBZ	ROOT	2
+3	by	by	in+advl	in	advl								IN	prep	2
+4	adding	add	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	3
+5	all	all		dt									DT	det	7
+6	coarse	coarse	attr+npremod	jj	attr								JJ	amod	7
+7	aggregate	aggregate		nn		nom							NN	dobj	4
+8	into	into	in+advl	in	advl								IN	prep	4
+9	the	the		dt	art								DT	det	10
+10	mixer	mixer		nn		nom							NN	pobj	8
+11	with	with	in+advl	in	advl								IN	prep	4
+12	about	about		rb	othr								IN	advmod	13
+13	half	half											PDT	nummod	15
+14	the	the		dt	art								DT	det	15
+15	water	water		nn		nom							NN	pobj	11
+16	.	.											.	punct	2
+
+#sentid = 36
+0	Next	next	rb+advl	rb	advl								RB	advmod	1
+1	add	add		vbmain	vblex	nonfinite	simple	active					VB	ROOT	1
+2	the	the		dt	art								DT	det	4
+3	fine	fine	attr+npremod	jj	attr								JJ	amod	4
+4	aggregate	aggregate		nn		nom							NN	dobj	1
+5	,	,											,	punct	4
+6	all	all		dt									DT	det	7
+7	cement	cement		nn		nom							NN	conj	4
+8	,	,											,	punct	7
+9	and	and		cc	phrs								CC	cc	7
+10	the	the		dt	art								DT	det	12
+11	remaining	remain	attr+npremod	jj	attr	ing							VBG	amod	12
+12	water	water		nn		nom							NN	conj	7
+13	.	.											.	punct	1
+
+#sentid = 37
+0	Finally	finally		rb	link	ly							RB	advmod	1
+1	add	add		vbmain	vblex	nonfinite	simple	active					VB	ROOT	1
+2	the	the		dt	art								DT	det	4
+3	appropriate	appropriate	attr+npremod	jj	attr								JJ	amod	4
+4	admixtures	admixture		nn	pl								NNS	dobj	1
+5	and	and		cc	phrs								CC	cc	1
+6	allow	allow		vbmain	vblex	nonfinite	simple	active					VB	conj	1
+7	it	it		pro	3rd	sg							PRP	nsubj	9
+8	to	to		to									TO	aux	9
+9	mix	mix		vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	ccomp	6
+10	for	for	in+advl	in	advl								IN	prep	9
+11	3	3											CD	nummod	12
+12	minutes	minute		nn	pl								NNS	pobj	10
+13	.	.											.	punct	1
+
+#sentid = 38
+0	Let	let		vbmain	vblex	nonfinite	simple	active					VB	ROOT	0
+1	stand	stand		vbmain	prepv	nonfinite	simple	active	compcls		vcomp	compdel	VB	xcomp	0
+2	for	for	in+advl	in	advl								IN	prep	1
+3	5	5											CD	nummod	4
+4	minutes	minute		nn	pl								NNS	pobj	2
+5	then	then	rb+advl	rb	advl								RB	advmod	0
+6	continue	continue		vbmain	vblex	nonfinite	simple	active					VB	dep	0
+7	to	to		to									TO	aux	8
+8	mix	mix	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	6
+9	for	for	in+advl	in	advl								IN	prep	6
+10	3	3											CD	nummod	12
+11	more	more		jj	attr								JJR	amod	10
+12	minutes	minute		nn	pl								NNS	pobj	9
+13	.	.											.	punct	0
+
+#sentid = 39
+0	The	the		dt	art								DT	det	1
+1	concrete	concrete		nn									NN	nsubj	2
+2	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	2
+3	then	then		rb	link								RB	advmod	5
+4	thoroughly	thoroughly	rb+advl	rb	advl	ly							RB	advmod	5
+5	mixed	mix		jj	pred	ed							VBN	acomp	2
+6	and	and		cc	phrs								CC	cc	5
+7	ready	ready											JJ	conj	5
+8	for	for	in+jcomp	in	jcomp								IN	prep	7
+9	testing	testing		nn		nom							NN	pobj	8
+10	and	and		cc	phrs								CC	cc	9
+11	use	use		nn									NN	conj	9
+12	.	.											.	punct	2
+
+#sentid = 40
+0													_SP	dep	0
+1	The	the		dt	art								DT	det	3
+2	slump	slump	nn+npremod	nn			npremod						NN	compound	3
+3	test	test		nn									NN	nsubjpass	6
+4	can	can		vbaux	mod	pos							MD	aux	6
+5	be	be		vbaux									VB	auxpass	6
+6	performed	perform		vbmain	in_othr	vp_w_modal	simple	pasv_agls					VBN	prep	0
+7	adhering	adhere	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	6
+8	to	to	in+advl	in	advl								IN	prep	7
+9	the	the		dt	art								DT	det	12
+10	ASTM	astm	nn+npremod	nn		proper	npremod						NNP	nmod	12
+11	C-143	c-143											CD	nummod	10
+12	methodology	methodology		nn									NN	pobj	8
+13	.	.											.	punct	6
+
+#sentid = 41
+0	Begin	begin		vbmain	vblex	nonfinite	simple	active					VB	ROOT	0
+1	by	by	in+advl	in	advl								IN	prep	0
+2	filling	fill	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	1
+3	the	the		dt	art								DT	det	6
+4	slump	slump	nn+npremod	nn			npremod						NN	compound	5
+5	test	test	nn+npremod	nn			npremod						NN	compound	6
+6	cone	cone		nn									NN	dobj	2
+7	in	in	in+advl	in	advl								IN	prep	2
+8	three	three											CD	nummod	9
+9	layers	layer		nn	pl	nom							NNS	pobj	7
+10	,	,											,	punct	2
+11	being	be	ingcls+advl	vbmain	be	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	2
+12	sure	sure		jj	pred								JJ	acomp	11
+13	to	to		to									TO	aux	15
+14	always	always	rb+advl	rb	advl		splaux						RB	advmod	15
+15	have	have	tocls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	jcomp		VB	xcomp	12
+16	someone	someone		nn	other	sg							NN	nsubj	17
+17	securing	secure		vbmain	vblex	nonfinite	simple	active	compcls	ingcls	vcomp		VBG	ccomp	15
+18	the	the		dt	art								DT	det	19
+19	base	base		nn									NN	dobj	17
+20	of	of	of+npostmod	in	nmod								IN	prep	19
+21	the	the		dt	art								DT	det	22
+22	cone	cone		nn									NN	pobj	20
+23	by	by	in+advl	in	advl								IN	prep	17
+24	standing	stand	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	23
+25	over	over	in+advl	in	advl								IN	prep	24
+26	top	top		nn									NN	pobj	25
+27	.	.											.	punct	0
+
+#sentid = 42
+0	Rod	rod		vbmain	vblex	nonfinite	simple	active					VB	ROOT	0
+1	each	each		dt									DT	det	2
+2	layer	layer		nn		nom							NN	dobj	0
+3	as	as		cs	cs_othr								IN	mark	5
+4	you	you		pro	2nd	sg							PRP	nsubj	5
+5	fill	fill	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		other_advl		VBP	advcl	0
+6	the	the		dt	art								DT	det	7
+7	cone	cone		nn									NN	dobj	5
+8	25	25											CD	nummod	9
+9	times	time		nn	pl								NNS	npadvmod	5
+10	.	.											.	punct	0
+
+#sentid = 43
+0	Once	once		cs	cs_othr								IN	mark	3
+1	the	the		dt	art								DT	det	2
+2	cone	cone		nn									NN	nsubj	3
+3	is	be	finitecls+advl	vbmain	be	pres	simple	active	advlcls		other_advl		VBZ	advcl	6
+4	full	full		jj	pred								JJ	acomp	3
+5	,	,											,	punct	6
+6	roll	roll		vbmain	vblex	nonfinite	simple	active					VB	ROOT	6
+7	the	the		dt	art								DT	det	8
+8	rod	rod		nn									NN	dobj	6
+9	over	over	in+advl	in	advl								IN	prep	6
+10	the	the		dt	art								DT	det	11
+11	top	top		nn									NN	pobj	9
+12	so	so		cs	cs_othr								IN	mark	15
+13	as	as		cs	cs_othr								IN	mark	15
+14	to	to		to									TO	aux	15
+15	have	have	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls	other_advl		VB	advcl	6
+16	a	a		dt	art								DT	det	18
+17	smooth	smooth	attr+npremod	jj	attr								JJ	amod	18
+18	top	top		nn									NN	dobj	15
+19	.	.											.	punct	6
+
+#sentid = 44
+0	Carefully	carefully	rb+advl	rb	advl	ly							RB	advmod	1
+1	remove	remove		vbmain	vblex	nonfinite	simple	active					VB	ROOT	1
+2	the	the		dt	art								DT	det	3
+3	cone	cone		nn									NN	dobj	1
+4	leaving	leave	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	1
+5	behind	behind	rb+advl	rb	advl								RB	advmod	4
+6	a	a		dt	art								DT	det	7
+7	pile	pile		nn									NN	dobj	4
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	concrete	concrete		nn									NN	pobj	8
+10	that	that		relpro	relpro_that	sg							WDT	nsubj	12
+11	has	have		vbaux									VBZ	aux	12
+12	deformed	deform	finitecls+rel	vbmain	vblex	pres	perf	active	nmod_cls	thatcls	rel		VBN	relcl	7
+13	some	some		dt									DT	det	14
+14	amount	amount		nn									NN	dobj	12
+15	.	.											.	punct	1
+
+#sentid = 45
+0	Set	set		vbmain	vblex	nonfinite	simple	active					VB	ROOT	0
+1	the	the		dt	art								DT	det	2
+2	cone	cone		nn									NN	dobj	0
+3	next	next	rb+advl	rb	advl								RB	advmod	0
+4	to	to		in	in_othr								IN	prep	3
+5	the	the		dt	art								DT	det	6
+6	concrete	concrete		nn									NN	pobj	4
+7	,	,											,	punct	0
+8	laying	lay	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	0
+9	the	the		dt	art								DT	det	10
+10	rod	rod		nn									NN	dobj	8
+11	across	across	in+advl	in	advl								IN	prep	8
+12	the	the		dt	art								DT	det	13
+13	top	top		nn									NN	pobj	11
+14	so	so		cs	cs_othr								IN	mark	17
+15	as	as		cs	cs_othr								IN	mark	17
+16	to	to		to									TO	aux	17
+17	have	have	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls	other_advl		VB	advcl	8
+18	a	a		dt	art								DT	det	19
+19	distance	distance		nn		nom							NN	dobj	17
+20	between	between	in+npostmod	in	nmod								IN	prep	19
+21	the	the		dt	art								DT	det	22
+22	rod	rod		nn									NN	pobj	20
+23	and	and		cc	phrs								CC	cc	22
+24	the	the		dt	art								DT	det	25
+25	top	top		nn									NN	conj	22
+26	of	of	of+npostmod	in	nmod								IN	prep	25
+27	the	the		dt	art								DT	det	28
+28	pile	pile		nn									NN	pobj	26
+29	of	of	of+npostmod	in	nmod								IN	prep	28
+30	concrete	concrete		nn									NN	pobj	29
+31	.	.											.	punct	0
+
+#sentid = 46
+0	Measure	measure		vbmain	vblex	nonfinite	simple	active					VB	ROOT	0
+1	this	this		dt	dt_dem								DT	det	2
+2	distance	distance		nn		nom							NN	dobj	0
+3	and	and		cc	phrs								CC	cc	0
+4	record	record		vbmain	vblex	nonfinite	simple	active					VB	conj	0
+5	it	it		pro	3rd	sg							PRP	dobj	4
+6	as	as	in+advl	in	advl								IN	prep	4
+7	your	your		dt	poss								PRP$	poss	8
+8	slump	slump		nn									NN	pobj	6
+9	.	.											.	punct	0
+
+#sentid = 47
+0													_SP	dep	7
+1	The	the		dt	art								DT	det	4
+2	air	air	nn+npremod	nn			npremod						NN	compound	3
+3	content	content	nn+npremod	nn		nom	npremod						NN	compound	4
+4	test	test		nn									NN	nsubjpass	7
+5	can	can		vbaux	mod	pos							MD	aux	7
+6	be	be		vbaux									VB	auxpass	7
+7	performed	perform		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	7
+8	following	follow		vbmain	advl	nonfinite	simple	active		ingcls			VBG	prep	7
+9	the	the		dt	art								DT	det	12
+10	ASTM	astm	nn+npremod	nn		proper	npremod						NNP	nmod	12
+11	C-173	c-173											CD	nummod	10
+12	procedure	procedure		nn		nom							NN	pobj	8
+13	.	.											.	punct	7
+
+#sentid = 48
+0	This	this		dt	dt_dem								DT	det	1
+1	process	process		nn		nom							NN	nsubj	2
+2	requires	require		vbmain	vblex	pres	simple	active					VBZ	ROOT	2
+3	a	a		dt	art								DT	det	5
+4	special	special	attr+npremod	jj	attr								JJ	amod	5
+5	apparatus	apparatus		nn									NN	dobj	2
+6	made	make	edcls+rel	vbmain	phrsv	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	5
+7	up	up		rb	prtcle								RP	prt	6
+8	of	of	in+advl	in	advl								IN	prep	6
+9	a	a		dt	art								DT	det	11
+10	measuring	measuring	nn+npremod	nn		nom	npremod						NN	compound	11
+11	bowl	bowl		nn									NN	pobj	8
+12	,	,											,	punct	11
+13	top	top	attr+npremod	jj	attr								JJ	amod	14
+14	section	section		nn		nom							NN	conj	11
+15	,	,											,	punct	14
+16	graduated	graduated	attr+npremod	jj	attr								JJ	amod	17
+17	neck	neck		nn									NN	conj	14
+18	,	,											,	punct	17
+19	and	and		cc	phrs								CC	cc	17
+20	a	a		dt	art								DT	det	22
+21	watertight	watertight	attr+npremod	jj	attr								JJ	amod	22
+22	cap	cap		nn									NN	conj	17
+23	.	.											.	punct	2
+
+#sentid = 49
+0	First	first		rb	link								RB	advmod	4
+1	the	the		dt	art								DT	det	2
+2	bowl	bowl		nn									NN	nsubjpass	4
+3	is	be		vbaux									VBZ	auxpass	4
+4	wetted	wet		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	4
+5	and	and		cc	phrs								CC	cc	4
+6	filled	fill		vbmain	vblex	nonfinite	simple	active		edcls			VBN	conj	4
+7	half	half	attr+npremod	jj	attr								JJ	amod	9
+8	-	-											HYPH	punct	9
+9	way	way		nn									NN	npadvmod	6
+10	with	with	in+advl	in	advl								IN	prep	6
+11	concrete	concrete		nn									NN	pobj	10
+12	,	,											,	punct	11
+13	which	which		relpro	relpro_wh								WDT	nsubjpass	16
+14	is	be		vbaux									VBZ	auxpass	16
+15	then	then		rb	link								RB	advmod	16
+16	rodded	rodde	finitecls+rel	vbmain	vblex	pres	simple	pasv_agls	nmod_cls	whcls	rel		VBN	relcl	11
+17	25	25											CD	nummod	18
+18	times	time		nn	pl								NNS	npadvmod	16
+19	and	and		cc	phrs								CC	cc	16
+20	tapped	tap		vbmain	vblex	nonfinite	simple	active		edcls			VBN	conj	16
+21	with	with	in+advl	in	advl								IN	prep	20
+22	a	a		dt	art								DT	det	23
+23	mallet	mallet		nn		nom							NN	pobj	21
+24	.	.											.	punct	4
+
+#sentid = 50
+0	The	the		dt	art								DT	det	1
+1	bowl	bowl		nn									NN	nsubjpass	4
+2	is	be		vbaux									VBZ	auxpass	4
+3	then	then		rb	link								RB	advmod	4
+4	filled	fill		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	4
+5	completely	completely	rb+advl	rb	advl	ly							RB	advmod	4
+6	,	,											,	punct	4
+7	rodded	rodde		vbmain	vblex	nonfinite	simple	active		edcls			VBN	conj	4
+8	,	,											,	punct	7
+9	and	and		cc	phrs								CC	cc	7
+10	tapped	tap		vbmain	vblex	nonfinite	simple	active		edcls			VBN	conj	7
+11	.	.											.	punct	4
+
+#sentid = 51
+0	Excess	excess	attr+npremod	jj	attr								JJ	amod	1
+1	concrete	concrete		nn									NN	nsubjpass	4
+2	should	should		vbaux	mod	nec							MD	aux	4
+3	be	be		vbaux									VB	auxpass	4
+4	wiped	wipe		vbmain	phrsv	vp_w_modal	simple	pasv_agls					VBN	ROOT	4
+5	off	off		rb	prtcle								RP	prt	4
+6	,	,											,	punct	4
+7	and	and		cc	phrs								CC	cc	4
+8	the	the		dt	art								DT	det	9
+9	seal	seal		nn		nom							NN	nsubjpass	15
+10	of	of	of+npostmod	in	nmod								IN	prep	9
+11	the	the		dt	art								DT	det	12
+12	bowl	bowl		nn									NN	pobj	10
+13	should	should		vbaux	mod	nec							MD	aux	15
+14	be	be		vbaux									VB	auxpass	15
+15	cleaned	clean		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	conj	4
+16	.	.											.	punct	15
+
+#sentid = 52
+0	The	the		dt	art								DT	det	2
+1	top	top	attr+npremod	jj	attr								JJ	amod	2
+2	section	section		nn		nom							NN	nsubjpass	5
+3	is	be		vbaux									VBZ	auxpass	5
+4	then	then		rb	link								RB	advmod	5
+5	attached	attach		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	5
+6	to	to	in+advl	in	advl								IN	prep	5
+7	the	the		dt	art								DT	det	8
+8	bowl	bowl		nn									NN	pobj	6
+9	and	and		cc	phrs								CC	cc	5
+10	locked	lock		vbmain	vblex	nonfinite	simple	active		edcls			VBN	conj	5
+11	in	in	in+advl	in	advl								IN	prep	10
+12	place	place		nn									NN	pobj	11
+13	.	.											.	punct	5
+
+#sentid = 53
+0	The	the		dt	art								DT	det	1
+1	top	top		nn									NN	nsubjpass	5
+2	must	must		vbaux	mod	nec							MD	aux	5
+3	then	then		rb	link		splaux						RB	advmod	5
+4	be	be		vbaux									VB	auxpass	5
+5	filled	fill		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	5
+6	with	with	in+advl	in	advl								IN	prep	5
+7	water	water		nn		nom							NN	pobj	6
+8	until	until		cs	cs_othr								IN	mark	10
+9	it	it		pro	3rd	sg							PRP	nsubj	10
+10	reads	read	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		other_advl		VBZ	advcl	5
+11	at	at	in+advl	in	advl								IN	prep	10
+12	the	the		dt	art								DT	det	14
+13	zero	zero											CD	nummod	14
+14	mark	mark		nn									NN	pobj	11
+15	.	.											.	punct	5
+
+#sentid = 54
+0	A	a		dt	art								DT	det	2
+1	small	small	attr+npremod	jj	attr								JJ	amod	2
+2	portion	portion		nn		nom							NN	nsubjpass	8
+3	of	of	of+npostmod	in	nmod								IN	prep	2
+4	isopropyl	isopropyl	nn+npremod	nn			npremod						NN	compound	5
+5	alcohol	alcohol		nn									NN	pobj	3
+6	is	be		vbaux									VBZ	auxpass	8
+7	then	then		rb	link								RB	advmod	8
+8	added	add		vbmain	prepv	pres	simple	pasv_agls					VBN	ROOT	8
+9	to	to	in+advl	in	advl								IN	prep	8
+10	the	the		dt	art								DT	det	11
+11	meter	meter		nn		nom							NN	pobj	9
+12	,	,											,	punct	8
+13	and	and		cc	phrs								CC	cc	8
+14	then	then		rb	link								RB	advmod	15
+15	sealed	seal		vbmain	vblex	nonfinite	simple	active		edcls			VBN	conj	8
+16	shut	shut											JJ	oprd	15
+17	.	.											.	punct	8
+
+#sentid = 55
+0	The	the		dt	art								DT	det	1
+1	device	device		nn									NN	nsubjpass	4
+2	is	be		vbaux									VBZ	auxpass	4
+3	then	then		rb	link								RB	advmod	4
+4	inverted	invert		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	4
+5	several	several	attr+npremod	jj	attr								JJ	amod	6
+6	times	time		nn	pl								NNS	npadvmod	4
+7	for	for	in+advl	in	advl								IN	prep	4
+8	no	no											DT	quantmod	11
+9	more	more		jj	attr								JJR	amod	11
+10	than	than											IN	quantmod	11
+11	5	5											CD	nummod	12
+12	seconds	second		nn	pl								NNS	pobj	7
+13	until	until		cs	cs_othr								IN	mark	17
+14	the	the		dt	art								DT	det	15
+15	concrete	concrete		nn									NN	nsubjpass	17
+16	is	be		vbaux									VBZ	auxpass	17
+17	heard	hear	finitecls+advl	vbmain	vblex	pres	simple	pasv_agls	advlcls		other_advl		VBN	advcl	4
+18	to	to		to									TO	aux	20
+19	be	be		vbaux									VB	aux	20
+20	flowing	flow	ingcls+vcomp	vbmain	vblex	nonfinite	prog	active	compcls	ingcls	vcomp		VBG	xcomp	17
+21	freely	freely	rb+advl	rb	advl	ly							RB	advmod	20
+22	.	.											.	punct	4
+
+#sentid = 56
+0	With	with		cs	cs_othr								IN	mark	3
+1	the	the		dt	art								DT	det	2
+2	meter	meter		nn		nom							NN	nsubj	3
+3	at	at											IN	advcl	13
+4	a	a		dt	art								DT	det	8
+5	45	45											CD	nummod	7
+6	-	-											HYPH	punct	7
+7	degree	degree	nn+npremod	nn		nom	npremod						NN	compound	8
+8	angle	angle		nn									NN	pobj	3
+9	,	,											,	punct	13
+10	it	it		pro	3rd	sg							PRP	nsubjpass	13
+11	should	should		vbaux	mod	nec							MD	aux	13
+12	be	be		vbaux									VB	auxpass	13
+13	rolled	roll		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	13
+14	about	about											IN	quantmod	16
+15	a	a											DT	quantmod	16
+16	half	half											PDT	nummod	18
+17	a	a		dt	art								DT	det	18
+18	turn	turn		nn									NN	dobj	13
+19	back	back	rb+advl	rb	advl								RB	advmod	13
+20	and	and		cc	phrs								CC	cc	19
+21	forth	forth											RB	conj	19
+22	for	for	in+advl	in	advl								IN	prep	13
+23	one	one											CD	nummod	24
+24	minute	minute		nn									NN	pobj	22
+25	.	.											.	punct	13
+
+#sentid = 57
+0	The	the		dt	art								DT	det	1
+1	rolling	roll		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	nsubj	3
+2	must	must		vbaux	mod	nec							MD	aux	3
+3	continue	continue		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	3
+4	until	until		cs	cs_othr								IN	mark	8
+5	the	the		dt	art								DT	det	7
+6	liquid	liquid	nn+npremod	nn			npremod						NN	compound	7
+7	level	level		nn									NN	nsubj	8
+8	stabilizes	stabilize	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		other_advl		VBZ	advcl	3
+9	.	.											.	punct	3
+
+#sentid = 58
+0	Once	once		cs	cs_othr								IN	mark	6
+1	a	a		dt	art								DT	det	3
+2	stable	stable	attr+npremod	jj	attr								JJ	amod	3
+3	reading	reading		nn		nom							NN	nsubjpass	6
+4	can	can		vbaux	mod	pos							MD	aux	6
+5	be	be		vbaux									VB	auxpass	6
+6	taken	take	finitecls+advl	vbmain	vblex	vp_w_modal	simple	pasv_agls	advlcls		other_advl		VBN	advcl	10
+7	,	,											,	punct	10
+8	that	that		pro	dem	sg							WDT	nsubjpass	10
+9	is	be		vbaux									VBZ	auxpass	10
+10	recorded	record		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	10
+11	as	as	in+advl	in	advl								IN	prep	10
+12	the	the		dt	art								DT	det	15
+13	percent	percent	nn+npremod	nn		nom	npremod						NN	compound	15
+14	air	air	nn+npremod	nn			npremod						NN	compound	15
+15	content	content		nn		nom							NN	pobj	11
+16	in	in	in+npostmod	in	nmod								IN	prep	15
+17	the	the		dt	art								DT	det	18
+18	concrete	concrete		nn									NN	pobj	16
+19	.	.											.	punct	10
+
+#sentid = 59
+0													_SP	dep	10
+1	The	the		dt	art								DT	det	3
+2	unit	unit	nn+npremod	nn			npremod						NN	compound	3
+3	weight	weight		nn									NN	nsubjpass	10
+4	of	of	of+npostmod	in	nmod								IN	prep	3
+5	the	the		dt	art								DT	det	7
+6	fresh	fresh	attr+npremod	jj	attr								JJ	amod	7
+7	concrete	concrete		nn									NN	pobj	4
+8	can	can		vbaux	mod	pos							MD	aux	10
+9	be	be		vbaux									VB	auxpass	10
+10	determined	determine		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	10
+11	following	follow		vbmain	advl	nonfinite	simple	active		ingcls			VBG	prep	10
+12	ASTM	astm		nn		proper							NNP	pobj	11
+13	C-138	c-138		nn		proper							NNP	nummod	12
+14	.	.											.	punct	10
+
+#sentid = 60
+0	First	first		rb	link								RB	advmod	12
+1	,	,											,	punct	12
+2	the	the		dt	art								DT	det	3
+3	weight	weight		nn									NN	nsubjpass	12
+4	and	and		cc	phrs								CC	cc	3
+5	volume	volume		nn									NN	conj	3
+6	of	of	of+npostmod	in	nmod								IN	prep	3
+7	a	a		dt	art								DT	det	9
+8	chosen	choose	attr+npremod	jj	attr	ed							VBN	amod	9
+9	cylinder	cylinder		nn		nom							NN	pobj	6
+10	must	must		vbaux	mod	nec							MD	aux	12
+11	be	be		vbaux									VB	auxpass	12
+12	recorded	record		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	12
+13	.	.											.	punct	12
+
+#sentid = 61
+0	The	the		dt	art								DT	det	1
+1	cylinder	cylinder		nn		nom							NN	nsubjpass	4
+2	is	be		vbaux									VBZ	auxpass	4
+3	then	then		rb	link								RB	advmod	4
+4	filled	fill		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	4
+5	in	in	in+advl	in	advl								IN	prep	4
+6	three	three											CD	nummod	7
+7	layers	layer		nn	pl	nom							NNS	pobj	5
+8	with	with	in+advl	in	advl								IN	prep	4
+9	fresh	fresh	attr+npremod	jj	attr								JJ	amod	10
+10	concrete	concrete		nn									NN	pobj	8
+11	,	,											,	punct	4
+12	rodded	rodde		vbmain	vblex	nonfinite	simple	active		edcls			VBN	conj	4
+13	25	25											CD	nummod	14
+14	times	time		nn	pl								NNS	npadvmod	12
+15	and	and		cc	phrs								CC	cc	12
+16	tapped	tap		vbmain	vblex	nonfinite	simple	active		edcls			VBN	conj	12
+17	each	each		dt									DT	det	18
+18	layer	layer		nn		nom							NN	dobj	16
+19	.	.											.	punct	4
+
+#sentid = 62
+0	Once	once		cs	cs_othr								RB	mark	3
+1	the	the		dt	art								DT	det	2
+2	container	container		nn		nom							NN	nsubj	3
+3	is	be	finitecls+advl	vbmain	be	pres	simple	active	advlcls		other_advl		VBZ	advcl	11
+4	full	full		jj	pred								JJ	acomp	3
+5	,	,											,	punct	11
+6	the	the		dt	art								DT	det	8
+7	excess	excess	attr+npremod	jj	attr								JJ	amod	8
+8	concrete	concrete		nn									NN	nsubjpass	11
+9	must	must		vbaux	mod	nec							MD	aux	11
+10	be	be		vbaux									VB	auxpass	11
+11	struck	strike		vbmain	phrsv	vp_w_modal	simple	pasv_agls					VBN	ROOT	11
+12	off	off		rb	prtcle								RP	prt	11
+13	with	with	in+advl	in	advl								IN	prep	11
+14	the	the		dt	art								DT	det	15
+15	rod	rod		nn									NN	pobj	13
+16	.	.											.	punct	11
+
+#sentid = 63
+0	The	the		dt	art								DT	det	2
+1	filled	fill	attr+npremod	jj	attr	ed							VBN	amod	2
+2	cylinder	cylinder		nn		nom							NN	nsubjpass	5
+3	is	be		vbaux									VBZ	auxpass	5
+4	then	then		rb	link								RB	advmod	5
+5	weighed	weigh		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	5
+6	,	,											,	punct	5
+7	and	and		cc	phrs								CC	cc	5
+8	the	the		dt	art								DT	det	10
+9	unit	unit	nn+npremod	nn			npremod						NN	compound	10
+10	weight	weight		nn									NN	nsubjpass	17
+11	of	of	of+npostmod	in	nmod								IN	prep	10
+12	the	the		dt	art								DT	det	13
+13	concrete	concrete		nn									NN	pobj	11
+14	can	can		vbaux	mod	pos							MD	aux	17
+15	thus	thus		rb	link		splaux						RB	advmod	17
+16	be	be		vbaux									VB	auxpass	17
+17	calculated	calculate		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	conj	5
+18	.	.											.	punct	17
+
+#sentid = 64
+0													_SP	dep	5
+1	Sampling	sample		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	nsubjpass	5
+2	concrete	concrete		nn									NN	dobj	1
+3	can	can		vbaux	mod	pos							MD	aux	5
+4	be	be		vbaux									VB	auxpass	5
+5	done	do		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	5
+6	according	accord		vbmain	advl	nonfinite	simple	active		ingcls			VBG	prep	5
+7	to	to	in+advl	in	advl								IN	prep	6
+8	ASTM	astm	nn+npremod	nn		proper	npremod						NNP	nmod	10
+9	C-172	c-172											CD	nummod	8
+10	standards	standard		nn	pl								NNS	pobj	7
+11	.	.											.	punct	5
+
+#sentid = 65
+0	Preparing	prepare	attr+npremod	jj	attr	ing							VBG	amod	1
+1	specimens	specimen		nn	pl								NNS	nsubjpass	4
+2	can	can		vbaux	mod	pos							MD	aux	4
+3	be	be		vbaux									VB	auxpass	4
+4	done	do		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	4
+5	according	accord		vbmain	advl	nonfinite	simple	active		ingcls			VBG	prep	4
+6	to	to	in+advl	in	advl								IN	prep	5
+7	ASTM	astm		nn		proper	npremod						NNP	compound	8
+8	C-192	c-192											CD	pobj	6
+9	.	.											.	punct	4
+
+#sentid = 66
+0	In	in	in+advl	in	advl								IN	prep	5
+1	this	this		dt	dt_dem								DT	det	2
+2	lab	lab		nn									NN	pobj	0
+3	we	we		pro	1st								PRP	nsubjpass	5
+4	were	be		vbaux									VBD	auxpass	5
+5	asked	ask		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	5
+6	to	to		to									TO	aux	7
+7	produce	produce	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	5
+8	three	three											CD	nummod	9
+9	sizes	size		nn	pl								NNS	dobj	7
+10	of	of	of+npostmod	in	nmod								IN	prep	9
+11	specimens	specimen		nn	pl								NNS	pobj	10
+12	.	.											.	punct	5
+
+#sentid = 67
+0	8	8											CD	nummod	2
+1	small	small	attr+npremod	jj	attr								JJ	amod	2
+2	cylinders	cylinder		nn	pl	nom							NNS	ROOT	2
+3	(	(											-LRB-	punct	2
+4	4"x8	4"x8											CD	appos	2
+5	"	"											,	punct	2
+6	)	)											,	punct	2
+7	,	,											,	punct	2
+8	2	2											CD	nummod	10
+9	large	large	attr+npremod	jj	attr								JJ	amod	10
+10	cylinders	cylinder		nn	pl	nom							NNS	conj	2
+11	(	(											-LRB-	punct	10
+12	6"x12	6"x12											CD	appos	10
+13	"	"											,	punct	10
+14	)	)											,	punct	10
+15	,	,											,	punct	10
+16	and	and		cc	phrs								CC	cc	10
+17	4	4											CD	nummod	18
+18	beams	beam		nn	pl								NNS	conj	10
+19	(	(											-LRB-	punct	18
+20	3"x4"x12	3"x4"x12											CD	appos	18
+21	"	"											.	punct	18
+22	)	)											.	punct	18
+23	.	.											.	punct	18
+
+#sentid = 68
+0	Each	each		dt									DT	det	1
+1	mold	mold		nn									NN	nsubjpass	4
+2	was	be		vbaux									VBD	auxpass	4
+3	first	first		rb	link								RB	advmod	4
+4	greased	grease		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	4
+5	so	so		cs	cs_othr								IN	mark	8
+6	as	as		cs	cs_othr								IN	mark	8
+7	to	to		to									TO	aux	8
+8	make	make	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls	other_advl		VB	advcl	4
+9	concrete	concrete	nn+npremod	nn			npremod						NN	compound	10
+10	removal	removal		nn		nom							NN	nsubj	11
+11	go	go		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	ccomp	8
+12	smoother	smoother	rb+advl	rb	advl								RBR	advmod	11
+13	at	at	in+advl	in	advl								IN	prep	11
+14	a	a		dt	art								DT	det	16
+15	later	later	attr+npremod	jj	attr								JJ	amod	16
+16	time	time		nn									NN	pobj	13
+17	.	.											.	punct	4
+
+#sentid = 69
+0	The	the		dt	art								DT	det	2
+1	small	small	attr+npremod	jj	attr								JJ	amod	2
+2	cylinders	cylinder		nn	pl	nom							NNS	nsubjpass	6
+3	and	and		cc	phrs								CC	cc	2
+4	beams	beam		nn	pl								NNS	conj	2
+5	were	be		vbaux									VBD	auxpass	6
+6	filled	fill		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	6
+7	in	in	in+advl	in	advl								IN	prep	6
+8	two	two											CD	nummod	9
+9	layers	layer		nn	pl	nom							NNS	pobj	7
+10	,	,											,	punct	6
+11	with	with	in+advl	in	advl								IN	prep	6
+12	each	each		dt									DT	det	13
+13	layer	layer		nn		nom							NN	nsubjpass	15
+14	being	be		vbaux									VBG	auxpass	15
+15	rodded	rodde		vbmain	vblex	past	simple	pasv_agls	compcls		incomp	compdel	VBN	pcomp	11
+16	25	25											CD	nummod	17
+17	times	time		nn	pl								NNS	npadvmod	15
+18	.	.											.	punct	6
+
+#sentid = 70
+0	The	the		dt	art								DT	det	1
+1	cylinders	cylinder		nn	pl	nom							NNS	nsubj	2
+2	are	be		vbmain	be	pres	simple	active					VBP	ROOT	2
+3	to	to		to									TO	aux	5
+4	be	be		vbaux									VB	auxpass	5
+5	tapped	tap	tocls+vcomp	vbmain	vblex	nonfinite	simple	pasv_agls	compcls	tocls	vcomp		VBN	xcomp	2
+6	in	in	in+advl	in	advl								IN	prep	5
+7	each	each		dt									DT	det	8
+8	layer	layer		nn		nom							NN	pobj	6
+9	as	as		rb	othr								RB	advmod	10
+10	well	well	rb+advl	rb	advl								RB	advmod	5
+11	.	.											.	punct	2
+
+#sentid = 71
+0	The	the		dt	art								DT	det	2
+1	large	large	attr+npremod	jj	attr								JJ	amod	2
+2	cylinders	cylinder		nn	pl	nom							NNS	nsubjpass	4
+3	were	be		vbaux									VBD	auxpass	4
+4	filled	fill		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	4
+5	in	in	in+advl	in	advl								IN	prep	4
+6	three	three											CD	nummod	7
+7	layers	layer		nn	pl	nom							NNS	pobj	5
+8	,	,											,	punct	4
+9	tapped	tap		vbmain	vblex	nonfinite	simple	active		edcls			VBN	dep	4
+10	and	and		cc	phrs								CC	cc	9
+11	rodded	rodde		vbmain	vblex	nonfinite	simple	active		edcls			VBN	conj	9
+12	25	25											CD	nummod	13
+13	times	time		nn	pl								NNS	npadvmod	11
+14	for	for	in+advl	in	advl								IN	prep	11
+15	each	each		dt									DT	det	16
+16	layer	layer		nn		nom							NN	pobj	14
+17	.	.											.	punct	4
+
+#sentid = 72
+0	The	the		dt	art								DT	det	2
+1	excess	excess	attr+npremod	jj	attr								JJ	amod	2
+2	concrete	concrete		nn									NN	nsubjpass	4
+3	was	be		vbaux									VBD	auxpass	4
+4	struck	strike		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	4
+5	off	off	in+advl	in	advl								IN	prep	4
+6	the	the		dt	art								DT	det	7
+7	top	top		nn									NN	pobj	5
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	each	each		dt									DT	det	10
+10	mold	mold		nn									NN	pobj	8
+11	by	by	in+advl	in	advl								IN	prep	4
+12	rolling	roll	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	11
+13	the	the		dt	art								DT	det	14
+14	rod	rod		nn									NN	dobj	12
+15	across	across	in+advl	in	advl								IN	prep	12
+16	the	the		dt	art								DT	det	17
+17	surface	surface		nn									NN	pobj	15
+18	to	to		to									TO	aux	19
+19	create	create	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	12
+20	a	a		dt	art								DT	det	22
+21	clean	clean	attr+npremod	jj	attr								JJ	amod	22
+22	look	look		nn									NN	dobj	19
+23	.	.											.	punct	4
+
+#sentid = 73
+0													_SP	dep	10
+1	Generally	generally	rb+advl	rb	advl	ly							RB	advmod	2
+2	following	follow	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	10
+3	all	all		dt									DT	det	4
+4	procedure	procedure		nn		nom							NN	dobj	2
+5	as	as		cs	cs_othr								IN	mark	6
+6	stated	state	edcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	edcls	other_advl		VBN	advcl	2
+7	above	above	rb+advl	rb	advl								RB	advmod	6
+8	,	,											,	punct	10
+9	we	we		pro	1st								PRP	nsubj	10
+10	performed	perform		vbmain	vblex	past	simple	active					VBD	ROOT	10
+11	our	our		dt	poss								PRP$	poss	12
+12	design	design		nn									NN	dobj	10
+13	and	and		cc	phrs								CC	cc	12
+14	mixing	mixing		nn		nom							NN	conj	12
+15	.	.											.	punct	10
+
+#sentid = 74
+0	Our	our		dt	poss								PRP$	poss	2
+1	first	first	attr+npremod	jj	attr								JJ	amod	2
+2	design	design		nn									NN	nsubjpass	4
+3	is	be		vbaux									VBZ	auxpass	4
+4	based	base		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	4
+5	off	off	in+advl	in	advl								IN	prep	4
+6	data	datum		nn	pl								NNS	pobj	5
+7	from	from	in+npostmod	in	nmod								IN	prep	6
+8	previous	previous	attr+npremod	jj	attr								JJ	amod	9
+9	tests	test		nn	pl								NNS	pobj	7
+10	,	,											,	punct	4
+11	and	and		cc	phrs								CC	cc	4
+12	our	our		dt	poss								PRP$	poss	13
+13	second	second											JJ	conj	4
+14	from	from	in+jcomp	in	jcomp								IN	prep	13
+15	data	datum		nn	pl								NNS	pobj	14
+16	provided	provide	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	15
+17	by	by											IN	agent	16
+18	the	the		dt	art								DT	det	19
+19	instructor	instructor		nn		nom							NN	pobj	17
+20	.	.											.	punct	4
+
+#sentid = 75
+0	The	the		dt	art								DT	det	2
+1	first	first	attr+npremod	jj	attr								JJ	amod	2
+2	table	table		nn									NN	nsubj	3
+3	provides	provide		vbmain	vblex	pres	simple	active					VBZ	ROOT	3
+4	the	the		dt	art								DT	det	5
+5	requirements	requirement		nn	pl	nom							NNS	dobj	3
+6	and	and		cc	phrs								CC	cc	5
+7	conditions	condition		nn	pl	nom							NNS	conj	5
+8	of	of	of+npostmod	in	nmod								IN	prep	5
+9	the	the		dt	art								DT	det	10
+10	concrete	concrete	s+gen	dt	poss		sgen						NN	poss	12
+11	's	's											POS	case	10
+12	environment	environment		nn		nom							NN	pobj	8
+13	.	.											.	punct	3
+
+#sentid = 76
+0													_SP	dep	2
+1	Above	above	rb+advl	rb	advl								RB	advmod	2
+2	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	2
+3	the	the		dt	art								DT	det	4
+4	data	data		nn									NN	attr	2
+5	found	find	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	4
+6	using	use	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	5
+7	the	the		dt	art								DT	det	8
+8	values	value		nn	pl								NNS	dobj	6
+9	of	of	of+npostmod	in	nmod								IN	prep	8
+10	materials	material		nn	pl	nom							NNS	pobj	9
+11	tested	test	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	10
+12	in	in	in+advl	in	advl								IN	prep	11
+13	previous	previous	attr+npremod	jj	attr								JJ	amod	14
+14	labs	lab		nn	pl								NNS	pobj	12
+15	.	.											.	punct	2
+
+#sentid = 77
+0	Metric	metric	attr+npremod	jj	attr								JJ	amod	1
+1	units	unit		nn	pl								NNS	nsubjpass	3
+2	are	be		vbaux									VBP	auxpass	3
+3	provided	provide		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	3
+4	as	as		rb	othr								RB	advmod	6
+5	well	well		rb	othr								RB	advmod	6
+6	as	as		cc	phrs								IN	cc	8
+7	British	british	attr+npremod	jj	attr								JJ	amod	8
+8	units	unit		nn	pl								NNS	dep	3
+9	in	in	in+npostmod	in	nmod								IN	prep	8
+10	parentheses	parenthesis		nn	pl	nom							NNS	pobj	9
+11	.	.											.	punct	3
+
+#sentid = 78
+0													_SP	dep	2
+1	Above	above	rb+advl	rb	advl								RB	advmod	2
+2	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	2
+3	the	the		dt	art								DT	det	4
+4	data	datum		nn	pl								NNS	nsubj	2
+5	found	find	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	4
+6	using	use	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	5
+7	the	the		dt	art								DT	det	8
+8	materials	material		nn	pl	nom							NNS	dobj	6
+9	given	give	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	8
+10	by	by											IN	agent	9
+11	our	our		dt	poss								PRP$	poss	12
+12	instructor	instructor		nn		nom							NN	pobj	10
+13	.	.											.	punct	2
+
+#sentid = 79
+0	Metric	metric	attr+npremod	jj	attr								JJ	amod	1
+1	units	unit		nn	pl								NNS	nsubjpass	3
+2	are	be		vbaux									VBP	auxpass	3
+3	provided	provide		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	3
+4	as	as		rb	othr								RB	advmod	6
+5	well	well		rb	othr								RB	advmod	6
+6	as	as		cc	phrs								IN	cc	8
+7	British	british	attr+npremod	jj	attr								JJ	amod	8
+8	units	unit		nn	pl								NNS	acl	1
+9	in	in	in+npostmod	in	nmod								IN	prep	8
+10	parentheses	parenthesis		nn	pl	nom							NNS	pobj	9
+11	.	.											.	punct	8
+
+#sentid = 80
+0													_SP	dep	4
+1	Our	our		dt	poss								PRP$	poss	2
+2	concrete	concrete		nn									NN	nsubjpass	4
+3	was	be		vbaux									VBD	auxpass	4
+4	mixed	mix		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	4
+5	according	accord		vbmain	advl	nonfinite	simple	active		ingcls			VBG	prep	4
+6	to	to	in+advl	in	advl								IN	prep	5
+7	the	the		dt	art								DT	det	8
+8	table	table		nn									NN	pobj	6
+9	on	on	in+npostmod	in	nmod								IN	prep	8
+10	the	the		dt	art								DT	det	11
+11	bottom	bottom		nn									NN	pobj	9
+12	of	of	of+npostmod	in	nmod								IN	prep	11
+13	the	the		dt	art								DT	det	15
+14	previous	previous	attr+npremod	jj	attr								JJ	amod	15
+15	page	page		nn		nom							NN	pobj	12
+16	,	,											,	punct	4
+17	and	and		cc	phrs								CC	cc	4
+18	tests	test		nn	pl								NNS	nsubjpass	20
+19	were	be		vbaux									VBD	auxpass	20
+20	performed	perform		vbmain	vblex	past	simple	pasv_agls					VBN	conj	4
+21	according	accord		vbmain	advl	nonfinite	simple	active		ingcls			VBG	prep	20
+22	to	to	in+advl	in	advl								IN	prep	21
+23	general	general	attr+npremod	jj	attr								JJ	amod	24
+24	following	following		nn		nom							NN	pobj	22
+25	of	of	of+npostmod	in	nmod								IN	prep	24
+26	the	the		dt	art								DT	det	28
+27	ASTM	astm	nn+npremod	nn		proper	npremod						NNP	compound	28
+28	procedures	procedure		nn	pl								NNS	pobj	25
+29	.	.											.	punct	20
+
+#sentid = 81
+0	Below	below	rb+advl	rb	advl								RB	advmod	1
+1	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	1
+2	a	a		dt	art								DT	det	3
+3	table	table		nn									NN	nsubj	1
+4	of	of	of+npostmod	in	nmod								IN	prep	3
+5	our	our		dt	poss								PRP$	poss	6
+6	results	result		nn	pl								NNS	pobj	4
+7	.	.											.	punct	1
+
+#sentid = 82
+0													_SP	dep	9
+1	The	the		dt	art								DT	det	3
+2	water	water	nn+npremod	nn		nom	npremod						NN	compound	3
+3	content	content		nn		nom							NN	nsubjpass	9
+4	of	of	of+npostmod	in	nmod								IN	prep	3
+5	our	our		dt	poss								PRP$	poss	6
+6	mixture	mixture		nn		nom							NN	pobj	4
+7	must	must		vbaux	mod	nec							MD	aux	9
+8	be	be		vbaux									VB	auxpass	9
+9	adjusted	adjust		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	9
+10	for	for	in+advl	in	advl								IN	prep	9
+11	two	two											CD	nummod	12
+12	reasons	reason		nn	pl								NNS	pobj	10
+13	.	.											.	punct	9
+
+#sentid = 83
+0	First	first		rb	link								RB	advmod	6
+1	,	,											,	punct	6
+2	the	the		dt	art								DT	det	3
+3	aggregate	aggregate		nn		nom							NN	nsubj	6
+4	we	we		pro	1st								PRP	nsubj	5
+5	used	use	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls		rel	reldel	VBD	relcl	3
+6	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	6
+7	in	in	in+advl	in	advl								IN	prep	6
+8	a	a		dt	art								DT	det	9
+9	condition	condition		nn		nom							NN	pobj	7
+10	known	know	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	9
+11	as	as	in+advl	in	advl								IN	prep	10
+12	oven	oven		nn			npremod						NN	compound	13
+13	dry	dry											JJ	pobj	11
+14	.	.											.	punct	6
+
+#sentid = 84
+0	This	this		pro	dem	sg							DT	nsubj	1
+1	means	mean		vbmain	vblex	pres	simple	active					VBZ	ROOT	1
+2	that	that		comp	comp_that								IN	mark	4
+3	there	there											EX	expl	4
+4	is	be	thatcls+vcomp	vbmain	be	pres	simple	active	compcls	thatcls	vcomp		VBZ	ccomp	1
+5	no	no		dt									DT	det	6
+6	water	water		nn		nom							NN	attr	4
+7	present	present		jj	attr								JJ	amod	6
+8	on	on	in+jcomp	in	jcomp								IN	prep	7
+9	or	or		cc									CC	cc	8
+10	in	in											IN	conj	8
+11	the	the		dt	art								DT	det	12
+12	aggregate	aggregate		nn		nom							NN	pobj	10
+13	.	.											.	punct	1
+
+#sentid = 85
+0	However	however		rb	link								RB	advmod	5
+1	,	,											,	punct	5
+2	the	the		dt	art								DT	det	3
+3	stone	stone		nn									NN	nsubj	5
+4	still	still	rb+advl	rb	advl								RB	advmod	5
+5	has	have		vbmain	vblex	pres	simple	active					VBZ	ROOT	5
+6	pores	pore		nn	pl								NNS	dobj	5
+7	on	on	in+npostmod	in	nmod								IN	prep	6
+8	the	the		dt	art								DT	det	9
+9	interior	interior		nn		nom							NN	pobj	7
+10	that	that		relpro	relpro_that	sg							WDT	nsubjpass	18
+11	when	when		rb	othr								WRB	advmod	12
+12	in	in											IN	advcl	18
+13	contact	contact		nn									NN	pobj	12
+14	with	with	in+npostmod	in	nmod								IN	prep	13
+15	water	water		nn		nom							NN	pobj	14
+16	will	will		vbaux	mod	prd							MD	aux	17
+17	become	become		vbaux									VB	auxpass	18
+18	filled	fill	finitecls+rel	vbmain	vblex	past	simple	pasv_agls	nmod_cls	thatcls	rel		VBN	relcl	6
+19	.	.											.	punct	5
+
+#sentid = 86
+0	Therefore	therefore		rb	link								RB	advmod	13
+1	,	,											,	punct	13
+2	when	when		rb	advl								WRB	advmod	6
+3	the	the		dt	art								DT	det	4
+4	concrete	concrete		nn									NN	nsubjpass	6
+5	is	be		vbaux									VBZ	auxpass	6
+6	mixed	mix	finitecls+advl	vbmain	vblex	pres	simple	pasv_agls	advlcls	whcls			VBN	advcl	13
+7	,	,											,	punct	13
+8	over	over	in+advl	in	advl								IN	prep	13
+9	time	time		nn									NN	pobj	8
+10	the	the		dt	art								DT	det	11
+11	aggregate	aggregate		nn		nom							NN	nsubj	13
+12	will	will		vbaux	mod	prd							MD	aux	13
+13	take	take		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	13
+14	water	water		nn		nom							NN	dobj	13
+15	from	from	in+advl	in	advl								IN	prep	13
+16	the	the		dt	art								DT	det	17
+17	mix	mix		nn									NN	pobj	15
+18	,	,											,	punct	13
+19	leaving	leave	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	13
+20	a	a		dt	art								DT	det	25
+21	lower	low	attr+npremod	jj	attr								JJR	amod	25
+22	water	water	nn+npremod	nn		nom	npremod						NN	nmod	24
+23	/	/											SYM	punct	24
+24	cement	cement	nn+npremod	nn		nom	npremod						NN	compound	25
+25	ratio	ratio		nn									NN	dobj	19
+26	,	,											,	punct	13
+27	unless	unless		cs	cnd								IN	mark	31
+28	this	this		dt	dt_dem								DT	det	29
+29	principle	principle		nn									NN	nsubjpass	31
+30	is	be		vbaux									VBZ	auxpass	31
+31	corrected	correct	finitecls+advl	vbmain	vblex	pres	simple	pasv_agls	advlcls		conditional		VBN	advcl	13
+32	for	for	in+advl	in	advl								IN	prep	31
+33	.	.											.	punct	13
+
+#sentid = 87
+0	Second	second	rb+advl	rb	advl								JJ	advmod	8
+1	,	,											,	punct	8
+2	the	the		dt	art								DT	det	3
+3	amount	amount		nn									NN	nsubjpass	8
+4	of	of	of+npostmod	in	nmod								IN	prep	3
+5	water	water		nn		nom							NN	pobj	4
+6	must	must		vbaux	mod	nec							MD	aux	8
+7	be	be		vbaux									VB	auxpass	8
+8	decreased	decrease		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	8
+9	if	if		cs	cnd								IN	mark	11
+10	there	there											EX	expl	11
+11	is	be	finitecls+advl	vbmain	be	pres	simple	active	advlcls		conditional		VBZ	advcl	8
+12	surface	surface	nn+npremod	nn			npremod						NN	compound	13
+13	moisture	moisture		nn		nom							NN	attr	11
+14	on	on	in+npostmod	in	nmod								IN	prep	13
+15	the	the		dt	art								DT	det	16
+16	aggregates	aggregate		nn	pl	nom							NNS	pobj	14
+17	.	.											.	punct	8
+
+#sentid = 88
+0	This	this		dt	dt_dem								DT	det	1
+1	moisture	moisture		nn		nom							NN	nsubj	4
+2	then	then		rb	link								RB	advmod	4
+3	further	far	rb+advl	rb	advl								RB	advmod	4
+4	contributes	contribute		vbmain	prepv	pres	simple	active					VBZ	ROOT	4
+5	to	to	in+advl	in	advl								IN	prep	4
+6	the	the		dt	art								DT	det	7
+7	water	water		nn		nom							NN	pobj	5
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	the	the		dt	art								DT	det	11
+10	concrete	concrete	attr+npremod	jj	attr								JJ	amod	11
+11	mix	mix		nn									NN	pobj	8
+12	and	and		cc	phrs								CC	cc	4
+13	can	can		vbaux	mod	pos							MD	aux	14
+14	create	create		vbmain	vblex	vp_w_modal	simple	active					VB	conj	4
+15	too	too	rb+jjrbmod	rb	othr								RB	advmod	16
+16	large	large											JJ	dobj	14
+17	of	of	in+jcomp	in	jcomp								IN	prep	16
+18	water	water	nn+npremod	nn		nom	npremod						NN	nmod	20
+19	/	/											SYM	punct	20
+20	cement	cement	nn+npremod	nn		nom	npremod						NN	compound	21
+21	ratio	ratio		nn									NN	pobj	17
+22	in	in	in+advl	in	advl								IN	prep	14
+23	some	some		dt									DT	det	24
+24	cases	case		nn	pl								NNS	pobj	22
+25	if	if		cs	cnd								IN	mark	27
+26	not	not											RB	neg	27
+27	corrected	correct	edcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	edcls	conditional		VBN	advcl	14
+28	for	for	in+advl	in	advl								IN	prep	27
+29	.	.											.	punct	4
+
+#sentid = 89
+0													_SP	dep	0
+
+#sentid = 90
+0	If	if		cs	cnd								IN	mark	8
+1	a	a		dt	art								DT	det	4
+2	very	very	rb+jjrbmod	rb	adjmod								RB	advmod	3
+3	narrow	narrow	attr+npremod	jj	attr								JJ	amod	4
+4	gradation	gradation		nn		nom							NN	nsubjpass	8
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	aggregates	aggregate		nn	pl	nom							NNS	pobj	5
+7	was	be		vbaux									VBD	auxpass	8
+8	used	use	finitecls+advl	vbmain	vblex	past	simple	pasv_agls	advlcls		conditional		VBN	advcl	15
+9	in	in	in+advl	in	advl								IN	prep	8
+10	concrete	concrete		nn									NN	pobj	9
+11	,	,											,	punct	15
+12	this	this		pro	dem	sg							DT	nsubj	15
+13	would	would		vbaux	mod	prd							MD	aux	15
+14	technically	technically	rb+advl	rb	advl	ly	splaux						RB	advmod	15
+15	increase	increase		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	15
+16	the	the		dt	art								DT	det	17
+17	workability	workability		nn		nom							NN	dobj	15
+18	of	of	of+npostmod	in	nmod								IN	prep	17
+19	the	the		dt	art								DT	det	20
+20	concrete	concrete		nn									NN	pobj	18
+21	.	.											.	punct	15
+
+#sentid = 91
+0	However	however		rb	link								RB	advmod	8
+1	,	,											,	punct	8
+2	making	make		vbmain	vblex	nonfinite	simple	active	compcls	ingcls	vcomp		VBG	csubj	8
+3	all	all		dt									DT	det	4
+4	particles	particle		nn	pl								NNS	nsubj	6
+5	uniform	uniform	attr+npremod	jj	attr								JJ	amod	6
+6	size	size		nn									NN	ccomp	2
+7	will	will		vbaux	mod	prd							MD	aux	8
+8	increase	increase		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	8
+9	the	the		dt	art								DT	det	10
+10	amount	amount		nn									NN	dobj	8
+11	of	of	of+npostmod	in	nmod								IN	prep	10
+12	cement	cement		nn		nom							NN	pobj	11
+13	needed	need	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	10
+14	to	to		to									TO	aux	15
+15	fill	fill		vbmain	vblex	nonfinite	simple	active	advlcls				VB	advcl	13
+16	the	the		dt	art								DT	det	18
+17	empty	empty	attr+npremod	jj	attr								JJ	amod	18
+18	voids	void		nn	pl								NNS	dobj	15
+19	.	.											.	punct	8
+
+#sentid = 92
+0	The	the		dt	art								DT	det	1
+1	lack	lack		nn									NN	nsubj	11
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	a	a		dt	art								DT	det	4
+4	grade	grade		nn									NN	pobj	2
+5	,	,											,	punct	4
+6	or	or		cc	phrs								CC	cc	4
+7	distribution	distribution		nn		nom							NN	conj	4
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	particle	particle	nn+npremod	nn			npremod						NN	compound	10
+10	sizes	size		nn	pl								NNS	pobj	8
+11	leaves	leave		vbmain	vblex	pres	simple	active					VBZ	ROOT	11
+12	larger	large	attr+npremod	jj	attr								JJR	amod	13
+13	gaps	gap		nn	pl								NNS	dobj	11
+14	in	in	in+npostmod	in	nmod								IN	prep	13
+15	the	the		dt	art								DT	det	16
+16	concrete	concrete		nn									NN	pobj	14
+17	,	,											,	punct	13
+18	which	which		relpro	relpro_wh								WDT	nsubj	23
+19	in	in	in+advl	in	advl								IN	prep	23
+20	the	the		dt	art								DT	det	21
+21	end	end		nn									NN	pobj	19
+22	will	will		vbaux	mod	prd							MD	aux	23
+23	require	require	finitecls+rel	vbmain	vblex	vp_w_modal	simple	active	nmod_cls	whcls	rel		VB	relcl	13
+24	something	something		nn	other	nom							NN	dobj	23
+25	to	to		to									TO	aux	26
+26	fill	fill	tocls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	rel		VB	relcl	24
+27	those	those		dt	dt_dem								DT	det	28
+28	spaces	space		nn	pl								NNS	dobj	26
+29	,	,											,	punct	24
+30	thus	thus		rb	othr								RB	advmod	24
+31	more	more	attr+npremod	jj	attr								JJR	amod	32
+32	cement	cement	appos+npostmod	nn		nom	nappos						NN	appos	24
+33	.	.											.	punct	11
+
+#sentid = 93
+0	This	this		pro	dem	sg							DT	nsubj	1
+1	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	1
+2	why	why		comp	comp_wh								WRB	advmod	4
+3	there	there											EX	expl	4
+4	are	be	whcls+vcomp	vbmain	be	pres	simple	active	compcls	whcls	vcomp		VBP	ccomp	1
+5	requirements	requirement		nn	pl	nom							NNS	attr	4
+6	and	and		cc	phrs								CC	cc	5
+7	standards	standard		nn	pl								NNS	conj	5
+8	for	for	in+npostmod	in	nmod								IN	prep	5
+9	the	the		dt	art								DT	det	10
+10	grading	grading		nn		nom							NN	pobj	8
+11	of	of	of+npostmod	in	nmod								IN	prep	10
+12	aggregates	aggregate		nn	pl	nom							NNS	pobj	11
+13	used	use	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	12
+14	in	in	in+advl	in	advl								IN	prep	13
+15	concrete	concrete		nn									NN	pobj	14
+16	,	,											,	punct	5
+17	to	to		to									TO	aux	18
+18	provide	provide	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	4
+19	the	the		dt	art								DT	det	24
+20	strongest	strong	attr+npremod	jj	attr								JJS	amod	24
+21	yet	yet		cc	phrs								CC	cc	20
+22	most	most	rb+jjrbmod	rb	othr								RBS	advmod	23
+23	efficient	efficient											JJ	conj	20
+24	concrete	concrete		nn									NN	dobj	18
+25	possible	possible		jj	attr								JJ	amod	24
+26	.	.											.	punct	1
+
+#sentid = 94
+0													_SP	dep	0
+
+#sentid = 95
+0	Throughout	throughout	in+advl	in	advl								IN	prep	4
+1	this	this		dt	dt_dem								DT	det	2
+2	lab	lab		nn									NN	pobj	0
+3	we	we		pro	1st								PRP	nsubj	4
+4	gained	gain		vbmain	vblex	past	simple	active					VBD	ROOT	4
+5	experience	experience		nn		nom							NN	dobj	4
+6	in	in	in+npostmod	in	nmod								IN	prep	5
+7	using	use	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	6
+8	the	the		dt	art								DT	det	11
+9	absolute	absolute	attr+npremod	jj	attr								JJ	amod	10
+10	volume	volume	nn+npremod	nn			npremod						NN	compound	11
+11	method	method		nn									NN	dobj	7
+12	used	use	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	11
+13	to	to		to									TO	aux	14
+14	proportion	proportion	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	12
+15	Portland	portland	nn+npremod	nn		proper	npremod						NNP	compound	18
+16	cement	cement	nn+npremod	nn		nom	npremod						NN	compound	18
+17	concrete	concrete	nn+npremod	nn			npremod						NN	compound	18
+18	mixtures	mixture		nn	pl								NNS	dobj	14
+19	.	.											.	punct	4
+
+#sentid = 96
+0	Using	use	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	4
+1	given	give	attr+npremod	jj	attr	ed							VBN	amod	2
+2	data	datum		nn	pl								NNS	dobj	0
+3	we	we		pro	1st								PRP	nsubj	4
+4	were	be		vbmain	be	past	simple	active					VBD	ROOT	4
+5	able	able		jj	pred								JJ	acomp	4
+6	to	to		to									TO	aux	7
+7	design	design	tocls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	jcomp		VB	xcomp	5
+8	concrete	concrete		nn									NN	dobj	7
+9	to	to		to									TO	aux	10
+10	meet	meet	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	7
+11	specifications	specification		nn	pl	nom							NNS	dobj	10
+12	,	,											,	punct	7
+13	and	and		cc	phrs								CC	cc	7
+14	take	take		vbmain	vblex	nonfinite	simple	active					VB	conj	7
+15	these	these		dt	dt_dem								DT	det	16
+16	values	value		nn	pl								NNS	dobj	14
+17	into	into	in+advl	in	advl								IN	prep	14
+18	the	the		dt	art								DT	det	19
+19	lab	lab		nn									NN	pobj	17
+20	.	.											.	punct	4
+
+#sentid = 97
+0	We	we		pro	1st								PRP	nsubj	2
+1	then	then		rb	link								RB	advmod	2
+2	were	be		vbmain	be	past	simple	active					VBD	ROOT	2
+3	capable	capable		jj	pred								JJ	acomp	2
+4	of	of	in+jcomp	in	jcomp								IN	prep	3
+5	creating	create	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	4
+6	the	the		dt	art								DT	det	8
+7	design	design	nn+npremod	nn			npremod						NN	compound	8
+8	mix	mix		nn									NN	dobj	5
+9	and	and		cc	phrs								CC	cc	5
+10	forming	form		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	conj	5
+11	our	our		dt	poss								PRP$	poss	13
+12	own	own	attr+npremod	jj	attr								JJ	amod	13
+13	batch	batch		nn									NN	dobj	10
+14	of	of	of+npostmod	in	nmod								IN	prep	13
+15	concrete	concrete											JJ	compound	16
+16	mix	mix		nn									NN	pobj	14
+17	.	.											.	punct	2
+
+#sentid = 98
+0	Furthermore	furthermore		rb	link								RB	advmod	2
+1	we	we		pro	1st								PRP	nsubj	2
+2	were	be		vbmain	be	past	simple	active					VBD	ROOT	2
+3	able	able		jj	pred								JJ	acomp	2
+4	to	to		to									TO	aux	6
+5	properly	properly	rb+advl	rb	advl	ly	splaux						RB	advmod	6
+6	sample	sample	tocls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	jcomp		VB	xcomp	3
+7	the	the		dt	art								DT	det	8
+8	concrete	concrete		nn									NN	dobj	6
+9	,	,											,	punct	6
+10	as	as		rb	othr								RB	advmod	12
+11	well	well		rb	othr								RB	advmod	12
+12	as	as		cc	phrs								IN	cc	6
+13	perform	perform		vbmain	vblex	nonfinite	simple	active					VB	conj	6
+14	slump	slump	nn+npremod	nn			npremod						NN	compound	15
+15	test	test		nn									NN	dobj	13
+16	,	,											,	punct	15
+17	unit	unit	nn+npremod	nn			npremod						NN	compound	18
+18	weight	weight	nn+npremod	nn			npremod						NN	compound	19
+19	test	test		nn									NN	conj	15
+20	,	,											,	punct	19
+21	and	and		cc	phrs								CC	cc	19
+22	air	air	nn+npremod	nn			npremod						NN	compound	23
+23	content	content	nn+npremod	nn		nom	npremod						NN	compound	24
+24	test	test		nn									NN	conj	19
+25	.	.											.	punct	2
+
+#sentid = 99
+0	We	we		pro	1st								PRP	nsubj	2
+1	finally	finally		rb	link	ly							RB	advmod	2
+2	gained	gain		vbmain	vblex	past	simple	active					VBD	ROOT	2
+3	practice	practice		nn									NN	dobj	2
+4	in	in	in+npostmod	in	nmod								IN	prep	3
+5	preparing	prepare	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	4
+6	molds	mold		nn	pl								NNS	dobj	5
+7	of	of	of+npostmod	in	nmod								IN	prep	6
+8	concrete	concrete		nn									NN	pobj	7
+9	to	to		to									TO	aux	12
+10	be	be		vbaux									VB	auxpass	12
+11	later	later	rb+advl	rb	advl		splaux						RB	advmod	12
+12	used	use	tocls+advl	vbmain	vblex	nonfinite	simple	pasv_agls	advlcls	tocls			VBN	advcl	5
+13	in	in	in+advl	in	advl								IN	prep	12
+14	testing	testing		nn		nom							NN	pobj	13
+15	.	.											.	punct	2
+
+#sentid = 100
+0	The	the		dt	art								DT	det	1
+1	results	result		nn	pl								NNS	nsubjpass	6
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	are	be		vbmain	be	pres	simple	active					VBP	nmod	4
+4	experience	experience		nn		nom							NN	pobj	2
+5	were	be		vbaux									VBD	auxpass	6
+6	given	give		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	6
+7	in	in	in+advl	in	advl								IN	prep	6
+8	this	this		dt	dt_dem								DT	det	9
+9	lab	lab		nn									NN	pobj	7
+10	,	,											,	punct	6
+11	and	and		cc	phrs								CC	cc	6
+12	represent	represent		vbmain	vblex	pres	simple	active					VBP	conj	6
+13	the	the		dt	art								DT	det	15
+14	overall	overall	attr+npremod	jj	attr								JJ	amod	15
+15	purpose	purpose		nn									NN	dobj	12
+16	of	of	of+npostmod	in	nmod								IN	prep	15
+17	this	this		dt	dt_dem								DT	det	18
+18	report	report		nn									NN	pobj	16
+19	.	.											.	punct	6

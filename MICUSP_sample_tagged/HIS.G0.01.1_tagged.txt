@@ -1,0 +1,2045 @@
+#sentid = 0
+0	In	in	in+advl	in	advl								IN	prep	9
+1	the	the		dt	art								DT	det	3
+2	late	late	attr+npremod	jj	attr								JJ	amod	3
+3	60	60		nn	pl								NNS	pobj	0
+4	’s	’		nn	pl								NNS	pobj	0
+5	,	,											,	punct	9
+6	four	four											CD	nummod	8
+7	Catholic	catholic	attr+npremod	jj	attr								JJ	amod	8
+8	men	man		nn	pl								NNS	nsubj	9
+9	started	start		vbmain	vblex	past	simple	active					VBD	ROOT	9
+10	a	a		dt	art								DT	det	13
+11	weekly	weekly	attr+npremod	jj	attr								JJ	amod	13
+12	prayer	prayer	nn+npremod	nn		nom	npremod						NN	compound	13
+13	meeting	meeting		nn		nom							NN	dobj	9
+14	in	in	in+npostmod	in	nmod								IN	prep	13
+15	Ann	ann		nn		proper	npremod						NNP	compound	16
+16	Arbor	arbor		nn		proper							NNP	pobj	14
+17	.	.											.	punct	9
+
+#sentid = 1
+0	Eventually	eventually	rb+advl	rb	advl	ly							RB	advmod	4
+1	this	this		dt	dt_dem								DT	det	3
+2	prayer	prayer	nn+npremod	nn		nom	npremod						NN	compound	3
+3	meeting	meeting		nn		nom							NN	nsubj	4
+4	gave	give		vbmain	vblex	past	simple	active					VBD	ROOT	4
+5	birth	birth		nn									NN	dobj	4
+6	to	to	in+advl	in	advl								IN	prep	4
+7	an	an		dt									DT	det	8
+8	organization	organization		nn		nom							NN	pobj	6
+9	called	call	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	8
+10	the	the		dt	art								DT	det	14
+11	Word	word		nn		proper	npremod						NNP	nmod	14
+12	of	of	of+npostmod	in	nmod								IN	prep	11
+13	God	god		nn		proper							NNP	pobj	12
+14	Community	community		nn		proper							NNP	oprd	9
+15	.	.											.	punct	4
+
+#sentid = 2
+0	One	one		pro	other	pl							CD	nsubj	5
+1	of	of		in	in_othr								IN	prep	0
+2	those	those		dt	dt_dem								DT	det	4
+3	original	original	attr+npremod	jj	attr								JJ	amod	4
+4	leaders	leader		nn	pl	nom							NNS	pobj	1
+5	was	be		vbmain	be	past	simple	active					VBD	ROOT	5
+6	a	a		dt	art								DT	det	7
+7	man	man		nn									NN	attr	5
+8	named	name	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	7
+9	Ralph	ralph		nn		proper	npremod						NNP	compound	10
+10	Martin	martin		nn		proper							NNP	oprd	8
+11	.	.											.	punct	5
+
+#sentid = 3
+0	Martin	martin		nn		proper							NNP	nsubj	1
+1	became	become		vbmain	vblex	past	simple	active					VBD	ROOT	1
+2	an	an		dt									DT	det	4
+3	important	important	attr+npremod	jj	attr								JJ	amod	4
+4	figure	figure		nn		nom							NN	attr	1
+5	and	and		cc	phrs								CC	cc	4
+6	leader	leader		nn		nom							NN	conj	4
+7	,	,											,	punct	4
+8	not	not											RB	preconj	10
+9	only	only	rb+jjrbmod	rb	othr	ly							RB	advmod	8
+10	within	within	in+npostmod	in	nmod								IN	prep	4
+11	this	this		dt	dt_dem								DT	det	13
+12	prayer	prayer	nn+npremod	nn		nom	npremod						NN	compound	13
+13	group	group		nn									NN	pobj	10
+14	,	,											,	punct	10
+15	but	but		cc									CC	cc	10
+16	for	for											IN	conj	10
+17	the	the		dt	art								DT	det	21
+18	whole	whole	attr+npremod	jj	attr								JJ	amod	21
+19	Charismatic	charismatic		nn		proper	npremod						NNP	compound	20
+20	Renewal	renewal	nn+npremod	nn		proper	npremod						NNP	compound	21
+21	movement	movement		nn		nom							NN	pobj	16
+22	.	.											.	punct	1
+
+#sentid = 4
+0	Thus	thus		rb	link								RB	advmod	5
+1	the	the		dt	art								DT	det	2
+2	books	book		nn	pl								NNS	nsubj	5
+3	he	he		pro	3rd	sg							PRP	nsubj	4
+4	wrote	write	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls		rel	reldel	VBD	relcl	2
+5	were	be		vbmain	be	past	simple	active					VBD	ROOT	5
+6	for	for	in+advl	in	advl								IN	prep	5
+7	a	a		dt	art								DT	det	10
+8	wider	wide	attr+npremod	jj	attr								JJR	amod	10
+9	Christian	christian	attr+npremod	jj	attr								JJ	amod	10
+10	audience	audience		nn		nom							NN	pobj	6
+11	than	than	in+npostmod	in	nmod								IN	prep	10
+12	just	just		rb	othr								RB	advmod	16
+13	his	his		dt	poss	sg							PRP$	poss	16
+14	local	local	attr+npremod	jj	attr								JJ	amod	16
+15	Christian	christian		nn		proper	npremod						NNP	compound	16
+16	Community	community		nn		proper							NNP	pobj	11
+17	,	,											,	punct	5
+18	but	but		cc	cls								CC	cc	5
+19	at	at	in+advl	in	advl								IN	prep	24
+20	the	the		dt	art								DT	det	22
+21	same	same	attr+npremod	jj	attr								JJ	amod	22
+22	time	time		nn									NN	pobj	19
+23	they	they		pro	pl								PRP	nsubj	24
+24	are	be		vbmain	be	pres	simple	active					VBP	conj	5
+25	representative	representative		jj	pred								JJ	acomp	24
+26	of	of	in+jcomp	in	jcomp								IN	prep	25
+27	the	the		dt	art								DT	det	31
+28	Word	word		nn		proper	npremod						NNP	nmod	31
+29	of	of	of+npostmod	in	nmod								IN	prep	28
+30	God	god		nn		proper							NNP	pobj	29
+31	Community	community		nn		proper							NNP	pobj	26
+32	since	since		cs	cs_othr								IN	mark	34
+33	Martin	martin		nn		proper							NNP	nsubj	34
+34	was	be	finitecls+advl	vbmain	be	past	simple	active	advlcls		other_advl		VBD	advcl	24
+35	a	a		dt	art								DT	det	37
+36	primary	primary	attr+npremod	jj	attr								JJ	amod	37
+37	leader	leader		nn		nom							NN	attr	34
+38	.	.											.	punct	24
+
+#sentid = 5
+0	In	in	in+advl	in	advl								IN	prep	10
+1	his	his		dt	poss	sg							PRP$	poss	2
+2	book	book		nn									NN	pobj	0
+3	Unless	unless		cs	cnd								IN	mark	6
+4	the	the		dt	art								DT	det	5
+5	Lord	lord		nn		proper							NNP	nsubj	6
+6	Build	build		vbmain	vblex	pres	simple	active			conditional		VBP	appos	2
+7	the	the		dt	art								DT	det	8
+8	House	house		nn		proper							NNP	dobj	6
+9	Martin	martin		nn		proper							NNP	nsubj	10
+10	writes	write		vbmain	vblex	pres	simple	active					VBZ	ROOT	10
+11	in	in	in+advl	in	advl								IN	prep	10
+12	a	a		dt	art								DT	det	13
+13	way	way		nn									NN	pobj	11
+14	to	to		to									TO	aux	15
+15	show	show	tocls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	rel		VB	relcl	13
+16	that	that		comp	comp_that								IN	mark	20
+17	he	he		pro	3rd	sg							PRP	nsubj	20
+18	does	do		vbaux									VBZ	aux	20
+19	not	not											RB	neg	20
+20	see	see	thatcls+vcomp	vbmain	vblex	pres	simple	active	compcls	thatcls	vcomp		VB	ccomp	15
+21	his	his		dt	poss	sg							PRP$	poss	23
+22	renewal	renewal	nn+npremod	nn		nom	npremod						NN	compound	23
+23	efforts	effort		nn	pl								NNS	dobj	20
+24	(	(											-LRB-	punct	23
+25	namely	namely		rb	othr	ly							RB	advmod	28
+26	the	the		dt	art								DT	det	28
+27	WOG	wog		nn		proper	npremod						NNP	compound	28
+28	Community	community	appos+npostmod	nn		proper	nappos						NNP	appos	23
+29	)	)											-RRB-	punct	23
+30	as	as	in+advl	in	advl								IN	prep	20
+31	a	a		dt	art								DT	det	33
+32	direct	direct	attr+npremod	jj	attr								JJ	amod	33
+33	product	product		nn									NN	pobj	30
+34	of	of	of+npostmod	in	nmod								IN	prep	33
+35	the	the		dt	art								DT	det	38
+36	Vatican	vatican		nn		proper	npremod						NNP	compound	37
+37	II	ii		nn		proper	npremod						NNP	compound	38
+38	Council	council		nn		proper							NNP	pobj	34
+39	and	and		cc	phrs								CC	cc	38
+40	the	the		dt	art								DT	det	42
+41	main	main	attr+npremod	jj	attr								JJ	amod	42
+42	attempts	attempt		nn	pl								NNS	conj	38
+43	for	for	in+npostmod	in	nmod								IN	prep	42
+44	renewal	renewal		nn		nom							NN	pobj	43
+45	within	within	in+npostmod	in	nmod								IN	prep	42
+46	the	the		dt	art								DT	det	48
+47	Catholic	catholic		nn		proper	npremod						NNP	compound	48
+48	Church	church		nn		proper							NNP	pobj	45
+49	.	.											.	punct	10
+
+#sentid = 6
+0	Martin	martin		nn		proper							NNP	nsubj	1
+1	sees	see		vbmain	vblex	pres	simple	active					VBZ	ROOT	1
+2	himself	himself		pro	3rd	sg							PRP	dobj	1
+3	and	and		cc	phrs								CC	cc	2
+4	his	his		dt	poss	sg							PRP$	poss	5
+5	community	community		nn		nom							NN	conj	2
+6	as	as	in+advl	in	advl								IN	prep	1
+7	something	something		nn	other	nom							NN	pobj	6
+8	distinct	distinct		jj	attr								JJ	amod	7
+9	from	from	in+jcomp	in	jcomp								IN	prep	8
+10	the	the		dt	art								DT	det	11
+11	Church	church		nn		proper							NNP	pobj	9
+12	,	,											,	punct	1
+13	while	while		cs	con								IN	mark	18
+14	at	at	in+advl	in	advl								IN	prep	18
+15	the	the		dt	art								DT	det	17
+16	same	same	attr+npremod	jj	attr								JJ	amod	17
+17	time	time		nn									NN	pobj	14
+18	remaining	remain	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls	concessive		VBG	advcl	1
+19	within	within	in+advl	in	advl								IN	prep	18
+20	the	the		dt	art								DT	det	22
+21	Catholic	catholic		nn		proper	npremod						NNP	compound	22
+22	Church	church		nn		proper							NNP	pobj	19
+23	.	.											.	punct	1
+
+#sentid = 7
+0													_SP	dep	7
+1	Unless	unless		cs	cnd								IN	mark	4
+2	the	the		dt	art								DT	det	3
+3	Lord	lord		nn		proper							NNP	nsubj	4
+4	Build	build		vbmain	vblex	nonfinite	simple	active	advlcls		conditional		VB	advcl	7
+5	the	the		dt	art								DT	det	6
+6	House	house		nn		proper							NNP	dobj	4
+7	was	be		vbmain	be	past	simple	active					VBD	ROOT	7
+8	a	a		dt	art								DT	det	10
+9	short	short	attr+npremod	jj	attr								JJ	amod	10
+10	book	book		nn									NN	attr	7
+11	written	write	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	10
+12	as	as	in+advl	in	advl								IN	prep	11
+13	an	an		dt									DT	det	14
+14	expansion	expansion		nn									NN	pobj	12
+15	of	of	of+npostmod	in	nmod								IN	prep	14
+16	series	series		nn		nom							NN	pobj	15
+17	of	of	of+npostmod	in	nmod								IN	prep	16
+18	talks	talk		nn	pl								NNS	pobj	17
+19	.	.											.	punct	7
+
+#sentid = 8
+0	In	in	in+advl	in	advl								IN	prep	6
+1	May	may		nn		proper							NNP	pobj	0
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	1970	1970											CD	pobj	2
+4	,	,											,	punct	6
+5	Martin	martin		nn		proper							NNP	nsubj	6
+6	spoke	speak		vbmain	prepv	past	simple	active					VBD	ROOT	6
+7	to	to	in+advl	in	advl								IN	prep	6
+8	over	over											IN	quantmod	9
+9	1600	1600											CD	nummod	10
+10	people	people		nn	pl								NNS	pobj	7
+11	on	on	in+advl	in	advl								IN	prep	6
+12	a	a		dt	art								DT	det	15
+13	charismatic	charismatic	attr+npremod	jj	attr								JJ	amod	15
+14	weekend	weekend	nn+npremod	nn			npremod						NN	compound	15
+15	conference	conference		nn		nom							NN	pobj	11
+16	about	about	in+npostmod	in	nmod								IN	prep	15
+17	renewal	renewal		nn		nom							NN	pobj	16
+18	in	in	in+npostmod	in	nmod								IN	prep	17
+19	the	the		dt	art								DT	det	20
+20	Church	church		nn		proper							NNP	pobj	18
+21	and	and		cc	cls								CC	cc	6
+22	from	from	in+advl	in	advl								IN	prep	26
+23	those	those		dt	dt_dem								DT	det	24
+24	talks	talk		nn	pl								NNS	pobj	22
+25	he	he		pro	3rd	sg							PRP	nsubj	26
+26	wrote	write		vbmain	vblex	past	simple	active					VBD	conj	6
+27	the	the		dt	art								DT	det	28
+28	book	book		nn									NN	dobj	26
+29	.	.											.	punct	26
+
+#sentid = 9
+0	The	the		dt	art								DT	det	1
+1	purpose	purpose		nn									NN	nsubj	5
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	the	the		dt	art								DT	det	4
+4	book	book		nn									NN	pobj	2
+5	was	be		vbmain	be	past	simple	active					VBD	ROOT	5
+6	to	to		to									TO	aux	7
+7	analyze	analyze	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	5
+8	the	the		dt	art								DT	det	11
+9	various	various	attr+npremod	jj	attr								JJ	amod	11
+10	renewal	renewal	nn+npremod	nn		nom	npremod						NN	compound	11
+11	attempts	attempt		nn	pl								NNS	dobj	7
+12	within	within	in+npostmod	in	nmod								IN	prep	11
+13	the	the		dt	art								DT	det	15
+14	Catholic	catholic		nn		proper	npremod						NNP	compound	15
+15	Church	church		nn		proper							NNP	pobj	12
+16	as	as		rb	othr								RB	advmod	18
+17	well	well		rb	othr								RB	advmod	18
+18	as	as		cc	phrs								IN	cc	7
+19	to	to		to									TO	aux	20
+20	analyze	analyze		vbmain	vblex	nonfinite	simple	active		tocls			VB	conj	7
+21	some	some											DT	dobj	20
+22	of	of		in	in_othr								IN	prep	21
+23	the	the		dt	art								DT	det	25
+24	basic	basic	attr+npremod	jj	attr								JJ	amod	25
+25	blocks	block		nn	pl								NNS	pobj	22
+26	to	to	in+npostmod	in	nmod								IN	prep	25
+27	Christian	christian	attr+npremod	jj	attr								JJ	amod	28
+28	renewal	renewal		nn		nom							NN	pobj	26
+29	.	.											.	punct	5
+
+#sentid = 10
+0	While	while		cs	con								IN	mark	3
+1	the	the		dt	art								DT	det	2
+2	book	book		nn									NN	nsubj	3
+3	claims	claim	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		concessive		VBZ	advcl	15
+4	to	to		to									TO	aux	5
+5	outline	outline	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	3
+6	a	a		dt	art								DT	det	7
+7	strategy	strategy		nn									NN	dobj	5
+8	for	for	in+npostmod	in	nmod								IN	prep	7
+9	renewal	renewal		nn		nom							NN	pobj	8
+10	,	,											,	punct	15
+11	the	the		dt	art								DT	det	13
+12	constructive	constructive	attr+npremod	jj	attr								JJ	amod	13
+13	comments	comment		nn	pl	nom							NNS	nsubjpass	15
+14	are	be		vbaux									VBP	auxpass	15
+15	saved	save		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	15
+16	for	for	in+advl	in	advl								IN	prep	15
+17	the	the		dt	art								DT	det	20
+18	final	final	attr+npremod	jj	attr								JJ	amod	20
+19	four	four											CD	nummod	20
+20	pages	page		nn	pl	nom							NNS	pobj	16
+21	,	,											,	punct	20
+22	of	of	in+advl	in	advl								IN	prep	25
+23	which	which											WDT	pobj	22
+24	half	half		nn									NN	nsubj	25
+25	is	be	finitecls+rel	vbmain	be	pres	simple	active	nmod_cls		rel	reldel	VBZ	relcl	20
+26	block	block	nn+npremod	nn			npremod						NN	compound	27
+27	quotes	quote		nn	pl								NNS	attr	25
+28	from	from	in+npostmod	in	nmod								IN	prep	27
+29	scripture	scripture		nn		nom							NN	pobj	28
+30	.	.											.	punct	15
+
+#sentid = 11
+0	The	the		dt	art								DT	det	2
+1	three	three											CD	nummod	2
+2	elements	element		nn	pl	nom							NNS	nsubj	8
+3	for	for	in+npostmod	in	nmod								IN	prep	2
+4	"	"											``	punct	3
+5	authentic	authentic	attr+npremod	jj	attr								JJ	amod	6
+6	renewal	renewal		nn		nom							NN	pobj	3
+7	"	"											''	punct	3
+8	are	be		vbaux									VBP	aux	12
+9	.	.											.	punct	8
+10	a	a											LS	meta	12
+11	)	)											-RRB-	punct	10
+12	preaching	preach		vbmain	vblex	pres	prog	active					VBG	ROOT	12
+13	the	the		dt	art								DT	det	14
+14	gospel	gospel		nn									NN	dobj	12
+15	,	,											,	punct	12
+16	b	b											LS	meta	18
+17	)	)											-RRB-	punct	16
+18	living	live		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	conj	12
+19	in	in	in+advl	in	advl								IN	prep	18
+20	the	the		dt	art								DT	det	21
+21	Spirit	spirit		nn		proper							NNP	pobj	19
+22	,	,											,	punct	18
+23	and	and		cc	phrs								CC	cc	18
+24	c	c											LS	meta	26
+25	)	)											-RRB-	punct	24
+26	building	build		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	conj	18
+27	community	community		nn		nom							NN	dobj	26
+28	.	.											.	punct	12
+
+#sentid = 12
+0	But	but		cc	cls								CC	cc	14
+1	as	as		cs	cs_othr								IN	mark	5
+2	these	these		pro	dem	pl							DT	nsubjpass	5
+3	are	be		vbaux									VBP	auxpass	5
+4	hardly	hardly	rb+advl	rb	advl	ly							RB	advmod	5
+5	addressed	address	finitecls+advl	vbmain	vblex	pres	simple	pasv_agls	advlcls		other_advl		VBN	advcl	14
+6	,	,											,	punct	14
+7	the	the		dt	art								DT	det	9
+8	main	main	attr+npremod	jj	attr								JJ	amod	9
+9	emphasis	emphasis		nn									NN	nsubj	14
+10	of	of	of+npostmod	in	nmod								IN	prep	9
+11	the	the		dt	art								DT	det	12
+12	book	book		nn									NN	pobj	10
+13	to	to		to									TO	aux	14
+14	show	show		vbmain	vblex	nonfinite	simple	active		tocls			VB	ROOT	14
+15	the	the		dt	art								DT	det	16
+16	weaknesses	weakness		nn	pl	nom							NNS	dobj	14
+17	of	of	of+npostmod	in	nmod								IN	prep	16
+18	the	the		dt	art								DT	det	19
+19	Church	church		nn		proper							NNP	pobj	17
+20	and	and		cc	phrs								CC	cc	16
+21	it	it		dt	poss	sg							PRP	poss	24
+22	’s	’s											POS	case	21
+23	renewal	renewal	nn+npremod	nn		nom	npremod						NN	compound	24
+24	strategy	strategy		nn									NN	conj	16
+25	.	.											.	punct	14
+
+#sentid = 13
+0													_SP	dep	2
+1	Martin	martin		nn		proper							NNP	nsubj	2
+2	speaks	speak		vbmain	prepv	pres	simple	active					VBZ	ROOT	2
+3	of	of	in+advl	in	advl								IN	prep	2
+4	the	the		dt	art								DT	det	6
+5	Vatican	vatican		nn		proper	npremod						NNP	compound	6
+6	II	ii		nn		proper							NNP	pobj	3
+7	,	,											,	punct	2
+8	mostly	mostly		rb	othr	ly							RB	advmod	9
+9	in	in	in+advl	in	advl								IN	prep	2
+10	a	a		dt	art								DT	det	12
+11	critical	critical	attr+npremod	jj	attr								JJ	amod	12
+12	way	way		nn									NN	pobj	9
+13	.	.											.	punct	2
+
+#sentid = 14
+0	"	"											``	punct	14
+1	Now	now	rb+advl	rb	advl								RB	advmod	14
+2	,	,											,	punct	14
+3	six	six											CD	nummod	4
+4	years	year		nn	pl								NNS	npadvmod	5
+5	after	after	in+advl	in	advl								IN	prep	14
+6	the	the		dt	art								DT	det	7
+7	close	close		nn									NN	pobj	5
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	the	the		dt	art								DT	det	10
+10	Council	council		nn		proper							NNP	pobj	8
+11	,	,											,	punct	14
+12	we	we		pro	1st								PRP	nsubj	14
+13	might	might		vbaux	mod	pos							MD	aux	14
+14	do	do		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	14
+15	well	well	rb+advl	rb	advl								RB	advmod	14
+16	to	to		to									TO	aux	17
+17	ask	ask	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	14
+18	.	.											.	punct	14
+
+#sentid = 15
+0	are	be		vbmain	be	pres	simple	active					VBP	ROOT	0
+1	all	all											DT	dep	0
+2	our	our		dt	poss								PRP$	poss	4
+3	parish	parish	attr+npremod	jj	attr								JJ	amod	4
+4	councils	council		nn	pl								NNS	attr	0
+5	,	,											,	punct	4
+6	associations	association	appos+npostmod	nn	pl	nom	nappos						NNS	appos	4
+7	,	,											,	punct	4
+8	synods	synod	appos+npostmod	nn	pl		nappos						NNS	appos	4
+9	,	,											,	punct	4
+10	workshops	workshop	appos+npostmod	nn	pl		nappos						NNS	appos	4
+11	,	,											,	punct	4
+12	conferences	conference	appos+npostmod	nn	pl	nom	nappos						NNS	appos	4
+13	,	,											,	punct	4
+14	due	due	attr+npremod	jj	attr								JJ	amod	15
+15	process	process	nn+npremod	nn		nom	npremod						NN	compound	16
+16	systems	system	appos+npostmod	nn	pl		nappos						NNS	appos	4
+17	,	,											,	punct	16
+18	multi	multi	attr+npremod	jj	attr								JJ	amod	22
+19	media	medium	nn+npremod	nn	pl		npremod						NNS	nmod	22
+20	religious	religious	attr+npremod	jj	attr								JJ	amod	21
+21	education	education	nn+npremod	nn		nom	npremod						NN	compound	22
+22	programs	program		nn	pl								NNS	conj	16
+23	,	,											,	punct	22
+24	computerized	computerize	attr+npremod	jj	attr	ed							VBN	amod	28
+25	and	and		cc	phrs								CC	cc	24
+26	publicized	publicize		vbmain	vblex	nonfinite	simple	active		edcls			VBN	conj	24
+27	diocesan	diocesan	attr+npremod	jj	attr								JJ	amod	28
+28	finances	finance		nn	pl	nom							NNS	conj	22
+29	,	,											,	punct	28
+30	plainly	plainly	rb+advl	rb	advl	ly							RB	advmod	31
+31	dressed	dress	attr+npremod	jj	attr	ed							VBN	amod	32
+32	bishops	bishop		nn	pl								NNS	conj	28
+33	,	,											,	punct	32
+34	married	married	attr+npremod	jj	attr								JJ	amod	35
+35	deacons	deacon		nn	pl								NNS	conj	32
+36	,	,											,	punct	35
+37	inner	inner	attr+npremod	jj	attr								JJ	amod	39
+38	-	-											HYPH	punct	39
+39	city	city	nn+npremod	nn		nom	npremod						NN	compound	40
+40	priests	priest		nn	pl								NNS	conj	35
+41	and	and		cc	phrs								CC	cc	40
+42	nuns	nun		nn	pl								NNS	conj	40
+43	…	…											NFP	punct	0
+44	producing	produce		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	dep	0
+45	a	a		dt	art								DT	det	47
+46	modern	modern	attr+npremod	jj	attr								JJ	amod	47
+47	Church	church		nn		proper							NNP	dobj	44
+48	…	…											NFP	punct	47
+49	or	or		cc	phrs								CC	cc	47
+50	a	a		dt	art								DT	det	52
+51	poor	poor	attr+npremod	jj	attr								JJ	amod	52
+52	imitation	imitation		nn		nom							NN	conj	47
+53	of	of	of+npostmod	in	nmod								IN	prep	52
+54	the	the		dt	art								DT	det	56
+55	modern	modern	attr+npremod	jj	attr								JJ	amod	56
+56	world	world		nn									NN	pobj	53
+57	?	?											''	punct	0
+58	"	"											''	punct	0
+
+#sentid = 16
+0	(	(											-LRB-	punct	1
+1	pg	pg		nn									NN	ROOT	1
+2	10	10											CD	nummod	1
+3	)	)											-RRB-	punct	1
+
+#sentid = 17
+0	.	.											-RRB-	ROOT	0
+
+#sentid = 18
+0	Martin	martin		nn		proper							NNP	nsubj	1
+1	agrees	agree		vbmain	prepv	pres	simple	active					VBZ	ROOT	1
+2	with	with	in+advl	in	advl								IN	prep	1
+3	many	many	attr+npremod	jj	attr								JJ	amod	5
+4	other	other	attr+npremod	jj	attr								JJ	amod	5
+5	Catholics	catholics		nn	pl	proper							NNPS	pobj	2
+6	and	and		cc									CC	cc	2
+7	with	with											IN	conj	2
+8	the	the		dt	art								DT	det	10
+9	Vatican	vatican		nn		proper	npremod						NNP	compound	10
+10	Council	council		nn		proper							NNP	pobj	7
+11	that	that		cs	cs_othr								IN	mark	22
+12	renewal	renewal		nn		nom							NN	nsubjpass	14
+13	is	be		vbaux									VBZ	auxpass	14
+14	needed	need	finitecls+advl	vbmain	vblex	pres	simple	pasv_agls	advlcls				VBN	advcl	22
+15	in	in	in+advl	in	advl								IN	prep	14
+16	the	the		dt	art								DT	det	17
+17	Church	church		nn		proper							NNP	pobj	15
+18	,	,											,	punct	22
+19	that	that		cs	cs_othr								IN	mark	22
+20	the	the		dt	art								DT	det	21
+21	Church	church		nn		proper							NNP	nsubj	22
+22	is	be	finitecls+advl	vbmain	be	pres	simple	active	advlcls				VBZ	advcl	1
+23	not	not											RB	neg	22
+24	where	where		rb	advl								WRB	advmod	29
+25	it	it		pro	3rd	sg							PRP	nsubjpass	27
+26	is	be		vbaux									VBZ	auxpass	27
+27	supposed	suppose	finitecls+advl	vbmain	vblex	pres	simple	pasv_agls	advlcls				VBN	advcl	22
+28	to	to		to									TO	aux	29
+29	be	be	tocls+vcomp	vbmain	be	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	27
+30	.	.											.	punct	1
+
+#sentid = 19
+0	however	however		rb	link								RB	advmod	3
+1	,	,											,	punct	3
+2	he	he		pro	3rd	sg							PRP	nsubj	3
+3	disagrees	disagree		vbmain	vblex	pres	simple	active					VBZ	ROOT	3
+4	about	about	in+advl	in	advl								IN	prep	3
+5	what	what											WP	pobj	11
+6	the	the		dt	art								DT	det	8
+7	end	end	attr+npremod	jj	attr								JJ	amod	8
+8	result	result		nn									NN	nsubj	10
+9	should	should		vbaux	mod	nec							MD	aux	10
+10	look	look		vbmain	prepv	vp_w_modal	simple	active	compcls		incomp	compdel	VB	pcomp	4
+11	like	like	in+advl	in	advl								IN	prep	10
+12	and	and		cc	phrs								CC	cc	10
+13	how	how		rb	advl								WRB	advmod	15
+14	to	to		to									TO	aux	15
+15	go	go		vbmain	vblex	nonfinite	simple	active		tocls			VB	conj	10
+16	about	about	in+advl	in	advl								IN	prep	15
+17	it	it		pro	3rd	sg							PRP	nsubj	18
+18	getting	get	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	16
+19	there	there	rb+advl	rb	advl								RB	advmod	18
+20	.	.											.	punct	3
+
+#sentid = 20
+0	This	this		pro	dem	sg							DT	nsubj	1
+1	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	1
+2	important	important		jj	pred								JJ	acomp	1
+3	.	.											.	punct	1
+
+#sentid = 21
+0	Almost	almost		rb	othr								RB	advmod	1
+1	at	at	in+advl	in	advl								IN	prep	6
+2	no	no		dt									DT	det	3
+3	point	point		nn									NN	pobj	1
+4	does	do		vbaux									VBZ	aux	6
+5	Martin	martin		nn		proper							NNP	nsubj	6
+6	praise	praise		vbmain	vblex	pres	simple	active	compcls		vcomp		VB	ccomp	20
+7	the	the		dt	art								DT	det	8
+8	work	work		nn									NN	dobj	6
+9	of	of	of+npostmod	in	nmod								IN	prep	8
+10	the	the		dt	art								DT	det	11
+11	Council	council		nn		proper							NNP	pobj	9
+12	[	[											-LRB-	punct	6
+13	#	#											ADD	punct	6
+14	REF	ref		nn									NN	npadvmod	6
+15	1	1											CD	nummod	14
+16	]	]											XX	punct	6
+17	,	,											,	punct	20
+18	instead	instead	rb+advl	rb	advl								RB	advmod	20
+19	he	he		pro	3rd	sg							PRP	nsubj	20
+20	uses	use		vbmain	vblex	pres	simple	active					VBZ	ROOT	20
+21	language	language		nn		nom							NN	dobj	20
+22	like	like	in+npostmod	in	nmod								IN	prep	21
+23	"	"											``	punct	24
+24	misdirected	misdirected											JJ	pobj	22
+25	"	"											''	punct	24
+26	(	(											-LRB-	punct	24
+27	9	9											CD	punct	24
+28	)	)											,	punct	24
+29	,	,											,	punct	24
+30	"	"											``	punct	32
+31	tragic	tragic	attr+npremod	jj	attr								JJ	amod	32
+32	results	result		nn	pl								NNS	conj	24
+33	"	"											''	punct	32
+34	(	(											-LRB-	punct	35
+35	11	11											CD	appos	32
+36	)	)											-RRB-	punct	35
+37	,	,											-RRB-	punct	32
+38	"	"											``	punct	40
+39	theological	theological	attr+npremod	jj	attr								JJ	amod	40
+40	jargon	jargon		nn									NN	conj	32
+41	"	"											''	punct	40
+42	(	(											-LRB-	punct	40
+43	13	13											CD	punct	40
+44	)	)											-RRB-	punct	40
+45	,	,											-RRB-	punct	40
+46	and	and		cc	phrs								CC	cc	40
+47	"	"											``	punct	48
+48	of	of											IN	conj	40
+49	the	the		dt	art								DT	det	50
+50	world	world		nn									NN	pobj	48
+51	"	"											''	punct	48
+52	(	(											-LRB-	punct	48
+53	25	25											CD	punct	48
+54	)	)											.	punct	48
+55	.	.											.	punct	24
+
+#sentid = 22
+0	"	"											``	punct	4
+1	The	the		dt	art								DT	det	3
+2	Liturgical	liturgical	attr+npremod	jj	attr								JJ	amod	3
+3	changes	change		nn	pl								NNS	nsubj	4
+4	were	be		vbmain	be	past	simple	active					VBD	ROOT	4
+5	almost	almost	rb+jjrbmod	rb	othr								RB	advmod	6
+6	invariably	invariably	rb+advl	rb	advl	ly							RB	advmod	4
+7	superficial	superficial		jj	pred								JJ	acomp	4
+8	.	.											.	punct	4
+
+#sentid = 23
+0	I	i		pro	1st	sg							PRP	nsubj	1
+1	believe	believe		vbmain	vblex	pres	simple	active	compcls		vcomp	compdel	VBP	ccomp	52
+2	that	that		comp	comp_that								IN	mark	9
+3	this	this		dt	dt_dem								DT	det	6
+4	widely	widely	rb+advl	rb	advl	ly							RB	advmod	5
+5	accepted	accept	attr+npremod	jj	attr	ed							VBN	amod	6
+6	approach	approach		nn									NN	nsubj	9
+7	to	to	in+npostmod	in	nmod								IN	prep	6
+8	renewal	renewal		nn		nom							NN	pobj	7
+9	is	be	thatcls+vcomp	vbmain	be	pres	simple	active	compcls	thatcls	vcomp		VBZ	ccomp	1
+10	not	not											RB	preconj	13
+11	only	only	rb+jjrbmod	rb	othr	ly							RB	advmod	10
+12	fundamentally	fundamentally	rb+jjrbmod	rb	adjmod	ly							RB	advmod	13
+13	wrong	wrong		jj	pred								JJ	acomp	9
+14	in	in	in+jcomp	in	jcomp								IN	prep	13
+15	its	its		dt	poss								PRP$	poss	17
+16	basic	basic	attr+npremod	jj	attr								JJ	amod	17
+17	presupposition	presupposition		nn		nom							NN	pobj	14
+18	,	,											,	punct	9
+19	but	but		cc	phrs								CC	cc	9
+20	because	because		cs	cos								IN	mark	26
+21	it	it		pro	3rd	sg							PRP	nsubjpass	26
+22	has	have		vbaux									VBZ	aux	26
+23	been	be		vbaux									VBN	auxpass	26
+24	so	so	rb+jjrbmod	rb	othr								RB	advmod	25
+25	extensively	extensively	rb+advl	rb	advl	ly	splaux						RB	advmod	26
+26	accepted	accept		vbmain	vblex	pres	perf	pasv_agls			causative		VBN	conj	9
+27	and	and		cc	phrs								CC	cc	26
+28	acted	act		vbmain	vblex	nonfinite	simple	active		edcls			VBN	conj	26
+29	upon	upon	in+advl	in	advl								IN	prep	28
+30	throughout	throughout	in+advl	in	advl								IN	prep	28
+31	the	the		dt	art								DT	det	32
+32	Church	church		nn		proper							NNP	pobj	30
+33	,	,											,	punct	26
+34	indeed	indeed	rb+advl	rb	advl								RB	advmod	35
+35	being	be		vbmain	be	nonfinite	simple	active		ingcls			VBG	conj	26
+36	the	the		dt	art								DT	det	39
+37	overwhelmingly	overwhelmingly	rb+jjrbmod	rb	adjmod	ly							RB	advmod	38
+38	dominant	dominant	attr+npremod	jj	attr								JJ	amod	39
+39	response	response		nn									NN	attr	35
+40	to	to	in+npostmod	in	nmod								IN	prep	39
+41	the	the		dt	art								DT	det	42
+42	call	call		nn									NN	pobj	40
+43	for	for	in+npostmod	in	nmod								IN	prep	42
+44	renewal	renewal		nn		nom							NN	pobj	43
+45	crystallized	crystallize	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	42
+46	by	by											IN	agent	45
+47	Vatican	vatican		nn		proper	npremod						NNP	compound	48
+48	II	ii		nn		proper							NNP	pobj	46
+49	,	,											,	punct	52
+50	it	it		pro	3rd	sg							PRP	nsubj	52
+51	as	as											IN	dep	52
+52	produced	produce		vbmain	vblex	past	simple	active					VBD	ROOT	52
+53	a	a		dt	art								DT	det	56
+54	seriously	seriously	rb+advl	rb	advl	ly							RB	advmod	55
+55	distorted	distort	attr+npremod	jj	attr	ed							VBN	amod	56
+56	Christianity	christianity		nn		proper							NNP	dobj	52
+57	through	through	in+advl	in	advl								IN	prep	52
+58	the	the		dt	art								DT	det	59
+59	Church	church		nn		proper							NNP	pobj	57
+60	.	.											''	punct	52
+61	"	"											''	punct	52
+62	(	(											-LRB-	punct	63
+63	12	12											CD	appos	52
+64	,	,											,	punct	63
+65	13	13											CD	nummod	63
+66	)	)											-RRB-	punct	52
+67	.	.											-RRB-	punct	52
+
+#sentid = 24
+0	Martin	martin		nn		proper							NNP	nsubj	1
+1	has	have		vbmain	vblex	pres	simple	active	compcls		vcomp	compdel	VBZ	ccomp	25
+2	a	a		dt	art								DT	det	4
+3	fundamental	fundamental	attr+npremod	jj	attr								JJ	amod	4
+4	disagreement	disagreement		nn		nom							NN	dobj	1
+5	with	with	in+npostmod	in	nmod								IN	prep	4
+6	the	the		dt	art								DT	det	7
+7	approach	approach		nn									NN	pobj	5
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	one	one		pro	other	pl							CD	pobj	8
+10	of	of		in	in_othr								IN	prep	9
+11	the	the		dt	art								DT	det	13
+12	highest	high	attr+npremod	jj	attr								JJS	amod	13
+13	authorities	authority		nn	pl	nom							NNS	pobj	10
+14	in	in	in+npostmod	in	nmod								IN	prep	13
+15	the	the		dt	art								DT	det	18
+16	Roman	roman		nn		proper	npremod						NNP	compound	18
+17	Catholic	catholic		nn		proper	npremod						NNP	compound	18
+18	Church	church		nn		proper							NNP	pobj	14
+19	(	(											-LRB-	punct	13
+20	the	the		dt	art								DT	det	21
+21	Council	council	appos+npostmod	nn		proper	nappos						NNP	appos	13
+22	)	)											-RRB-	punct	9
+23	,	,											-RRB-	punct	25
+24	this	this		pro	dem	sg							DT	nsubj	25
+25	shows	show		vbmain	vblex	pres	simple	active					VBZ	ROOT	25
+26	something	something		nn	other	nom							NN	dobj	25
+27	important	important		jj	attr								JJ	amod	26
+28	about	about	in+npostmod	in	nmod								IN	prep	26
+29	the	the		dt	art								DT	det	30
+30	way	way		nn									NN	pobj	28
+31	Martin	martin		nn		proper							NNP	nsubj	32
+32	viewed	view	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls		rel	reldel	VBD	relcl	30
+33	himself	himself		pro	3rd	sg							PRP	dobj	32
+34	and	and		cc	phrs								CC	cc	33
+35	the	the		dt	art								DT	det	37
+36	Charismatic	charismatic	attr+npremod	jj	attr								JJ	amod	37
+37	renewal	renewal		nn		nom							NN	conj	33
+38	,	,											,	punct	37
+39	whose	whose		dt	poss								WP$	poss	40
+40	approach	approach		nn									NN	dobj	42
+41	he	he		pro	3rd	sg							PRP	nsubj	42
+42	championed	champion	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls		rel	reldel	VBD	relcl	37
+43	.	.											.	punct	25
+
+#sentid = 25
+0	First	first		rb	link								RB	advmod	6
+1	of	of		in	in_othr								IN	prep	0
+2	all	all											DT	pobj	1
+3	,	,											,	punct	6
+4	he	he		pro	3rd	sg							PRP	nsubj	6
+5	was	be		vbaux									VBD	aux	6
+6	speaking	speak		vbmain	vblex	past	prog	active					VBG	ROOT	6
+7	within	within	in+advl	in	advl								IN	prep	6
+8	the	the		dt	art								DT	det	9
+9	context	context		nn									NN	pobj	7
+10	of	of	of+npostmod	in	nmod								IN	prep	9
+11	the	the		dt	art								DT	det	13
+12	Catholic	catholic		nn		proper	npremod						NNP	compound	13
+13	Church	church		nn		proper							NNP	pobj	10
+14	for	for	in+npostmod	in	nmod								IN	prep	13
+15	the	the		dt	art								DT	det	17
+16	Catholic	catholic		nn		proper	npremod						NNP	compound	17
+17	Churhc	churhc		nn		proper							NNP	pobj	14
+18	.	.											.	punct	6
+
+#sentid = 26
+0	Secondly	secondly	rb+advl	rb	advl	ly							RB	advmod	3
+1	he	he		pro	3rd	sg							PRP	nsubj	3
+2	openly	openly	rb+advl	rb	advl	ly							RB	advmod	3
+3	expressed	express		vbmain	vblex	past	simple	active					VBD	ROOT	3
+4	disagreement	disagreement		nn		nom							NN	dobj	3
+5	with	with	in+npostmod	in	nmod								IN	prep	4
+6	the	the		dt	art								DT	det	7
+7	Church	church	s+gen	dt	poss	proper	sgen						NNP	poss	9
+8	’s	’s											POS	case	7
+9	approach	approach		nn									NN	pobj	5
+10	to	to	in+npostmod	in	nmod								IN	prep	9
+11	renewal	renewal		nn		nom							NN	pobj	10
+12	.	.											.	punct	3
+
+#sentid = 27
+0	So	so		rb	link								RB	advmod	13
+1	,	,											,	punct	13
+2	while	while		cs	con								IN	mark	4
+3	Martin	martin		nn		proper							NNP	nsubj	4
+4	speaks	speak	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		concessive		VBZ	advcl	13
+5	from	from	in+advl	in	advl								IN	prep	4
+6	within	within		in	in_othr								IN	prep	5
+7	the	the		dt	art								DT	det	8
+8	Church	church		nn		proper							NNP	pobj	6
+9	,	,											,	punct	13
+10	he	he		pro	3rd	sg							PRP	nsubj	13
+11	does	do		vbaux									VBZ	aux	13
+12	n’t	not											RB	neg	13
+13	speak	speak		vbmain	vblex	pres	simple	active					VB	ROOT	13
+14	on	on	in+advl	in	advl								IN	prep	13
+15	behalf	behalf		nn									NN	pobj	14
+16	of	of	of+npostmod	in	nmod								IN	prep	15
+17	it	it		pro	3rd	sg							PRP	pobj	16
+18	.	.											.	punct	13
+
+#sentid = 28
+0	The	the		dt	art								DT	det	1
+1	position	position		nn		nom							NN	nsubj	9
+2	,	,											,	punct	1
+3	from	from	in+advl	in	advl								IN	prep	7
+4	which	which											WDT	pobj	3
+5	he	he		pro	3rd	sg							PRP	nsubj	7
+6	does	do		vbaux									VBZ	aux	7
+7	speak	speak	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls		rel	reldel	VB	relcl	1
+8	,	,											,	punct	1
+9	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	9
+10	as	as	in+advl	in	advl								IN	prep	9
+11	a	a		dt	art								DT	det	12
+12	director	director		nn		nom							NN	pobj	10
+13	(	(											-LRB-	punct	12
+14	coordinator	coordinator	appos+npostmod	nn		nom	nappos						NN	appos	12
+15	)	)											-RRB-	punct	12
+16	of	of	of+npostmod	in	nmod								IN	prep	12
+17	a	a		dt	art								DT	det	19
+18	lay	lay	attr+npremod	jj	attr								JJ	amod	19
+19	movement	movement		nn		nom							NN	pobj	16
+20	.	.											.	punct	9
+
+#sentid = 29
+0	Martin	martin		nn		proper							NNP	nsubj	1
+1	held	hold		vbmain	vblex	past	simple	active					VBD	ROOT	1
+2	no	no		dt									DT	det	3
+3	titles	title		nn	pl								NNS	dobj	1
+4	,	,											,	punct	3
+5	or	or		cc	phrs								CC	cc	3
+6	position	position		nn		nom							NN	conj	3
+7	of	of	of+npostmod	in	nmod								IN	prep	6
+8	authority	authority		nn		nom							NN	pobj	7
+9	within	within	in+npostmod	in	nmod								IN	prep	3
+10	the	the		dt	art								DT	det	12
+11	Catholic	catholic		nn		proper	npremod						NNP	compound	12
+12	Hierarchy	hierarchy		nn		proper							NNP	pobj	9
+13	,	,											,	punct	1
+14	but	but		cc	cls								CC	cc	1
+15	he	he		pro	3rd	sg							PRP	nsubj	16
+16	felt	feel		vbmain	vblex	past	simple	active					VBD	conj	1
+17	at	at	in+advl	in	advl								IN	prep	16
+18	liberty	liberty		nn									NN	pobj	17
+19	to	to		to									TO	aux	20
+20	criticize	criticize	tocls+ncomp	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	ncomp		VB	acl	18
+21	the	the		dt	art								DT	det	22
+22	Church	church		nn		proper							NNP	dobj	20
+23	and	and		cc	phrs								CC	cc	22
+24	its	its		dt	poss								PRP$	poss	25
+25	methods	method		nn	pl								NNS	conj	22
+26	.	.											.	punct	16
+
+#sentid = 30
+0	The	the		dt	art								DT	det	2
+1	strange	strange	attr+npremod	jj	attr								JJ	amod	2
+2	part	part		nn									NN	nsubj	6
+3	about	about	in+npostmod	in	nmod								IN	prep	2
+4	his	his		dt	poss	sg							PRP$	poss	5
+5	criticisms	criticism		nn	pl	nom							NNS	pobj	3
+6	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	6
+7	that	that		comp	comp_that								IN	mark	9
+8	they	they		pro	pl								PRP	nsubj	9
+9	are	be	thatcls+vcomp	vbmain	be	pres	simple	active	compcls	thatcls	vcomp		VBP	ccomp	6
+10	n’t	not											RB	neg	9
+11	the	the		dt	art								DT	det	12
+12	criticisms	criticism		nn	pl	nom							NNS	attr	9
+13	commonly	commonly	rb+advl	rb	advl	ly							RB	advmod	14
+14	associated	associate	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	12
+15	with	with	in+advl	in	advl								IN	prep	14
+16	the	the		dt	art								DT	det	18
+17	early	early		jj	attr								JJ	amod	18
+18	70	70											CD	pobj	15
+19	’s	’s											CD	pobj	15
+20	.	.											.	punct	6
+
+#sentid = 31
+0	Martin	martin		nn		proper							NNP	nsubj	2
+1	is	be		vbaux									VBZ	aux	2
+2	arguing	argue		vbmain	vblex	pres	prog	active					VBG	ROOT	2
+3	for	for	in+advl	in	advl								IN	prep	2
+4	stricter	strict	attr+npremod	jj	attr								JJR	amod	5
+5	fundamentalism	fundamentalism		nn		nom							NN	pobj	3
+6	and	and		cc	phrs								CC	cc	5
+7	literalism	literalism		nn		nom							NN	conj	5
+8	of	of	of+npostmod	in	nmod								IN	prep	5
+9	the	the		dt	art								DT	det	11
+10	Christian	christian	attr+npremod	jj	attr								JJ	amod	11
+11	message	message		nn		nom							NN	pobj	8
+12	.	.											.	punct	2
+
+#sentid = 32
+0	he	he		pro	3rd	sg							PRP	nsubj	3
+1	is	be		vbaux									VBZ	aux	3
+2	not	not											RB	neg	3
+3	criticizing	criticize		vbmain	vblex	pres	prog	active					VBG	ROOT	3
+4	the	the		dt	art								DT	det	5
+5	Church	church		nn		proper							NNP	dobj	3
+6	for	for	in+advl	in	advl								IN	prep	3
+7	holding	hold	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	6
+8	outdated	outdated	attr+npremod	jj	attr								JJ	amod	9
+9	beliefs	belief		nn	pl								NNS	dobj	7
+10	or	or		cc	phrs								CC	cc	9
+11	stick	stick	nn+npremod	nn			npremod						NN	nmod	13
+12	moral	moral	attr+npremod	jj	attr								JJ	amod	13
+13	teaching	teaching		nn		nom							NN	conj	9
+14	.	.											.	punct	3
+
+#sentid = 33
+0	He	he		pro	3rd	sg							PRP	nsubj	3
+1	would	would		vbaux	mod	prd							MD	aux	3
+2	even	even	rb+advl	rb	advl		splaux						RB	advmod	3
+3	criticize	criticize		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	3
+4	these	these		dt	dt_dem								DT	det	5
+5	beliefs	belief		nn	pl								NNS	dobj	3
+6	for	for	in+advl	in	advl								IN	prep	3
+7	being	be	ingcls+incomp	vbmain	be	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	6
+8	too	too	rb+jjrbmod	rb	adjmod								RB	advmod	9
+9	worldly	worldly		jj	pred								JJ	acomp	7
+10	.	.											.	punct	3
+
+#sentid = 34
+0													_SP	dep	7
+1	Martin	martin		nn		proper							NNP	nsubj	7
+2	,	,											,	punct	7
+3	in	in	in+advl	in	advl								IN	prep	7
+4	many	many	attr+npremod	jj	attr								JJ	amod	5
+5	ways	way		nn	pl								NNS	pobj	3
+6	,	,											,	punct	7
+7	sounds	sound		vbmain	vblex	pres	simple	active					VBZ	ROOT	7
+8	more	more		jj	pred								JJR	acomp	7
+9	like	like	in+jcomp	in	jcomp								IN	prep	8
+10	a	a		dt	art								DT	det	13
+11	fundamental	fundamental	attr+npremod	jj	attr								JJ	amod	13
+12	Protestant	protestant	attr+npremod	jj	attr								JJ	amod	13
+13	evangelist	evangelist		nn		nom							NN	pobj	9
+14	than	than	in+comparative	in	jcomp								IN	prep	8
+15	a	a		dt	art								DT	det	17
+16	Roman	roman											JJ	compound	17
+17	Catholic	catholic		nn		proper							NNP	pobj	14
+18	.	.											.	punct	7
+
+#sentid = 35
+0	To	to		to									TO	aux	1
+1	argue	argue	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	5
+2	his	his		dt	poss	sg							PRP$	poss	3
+3	point	point		nn									NN	dobj	1
+4	he	he		pro	3rd	sg							PRP	nsubj	5
+5	relied	rely		vbmain	vblex	past	simple	active					VBD	ROOT	5
+6	almost	almost	rb+jjrbmod	rb	othr								RB	advmod	7
+7	exclusively	exclusively	rb+advl	rb	advl	ly							RB	advmod	5
+8	on	on	in+advl	in	advl								IN	prep	5
+9	the	the		dt	art								DT	det	10
+10	Bible	bible		nn		proper							NNP	pobj	8
+11	.	.											.	punct	5
+
+#sentid = 36
+0	The	the		dt	art								DT	det	1
+1	pages	page		nn	pl	nom							NNS	nsubjpass	6
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	his	his		dt	poss	sg							PRP$	poss	4
+4	book	book		nn									NN	pobj	2
+5	are	be		vbaux									VBP	auxpass	6
+6	filled	fill		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	6
+7	with	with	in+advl	in	advl								IN	prep	6
+8	quote	quote		nn									NN	pobj	7
+9	after	after	in+npostmod	in	nmod								IN	prep	8
+10	quote	quote		nn									NN	pobj	9
+11	from	from	in+npostmod	in	nmod								IN	prep	8
+12	scripture	scripture		nn		nom							NN	pobj	11
+13	.	.											.	punct	6
+
+#sentid = 37
+0	The	the		dt	art								DT	det	3
+1	only	only	attr+npremod	jj	attr								JJ	amod	3
+2	"	"											``	punct	3
+3	tradition	tradition		nn		nom							NN	nsubj	11
+4	"	"											''	punct	3
+5	or	or		cc	phrs								CC	cc	3
+6	church	church	nn+npremod	nn			npremod						NN	compound	7
+7	doctrine	doctrine		nn									NN	conj	3
+8	that	that		pro	dem	sg							WDT	dobj	10
+9	he	he		pro	3rd	sg							PRP	nsubj	10
+10	uses	use	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls		rel		VBZ	relcl	3
+11	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	11
+12	from	from	in+advl	in	advl								IN	prep	11
+13	a	a		dt	art								DT	det	14
+14	statement	statement		nn		nom							NN	pobj	12
+15	in	in	in+npostmod	in	nmod								IN	prep	14
+16	the	the		dt	art								DT	det	19
+17	Vatican	vatican		nn		proper	npremod						NNP	compound	18
+18	II	ii		nn		proper	npremod						NNP	compound	19
+19	Council	council		nn		proper							NNP	pobj	15
+20	that	that		relpro	relpro_that	sg							WDT	nsubj	21
+21	clarifies	clarify	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls	thatcls	rel		VBZ	relcl	14
+22	the	the		dt	art								DT	det	23
+23	need	need		nn									NN	dobj	21
+24	for	for	in+npostmod	in	nmod								IN	prep	23
+25	real	real	attr+npremod	jj	attr								JJ	amod	26
+26	evangelism	evangelism		nn		nom							NN	pobj	24
+27	,	,											,	punct	11
+28	but	but		cc	cls								CC	cc	11
+29	he	he		pro	3rd	sg							PRP	nsubj	30
+30	goes	go		vbmain	prepv	pres	simple	active					VBZ	conj	11
+31	on	on		rb	prtcle								RP	prt	30
+32	to	to		to									TO	aux	33
+33	say	say	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	30
+34	that	that		comp	comp_that								IN	mark	39
+35	the	the		dt	art								DT	det	36
+36	point	point		nn									NN	nsubjpass	39
+37	is	be		vbaux									VBZ	auxpass	39
+38	"	"											``	punct	39
+39	stated	state	thatcls+vcomp	vbmain	vblex	pres	simple	pasv_agls	compcls	thatcls	vcomp		VBN	ccomp	33
+40	more	more	rb+jjrbmod	rb	othr								RBR	advmod	41
+41	starkly	starkly	rb+advl	rb	advl	ly							RB	advmod	39
+42	"	"											''	punct	39
+43	(	(											-LRB-	punct	39
+44	41	41											CD	npadvmod	39
+45	)	)											-RRB-	punct	39
+46	in	in	in+advl	in	advl								IN	prep	39
+47	the	the		dt	art								DT	det	50
+48	following	follow	attr+npremod	jj	attr	ing							VBG	amod	50
+49	Scripture	scripture	nn+npremod	nn		proper	npremod						NNP	compound	50
+50	passage	passage		nn		nom							NN	pobj	46
+51	.	.											.	punct	30
+
+#sentid = 38
+0	He	he		pro	3rd	sg							PRP	nsubj	3
+1	does	do		vbaux									VBZ	aux	3
+2	not	not											RB	neg	3
+3	quote	quote		vbmain	vblex	pres	simple	active					VB	ROOT	3
+4	from	from	in+advl	in	advl								IN	prep	3
+5	famous	famous	attr+npremod	jj	attr								JJ	amod	6
+6	Saints	saints		nn	pl	proper							NNPS	pobj	4
+7	or	or		cc	phrs								CC	cc	6
+8	other	other	attr+npremod	jj	attr								JJ	amod	10
+9	Catholic	catholic	attr+npremod	jj	attr								JJ	amod	10
+10	sources	source		nn	pl								NNS	conj	6
+11	to	to		to									TO	aux	12
+12	make	make	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	3
+13	his	his		dt	poss	sg							PRP$	poss	14
+14	point	point		nn									NN	dobj	12
+15	.	.											.	punct	3
+
+#sentid = 39
+0	he	he		pro	3rd	sg							PRP	nsubj	2
+1	simple	simple	rb+advl	rb	advl								RB	advmod	2
+2	quotes	quote		vbmain	vblex	pres	simple	active					VBZ	ROOT	2
+3	the	the		dt	art								DT	det	4
+4	Bible	bible		nn		proper							NNP	dobj	2
+5	.	.											.	punct	2
+
+#sentid = 40
+0	Even	even		rb	othr								RB	advmod	3
+1	the	the		dt	art								DT	det	3
+2	major	major	attr+npremod	jj	attr								JJ	amod	3
+3	points	point		nn	pl								NNS	nsubj	9
+4	and	and		cc	phrs								CC	cc	3
+5	the	the		dt	art								DT	det	6
+6	language	language		nn		nom							NN	conj	3
+7	he	he		pro	3rd	sg							PRP	nsubj	8
+8	uses	use	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls		rel	reldel	VBZ	relcl	6
+9	are	be		vbmain	be	pres	simple	active					VBP	ROOT	9
+10	ideas	idea		nn	pl								NNS	attr	9
+11	and	and		cc	phrs								CC	cc	10
+12	phrases	phrase		nn	pl								NNS	conj	10
+13	that	that		relpro	relpro_that	sg							WDT	nsubj	14
+14	sound	sound	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls	thatcls	rel		VBP	relcl	10
+15	more	more		rb	othr								RBR	advmod	16
+16	at	at	in+advl	in	advl								IN	prep	14
+17	home	home		nn									NN	pobj	16
+18	in	in		in	in_othr								IN	prep	16
+19	a	a		dt	art								DT	det	22
+20	Billy	billy		nn		proper	npremod						NNP	compound	21
+21	Graham	graham	nn+npremod	nn		proper	npremod						NNP	compound	22
+22	crusade	crusade		nn									NN	pobj	18
+23	.	.											.	punct	9
+
+#sentid = 41
+0	He	he		pro	3rd	sg							PRP	nsubj	1
+1	argues	argue		vbmain	vblex	pres	simple	active					VBZ	ROOT	1
+2	for	for	in+advl	in	advl								IN	prep	1
+3	the	the		dt	art								DT	det	4
+4	need	need		nn									NN	pobj	2
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	a	a		dt	art								DT	det	8
+7	personal	personal	attr+npremod	jj	attr								JJ	amod	8
+8	relationship	relationship		nn		nom							NN	pobj	5
+9	with	with	in+npostmod	in	nmod								IN	prep	8
+10	Jesus	jesus		nn		proper	npremod						NNP	compound	11
+11	Christ	christ		nn		proper							NNP	pobj	9
+12	,	,											,	punct	8
+13	new	new	attr+npremod	jj	attr								JJ	amod	14
+14	life	life	appos+npostmod	nn			nappos						NN	appos	8
+15	,	,											,	punct	14
+16	repentance	repentance		nn		nom							NN	conj	14
+17	and	and		cc	phrs								CC	cc	16
+18	conversion	conversion		nn									NN	conj	16
+19	,	,											,	punct	16
+20	grace	grace		nn									NN	conj	16
+21	and	and		cc	phrs								CC	cc	20
+22	faith	faith		nn									NN	conj	20
+23	.	.											.	punct	1
+
+#sentid = 42
+0	Perhaps	perhaps	rb+advl	rb	advl								RB	advmod	20
+1	one	one		pro	other	pl							CD	nsubj	20
+2	of	of		in	in_othr								IN	prep	1
+3	the	the		dt	art								DT	det	4
+4	reasons	reason		nn	pl								NNS	pobj	2
+5	the	the		dt	art								DT	det	8
+6	weekly	weekly	attr+npremod	jj	attr								JJ	amod	8
+7	prayer	prayer	nn+npremod	nn		nom	npremod						NN	compound	8
+8	meeting	meeting		nn		nom							NN	nsubj	9
+9	attracted	attract	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls		rel	reldel	VBD	relcl	4
+10	Protestants	protestants		nn	pl	proper							NNPS	dobj	9
+11	(	(											-LRB-	punct	9
+12	even	even	rb+advl	rb	advl								RB	advmod	16
+13	though	though		cs	con								IN	mark	16
+14	the	the		dt	art								DT	det	15
+15	leadership	leadership		nn		nom							NN	nsubj	16
+16	was	be	finitecls+advl	vbmain	be	past	simple	active	advlcls		concessive		VBD	advcl	9
+17	primarily	primarily	rb+jjrbmod	rb	adjmod	ly							RB	advmod	18
+18	Catholic	catholic		jj	pred								JJ	acomp	16
+19	)	)											-RRB-	punct	9
+20	was	be		vbmain	be	past	simple	active					VBD	ROOT	20
+21	that	that		comp	comp_that								IN	mark	24
+22	the	the		dt	art								DT	det	23
+23	message	message		nn		nom							NN	nsubj	24
+24	resonated	resonate	thatcls+vcomp	vbmain	vblex	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	20
+25	with	with	in+advl	in	advl								IN	prep	24
+26	the	the		dt	art								DT	det	27
+27	language	language		nn		nom							NN	pobj	25
+28	of	of	of+npostmod	in	nmod								IN	prep	27
+29	Evangelical	evangelical	attr+npremod	jj	attr								JJ	amod	30
+30	Christians	christians		nn	pl	proper							NNPS	pobj	28
+31	.	.											.	punct	20
+
+#sentid = 43
+0	Bible	bible	nn+npremod	nn		proper	npremod						NNP	compound	1
+1	reading	reading		nn		nom							NN	nsubjpass	6
+2	and	and		cc	phrs								CC	cc	1
+3	personal	personal	attr+npremod	jj	attr								JJ	amod	4
+4	conversion	conversion		nn									NN	conj	1
+5	were	be		vbaux									VBD	auxpass	6
+6	talked	talk		vbmain	prepv	past	simple	pasv_agls					VBN	ROOT	6
+7	about	about	in+advl	in	advl								IN	prep	6
+8	and	and		cc	phrs								CC	cc	6
+9	good	good	attr+npremod	jj	attr								JJ	amod	10
+10	news	news		nn									NN	nsubjpass	15
+11	of	of	of+npostmod	in	nmod								IN	prep	10
+12	Jesus	jesus		nn		proper	npremod						NNP	compound	13
+13	Christ	christ		nn		proper							NNP	pobj	11
+14	was	be		vbaux									VBD	auxpass	15
+15	preached	preach		vbmain	vblex	past	simple	pasv_agls					VBN	conj	6
+16	instead	instead		rb	othr								RB	advmod	17
+17	of	of	in+advl	in	advl								IN	prep	15
+18	emphasizing	emphasize	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	17
+19	"	"											``	punct	18
+20	Christian	christian	attr+npremod	jj	attr								JJ	amod	22
+21	social	social	attr+npremod	jj	attr								JJ	amod	22
+22	principles	principle		nn	pl								NNS	dobj	18
+23	or	or		cc	phrs								CC	cc	22
+24	morality	morality		nn		nom							NN	conj	22
+25	"	"											''	punct	22
+26	(	(											-LRB-	punct	22
+27	12	12											CD	appos	22
+28	)	)											-RRB-	punct	22
+29	without	without	in+advl	in	advl								IN	prep	18
+30	references	reference		nn	pl	nom							NNS	pobj	29
+31	to	to	in+npostmod	in	nmod								IN	prep	30
+32	the	the		dt	art								DT	det	34
+33	redemptive	redemptive	attr+npremod	jj	attr								JJ	amod	34
+34	work	work		nn									NN	pobj	31
+35	of	of	of+npostmod	in	nmod								IN	prep	34
+36	Christ	christ		nn		proper							NNP	pobj	35
+37	.	.											.	punct	15
+
+#sentid = 44
+0													_SP	dep	3
+1	Martin	martin		nn		proper							NNP	nsubj	3
+2	even	even	rb+advl	rb	advl								RB	advmod	3
+3	criticizes	criticize		vbmain	vblex	pres	simple	active					VBZ	ROOT	3
+4	the	the		dt	art								DT	det	5
+5	Vatican	vatican	s+gen	dt	poss	proper	sgen						NNP	poss	7
+6	’s	’s											POS	case	5
+7	encouragement	encouragement		nn		nom							NN	dobj	3
+8	for	for	in+npostmod	in	nmod								IN	prep	7
+9	the	the		dt	art								DT	det	11
+10	increased	increase	attr+npremod	jj	attr	ed							VBN	amod	11
+11	involvement	involvement		nn		nom							NN	pobj	8
+12	of	of	of+npostmod	in	nmod								IN	prep	11
+13	lay	lay	attr+npremod	jj	attr								JJ	amod	14
+14	people	people		nn	pl								NNS	pobj	12
+15	.	.											.	punct	3
+
+#sentid = 45
+0	"	"											``	punct	3
+1	One	one		pro	other	pl							PRP	nsubj	3
+2	frequently	frequently	rb+advl	rb	advl	ly							RB	advmod	3
+3	hears	hear		vbmain	vblex	pres	simple	active					VBZ	ROOT	3
+4	from	from	in+advl	in	advl								IN	prep	3
+5	both	both		dt									CC	det	6
+6	laymen	layman		nn	pl								NNS	pobj	4
+7	and	and		cc	phrs								CC	cc	6
+8	clergy	clergy		nn	pl								NNS	conj	6
+9	the	the		dt	art								DT	det	10
+10	exhortation	exhortation		nn		nom							NN	dobj	3
+11	to	to		to									TO	aux	13
+12	“	"											``	punct	13
+13	get	get	tocls+ncomp	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	ncomp		VB	acl	10
+14	involved	involved		jj	pred								JJ	acomp	13
+15	"	"											''	punct	10
+16	,	,											''	punct	3
+17	often	often		rb	othr								RB	advmod	18
+18	with	with	in+advl	in	advl								IN	prep	3
+19	a	a		dt	art								DT	det	20
+20	reference	reference		nn		nom							NN	pobj	18
+21	to	to	in+npostmod	in	nmod								IN	prep	20
+22	Vatican	vatican		nn		proper	npremod						NNP	compound	23
+23	Council	council		nn		proper	npremod						NNP	compound	24
+24	II	ii											CD	pobj	21
+25	and	and		cc									CC	cc	24
+26	its	its		dt	poss								PRP$	poss	27
+27	call	call		nn									NN	conj	24
+28	for	for	in+npostmod	in	nmod								IN	prep	27
+29	an	an		dt									DT	det	31
+30	involved	involved	attr+npremod	jj	attr								JJ	amod	31
+31	laity	laity		nn		nom							NN	pobj	28
+32	in	in	in+npostmod	in	nmod								IN	prep	31
+33	an	an		dt									DT	det	35
+34	involved	involved	attr+npremod	jj	attr								JJ	amod	35
+35	Church	church		nn		proper							NNP	pobj	32
+36	.	.											.	punct	3
+
+#sentid = 46
+0	Unfortunately	unfortunately	rb+advl	rb	advl	ly							RB	advmod	16
+1	the	the		dt	art								DT	det	2
+2	call	call		nn									NN	nsubj	16
+3	to	to		to									TO	aux	4
+4	get	get	tocls+ncomp	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	ncomp		VB	acl	2
+5	involved	involved		jj	pred								JJ	acomp	4
+6	,	,											,	punct	16
+7	even	even	rb+advl	rb	advl								RB	advmod	10
+8	if	if		cs	cnd								IN	mark	10
+9	it	it		pro	3rd	sg							PRP	nsubj	10
+10	were	be	finitecls+advl	vbmain	be	past	simple	active	advlcls		conditional		VBD	advcl	16
+11	effective	effective		jj	pred								JJ	acomp	10
+12	in	in	in+jcomp	in	jcomp								IN	prep	11
+13	producing	produce	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	12
+14	involvement	involvement		nn		nom							NN	dobj	13
+15	,	,											,	punct	16
+16	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	16
+17	not	not											RB	neg	16
+18	nearly	nearly	rb+jjrbmod	rb	adjmod	ly							RB	advmod	19
+19	precise	precise		jj	pred								JJ	acomp	16
+20	enough	enough	rb+jjrbmod	rb	adjmod								RB	advmod	19
+21	to	to		to									TO	aux	22
+22	lead	lead	tocls+jcomp	vbmain	prepv	nonfinite	simple	active	compcls	tocls	jcomp		VB	xcomp	19
+23	to	to	in+advl	in	advl								IN	prep	22
+24	Christian	christian	attr+npremod	jj	attr								JJ	amod	25
+25	involvement	involvement		nn		nom							NN	pobj	23
+26	.	.											.	punct	16
+
+#sentid = 47
+0	Getting	get		vbmain	vblex	nonfinite	simple	active	compcls	ingcls	vcomp		VBG	csubj	26
+1	involved	involve		jj	pred	ed							VBN	acomp	0
+2	in	in	in+advl	in	advl								IN	prep	1
+3	politics	politic		nn	pl								NNS	pobj	2
+4	,	,											,	punct	3
+5	the	the		dt	art								DT	det	7
+6	ecology	ecology	nn+npremod	nn			npremod						NN	compound	7
+7	movement	movement	appos+npostmod	nn		nom	nappos						NN	appos	3
+8	,	,											,	punct	7
+9	the	the		dt	art								DT	det	11
+10	peace	peace	nn+npremod	nn			npremod						NN	compound	11
+11	movement	movement	appos+npostmod	nn		nom	nappos						NN	appos	7
+12	,	,											,	punct	7
+13	the	the		dt	art								DT	det	14
+14	problems	problem	appos+npostmod	nn	pl		nappos						NNS	appos	7
+15	of	of	of+npostmod	in	nmod								IN	prep	14
+16	the	the		dt	art								DT	det	17
+17	family	family		nn									NN	pobj	15
+18	next	next	attr+npremod	jj	attr								JJ	amod	19
+19	door	door		nn		nom							NN	npadvmod	17
+20	,	,											,	punct	7
+21	the	the		dt	art								DT	det	22
+22	problems	problem	appos+npostmod	nn	pl		nappos						NNS	appos	7
+23	of	of	of+npostmod	in	nmod								IN	prep	22
+24	the	the		dt	art								DT	det	25
+25	parish	parish		nn									NN	pobj	23
+26	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	26
+27	n’t	not											RB	neg	26
+28	itself	itself											PRP	nsubj	26
+29	Christian	christian	attr+npremod	jj	attr								JJ	amod	30
+30	action	action		nn		nom							NN	attr	26
+31	.	.											''	punct	26
+32	"	"											''	punct	26
+33	(	(											-LRB-	punct	26
+34	40	40											CD	attr	26
+35	)	)											-RRB-	punct	26
+36	.	.											-RRB-	punct	26
+
+#sentid = 48
+0	This	this		pro	dem	sg							DT	nsubj	1
+1	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	1
+2	ironic	ironic		jj	pred								JJ	acomp	1
+3	in	in	in+advl	in	advl								IN	prep	1
+4	some	some		dt									DT	det	5
+5	ways	way		nn	pl								NNS	pobj	3
+6	,	,											,	punct	1
+7	since	since		cs	cs_othr								IN	mark	9
+8	Martin	martin		nn		proper							NNP	nsubj	9
+9	is	be	finitecls+advl	vbmain	be	pres	simple	active	advlcls		other_advl		VBZ	advcl	1
+10	himself	himself		pro	3rd	sg							PRP	npadvmod	9
+11	a	a		dt	art								DT	det	13
+12	lay	lay	attr+npremod	jj	attr								JJ	amod	13
+13	person	person		nn									NN	attr	9
+14	who	who		relpro	relpro_wh								WP	nsubj	16
+15	has	have		vbaux									VBZ	aux	16
+16	gotten	get	finitecls+rel	vbmain	vblex	pres	perf	active	nmod_cls	whcls	rel		VBN	relcl	13
+17	involved	involve		jj	pred	ed							VBN	acomp	16
+18	in	in	in+advl	in	advl								IN	prep	17
+19	the	the		dt	art								DT	det	20
+20	renewal	renewal		nn		nom							NN	pobj	18
+21	of	of	of+npostmod	in	nmod								IN	prep	20
+22	the	the		dt	art								DT	det	23
+23	Church	church		nn		proper							NNP	pobj	21
+24	.	.											.	punct	1
+
+#sentid = 49
+0	A	a		dt	art								DT	det	2
+1	fair	fair	attr+npremod	jj	attr								JJ	amod	2
+2	question	question		nn		nom							NN	nsubj	5
+3	to	to		to									TO	aux	4
+4	ask	ask	tocls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	rel		VB	relcl	2
+5	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	5
+6	whether	whether		cs	cs_othr								IN	mark	12
+7	or	or		cc	phrs								CC	cc	12
+8	not	not											RB	neg	12
+9	Martin	martin		nn		proper							NNP	nsubj	12
+10	would	would		vbaux	mod	prd							MD	aux	12
+11	be	be		vbaux									VB	aux	12
+12	doing	do		vbmain	vblex	vp_w_modal	prog	active	compcls		other_advl	compdel	VBG	ccomp	5
+13	what	what		comp	comp_wh								WP	dobj	16
+14	he	he		pro	3rd	sg							PRP	nsubj	16
+15	is	be		vbaux									VBZ	aux	16
+16	doing	do	whcls+vcomp	vbmain	vblex	pres	prog	active	compcls	whcls	vcomp		VBG	ccomp	12
+17	without	without	in+advl	in	advl								IN	prep	12
+18	the	the		dt	art								DT	det	19
+19	exhortation	exhortation		nn		nom							NN	pobj	17
+20	of	of	of+npostmod	in	nmod								IN	prep	19
+21	the	the		dt	art								DT	det	23
+22	Vatican	vatican		nn		proper	npremod						NNP	compound	23
+23	Council	council		nn		proper							NNP	pobj	20
+24	to	to		to									TO	aux	25
+25	get	get	tocls+ncomp	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	ncomp		VB	acl	19
+26	involved	involve		jj	pred	ed							VBN	acomp	25
+27	.	.											.	punct	5
+
+#sentid = 50
+0	This	this		dt	dt_dem								DT	det	1
+1	Council	council	s+gen	dt	poss	proper	sgen						NNP	poss	3
+2	’s	’s											POS	case	1
+3	encouragement	encouragement		nn		nom							NN	nsubj	5
+4	certainly	certainly	rb+advl	rb	advl	ly							RB	advmod	5
+5	made	make		vbmain	vblex	past	simple	active					VBD	ROOT	5
+6	room	room		nn									NN	dobj	5
+7	and	and		cc	phrs								CC	cc	5
+8	gave	give		vbmain	vblex	past	simple	active					VBD	conj	5
+9	a	a		dt	art								DT	det	11
+10	certain	certain	attr+npremod	jj	attr								JJ	amod	11
+11	kind	kind		nn									NN	dobj	8
+12	of	of	of+npostmod	in	nmod								IN	prep	11
+13	validity	validity		nn		nom							NN	pobj	12
+14	to	to											IN	dative	8
+15	what	what											WP	dobj	20
+16	Martin	martin		nn		proper							NNP	nsubj	18
+17	was	be		vbaux									VBD	aux	18
+18	trying	try		vbmain	vblex	past	prog	active	compcls		incomp	compdel	VBG	pcomp	14
+19	to	to		to									TO	aux	20
+20	do	do	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	18
+21	.	.											.	punct	5
+
+#sentid = 51
+0	The	the		dt	art								DT	det	2
+1	important	important	attr+npremod	jj	attr								JJ	amod	2
+2	thing	thing		nn		nom							NN	nsubj	3
+3	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	3
+4	that	that		comp	comp_that								IN	mark	8
+5	Martin	martin		nn		proper							NNP	nsubj	8
+6	did	do		vbaux									VBD	aux	8
+7	n’t	not											RB	neg	8
+8	view	view	thatcls+vcomp	vbmain	vblex	past	simple	active	compcls	thatcls	vcomp		VB	ccomp	3
+9	his	his		dt	poss	sg							PRP$	poss	10
+10	work	work		nn									NN	dobj	8
+11	as	as	in+advl	in	advl								IN	prep	8
+12	following	follow	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	11
+13	the	the		dt	art								DT	det	14
+14	directive	directive		nn									NN	dobj	12
+15	of	of	of+npostmod	in	nmod								IN	prep	14
+16	the	the		dt	art								DT	det	17
+17	Council	council		nn		proper							NNP	pobj	15
+18	.	.											.	punct	3
+
+#sentid = 52
+0	He	he		pro	3rd	sg							PRP	nsubj	1
+1	stood	stand		vbmain	vblex	past	simple	active					VBD	ROOT	1
+2	apart	apart	rb+advl	rb	advl								RB	advmod	1
+3	from	from		in	in_othr								IN	prep	2
+4	it	it		pro	3rd	sg							PRP	pobj	3
+5	,	,											,	punct	1
+6	able	able											JJ	advcl	1
+7	to	to		to									TO	aux	8
+8	criticize	criticize	tocls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	jcomp		VB	xcomp	6
+9	it	it		pro	3rd	sg							PRP	dobj	8
+10	as	as	in+advl	in	advl								IN	prep	8
+11	something	something		nn	other	nom							NN	pobj	10
+12	wholly	wholly	rb+jjrbmod	rb	adjmod	ly							RB	advmod	13
+13	different	different		jj	attr								JJ	amod	11
+14	.	.											.	punct	1
+
+#sentid = 53
+0	So	so		rb	link								RB	advmod	19
+1	while	while		cs	con								IN	mark	4
+2	Vatican	vatican		nn		proper	npremod						NNP	compound	3
+3	II	ii		nn		proper							NNP	nsubj	4
+4	made	make	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		concessive		VBD	advcl	19
+5	room	room		nn									NN	dobj	4
+6	for	for	in+advl	in	advl								IN	prep	4
+7	what	what		comp	comp_wh								WP	dobj	14
+8	the	the		dt	art								DT	det	12
+9	Word	word		nn		proper	npremod						NNP	nmod	12
+10	of	of	of+npostmod	in	nmod								IN	prep	9
+11	God	god		nn		proper							NNP	pobj	10
+12	Community	community		nn		proper							NNP	nsubj	14
+13	was	be		vbaux									VBD	aux	14
+14	doing	do	whcls+incomp	vbmain	vblex	past	prog	active	compcls	whcls	incomp		VBG	pcomp	6
+15	,	,											,	punct	19
+16	at	at		rb	othr								RB	advmod	17
+17	best	well	rb+advl	rb	advl								RBS	advmod	19
+18	there	there											EX	expl	19
+19	were	be		vbmain	be	past	simple	active					VBD	ROOT	19
+20	mixed	mix	attr+npremod	jj	attr	ed							VBN	amod	21
+21	views	view		nn	pl								NNS	attr	19
+22	of	of	of+npostmod	in	nmod								IN	prep	21
+23	the	the		dt	art								DT	det	24
+24	role	role		nn									NN	pobj	22
+25	of	of	of+npostmod	in	nmod								IN	prep	24
+26	the	the		dt	art								DT	det	27
+27	Council	council	s+gen	dt	poss	proper	sgen						NNP	poss	29
+28	’s	’s											POS	case	27
+29	statements	statement		nn	pl	nom							NNS	pobj	25
+30	and	and		cc	phrs								CC	cc	29
+31	approach	approach		nn									NN	conj	29
+32	and	and		cc	phrs								CC	cc	31
+33	influence	influence		nn		nom							NN	conj	31
+34	in	in	in+npostmod	in	nmod								IN	prep	24
+35	this	this		dt	dt_dem								DT	det	36
+36	movement	movement		nn		nom							NN	pobj	34
+37	.	.											.	punct	19
+
+#sentid = 54
+0	There	there											EX	expl	1
+1	was	be		vbmain	be	past	simple	active					VBD	ROOT	1
+2	certainly	certainly	rb+advl	rb	advl	ly							RB	advmod	1
+3	a	a		dt	art								DT	det	4
+4	degree	degree		nn		nom							NN	attr	1
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	isolation	isolation		nn		nom							NN	pobj	5
+7	and	and		cc	phrs								CC	cc	6
+8	separation	separation		nn		nom							NN	conj	6
+9	from	from	in+npostmod	in	nmod								IN	prep	6
+10	that	that		dt	dt_dem								DT	det	11
+11	impetus	impetus		nn									NN	pobj	9
+12	.	.											.	punct	1
+
+#sentid = 55
+0													_SP	dep	7
+1	What	what											WP	dobj	6
+2	Ralph	ralph		nn		proper	npremod						NNP	compound	3
+3	Martin	martin		nn		proper							NNP	nsubj	4
+4	has	have		vbmain	vblex	pres	simple	active	compcls		vcomp	compdel	VBZ	csubj	7
+5	to	to		to									TO	aux	6
+6	say	say		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	xcomp	4
+7	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	7
+8	significant	significant		jj	pred								JJ	acomp	7
+9	for	for	in+jcomp	in	jcomp								IN	prep	8
+10	understanding	understand	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	9
+11	the	the		dt	art								DT	det	12
+12	Word	word		nn		proper							NNP	dobj	10
+13	of	of	of+npostmod	in	nmod								IN	prep	12
+14	God	god		nn		proper							NNP	pobj	13
+15	because	because		cs	cos								IN	mark	18
+16	Martin	martin		nn		proper							NNP	nsubjpass	18
+17	was	be		vbaux									VBD	auxpass	18
+18	considered	consider	finitecls+advl	vbmain	vblex	past	simple	pasv_agls	advlcls		causative		VBN	advcl	7
+19	one	one											CD	oprd	18
+20	of	of		in	in_othr								IN	prep	19
+21	the	the		dt	art								DT	det	24
+22	two	two											CD	nummod	24
+23	major	major	attr+npremod	jj	attr								JJ	amod	24
+24	leaders	leader		nn	pl	nom							NNS	pobj	20
+25	of	of	of+npostmod	in	nmod								IN	prep	24
+26	the	the		dt	art								DT	det	30
+27	Word	word		nn		proper	npremod						NNP	nmod	30
+28	of	of	of+npostmod	in	nmod								IN	prep	27
+29	God	god		nn		proper							NNP	pobj	28
+30	Community	community		nn		proper							NNP	pobj	25
+31	.	.											.	punct	7
+
+#sentid = 56
+0	His	his		dt	poss	sg							PRP$	poss	1
+1	beliefs	belief		nn	pl								NNS	nsubj	4
+2	and	and		cc	phrs								CC	cc	1
+3	teachings	teaching		nn	pl	nom							NNS	conj	1
+4	affected	affect		vbmain	vblex	past	simple	active					VBD	ROOT	4
+5	the	the		dt	art								DT	det	6
+6	identity	identity		nn		nom							NN	dobj	4
+7	and	and		cc	phrs								CC	cc	6
+8	life	life		nn									NN	conj	6
+9	of	of	of+npostmod	in	nmod								IN	prep	6
+10	the	the		dt	art								DT	det	14
+11	Word	word		nn		proper	npremod						NNP	nmod	14
+12	of	of	of+npostmod	in	nmod								IN	prep	11
+13	God	god		nn		proper							NNP	pobj	12
+14	Community	community		nn		proper							NNP	pobj	9
+15	.	.											.	punct	4
+
+#sentid = 57
+0	However	however		rb	link								RB	advmod	9
+1	,	,											,	punct	9
+2	his	his		dt	poss	sg							PRP$	poss	3
+3	style	style		nn									NN	nsubj	9
+4	,	,											,	punct	3
+5	approach	approach		nn									NN	conj	3
+6	,	,											,	punct	5
+7	and	and		cc	phrs								CC	cc	5
+8	beliefs	belief		nn	pl								NNS	conj	5
+9	were	be		vbmain	be	past	simple	active					VBD	ROOT	9
+10	in	in	in+jcomp	in	jcomp								IN	prep	13
+11	many	many	attr+npremod	jj	attr								JJ	amod	12
+12	ways	way		nn	pl								NNS	pobj	10
+13	different	different		jj	pred								JJ	acomp	9
+14	from	from	in+jcomp	in	jcomp								IN	prep	13
+15	that	that		pro	dem	sg							DT	pobj	14
+16	of	of		in	in_othr								IN	prep	15
+17	Steve	steve		nn		proper	npremod						NNP	compound	18
+18	Clark	clark		nn		proper							NNP	pobj	16
+19	,	,											,	punct	18
+20	the	the		dt	art								DT	det	23
+21	other	other	attr+npremod	jj	attr								JJ	amod	23
+22	major	major	attr+npremod	jj	attr								JJ	amod	23
+23	leader	leader	appos+npostmod	nn		nom	nappos						NN	appos	18
+24	.	.											.	punct	9
+
+#sentid = 58
+0	The	the		dt	art								DT	det	1
+1	Community	community		nn		proper							NNP	nsubj	2
+2	formed	form		vbmain	vblex	past	simple	active					VBD	ROOT	2
+3	out	out	in+advl	in	advl								IN	prep	2
+4	of	of		in	in_othr								IN	prep	3
+5	a	a		dt	art								DT	det	6
+6	mix	mix		nn									NN	pobj	4
+7	of	of	of+npostmod	in	nmod								IN	prep	6
+8	tensions	tension		nn	pl								NNS	pobj	7
+9	between	between	in+npostmod	in	nmod								IN	prep	8
+10	their	their		dt	poss								PRP$	poss	12
+11	two	two											CD	nummod	12
+12	styles	style		nn	pl								NNS	pobj	9
+13	,	,											,	punct	12
+14	emphases	emphasis		nn	pl								NNS	conj	12
+15	,	,											,	punct	14
+16	and	and		cc	phrs								CC	cc	14
+17	personalities	personality		nn	pl	nom							NNS	conj	14
+18	.	.											.	punct	2
+
+#sentid = 59
+0	So	so											IN	dep	3
+1	this	this		dt	dt_dem								DT	det	2
+2	book	book		nn									NN	nsubj	3
+3	gives	give		vbmain	vblex	pres	simple	active					VBZ	ROOT	3
+4	us	we		pro	pl								PRP	dative	3
+5	an	an		dt									DT	det	6
+6	example	example		nn									NN	dobj	3
+7	of	of	of+npostmod	in	nmod								IN	prep	6
+8	one	one											CD	nummod	9
+9	stream	stream		nn									NN	pobj	7
+10	of	of	of+npostmod	in	nmod								IN	prep	9
+11	influence	influence		nn		nom							NN	pobj	10
+12	and	and		cc	phrs								CC	cc	11
+13	belief	belief		nn									NN	conj	11
+14	,	,											,	punct	9
+15	but	but		cc	phrs								CC	cc	9
+16	not	not											RB	neg	19
+17	a	a		dt	art								DT	det	19
+18	complete	complete	attr+npremod	jj	attr								JJ	amod	19
+19	picture	picture		nn		nom							NN	conj	9
+20	.	.											.	punct	3
+
+#sentid = 60
+0													_SP	dep	22
+1	While	while		cs	con								IN	mark	11
+2	Martin	martin		nn		proper							NNP	nsubj	11
+3	and	and		cc	phrs								CC	cc	2
+4	the	the		dt	art								DT	det	8
+5	Word	word		nn		proper	npremod						NNP	nmod	8
+6	of	of	of+npostmod	in	nmod								IN	prep	5
+7	God	god		nn		proper							NNP	pobj	6
+8	Community	community		nn		proper							NNP	conj	2
+9	did	do		vbaux									VBD	aux	11
+10	not	not											RB	neg	11
+11	praise	praise	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		concessive		VB	advcl	22
+12	the	the		dt	art								DT	det	14
+13	traditional	traditional	attr+npremod	jj	attr								JJ	amod	14
+14	approach	approach		nn									NN	dobj	11
+15	of	of	of+npostmod	in	nmod								IN	prep	14
+16	the	the		dt	art								DT	det	18
+17	Catholic	catholic		nn		proper	npremod						NNP	compound	18
+18	Church	church		nn		proper							NNP	pobj	15
+19	,	,											,	punct	22
+20	they	they		pro	pl								PRP	nsubj	22
+21	nevertheless	nevertheless		rb	link								RB	advmod	22
+22	remained	remain		vbmain	vblex	past	simple	active					VBD	ROOT	22
+23	part	part		nn									NN	attr	22
+24	of	of	of+npostmod	in	nmod								IN	prep	23
+25	the	the		dt	art								DT	det	27
+26	Catholic	catholic		nn		proper	npremod						NNP	compound	27
+27	Church	church		nn		proper							NNP	pobj	24
+28	as	as	in+npostmod	in	nmod								IN	prep	23
+29	individuals	individual		nn	pl	nom							NNS	pobj	28
+30	.	.											.	punct	22
+
+#sentid = 61
+0	The	the		dt	art								DT	det	4
+1	Community	community	nn+npremod	nn		proper	npremod						NNP	nmod	4
+2	/	/											SYM	punct	1
+3	Christian	christian		jj	attr								JJ	amod	1
+4	life	life		nn									NN	nsubj	8
+5	that	that		pro	dem	sg							WDT	dobj	7
+6	they	they		pro	pl								PRP	nsubj	7
+7	formed	form	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls		rel		VBD	relcl	4
+8	was	be		vbmain	be	past	simple	active					VBD	ROOT	8
+9	outside	outside	in+advl	in	advl								IN	prep	8
+10	of	of		in	in_othr								IN	prep	9
+11	the	the		dt	art								DT	det	15
+12	normal	normal	attr+npremod	jj	attr								JJ	amod	15
+13	Catholic	catholic	attr+npremod	jj	attr								JJ	amod	15
+14	liturgical	liturgical	attr+npremod	jj	attr								JJ	amod	15
+15	life	life		nn									NN	pobj	10
+16	,	,											,	punct	9
+17	but	but		cc									CC	cc	9
+18	seen	see		vbmain	vblex	nonfinite	simple	active		edcls			VBN	conj	9
+19	as	as	in+advl	in	advl								IN	prep	18
+20	supplementary	supplementary		jj	attr								JJ	amod	19
+21	to	to	in+jcomp	in	jcomp								IN	prep	20
+22	it	it		pro	3rd	sg							PRP	pobj	21
+23	,	,											,	punct	19
+24	not	not											RB	neg	19
+25	as	as		in	in_othr								IN	prep	19
+26	a	a		dt	art								DT	det	28
+27	complete	complete	attr+npremod	jj	attr								JJ	amod	28
+28	replacement	replacement		nn		nom							NN	pobj	25
+29	of	of	of+npostmod	in	nmod								IN	prep	28
+30	it	it		pro	3rd	sg							PRP	pobj	29
+31	.	.											.	punct	8
+
+#sentid = 62
+0	With	with	in+advl	in	advl								IN	prep	7
+1	all	all											PDT	predet	3
+2	the	the		dt	art								DT	det	3
+3	criticisms	criticism		nn	pl	nom							NNS	pobj	0
+4	,	,											,	punct	7
+5	Martin	martin		nn		proper							NNP	nsubj	7
+6	never	never											RB	neg	7
+7	left	leave		vbmain	vblex	past	simple	active					VBD	ROOT	7
+8	the	the		dt	art								DT	det	9
+9	Church	church		nn		proper							NNP	dobj	7
+10	,	,											,	punct	7
+11	instead	instead	rb+advl	rb	advl								RB	advmod	12
+12	trying	try	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	7
+13	to	to		to									TO	aux	14
+14	work	work	tocls+vcomp	vbmain	phrsv	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	12
+15	out	out		rb	prtcle								RP	prt	14
+16	his	his		dt	poss	sg							PRP$	poss	17
+17	concept	concept		nn									NN	dobj	14
+18	of	of	of+npostmod	in	nmod								IN	prep	17
+19	renewal	renewal		nn		nom							NN	pobj	18
+20	from	from	in+advl	in	advl								IN	prep	14
+21	within	within		in	in_othr								IN	prep	20
+22	the	the		dt	art								DT	det	23
+23	Church	church		nn		proper							NNP	pobj	21
+24	.	.											.	punct	7
+
+#sentid = 63
+0	He	he		pro	3rd	sg							PRP	nsubj	1
+1	saw	see		vbmain	vblex	past	simple	active					VBD	ROOT	1
+2	this	this		dt	dt_dem								DT	det	5
+3	new	new	attr+npremod	jj	attr								JJ	amod	5
+4	Community	community	nn+npremod	nn		proper	npremod						NNP	compound	5
+5	life	life		nn									NN	dobj	1
+6	as	as	in+advl	in	advl								IN	prep	1
+7	"	"											``	punct	6
+8	The	the		dt	art								DT	det	9
+9	Church	church		nn		proper							NNP	pobj	6
+10	of	of	of+npostmod	in	nmod								IN	prep	9
+11	the	the		dt	art								DT	det	12
+12	future	future		nn		nom							NN	pobj	10
+13	"	"											''	punct	9
+14	(	(											-LRB-	punct	9
+15	63	63											CD	appos	9
+16	)	)											-RRB-	punct	9
+17	.	.											-RRB-	punct	1
+
+#sentid = 64
+0	Not	not											RB	neg	3
+1	a	a		dt	art								DT	det	3
+2	new	new	attr+npremod	jj	attr								JJ	amod	3
+3	church	church		nn									NN	ROOT	3
+4	,	,											,	punct	3
+5	not	not											RB	neg	8
+6	a	a		dt	art								DT	det	8
+7	new	new	attr+npremod	jj	attr								JJ	amod	8
+8	denomination	denomination		nn		nom							NN	conj	3
+9	,	,											,	punct	8
+10	but	but		cc	phrs								CC	cc	8
+11	a	a		dt	art								DT	det	12
+12	body	body		nn									NN	conj	8
+13	of	of	of+npostmod	in	nmod								IN	prep	12
+14	real	real	attr+npremod	jj	attr								JJ	amod	15
+15	Christians	christians		nn	pl	proper							NNPS	pobj	13
+16	living	live	ingcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	ingcls	ncomp		VBG	acl	15
+17	the	the		dt	art								DT	det	19
+18	Christian	christian	attr+npremod	jj	attr								JJ	amod	19
+19	life	life		nn									NN	dobj	16
+20	in	in	in+advl	in	advl								IN	prep	16
+21	a	a		dt	art								DT	det	23
+22	different	different	attr+npremod	jj	attr								JJ	amod	23
+23	way	way		nn									NN	pobj	20
+24	than	than		cs	cs_othr								IN	mark	28
+25	most	most	attr+npremod	jj	attr								JJS	amod	26
+26	Catholics	catholics		nn	pl	proper							NNPS	nsubj	28
+27	had	have		vbaux									VBD	aux	28
+28	been	be		vbmain	be	past	perf	active	nmod_cls		other_advl	reldel	VBN	relcl	23
+29	for	for	in+advl	in	advl								IN	prep	28
+30	centuries	century		nn	pl	nom							NNS	pobj	29
+31	.	.											.	punct	12
+
+#sentid = 65
+0	However	however		rb	link								RB	advmod	2
+1	he	he		pro	3rd	sg							PRP	nsubj	2
+2	argues	argue		vbmain	vblex	pres	simple	active					VBZ	ROOT	2
+3	that	that		comp	comp_that								IN	mark	9
+4	this	this		dt	dt_dem								DT	det	5
+5	Church	church		nn		proper							NNP	nsubj	9
+6	of	of	of+npostmod	in	nmod								IN	prep	5
+7	the	the		dt	art								DT	det	8
+8	future	future		nn		nom							NN	pobj	6
+9	was	be	thatcls+vcomp	vbmain	be	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	2
+10	more	more		rb	othr								RBR	advmod	12
+11	a	a		dt	art								DT	det	12
+12	return	return		nn									NN	attr	9
+13	to	to	in+npostmod	in	nmod								IN	prep	12
+14	the	the		dt	art								DT	det	18
+15	apostolic	apostolic	attr+npremod	jj	attr								JJ	amod	18
+16	,	,											,	punct	18
+17	biblical	biblical	attr+npremod	jj	attr								JJ	amod	18
+18	church	church		nn									NN	pobj	13
+19	of	of	of+npostmod	in	nmod								IN	prep	18
+20	the	the		dt	art								DT	det	21
+21	past	past		nn									NN	pobj	19
+22	than	than	in+npostmod	in	nmod								IN	prep	12
+23	a	a		dt	art								DT	det	25
+24	new	new	attr+npremod	jj	attr								JJ	amod	25
+25	development	development		nn		nom							NN	pobj	22
+26	.	.											.	punct	2
+
+#sentid = 66
+0	"	"											``	punct	11
+1	What	what											WP	nsubj	2
+2	began	begin		vbmain	vblex	past	simple	active	compcls	whcls	vcomp		VBD	csubj	11
+3	years	year		nn	pl								NNS	npadvmod	4
+4	ago	ago	rb+advl	rb	advl								RB	advmod	2
+5	as	as	in+advl	in	advl								IN	prep	2
+6	tentative	tentative	attr+npremod	jj	attr								JJ	amod	9
+7	,	,											,	punct	9
+8	speculative	speculative	attr+npremod	jj	attr								JJ	amod	9
+9	theology	theology		nn									NN	pobj	5
+10	has	have		vbaux									VBZ	aux	11
+11	progressed	progress		vbmain	vblex	pres	perf	active					VBN	ROOT	11
+12	in	in	in+advl	in	advl								IN	prep	11
+13	certain	certain	attr+npremod	jj	attr								JJ	amod	14
+14	instances	instance		nn	pl	nom							NNS	pobj	12
+15	,	,											,	punct	11
+16	to	to	in+advl	in	advl								IN	prep	11
+17	a	a		dt	art								DT	det	23
+18	worked	work	attr+npremod	jj	attr	ed							VBN	amod	23
+19	out	out		rb	prtcle								RP	prt	18
+20	,	,											,	punct	23
+21	systematic	systematic	attr+npremod	jj	attr								JJ	amod	23
+22	world	world	nn+npremod	nn			npremod						NN	compound	23
+23	view	view		nn									NN	pobj	16
+24	or	or		cc	phrs								CC	cc	23
+25	“	"											``	punct	27
+26	new	new	attr+npremod	jj	attr								JJ	amod	27
+27	ideology	ideology		nn									NN	conj	23
+28	"	"											''	punct	27
+29	which	which		relpro	relpro_wh								WDT	nsubj	30
+30	is	be	finitecls+rel	vbmain	be	pres	simple	active	nmod_cls	whcls	rel		VBZ	relcl	27
+31	fundamentally	fundamentally	rb+advl	rb	advl	ly							RB	advmod	30
+32	in	in	in+advl	in	advl								IN	prep	30
+33	opposition	opposition		nn		nom							NN	pobj	32
+34	to	to	in+npostmod	in	nmod								IN	prep	33
+35	what	what											WP	nsubjpass	46
+36	,	,											,	punct	46
+37	for	for	in+advl	in	advl								IN	prep	46
+38	lack	lack		nn									NN	pobj	37
+39	of	of	of+npostmod	in	nmod								IN	prep	38
+40	a	a		dt	art								DT	det	42
+41	better	well	attr+npremod	jj	attr								JJR	amod	42
+42	name	name		nn									NN	pobj	39
+43	,	,											,	punct	46
+44	has	have		vbaux									VBZ	aux	46
+45	been	be		vbaux									VBN	auxpass	46
+46	called	call	whcls+incomp	vbmain	vblex	pres	perf	pasv_agls	compcls	whcls	incomp		VBN	pcomp	34
+47	orthodoxy	orthodoxy		nn									NN	oprd	46
+48	throughout	throughout	in+advl	in	advl								IN	prep	46
+49	the	the		dt	art								DT	det	50
+50	centuries	century		nn	pl	nom							NNS	pobj	48
+51	.	.											.	punct	11
+
+#sentid = 67
+0	There	there											EX	expl	1
+1	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	1
+2	serious	serious	attr+npremod	jj	attr								JJ	amod	5
+3	and	and		cc	phrs								CC	cc	2
+4	systematic	systematic											JJ	conj	2
+5	departure	departure		nn		nom							NN	attr	1
+6	from	from	in+npostmod	in	nmod								IN	prep	5
+7	the	the		dt	art								DT	det	10
+8	basic	basic	attr+npremod	jj	attr								JJ	amod	10
+9	saving	save	attr+npremod	jj	attr	ing							VBG	amod	10
+10	message	message		nn		nom							NN	pobj	6
+11	and	and		cc	phrs								CC	cc	10
+12	reality	reality		nn		nom							NN	conj	10
+13	in	in	in+advl	in	advl								IN	prep	1
+14	some	some											DT	pobj	13
+15	of	of		in	in_othr								IN	prep	14
+16	the	the		dt	art								DT	det	18
+17	new	new	attr+npremod	jj	attr								JJ	amod	18
+18	approaches	approach		nn	pl								NNS	pobj	15
+19	to	to	in+npostmod	in	nmod								IN	prep	18
+20	the	the		dt	art								DT	det	21
+21	content	content		nn		nom							NN	pobj	19
+22	of	of	of+npostmod	in	nmod								IN	prep	21
+23	religious	religious	attr+npremod	jj	attr								JJ	amod	24
+24	education	education		nn		nom							NN	pobj	22
+25	.	.											''	punct	1
+26	"	"											''	punct	1
+
+#sentid = 68
+0	(	(											-LRB-	punct	3
+1	53	53											CD	nummod	3
+2	,	,											,	punct	3
+3	54	54											CD	ROOT	3
+4	)	)											.	punct	3
+
+#sentid = 69
+0	.	.											.	ROOT	0
+
+#sentid = 70
+0	The	the		dt	art								DT	det	1
+1	use	use		nn									NN	nsubj	8
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	the	the		dt	art								DT	det	6
+4	word	word	nn+npremod	nn			npremod						NN	nmod	6
+5	"	"											``	punct	6
+6	departure	departure		nn		nom							NN	pobj	2
+7	"	"											''	punct	6
+8	shows	show		vbmain	vblex	pres	simple	active					VBZ	ROOT	8
+9	that	that		comp	comp_that								IN	mark	13
+10	he	he		pro	3rd	sg							PRP	nsubj	13
+11	does	do		vbaux									VBZ	aux	13
+12	not	not											RB	neg	13
+13	see	see	thatcls+vcomp	vbmain	vblex	pres	simple	active	compcls	thatcls	vcomp		VB	ccomp	8
+14	his	his		dt	poss	sg							PRP$	poss	15
+15	movement	movement		nn		nom							NN	dobj	13
+16	as	as	in+advl	in	advl								IN	prep	13
+17	a	a		dt	art								DT	det	19
+18	new	new	attr+npremod	jj	attr								JJ	amod	19
+19	development	development		nn		nom							NN	pobj	16
+20	,	,											,	punct	16
+21	but	but		cc									CC	cc	16
+22	as	as											IN	conj	16
+23	a	a		dt	art								DT	det	28
+24	more	more	rb+jjrbmod	rb	adjmod								RBR	advmod	25
+25	genuine	genuine	attr+npremod	jj	attr								JJ	amod	28
+26	and	and		cc	phrs								CC	cc	25
+27	traditional	traditional											JJ	conj	25
+28	approach	approach		nn									NN	pobj	22
+29	than	than	in+npostmod	in	nmod								IN	prep	28
+30	the	the		dt	art								DT	det	32
+31	current	current	attr+npremod	jj	attr								JJ	amod	32
+32	Church	church	s+gen	dt	poss	proper	sgen						NNP	poss	34
+33	’s	’s											POS	case	32
+34	approach	approach		nn									NN	pobj	29
+35	.	.											.	punct	8
+
+#sentid = 71
+0													_SP	dep	8
+1	In	in	in+advl	in	advl								IN	prep	8
+2	summary	summary		nn		nom							NN	pobj	1
+3	,	,											,	punct	8
+4	the	the		dt	art								DT	det	5
+5	Word	word		nn		proper							NNP	nsubj	8
+6	of	of	of+npostmod	in	nmod								IN	prep	5
+7	God	god		nn		proper							NNP	pobj	6
+8	viewed	view		vbmain	vblex	past	simple	active					VBD	ROOT	8
+9	themselves	themselves		pro	pl								PRP	dobj	8
+10	in	in	in+advl	in	advl								IN	prep	8
+11	a	a		dt	art								DT	det	13
+12	unique	unique	attr+npremod	jj	attr								JJ	amod	13
+13	light	light		nn									NN	pobj	10
+14	.	.											.	punct	8
+
+#sentid = 72
+0	They	they		pro	pl								PRP	nsubj	1
+1	were	be		vbmain	be	past	simple	active					VBD	ROOT	1
+2	not	not											RB	neg	1
+3	traditional	traditional	attr+npremod	jj	attr								JJ	amod	4
+4	Catholics	catholics		nn	pl	proper							NNPS	attr	1
+5	,	,											,	punct	1
+6	but	but		cc	phrs								CC	cc	1
+7	neither	neither											CC	conj	1
+8	had	have		vbaux									VBD	aux	10
+9	they	they		pro	pl								PRP	nsubj	10
+10	forsaken	forsake		vbmain	vblex	past	perf	active					VBN	conj	1
+11	their	their		dt	poss								PRP$	poss	13
+12	Catholic	catholic	attr+npremod	jj	attr								JJ	amod	13
+13	identity	identity		nn		nom							NN	dobj	10
+14	.	.											.	punct	10
+
+#sentid = 73
+0	Instead	instead	rb+advl	rb	advl								RB	advmod	2
+1	they	they		pro	pl								PRP	nsubj	2
+2	reshaped	reshape		vbmain	vblex	past	simple	active					VBD	ROOT	2
+3	the	the		dt	art								DT	det	4
+4	meaning	meaning		nn		nom							NN	dobj	2
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	Catholic	catholic	attr+npremod	jj	attr								JJ	amod	7
+7	identity	identity		nn		nom							NN	pobj	5
+8	to	to		to									TO	aux	9
+9	include	include	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	2
+10	such	such	attr+npremod	jj	attr								JJ	amod	12
+11	Protestant	protestant	attr+npremod	jj	attr								JJ	amod	12
+12	features	feature		nn	pl								NNS	dobj	9
+13	and	and		cc	phrs								CC	cc	12
+14	"	"											``	punct	15
+15	born	bear		vbmain	vblex	nonfinite	simple	active		edcls			VBN	nmod	21
+16	again	again	rb+advl	rb	advl								RB	advmod	15
+17	,	,											''	punct	21
+18	"	"											''	punct	21
+19	"	"											``	punct	21
+20	bible	bible	nn+npremod	nn			npremod						NN	compound	21
+21	reading	reading		nn		nom							NN	conj	12
+22	,	,											''	punct	21
+23	"	"											''	punct	21
+24	and	and		cc	phrs								CC	cc	21
+25	"	"											``	punct	32
+26	sin	sin	nn+npremod	nn			npremod						NN	nmod	32
+27	,	,											,	punct	26
+28	repentance	repentance		nn		nom							NN	conj	26
+29	,	,											,	punct	28
+30	and	and		cc	phrs								CC	cc	28
+31	salvation	salvation		nn		nom							NN	conj	28
+32	preaching	preaching		nn		nom							NN	conj	21
+33	.	.											.	punct	2
+34	"	"											.	punct	2
+
+#sentid = 74
+0	While	while		cs	con								IN	mark	7
+1	the	the		dt	art								DT	det	2
+2	changes	change		nn	pl								NNS	nsubj	7
+3	of	of	of+npostmod	in	nmod								IN	prep	2
+4	the	the		dt	art								DT	det	6
+5	Vatican	vatican		nn		proper	npremod						NNP	compound	6
+6	Council	council		nn		proper							NNP	pobj	3
+7	made	make	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		concessive		VBD	advcl	19
+8	room	room		nn									NN	dobj	7
+9	for	for	in+advl	in	advl								IN	prep	7
+10	them	they		pro	pl								PRP	pobj	9
+11	within	within	in+advl	in	advl								IN	prep	7
+12	the	the		dt	art								DT	det	14
+13	Catholic	catholic		nn		proper	npremod						NNP	compound	14
+14	Church	church		nn		proper							NNP	pobj	11
+15	,	,											,	punct	19
+16	they	they		pro	pl								PRP	nsubj	19
+17	did	do		vbaux									VBD	aux	19
+18	n’t	not											RB	neg	19
+19	credit	credit		vbmain	vblex	past	simple	active					VB	ROOT	19
+20	the	the		dt	art								DT	det	21
+21	Council	council		nn		proper							NNP	dobj	19
+22	for	for	in+advl	in	advl								IN	prep	19
+23	their	their		dt	poss								PRP$	poss	24
+24	existence	existence		nn		nom							NN	pobj	22
+25	.	.											.	punct	19
+
+#sentid = 75
+0	They	they		pro	pl								PRP	nsubj	1
+1	created	create		vbmain	vblex	past	simple	active					VBD	ROOT	1
+2	their	their		dt	poss								PRP$	poss	4
+3	own	own	attr+npremod	jj	attr								JJ	amod	4
+4	existence	existence		nn		nom							NN	dobj	1
+5	and	and		cc	phrs								CC	cc	4
+6	identity	identity		nn		nom							NN	conj	4
+7	,	,											,	punct	1
+8	or	or		cc	cls								CC	cc	1
+9	rather	rather		rb	link								RB	advmod	12
+10	,	,											,	punct	12
+11	they	they		pro	pl								PRP	nsubj	12
+12	received	receive		vbmain	vblex	past	simple	active					VBD	conj	1
+13	it	it		pro	3rd	sg							PRP	dobj	12
+14	directly	directly	rb+advl	rb	advl	ly							RB	advmod	12
+15	from	from	in+advl	in	advl								IN	prep	12
+16	God	god		nn		proper							NNP	pobj	15
+17	.	.											.	punct	12
+
+#sentid = 76
+0	Such	such		jj	attr								JJ	amod	3
+1	and	and		cc	phrs								CC	cc	0
+2	approach	approach		nn									NN	conj	0
+3	contributed	contribute		vbmain	prepv	past	simple	active					VBD	ROOT	3
+4	to	to	in+advl	in	advl								IN	prep	3
+5	their	their		dt	poss								PRP$	poss	6
+6	success	success		nn		nom							NN	pobj	4
+7	in	in	in+npostmod	in	nmod								IN	prep	6
+8	being	be	ingcls+incomp	vbmain	be	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	7
+9	an	an		dt									DT	det	11
+10	ecumenical	ecumenical	attr+npremod	jj	attr								JJ	amod	11
+11	community	community		nn		nom							NN	attr	8
+12	,	,											,	punct	11
+13	one	one											CD	appos	11
+14	made	make	edcls+rel	vbmain	phrsv	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	13
+15	up	up		rb	prtcle								RP	prt	14
+16	of	of	in+advl	in	advl								IN	prep	14
+17	Christians	christians		nn	pl	proper							NNPS	pobj	16
+18	of	of	of+npostmod	in	nmod								IN	prep	17
+19	various	various	attr+npremod	jj	attr								JJ	amod	20
+20	denominations	denomination		nn	pl	nom							NNS	pobj	18
+21	,	,											,	punct	11
+22	which	which		relpro	relpro_wh								WDT	nsubj	23
+23	was	be	finitecls+rel	vbmain	be	past	simple	active	nmod_cls	whcls	rel		VBD	relcl	11
+24	an	an		dt									DT	det	27
+25	entirely	entirely	rb+jjrbmod	rb	adjmod	ly							RB	advmod	26
+26	new	new	attr+npremod	jj	attr								JJ	amod	27
+27	development	development		nn		nom							NN	attr	23
+28	within	within	in+npostmod	in	nmod								IN	prep	27
+29	the	the		dt	art								DT	det	31
+30	Christian	christian	attr+npremod	jj	attr								JJ	amod	31
+31	people	people		nn	pl								NNS	pobj	28
+32	.	.											.	punct	3

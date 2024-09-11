@@ -1,0 +1,973 @@
+#sentid = 0
+0	The	the		dt	art								DT	det	1
+1	article	article		nn									NN	nsubj	21
+2	"	"											``	punct	7
+3	My	my		dt	poss								PRP$	poss	7
+4	Anti	anti	nn+npremod	nn		proper	npremod						NNP	compound	7
+5	-	-	nn+npremod	nn		proper	npremod						NNP	compound	7
+6	Stump	stump											JJ	compound	7
+7	Speech	speech	appos+npostmod	nn			nappos						NN	appos	1
+8	"	"											''	punct	1
+9	by	by	in+npostmod	in	nmod								IN	prep	1
+10	William	william		nn		proper	npremod						NNP	compound	11
+11	Safire	safire		nn		proper							NNP	pobj	9
+12	(	(											-LRB-	punct	15
+13	New	new		nn		proper	npremod						NNP	compound	14
+14	York	york		nn		proper	npremod						NNP	compound	15
+15	Times	times	appos+npostmod	nn		proper	nappos						NNP	appos	1
+16	,	,											,	punct	15
+17	Feb	feb		nn		proper							NNP	npadvmod	15
+18	23	23											CD	nummod	17
+19	2004	2004											CD	nummod	17
+20	)	)											-RRB-	punct	1
+21	highlights	highlight		vbmain	vblex	pres	simple	active					VBZ	ROOT	21
+22	several	several	attr+npremod	jj	attr								JJ	amod	25
+23	important	important	attr+npremod	jj	attr								JJ	amod	25
+24	macroeconomic	macroeconomic	attr+npremod	jj	attr								JJ	amod	25
+25	concepts	concept		nn	pl								NNS	dobj	21
+26	that	that		relpro	relpro_that	sg							WDT	nsubjpass	29
+27	have	have		vbaux									VBP	aux	29
+28	been	be		vbaux									VBN	auxpass	29
+29	covered	cover	finitecls+rel	vbmain	vblex	pres	perf	pasv_agls	nmod_cls	thatcls	rel		VBN	relcl	25
+30	in	in	in+advl	in	advl								IN	prep	29
+31	the	the		dt	art								DT	det	32
+32	syllabus	syllabus		nn									NN	pobj	30
+33	thus	thus	rb+jjrbmod	rb	othr								RB	advmod	34
+34	far	far	rb+advl	rb	advl								RB	advmod	29
+35	,	,											,	punct	25
+36	namely	namely		rb	othr	ly							RB	advmod	38
+37	free	free	attr+npremod	jj	attr								JJ	amod	38
+38	trade	trade	appos+npostmod	nn			nappos						NN	appos	25
+39	,	,											,	punct	38
+40	protectionism	protectionism		nn		nom							NN	conj	38
+41	,	,											,	punct	40
+42	inflation	inflation		nn		nom							NN	conj	40
+43	and	and		cc	phrs								CC	cc	42
+44	unemployment	unemployment		nn		nom							NN	conj	42
+45	.	.											.	punct	21
+
+#sentid = 1
+0	In	in	in+advl	in	advl								IN	prep	5
+1	the	the		dt	art								DT	det	2
+2	article	article		nn									NN	pobj	0
+3	,	,											,	punct	5
+4	Safire	safire		nn		proper							NNP	nsubj	5
+5	argues	argue		vbmain	vblex	pres	simple	active					VBZ	ROOT	5
+6	against	against	in+advl	in	advl								IN	prep	5
+7	protectionism	protectionism		nn		nom							NN	pobj	6
+8	and	and		cc	phrs								CC	cc	5
+9	points	point		vbmain	phrsv	pres	simple	active					VBZ	conj	5
+10	out	out		rb	prtcle								RP	prt	9
+11	the	the		dt	art								DT	det	13
+12	unfounded	unfounded	attr+npremod	jj	attr								JJ	amod	13
+13	pessimism	pessimism		nn		nom							NN	dobj	9
+14	behind	behind	in+npostmod	in	nmod								IN	prep	13
+15	the	the		dt	art								DT	det	16
+16	arguments	argument		nn	pl	nom							NNS	pobj	14
+17	for	for	in+npostmod	in	nmod								IN	prep	16
+18	protectionism	protectionism		nn		nom							NN	pobj	17
+19	.	.											.	punct	5
+
+#sentid = 2
+0													_SP	dep	18
+1	While	while		cs	con								IN	mark	8
+2	outsourcing	outsourcing		nn		nom							NN	nsubjpass	8
+3	and	and		cc	phrs								CC	cc	2
+4	free	free	attr+npremod	jj	attr								JJ	amod	5
+5	trade	trade		nn									NN	conj	2
+6	are	be		vbaux									VBP	auxpass	8
+7	inevitably	inevitably	rb+advl	rb	advl	ly							RB	advmod	8
+8	blamed	blame	finitecls+advl	vbmain	vblex	pres	simple	pasv_agls	advlcls		concessive		VBN	advcl	18
+9	for	for	in+advl	in	advl								IN	prep	8
+10	the	the		dt	art								DT	det	12
+11	economic	economic	attr+npremod	jj	attr								JJ	amod	12
+12	problems	problem		nn	pl								NNS	pobj	9
+13	of	of	of+npostmod	in	nmod								IN	prep	12
+14	a	a		dt	art								DT	det	15
+15	nation	nation		nn		nom							NN	pobj	13
+16	,	,											,	punct	18
+17	protectionism	protectionism		nn		nom							NN	nsubj	18
+18	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	18
+19	an	an		dt									DT	det	22
+20	almost	almost	rb+jjrbmod	rb	adjmod								RB	advmod	21
+21	instinctive	instinctive	attr+npremod	jj	attr								JJ	amod	22
+22	reaction	reaction		nn		nom							NN	attr	18
+23	to	to	in+npostmod	in	nmod								IN	prep	22
+24	recessions	recession		nn	pl								NNS	pobj	23
+25	and	and		cc	phrs								CC	cc	24
+26	high	high	attr+npremod	jj	attr								JJ	amod	28
+27	unemployment	unemployment	nn+npremod	nn		nom	npremod						NN	compound	28
+28	rates	rate		nn	pl	nom							NNS	conj	24
+29	.	.											.	punct	18
+
+#sentid = 3
+0	However	however		rb	link								RB	advmod	17
+1	,	,											,	punct	17
+2	as	as		cs	cs_othr								IN	mark	5
+3	we	we		pro	1st								PRP	nsubj	5
+4	have	have		vbaux									VBP	aux	5
+5	learnt	learn	finitecls+advl	vbmain	vblex	pres	perf	active	advlcls		other_advl		VBN	advcl	17
+6	from	from	in+advl	in	advl								IN	prep	5
+7	our	our		dt	poss								PRP$	poss	8
+8	chapter	chapter		nn		nom							NN	pobj	6
+9	on	on	in+npostmod	in	nmod								IN	prep	8
+10	the	the		dt	art								DT	det	12
+11	Open	open		nn		proper	npremod						NNP	compound	12
+12	Economy	economy		nn		proper							NNP	pobj	9
+13	,	,											,	punct	17
+14	protectionist	protectionist	attr+npremod	jj	attr								JJ	amod	16
+15	trade	trade	nn+npremod	nn			npremod						NN	compound	16
+16	policies	policy		nn	pl	nom							NNS	nsubj	17
+17	have	have		vbmain	vblex	pres	simple	active					VBP	ROOT	17
+18	no	no		dt									DT	det	19
+19	effects	effect		nn	pl								NNS	dobj	17
+20	on	on	in+npostmod	in	nmod								IN	prep	19
+21	the	the		dt	art								DT	det	23
+22	trade	trade	nn+npremod	nn			npremod						NN	compound	23
+23	balance	balance		nn		nom							NN	pobj	20
+24	of	of	of+npostmod	in	nmod								IN	prep	23
+25	the	the		dt	art								DT	det	26
+26	country	country		nn		nom							NN	pobj	24
+27	,	,											,	punct	17
+28	but	but		cc	phrs								CC	cc	17
+29	only	only	rb+advl	rb	advl	ly							RB	advmod	30
+30	reduce	reduce		vbmain	vblex	pres	simple	active					VBP	conj	17
+31	the	the		dt	art								DT	det	32
+32	amount	amount		nn									NN	dobj	30
+33	of	of	of+npostmod	in	nmod								IN	prep	32
+34	international	international	attr+npremod	jj	attr								JJ	amod	35
+35	trade	trade		nn									NN	pobj	33
+36	.	.											.	punct	17
+
+#sentid = 4
+0	This	this		pro	dem	sg							DT	nsubj	1
+1	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	1
+2	because	because		cs	cos								IN	mark	13
+3	using	use	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	13
+4	the	the		dt	art								DT	det	5
+5	model	model		nn									NN	dobj	3
+6	of	of	of+npostmod	in	nmod								IN	prep	5
+7	the	the		dt	art								DT	det	9
+8	open	open	attr+npremod	jj	attr								JJ	amod	9
+9	economy	economy		nn									NN	pobj	6
+10	,	,											,	punct	13
+11	protectionist	protectionist	attr+npremod	jj	attr								JJ	amod	12
+12	policies	policy		nn	pl	nom							NNS	nsubj	13
+13	shifts	shift	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		causative		VBZ	advcl	1
+14	the	the		dt	art								DT	det	18
+15	net	net	attr+npremod	jj	attr								JJ	amod	17
+16	-	-											HYPH	punct	17
+17	exports	export	nn+npremod	nn	pl		npremod						NNS	compound	18
+18	schedule	schedule		nn									NN	dobj	13
+19	outward	outward	rb+advl	rb	advl								RB	advmod	13
+20	as	as		cs	cs_othr								IN	mark	21
+21	shown	show	edcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	edcls	other_advl		VBN	advcl	13
+22	in	in	in+advl	in	advl								IN	prep	21
+23	Fig	fig		nn		proper							NNP	pobj	22
+24	1	1											CD	nummod	23
+25	and	and		cc	phrs								CC	cc	13
+26	leads	lead		vbmain	prepv	pres	simple	active					VBZ	conj	13
+27	to	to	in+advl	in	advl								IN	prep	26
+28	a	a		dt	art								DT	det	32
+29	higher	high	attr+npremod	jj	attr								JJR	amod	32
+30	real	real	attr+npremod	jj	attr								JJ	amod	32
+31	exchange	exchange	nn+npremod	nn			npremod						NN	compound	32
+32	rate	rate		nn		nom							NN	pobj	27
+33	.	.											.	punct	1
+
+#sentid = 5
+0													_SP	dep	1
+1	Fig	fig		nn		proper							NNP	ROOT	1
+2	1	1											CD	nummod	1
+3													_SP	dep	1
+
+#sentid = 6
+0	This	this		dt	dt_dem								DT	det	1
+1	appreciation	appreciation		nn		nom							NN	nsubj	7
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	the	the		dt	art								DT	det	6
+4	real	real	attr+npremod	jj	attr								JJ	amod	6
+5	exchange	exchange	nn+npremod	nn			npremod						NN	compound	6
+6	rate	rate		nn		nom							NN	pobj	2
+7	means	mean		vbmain	vblex	pres	simple	active					VBZ	ROOT	7
+8	that	that		comp	comp_that								IN	mark	15
+9	the	the		dt	art								DT	det	10
+10	price	price		nn									NN	nsubj	15
+11	of	of	of+npostmod	in	nmod								IN	prep	10
+12	domestic	domestic	attr+npremod	jj	attr								JJ	amod	13
+13	goods	good		nn	pl								NNS	pobj	11
+14	will	will		vbaux	mod	prd							MD	aux	15
+15	be	be	thatcls+vcomp	vbmain	be	vp_w_modal	simple	active	compcls	thatcls	vcomp		VB	ccomp	7
+16	more	more	rb+jjrbmod	rb	adjmod								RBR	advmod	17
+17	expensive	expensive		jj	pred								JJ	acomp	15
+18	relative	relative	rb+advl	rb	advl								JJ	advmod	15
+19	to	to	in+jcomp	in	jcomp								IN	prep	18
+20	foreign	foreign	attr+npremod	jj	attr								JJ	amod	21
+21	goods	good		nn	pl								NNS	pobj	19
+22	.	.											.	punct	7
+
+#sentid = 7
+0	This	this		pro	dem	sg							DT	nsubj	2
+1	will	will		vbaux	mod	prd							MD	aux	2
+2	lower	lower		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	2
+3	net	net	attr+npremod	jj	attr								JJ	amod	4
+4	exports	export		nn	pl								NNS	dobj	2
+5	by	by	in+advl	in	advl								IN	prep	2
+6	stimulating	stimulate	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	5
+7	imports	import		nn	pl								NNS	dobj	6
+8	and	and		cc	phrs								CC	cc	6
+9	depressing	depress		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	conj	6
+10	exports	export		nn	pl								NNS	dobj	9
+11	.	.											.	punct	2
+
+#sentid = 8
+0	The	the		dt	art								DT	det	1
+1	appreciation	appreciation		nn		nom							NN	nsubj	2
+2	offsets	offset		vbmain	vblex	pres	simple	active					VBZ	ROOT	2
+3	the	the		dt	art								DT	det	4
+4	increase	increase		nn									NN	dobj	2
+5	in	in	in+npostmod	in	nmod								IN	prep	4
+6	net	net	attr+npremod	jj	attr								JJ	amod	7
+7	exports	export		nn	pl								NNS	pobj	5
+8	that	that		relpro	relpro_that	sg							WDT	nsubj	9
+9	is	be	finitecls+rel	vbmain	be	pres	simple	active	nmod_cls	thatcls	rel		VBZ	relcl	4
+10	directly	directly	rb+jjrbmod	rb	adjmod	ly							RB	advmod	11
+11	attributable	attributable		jj	pred								JJ	acomp	9
+12	to	to	in+jcomp	in	jcomp								IN	prep	11
+13	the	the		dt	art								DT	det	15
+14	trade	trade	nn+npremod	nn			npremod						NN	compound	15
+15	restriction	restriction		nn		nom							NN	pobj	12
+16	.	.											.	punct	2
+
+#sentid = 9
+0	This	this		pro	dem	sg							DT	nsubj	1
+1	means	mean		vbmain	vblex	pres	simple	active					VBZ	ROOT	1
+2	that	that		comp	comp_that								IN	mark	4
+3	there	there											EX	expl	4
+4	is	be	thatcls+vcomp	vbmain	be	pres	simple	active	compcls	thatcls	vcomp		VBZ	ccomp	1
+5	no	no		dt									DT	det	6
+6	effect	effect		nn									NN	attr	4
+7	on	on	in+npostmod	in	nmod								IN	prep	6
+8	the	the		dt	art								DT	det	10
+9	trade	trade	nn+npremod	nn			npremod						NN	compound	10
+10	balance	balance		nn		nom							NN	pobj	7
+11	overall	overall		jj	attr								JJ	amod	10
+12	.	.											.	punct	1
+
+#sentid = 10
+0	However	however		rb	link								RB	advmod	23
+1	,	,											,	punct	23
+2	trade	trade		nn									NN	nsubjpass	4
+3	is	be		vbaux									VBZ	auxpass	4
+4	reduced	reduce		vbmain	vblex	pres	simple	pasv_agls	compcls		vcomp	compdel	VBN	ccomp	23
+5	because	because		cs	cos								IN	mark	8
+6	net	net	attr+npremod	jj	attr								JJ	amod	7
+7	exports	export		nn	pl								NNS	nsubj	8
+8	are	be	finitecls+advl	vbmain	be	pres	simple	active	advlcls		causative		VBP	advcl	4
+9	unchanged	unchanged		jj	pred								JJ	acomp	8
+10	,	,											,	punct	23
+11	thus	thus		rb	link								RB	advmod	23
+12	when	when		rb	advl								WRB	advmod	14
+13	we	we		pro	1st								PRP	nsubj	14
+14	export	export	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls	whcls			VBP	advcl	23
+15	less	less											JJR	dobj	14
+16	in	in	in+advl	in	advl								IN	prep	14
+17	the	the		dt	art								DT	det	19
+18	new	new	attr+npremod	jj	attr								JJ	amod	19
+19	equilibrium	equilibrium		nn									NN	pobj	16
+20	,	,											,	punct	23
+21	imports	import		nn	pl								NNS	nsubj	23
+22	also	also	rb+advl	rb	advl								RB	advmod	23
+23	decrease	decrease		vbmain	vblex	pres	simple	active					VBP	ROOT	23
+24	.	.											.	punct	23
+
+#sentid = 11
+0	Therefore	therefore		rb	link								RB	advmod	4
+1	,	,											,	punct	4
+2	protectionist	protectionist	attr+npremod	jj	attr								JJ	amod	3
+3	policies	policy		nn	pl	nom							NNS	nsubj	4
+4	reduce	reduce		vbmain	vblex	pres	simple	active					VBP	ROOT	4
+5	both	both											CC	preconj	7
+6	the	the		dt	art								DT	det	7
+7	quantity	quantity		nn		nom							NN	dobj	4
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	imports	import		nn	pl								NNS	pobj	8
+10	and	and		cc	phrs								CC	cc	7
+11	the	the		dt	art								DT	det	12
+12	quantity	quantity		nn		nom							NN	conj	7
+13	of	of	of+npostmod	in	nmod								IN	prep	12
+14	exports	export		nn	pl								NNS	pobj	13
+15	.	.											.	punct	4
+
+#sentid = 12
+0													_SP	dep	6
+1	In	in	in+advl	in	advl								IN	prep	6
+2	this	this		dt	dt_dem								DT	det	3
+3	article	article		nn									NN	pobj	1
+4	,	,											,	punct	6
+5	Safire	safire		nn		proper							NNP	nsubj	6
+6	focuses	focus		vbmain	vblex	pres	simple	active					VBZ	ROOT	6
+7	on	on	in+advl	in	advl								IN	prep	6
+8	the	the		dt	art								DT	det	10
+9	diminished	diminish	attr+npremod	jj	attr	ed							VBN	amod	10
+10	gains	gain		nn	pl								NNS	pobj	7
+11	from	from	in+npostmod	in	nmod								IN	prep	10
+12	trade	trade		nn									NN	pobj	11
+13	caused	cause	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	10
+14	by	by											IN	agent	13
+15	protectionist	protectionist	attr+npremod	jj	attr								JJ	amod	16
+16	policies	policy		nn	pl	nom							NNS	pobj	14
+17	.	.											.	punct	6
+
+#sentid = 13
+0	International	international	attr+npremod	jj	attr								JJ	amod	1
+1	trade	trade		nn									NN	nsubj	2
+2	benefits	benefit		vbmain	vblex	pres	simple	active					VBZ	ROOT	2
+3	all	all		dt									DT	det	4
+4	countries	country		nn	pl	nom							NNS	dobj	2
+5	by	by	in+advl	in	advl								IN	prep	2
+6	allowing	allow	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	5
+7	each	each		dt									DT	det	8
+8	country	country		nn		nom							NN	nsubj	10
+9	to	to		to									TO	aux	10
+10	specialize	specialize		vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	ccomp	6
+11	in	in	in+advl	in	advl								IN	prep	10
+12	what	what		comp	comp_wh								WP	dobj	14
+13	it	it		pro	3rd	sg							PRP	nsubj	14
+14	produces	produce	whcls+incomp	vbmain	vblex	pres	simple	active	compcls	whcls	incomp		VBZ	pcomp	11
+15	best	well	rb+advl	rb	advl								RBS	advmod	14
+16	and	and		cc									CC	cc	5
+17	by	by											IN	conj	5
+18	providing	provide	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	17
+19	each	each		dt									DT	det	20
+20	country	country		nn		nom							NN	dobj	18
+21	with	with	in+advl	in	advl								IN	prep	18
+22	a	a		dt	art								DT	det	24
+23	greater	great	attr+npremod	jj	attr								JJR	amod	24
+24	variety	variety		nn									NN	pobj	21
+25	of	of	of+npostmod	in	nmod								IN	prep	24
+26	goods	good		nn	pl								NNS	pobj	25
+27	and	and		cc	phrs								CC	cc	26
+28	services	service		nn	pl								NNS	conj	26
+29	.	.											.	punct	2
+
+#sentid = 14
+0	International	international	attr+npremod	jj	attr								JJ	amod	1
+1	trade	trade		nn									NN	nsubj	2
+2	leads	lead		vbmain	prepv	pres	simple	active					VBZ	ROOT	2
+3	to	to	in+advl	in	advl								IN	prep	2
+4	the	the		dt	art								DT	det	5
+5	availability	availability		nn		nom							NN	pobj	3
+6	of	of	of+npostmod	in	nmod								IN	prep	5
+7	cheap	cheap	attr+npremod	jj	attr								JJ	amod	8
+8	goods	good		nn	pl								NNS	pobj	6
+9	from	from	in+npostmod	in	nmod								IN	prep	8
+10	overseas	overseas											RB	pcomp	9
+11	,	,											,	punct	8
+12	such	such		jj	attr								JJ	amod	13
+13	as	as	in+npostmod	in	nmod								IN	prep	8
+14	the	the		dt	art								DT	det	18
+15	$	$											$	nmod	16
+16	24	24											CD	nummod	18
+17	Rockport	rockport	nn+npremod	nn		proper	npremod						NNP	compound	18
+18	shoes	shoe		nn	pl								NNS	pobj	13
+19	mentioned	mention	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	18
+20	in	in	in+advl	in	advl								IN	prep	19
+21	the	the		dt	art								DT	det	22
+22	article	article		nn									NN	pobj	20
+23	.	.											.	punct	2
+
+#sentid = 15
+0	This	this		pro	dem	sg							DT	nsubj	2
+1	will	will		vbaux	mod	prd							MD	aux	2
+2	raise	raise		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	2
+3	the	the		dt	art								DT	det	4
+4	standard	standard		nn									NN	dobj	2
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	living	living		nn		nom							NN	pobj	5
+7	of	of	of+npostmod	in	nmod								IN	prep	4
+8	the	the		dt	art								DT	det	9
+9	Americans	americans		nn	pl	proper							NNPS	pobj	7
+10	as	as		cs	cs_othr								IN	mark	14
+11	they	they		pro	pl								PRP	nsubj	14
+12	can	can		vbaux	mod	pos							MD	aux	14
+13	now	now	rb+advl	rb	advl		splaux						RB	advmod	14
+14	afford	afford	finitecls+advl	vbmain	vblex	vp_w_modal	simple	active	advlcls		other_advl		VB	advcl	2
+15	to	to		to									TO	aux	16
+16	purchase	purchase	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	14
+17	a	a		dt	art								DT	det	19
+18	greater	great	attr+npremod	jj	attr								JJR	amod	19
+19	variety	variety		nn									NN	dobj	16
+20	of	of	of+npostmod	in	nmod								IN	prep	19
+21	goods	good		nn	pl								NNS	pobj	20
+22	and	and		cc	phrs								CC	cc	21
+23	services	service		nn	pl								NNS	conj	21
+24	.	.											.	punct	2
+
+#sentid = 16
+0	Protectionism	protectionism		nn		nom							NN	nsubj	2
+1	will	will		vbaux	mod	prd							MD	aux	2
+2	diminish	diminish		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	2
+3	these	these		dt	dt_dem								DT	det	4
+4	gains	gain		nn	pl								NNS	dobj	2
+5	from	from	in+npostmod	in	nmod								IN	prep	4
+6	trade	trade		nn									NN	pobj	5
+7	and	and		cc	phrs								CC	cc	2
+8	deny	deny		vbmain	vblex	nonfinite	simple	active					VB	conj	2
+9	Americans	americans		nn	pl	proper							NNPS	dative	8
+10	such	such	attr+npremod	jj	attr								JJ	amod	12
+11	cheap	cheap	attr+npremod	jj	attr								JJ	amod	12
+12	goods	good		nn	pl								NNS	dobj	8
+13	.	.											.	punct	2
+
+#sentid = 17
+0	Society	society		nn									NN	nsubj	1
+1	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	1
+2	worse	bad		jj	pred								JJR	acomp	1
+3	off	off		rb	prtcle								RP	prt	2
+4	with	with	in+jcomp	in	jcomp								IN	prep	2
+5	protectionism	protectionism		nn		nom							NN	pobj	4
+6	.	.											.	punct	1
+
+#sentid = 18
+0													_SP	dep	4
+1	The	the		dt	art								DT	det	2
+2	article	article		nn									NN	nsubj	4
+3	also	also	rb+advl	rb	advl								RB	advmod	4
+4	brings	bring		vbmain	phrsv	pres	simple	active					VBZ	ROOT	4
+5	up	up		rb	prtcle								RP	prt	4
+6	the	the		dt	art								DT	det	7
+7	idea	idea		nn									NN	dobj	4
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	unemployment	unemployment	nn+npremod	nn		nom	npremod						NN	compound	10
+10	rate	rate		nn		nom							NN	pobj	8
+11	and	and		cc	phrs								CC	cc	7
+12	to	to	in+advl	in	advl								TO	prep	17
+13	what	what		dt									WDT	det	14
+14	extent	extent		nn		nom							NN	pcomp	12
+15	we	we		pro	1st								PRP	nsubj	17
+16	can	can		vbaux	mod	pos							MD	aux	17
+17	use	use		vbmain	vblex	vp_w_modal	simple	active					VB	conj	7
+18	it	it		pro	3rd	sg							PRP	dobj	17
+19	as	as	in+advl	in	advl								IN	prep	17
+20	a	a		dt	art								DT	det	21
+21	gauge	gauge		nn									NN	pobj	19
+22	of	of	of+npostmod	in	nmod								IN	prep	21
+23	a	a		dt	art								DT	det	24
+24	country	country	s+gen	dt	poss	nom	sgen						NN	poss	29
+25	's	's											POS	case	24
+26	economic	economic	attr+npremod	jj	attr								JJ	amod	29
+27	well	well	nn+npremod	nn			npremod						NN	compound	29
+28	-	-											HYPH	punct	29
+29	being	being		nn		nom							NN	pobj	22
+30	.	.											.	punct	4
+
+#sentid = 19
+0	As	as		cs	cs_othr								IN	mark	5
+1	unemployment	unemployment	nn+npremod	nn		nom	npremod						NN	compound	2
+2	rate	rate		nn		nom							NN	nsubj	5
+3	does	do		vbaux									VBZ	aux	5
+4	not	not											RB	neg	5
+5	include	include	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		other_advl		VB	advcl	23
+6	the	the		dt	art								DT	det	7
+7	people	people		nn	pl								NNS	dobj	5
+8	who	who		relpro	relpro_wh								WP	nsubj	12
+9	are	be		vbaux									VBP	aux	12
+10	no	no											RB	neg	11
+11	longer	long	rb+advl	rb	advl		splaux						RBR	advmod	12
+12	looking	look	finitecls+rel	vbmain	prepv	pres	prog	active	nmod_cls	whcls	rel		VBG	relcl	7
+13	for	for	in+advl	in	advl								IN	prep	12
+14	jobs	job		nn	pl								NNS	pobj	13
+15	,	,											,	punct	23
+16	a	a		dt	art								DT	det	17
+17	drop	drop		nn									NN	nsubj	23
+18	in	in	in+npostmod	in	nmod								IN	prep	17
+19	unemployment	unemployment	nn+npremod	nn		nom	npremod						NN	compound	20
+20	rate	rate		nn		nom							NN	pobj	18
+21	can	can		vbaux	mod	pos							MD	aux	23
+22	probably	probably	rb+advl	rb	advl	ly	splaux						RB	advmod	23
+23	be	be		vbmain	be	vp_w_modal	simple	active					VB	ROOT	23
+24	due	due		jj	pred								JJ	acomp	23
+25	to	to	in+jcomp	in	jcomp								IN	prep	24
+26	people	people		nn	pl								NNS	nsubj	28
+27	having	having		vbaux									VBG	aux	28
+28	given	give		vbmain	phrsv	past	simple	active	compcls		incomp	compdel	VBN	pcomp	25
+29	up	up		rb	prtcle								RP	prt	28
+30	hope	hope		nn									NN	dobj	28
+31	and	and		cc	phrs								CC	cc	28
+32	stopped	stop		vbmain	vblex	nonfinite	simple	active		edcls			VBN	conj	28
+33	looking	look	ingcls+vcomp	vbmain	prepv	nonfinite	simple	active	compcls	ingcls	vcomp		VBG	xcomp	32
+34	for	for	in+advl	in	advl								IN	prep	33
+35	jobs	job		nn	pl								NNS	pobj	34
+36	,	,											,	punct	28
+37	as	as		cs	cs_othr								IN	mark	45
+38	the	the		dt	art								DT	det	43
+39	"	"											``	punct	43
+40	gloomy	gloomy	attr+npremod	jj	attr								JJ	amod	42
+41	-	-											HYPH	punct	42
+42	Gus	gus	nn+npremod	nn		proper	npremod						NNP	compound	43
+43	politicians	politician		nn	pl								NNS	nsubj	45
+44	"	"											''	punct	45
+45	insist	insist		vbmain	vblex	pres	simple	active			other_advl		VBP	conj	28
+46	.	.											.	punct	23
+
+#sentid = 20
+0	These	these		dt	dt_dem								DT	det	1
+1	people	people		nn	pl								NNS	nsubjpass	21
+2	who	who		relpro	relpro_wh								WP	nsubjpass	4
+3	are	be		vbaux									VBP	auxpass	4
+4	counted	count	finitecls+rel	vbmain	vblex	pres	simple	pasv_agls	nmod_cls	whcls	rel		VBN	relcl	1
+5	as	as	in+advl	in	advl								IN	prep	4
+6	being	be	ingcls+incomp	vbmain	be	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	5
+7	out	out	in+advl	in	advl								IN	prep	6
+8	of	of		in	in_othr								IN	prep	7
+9	the	the		dt	art								DT	det	11
+10	labor	labor	nn+npremod	nn		nom	npremod						NN	compound	11
+11	force	force		nn									NN	pobj	8
+12	and	and		cc	phrs								CC	cc	4
+13	do	do		vbaux									VBP	aux	15
+14	not	not											RB	neg	15
+15	show	show		vbmain	phrsv	pres	simple	active					VB	conj	4
+16	up	up		rb	prtcle								RP	prt	15
+17	in	in	in+advl	in	advl								IN	prep	15
+18	unemployment	unemployment	nn+npremod	nn		nom	npremod						NN	compound	19
+19	statistics	statistic		nn	pl								NNS	pobj	17
+20	are	be		vbaux									VBP	auxpass	21
+21	termed	term		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	21
+22	"	"											``	punct	24
+23	discouraged	discouraged	attr+npremod	jj	attr								JJ	amod	24
+24	workers	worker		nn	pl	nom							NNS	oprd	21
+25	"	"											''	punct	24
+26	in	in	in+advl	in	advl								IN	prep	21
+27	the	the		dt	art								DT	det	28
+28	textbook	textbook		nn									NN	pobj	26
+29	.	.											.	punct	21
+
+#sentid = 21
+0	Job	job	nn+npremod	nn			npremod						NN	compound	1
+1	increases	increase		nn	pl								NNS	nsubj	6
+2	and	and		cc	phrs								CC	cc	1
+3	decreases	decrease		nn	pl								NNS	conj	1
+4	would	would		vbaux	mod	prd							MD	aux	6
+5	therefore	therefore		rb	link		splaux						RB	advmod	6
+6	seem	seem		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	6
+7	to	to		to									TO	aux	8
+8	be	be		vbmain	be	nonfinite	simple	active	compcls		vcomp	compdel	VB	xcomp	6
+9	a	a		dt	art								DT	det	12
+10	more	more	rb+jjrbmod	rb	adjmod								RBR	advmod	11
+11	accurate	accurate	attr+npremod	jj	attr								JJ	amod	12
+12	gauge	gauge		nn									NN	attr	8
+13	of	of	of+npostmod	in	nmod								IN	prep	12
+14	a	a		dt	art								DT	det	15
+15	country	country	s+gen	dt	poss	nom	sgen						NN	poss	20
+16	's	's											POS	case	15
+17	economic	economic	attr+npremod	jj	attr								JJ	amod	20
+18	well	well	nn+npremod	nn			npremod						NN	compound	20
+19	-	-											HYPH	punct	20
+20	being	being		nn		nom							NN	pobj	13
+21	.	.											.	punct	6
+
+#sentid = 22
+0	It	it		pro	3rd	sg							PRP	nsubj	1
+1	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	1
+2	because	because	in+advl	in	advl								IN	prep	1
+3	of	of											IN	pcomp	2
+4	this	this		pro	dem	sg							DT	pobj	2
+5	and	and		cc									CC	cc	4
+6	many	many	attr+npremod	jj	attr								JJ	amod	8
+7	other	other	attr+npremod	jj	attr								JJ	amod	8
+8	issues	issue		nn	pl								NNS	conj	4
+9	that	that		pro	dem	sg							WDT	nsubj	10
+10	complicate	complicate	thatcls+vcomp	vbmain	vblex	pres	simple	active	compcls		vcomp	compdel	VBP	ccomp	1
+11	the	the		dt	art								DT	det	12
+12	interpretation	interpretation		nn		nom							NN	dobj	10
+13	of	of	of+npostmod	in	nmod								IN	prep	12
+14	the	the		dt	art								DT	det	16
+15	unemployment	unemployment	nn+npremod	nn		nom	npremod						NN	compound	16
+16	data	datum		nn	pl								NNS	pobj	13
+17	that	that	rb+advl	rb	advl								WDT	advmod	23
+18	the	the		dt	art								DT	det	19
+19	Bureau	bureau		nn		proper							NNP	nsubj	23
+20	of	of	of+npostmod	in	nmod								IN	prep	19
+21	Labor	labor		nn		proper	npremod						NNP	compound	22
+22	Statistics	statistics		nn		proper							NNP	pobj	20
+23	calculates	calculate	thatcls+vcomp	vbmain	vblex	pres	simple	active	compcls		vcomp	compdel	VBZ	ccomp	1
+24	several	several	attr+npremod	jj	attr								JJ	amod	25
+25	measures	measure		nn	pl								NNS	dobj	23
+26	of	of	of+npostmod	in	nmod								IN	prep	25
+27	labor	labor	nn+npremod	nn		nom	npremod						NN	compound	28
+28	underutilization	underutilization		nn		nom							NN	pobj	26
+29	,	,											,	punct	25
+30	from	from	in+npostmod	in	nmod								IN	prep	25
+31	U-1	u-1		nn									NN	pobj	30
+32	to	to		in	in_othr								IN	prep	30
+33	U-6	u-6		nn									NN	pobj	32
+34	.	.											.	punct	1
+
+#sentid = 23
+0	Using	use		vbmain	vblex	nonfinite	simple	active	compcls	ingcls	vcomp		VBG	csubj	30
+1	the	the		dt	art								DT	det	2
+2	measure	measure		nn		nom							NN	dobj	0
+3	U-4	u-4	appos+npostmod	nn			nappos						NN	appos	2
+4	,	,											,	punct	3
+5	which	which		relpro	relpro_wh								WDT	nsubjpass	7
+6	is	be		vbaux									VBZ	auxpass	7
+7	defined	define	finitecls+rel	vbmain	vblex	pres	simple	pasv_agls	nmod_cls	whcls	rel		VBN	relcl	3
+8	as	as	in+advl	in	advl								IN	prep	7
+9	the	the		dt	art								DT	det	10
+10	total	total		nn		nom							NN	pobj	8
+11	unemployed	unemployed		jj	attr								JJ	amod	10
+12	plus	plus		cc	phrs								CC	cc	10
+13	discouraged	discourage	attr+npremod	jj	attr	ed							VBN	amod	14
+14	workers	worker		nn	pl	nom							NNS	conj	10
+15	,	,											,	punct	8
+16	as	as	in+advl	in	advl								IN	prep	7
+17	a	a		dt	art								DT	det	18
+18	percentage	percentage		nn		nom							NN	pobj	16
+19	of	of	of+npostmod	in	nmod								IN	prep	18
+20	the	the		dt	art								DT	det	23
+21	civilian	civilian	attr+npremod	jj	attr								JJ	amod	23
+22	labor	labor	nn+npremod	nn		nom	npremod						NN	compound	23
+23	force	force		nn									NN	pobj	19
+24	plus	plus		cc	phrs								CC	cc	18
+25	discouraged	discourage	attr+npremod	jj	attr	ed							VBN	amod	26
+26	workers	worker		nn	pl	nom							NNS	conj	18
+27	,	,											,	punct	30
+28	would	would		vbaux	mod	prd							MD	aux	30
+29	then	then		rb	link		splaux						RB	advmod	30
+30	take	take		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	30
+31	into	into	in+advl	in	advl								IN	prep	30
+32	account	account		nn									NN	pobj	31
+33	this	this		dt	dt_dem								DT	det	34
+34	group	group		nn									NN	dobj	30
+35	of	of	of+npostmod	in	nmod								IN	prep	34
+36	unemployed	unemployed	attr+npremod	jj	attr								JJ	amod	37
+37	personnel	personnel		nn	pl								NNS	pobj	35
+38	.	.											.	punct	30
+
+#sentid = 24
+0	Politicians	politician		nn	pl								NNS	nsubj	2
+1	should	should		vbaux	mod	nec							MD	aux	2
+2	turn	turn		vbmain	prepv	vp_w_modal	simple	active					VB	ROOT	2
+3	to	to	in+advl	in	advl								IN	prep	2
+4	such	such	attr+npremod	jj	attr								JJ	amod	6
+5	alternative	alternative	attr+npremod	jj	attr								JJ	amod	6
+6	measures	measure		nn	pl								NNS	pobj	3
+7	when	when		rb	advl								WRB	advmod	8
+8	making	make	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	2
+9	their	their		dt	poss								PRP$	poss	10
+10	arguments	argument		nn	pl	nom							NNS	dobj	8
+11	so	so		cs	cs_othr								IN	mark	14
+12	as	as		cs	cs_othr								IN	mark	14
+13	to	to		to									TO	aux	14
+14	reduce	reduce	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls	other_advl		VB	advcl	2
+15	any	any		dt									DT	det	16
+16	ambiguity	ambiguity		nn		nom							NN	dobj	14
+17	.	.											.	punct	2
+
+#sentid = 25
+0													_SP	dep	15
+1	Although	although		cs	con								IN	mark	3
+2	Safire	safire		nn		proper							NNP	nsubj	3
+3	makes	make	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		concessive		VBZ	advcl	15
+4	a	a		dt	art								DT	det	6
+5	good	good	attr+npremod	jj	attr								JJ	amod	6
+6	case	case		nn									NN	dobj	3
+7	against	against	in+npostmod	in	nmod								IN	prep	6
+8	protectionism	protectionism		nn		nom							NN	pobj	7
+9	in	in	in+advl	in	advl								IN	prep	3
+10	his	his		dt	poss	sg							PRP$	poss	11
+11	article	article		nn									NN	pobj	9
+12	,	,											,	punct	15
+13	the	the		dt	art								DT	det	14
+14	article	article		nn									NN	nsubj	15
+15	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	15
+16	not	not											RB	neg	15
+17	without	without	in+advl	in	advl								IN	prep	15
+18	flaw	flaw		nn									NN	pobj	17
+19	with	with	in+advl	in	advl								IN	prep	15
+20	regards	regard		nn	pl								NNS	pobj	19
+21	to	to	in+npostmod	in	nmod								IN	prep	20
+22	its	its		dt	poss								PRP$	poss	24
+23	economic	economic	attr+npremod	jj	attr								JJ	amod	24
+24	arguments	argument		nn	pl	nom							NNS	pobj	21
+25	on	on	in+npostmod	in	nmod								IN	prep	24
+26	inflation	inflation		nn		nom							NN	pobj	25
+27	.	.											.	punct	15
+
+#sentid = 26
+0	In	in	in+advl	in	advl								IN	prep	4
+1	particular	particular		jj	attr								JJ	amod	0
+2	,	,											,	punct	4
+3	there	there											EX	expl	4
+4	are	be		vbmain	be	pres	simple	active					VBP	ROOT	4
+5	problems	problem		nn	pl								NNS	attr	4
+6	with	with	in+npostmod	in	nmod								IN	prep	5
+7	Safire	safire	s+gen	dt	poss	proper	sgen						NNP	poss	9
+8	's	's											POS	case	7
+9	argument	argument		nn		nom							NN	pobj	6
+10	that	that		relpro	relpro_that								IN	mark	17
+11	inflation	inflation		nn		nom							NN	nsubj	17
+12	in	in	in+npostmod	in	nmod								IN	prep	11
+13	the	the		dt	art								DT	det	16
+14	last	last	attr+npremod	jj	attr								JJ	amod	16
+15	Clinton	clinton	nn+npremod	nn		proper	npremod						NNP	compound	16
+16	year	year		nn									NN	pobj	12
+17	sent	send	thatcls+ncomp	vbmain	vblex	past	simple	active	nmod_cls	thatcls	ncomp		VBD	acl	9
+18	real	real	attr+npremod	jj	attr								JJ	amod	20
+19	average	average	attr+npremod	jj	attr								JJ	amod	20
+20	wages	wage		nn	pl	nom							NNS	dobj	17
+21	down	down	rb+advl	rb	advl								RB	advmod	17
+22	and	and		cc	phrs								CC	cc	17
+23	led	lead		vbmain	prepv	past	simple	active					VBD	conj	17
+24	to	to	in+advl	in	advl								IN	prep	23
+25	people	people	s+gen	dt	poss		sgen						NNS	poss	30
+26	's	's											POS	case	25
+27	"	"											``	punct	30
+28	higher	high	attr+npremod	jj	attr								JJR	amod	30
+29	"	"											''	punct	30
+30	earnings	earning		nn	pl	nom							NNS	nsubj	31
+31	buying	buy	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	24
+32	less	less											JJR	dobj	31
+33	.	.											.	punct	4
+
+#sentid = 27
+0	We	we		pro	1st								PRP	nsubj	2
+1	have	have		vbaux									VBP	aux	2
+2	learnt	learn		vbmain	vblex	pres	perf	active					VBN	ROOT	2
+3	in	in	in+advl	in	advl								IN	prep	2
+4	the	the		dt	art								DT	det	5
+5	chapter	chapter		nn		nom							NN	pobj	3
+6	on	on	in+npostmod	in	nmod								IN	prep	5
+7	Money	money		nn		proper							NNP	pobj	6
+8	and	and		cc	phrs								CC	cc	7
+9	Inflation	inflation		nn		proper							NNP	conj	7
+10	that	that		comp	comp_that								IN	mark	21
+11	this	this		dt	dt_dem								DT	det	12
+12	complaint	complaint		nn									NN	nsubj	21
+13	about	about	in+npostmod	in	nmod								IN	prep	12
+14	inflation	inflation		nn		nom							NN	nsubj	15
+15	reducing	reduce	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	13
+16	the	the		dt	art								DT	det	18
+17	purchasing	purchasing	nn+npremod	nn		nom	npremod						NN	compound	18
+18	power	power		nn		nom							NN	dobj	15
+19	of	of	of+npostmod	in	nmod								IN	prep	18
+20	labor	labor		nn		nom							NN	pobj	19
+21	is	be	thatcls+vcomp	vbmain	be	pres	simple	active	compcls	thatcls	vcomp		VBZ	ccomp	2
+22	a	a		dt	art								DT	det	24
+23	common	common	attr+npremod	jj	attr								JJ	amod	24
+24	fallacy	fallacy		nn		nom							NN	attr	21
+25	.	.											.	punct	2
+
+#sentid = 28
+0	The	the		dt	art								DT	det	2
+1	purchasing	purchasing	attr+npremod	nn	attr	nom							NN	amod	2
+2	power	power		nn		nom							NN	nsubj	10
+3	of	of	of+npostmod	in	nmod								IN	prep	2
+4	labor	labor		nn		nom							NN	pobj	3
+5	-	-											:	punct	2
+6	the	the		dt	art								DT	det	8
+7	real	real	attr+npremod	jj	attr								JJ	amod	8
+8	wage	wage	appos+npostmod	nn		nom	nappos						NN	appos	2
+9	-	-											:	punct	2
+10	depends	depend		vbmain	prepv	pres	simple	active					VBZ	ROOT	10
+11	on	on	in+advl	in	advl								IN	prep	10
+12	the	the		dt	art								DT	det	14
+13	marginal	marginal	attr+npremod	jj	attr								JJ	amod	14
+14	productivity	productivity		nn		nom							NN	pobj	11
+15	of	of	of+npostmod	in	nmod								IN	prep	14
+16	labor	labor		nn		nom							NN	pobj	15
+17	.	.											.	punct	10
+
+#sentid = 29
+0													_SP	dep	3
+1	W	w	nn+npremod	nn		proper	npremod						NNP	nmod	3
+2	/	/											SYM	punct	3
+3	P	p		nn									NN	ROOT	3
+4													_SP	dep	3
+
+#sentid = 30
+0	According	accord		vbmain	advl	nonfinite	simple	active		ingcls			VBG	prep	22
+1	to	to	in+advl	in	advl								IN	prep	0
+2	the	the		dt	art								DT	det	4
+3	classical	classical	attr+npremod	jj	attr								JJ	amod	4
+4	theory	theory		nn		nom							NN	pobj	1
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	money	money		nn									NN	pobj	5
+7	,	,											,	punct	22
+8	when	when		rb	advl								WRB	advmod	13
+9	the	the		dt	art								DT	det	12
+10	overall	overall	attr+npremod	jj	attr								JJ	amod	12
+11	price	price	nn+npremod	nn			npremod						NN	compound	12
+12	level	level		nn									NN	nsubj	13
+13	changes	change	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls	whcls			VBZ	advcl	22
+14	,	,											,	punct	22
+15	price	price	nn+npremod	nn			npremod						NN	compound	16
+16	increases	increase		nn	pl								NNS	nsubj	22
+17	of	of	of+npostmod	in	nmod								IN	prep	16
+18	goods	good		nn	pl								NNS	pobj	17
+19	and	and		cc	phrs								CC	cc	18
+20	services	service		nn	pl								NNS	conj	18
+21	will	will		vbaux	mod	prd							MD	aux	22
+22	be	be		vbmain	be	vp_w_modal	simple	active					VB	ROOT	22
+23	in	in	in+advl	in	advl								IN	prep	22
+24	line	line		nn									NN	pobj	23
+25	with	with	in+npostmod	in	nmod								IN	prep	24
+26	wage	wage	nn+npremod	nn		nom	npremod						NN	compound	27
+27	increases	increase		nn	pl								NNS	pobj	25
+28	.	.											.	punct	22
+
+#sentid = 31
+0	Wages	wage		nn	pl	nom							NNS	nsubj	1
+1	increase	increase		vbmain	vblex	pres	simple	active					VBP	ROOT	1
+2	in	in	in+advl	in	advl								IN	prep	1
+3	proportion	proportion		nn		nom							NN	pobj	2
+4	to	to	in+npostmod	in	nmod								IN	prep	3
+5	the	the		dt	art								DT	det	6
+6	increase	increase		nn									NN	pobj	4
+7	in	in	in+npostmod	in	nmod								IN	prep	6
+8	the	the		dt	art								DT	det	11
+9	overall	overall	attr+npremod	jj	attr								JJ	amod	11
+10	price	price	nn+npremod	nn			npremod						NN	compound	11
+11	level	level		nn									NN	pobj	7
+12	.	.											.	punct	1
+
+#sentid = 32
+0	Thus	thus		rb	link								RB	advmod	4
+1	inflation	inflation		nn		nom							NN	nsubj	4
+2	does	do		vbaux									VBZ	aux	4
+3	not	not											RB	neg	4
+4	send	send		vbmain	vblex	pres	simple	active					VB	ROOT	4
+5	real	real	attr+npremod	jj	attr								JJ	amod	6
+6	wages	wage		nn	pl	nom							NNS	dobj	4
+7	down	down	rb+advl	rb	advl								RB	advmod	4
+8	as	as		cs	cs_othr								IN	mark	10
+9	Safire	safire		nn		proper							NNP	nsubj	10
+10	claims	claim	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		other_advl		VBZ	advcl	4
+11	.	.											.	punct	4
+
+#sentid = 33
+0	Inflation	inflation		nn		nom							NN	nsubj	2
+1	does	do		vbaux									VBZ	aux	2
+2	have	have		vbmain	vblex	pres	simple	active					VB	ROOT	2
+3	its	its		dt	poss								PRP$	poss	4
+4	costs	cost		nn	pl								NNS	dobj	2
+5	,	,											,	punct	4
+6	such	such		jj	attr								JJ	amod	7
+7	as	as	in+npostmod	in	nmod								IN	prep	4
+8	shoeleather	shoeleather	nn+npremod	nn		nom	npremod						NN	compound	9
+9	costs	cost		nn	pl								NNS	pobj	7
+10	,	,											,	punct	9
+11	menu	menu	nn+npremod	nn			npremod						NN	compound	12
+12	costs	cost		nn	pl								NNS	conj	9
+13	and	and		cc	phrs								CC	cc	12
+14	tax	tax	nn+npremod	nn			npremod						NN	compound	15
+15	distortions	distortion		nn	pl	nom							NNS	conj	12
+16	,	,											,	punct	2
+17	but	but		cc	cls								CC	cc	2
+18	they	they		pro	pl								PRP	nsubj	19
+19	are	be		vbmain	be	pres	simple	active					VBP	conj	2
+20	relatively	relatively	rb+jjrbmod	rb	adjmod	ly							RB	advmod	21
+21	minor	minor		jj	pred								JJ	acomp	19
+22	.	.											.	punct	19
+
+#sentid = 34
+0													_SP	dep	6
+1	Lastly	lastly	rb+advl	rb	advl	ly							RB	advmod	6
+2	,	,											,	punct	6
+3	this	this		dt	dt_dem								DT	det	4
+4	article	article		nn									NN	nsubj	6
+5	also	also	rb+advl	rb	advl								RB	advmod	6
+6	highlights	highlight		vbmain	vblex	pres	simple	active					VBZ	ROOT	6
+7	the	the		dt	art								DT	det	9
+8	political	political	attr+npremod	jj	attr								JJ	amod	9
+9	implications	implication		nn	pl	nom							NNS	dobj	6
+10	of	of	of+npostmod	in	nmod								IN	prep	9
+11	economic	economic	attr+npremod	jj	attr								JJ	amod	12
+12	policies	policy		nn	pl	nom							NNS	pobj	10
+13	.	.											.	punct	6
+
+#sentid = 35
+0	As	as		cs	cs_othr								IN	mark	6
+1	the	the		dt	art								DT	det	2
+2	state	state		nn		nom							NN	nsubj	6
+3	of	of	of+npostmod	in	nmod								IN	prep	2
+4	the	the		dt	art								DT	det	5
+5	economy	economy		nn									NN	pobj	3
+6	affects	affect	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		other_advl		VBZ	advcl	11
+7	everyone	everyone		nn	other	sg							NN	dobj	6
+8	,	,											,	punct	11
+9	macroeconomic	macroeconomic	attr+npremod	jj	attr								JJ	amod	10
+10	issues	issue		nn	pl								NNS	nsubj	11
+11	play	play		vbmain	vblex	pres	simple	active					VBP	ROOT	11
+12	a	a		dt	art								DT	det	14
+13	central	central	attr+npremod	jj	attr								JJ	amod	14
+14	role	role		nn									NN	dobj	11
+15	in	in	in+advl	in	advl								IN	prep	11
+16	political	political	attr+npremod	jj	attr								JJ	amod	17
+17	debate	debate		nn		nom							NN	pobj	15
+18	.	.											.	punct	11
+
+#sentid = 36
+0	The	the		dt	art								DT	det	4
+1	Republican	republican	attr+npremod	jj	attr								JJ	amod	4
+2	and	and		cc	phrs								CC	cc	1
+3	Democratic	democratic											JJ	conj	1
+4	camps	camp		nn	pl								NNS	nsubj	5
+5	are	be		vbmain	be	pres	simple	active					VBP	ROOT	5
+6	almost	almost	rb+jjrbmod	rb	othr								RB	advmod	7
+7	always	always	rb+advl	rb	advl								RB	advmod	5
+8	divergent	divergent		jj	pred								JJ	acomp	5
+9	with	with	in+advl	in	advl								IN	prep	5
+10	regards	regard		nn	pl								NNS	pobj	9
+11	to	to	in+npostmod	in	nmod								IN	prep	10
+12	economic	economic	attr+npremod	jj	attr								JJ	amod	13
+13	policies	policy		nn	pl	nom							NNS	pobj	11
+14	.	.											.	punct	5
+
+#sentid = 37
+0	Republicans	republicans		nn	pl	proper							NNPS	nsubj	1
+1	are	be		vbmain	be	pres	simple	active					VBP	ROOT	1
+2	more	more	rb+jjrbmod	rb	adjmod								RBR	advmod	3
+3	pro	pro		jj	pred								JJ	acomp	1
+4	-	-		jj	pred								JJ	acomp	1
+5	trade	trade		jj	pred								JJ	acomp	1
+6	while	while		cs	con								IN	mark	9
+7	the	the		dt	art								DT	det	8
+8	Democrats	democrats		nn	pl	proper							NNPS	nsubj	9
+9	are	be	finitecls+advl	vbmain	be	pres	simple	active	advlcls		concessive		VBP	advcl	1
+10	more	more	rb+jjrbmod	rb	adjmod								RBR	advmod	11
+11	inclined	inclined		jj	pred								JJ	acomp	9
+12	towards	towards	in+jcomp	in	jcomp								IN	prep	11
+13	protectionist	protectionist	attr+npremod	jj	attr								JJ	amod	14
+14	policies	policy		nn	pl	nom							NNS	pobj	12
+15	.	.											.	punct	1
+
+#sentid = 38
+0	With	with	in+advl	in	advl								IN	prep	10
+1	a	a		dt	art								DT	det	3
+2	firm	firm	attr+npremod	jj	attr								JJ	amod	3
+3	grasp	grasp		nn									NN	pobj	0
+4	of	of	of+npostmod	in	nmod								IN	prep	3
+5	macroeconomic	macroeconomic	attr+npremod	jj	attr								JJ	amod	6
+6	principles	principle		nn	pl								NNS	pobj	4
+7	,	,											,	punct	10
+8	one	one		pro	other	pl							PRP	nsubj	10
+9	would	would		vbaux	mod	prd							MD	aux	10
+10	be	be		vbmain	be	vp_w_modal	simple	active					VB	ROOT	10
+11	able	able		jj	pred								JJ	acomp	10
+12	to	to		to									TO	aux	13
+13	make	make	tocls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	jcomp		VB	xcomp	11
+14	a	a		dt	art								DT	det	17
+15	more	more	rb+jjrbmod	rb	adjmod								RBR	advmod	16
+16	informed	informed	attr+npremod	jj	attr								JJ	amod	17
+17	judgment	judgment		nn		nom							NN	dobj	13
+18	of	of	of+npostmod	in	nmod								IN	prep	17
+19	the	the		dt	art								DT	det	22
+20	various	various	attr+npremod	jj	attr								JJ	amod	22
+21	economic	economic	attr+npremod	jj	attr								JJ	amod	22
+22	arguments	argument		nn	pl	nom							NNS	pobj	18
+23	politicians	politician		nn	pl								NNS	nsubj	24
+24	put	put	finitecls+rel	vbmain	phrsv	pres	simple	active	nmod_cls		rel	reldel	VBP	relcl	22
+25	forth	forth		rb	prtcle								RP	prt	24
+26	.	.											.	punct	10

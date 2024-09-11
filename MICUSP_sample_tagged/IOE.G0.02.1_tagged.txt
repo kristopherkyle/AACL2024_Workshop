@@ -1,0 +1,3496 @@
+#sentid = 0
+0	The	the		dt	art								DT	det	2
+1	design	design	nn+npremod	nn			npremod						NN	compound	2
+2	features	feature		nn	pl								NNS	nsubj	6
+3	of	of	of+npostmod	in	nmod								IN	prep	2
+4	a	a		dt	art								DT	det	5
+5	speedometer	speedometer		nn		nom							NN	pobj	3
+6	are	be		vbmain	be	pres	simple	active					VBP	ROOT	6
+7	not	not											RB	neg	6
+8	trivial	trivial	attr+npremod	jj	attr								JJ	amod	9
+9	details	detail		nn	pl								NNS	attr	6
+10	.	.											.	punct	6
+
+#sentid = 1
+0	Everyday	everyday		nn									NN	npadvmod	5
+1	,	,											,	punct	5
+2	millions	million		nn	pl								NNS	nsubj	5
+3	of	of	of+npostmod	in	nmod								IN	prep	2
+4	people	people		nn	pl								NNS	pobj	3
+5	rely	rely		vbmain	prepv	pres	simple	active					VBP	ROOT	5
+6	on	on	in+advl	in	advl								IN	prep	5
+7	speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	8
+8	details	detail		nn	pl								NNS	pobj	6
+9	when	when		rb	advl								WRB	advmod	10
+10	driving	drive	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	5
+11	automobiles	automobile		nn	pl								NNS	dobj	10
+12	.	.											.	punct	5
+
+#sentid = 2
+0	A	a		dt	art								DT	det	3
+1	few	few	attr+npremod	jj	attr								JJ	amod	3
+2	small	small	attr+npremod	jj	attr								JJ	amod	3
+3	defects	defect		nn	pl								NNS	nsubj	9
+4	in	in	in+npostmod	in	nmod								IN	prep	3
+5	the	the		dt	art								DT	det	7
+6	speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	7
+7	design	design		nn									NN	pobj	4
+8	could	could		vbaux	mod	pos							MD	aux	9
+9	distract	distract		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	9
+10	the	the		dt	art								DT	det	11
+11	driver	driver		nn		nom							NN	dative	9
+12	enough	enough	attr+npremod	jj	attr								JJ	amod	13
+13	time	time		nn									NN	dobj	9
+14	to	to		to									TO	aux	15
+15	cause	cause	tocls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	rel		VB	relcl	13
+16	an	an		dt									DT	det	17
+17	accident	accident		nn		nom							NN	dobj	15
+18	and	and		cc	phrs								CC	cc	9
+19	potentially	potentially	rb+advl	rb	advl	ly							RB	advmod	20
+20	cost	cost		vbmain	vblex	nonfinite	simple	active					VB	conj	9
+21	many	many	attr+npremod	jj	attr								JJ	amod	22
+22	people	people		nn	pl								NNS	dative	20
+23	their	their		dt	poss								PRP$	poss	24
+24	lives	life		nn	pl								NNS	dobj	20
+25	.	.											.	punct	9
+
+#sentid = 3
+0	Consequently	consequently	rb+advl	rb	advl	ly							RB	advmod	15
+1	,	,											,	punct	15
+2	studying	study		vbmain	vblex	nonfinite	simple	active	compcls	ingcls	vcomp		VBG	csubj	15
+3	the	the		dt	art								DT	det	4
+4	effects	effect		nn	pl								NNS	dobj	2
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	8
+7	design	design	nn+npremod	nn			npremod						NN	compound	8
+8	parameters	parameter		nn	pl	nom							NNS	pobj	5
+9	on	on	in+npostmod	in	nmod								IN	prep	4
+10	speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	12
+11	reading	reading	nn+npremod	nn		nom	npremod						NN	compound	12
+12	time	time		nn									NN	pobj	9
+13	and	and		cc	phrs								CC	cc	12
+14	accuracy	accuracy		nn		nom							NN	conj	12
+15	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	15
+16	very	very	rb+jjrbmod	rb	adjmod								RB	advmod	17
+17	important	important		jj	pred								JJ	acomp	15
+18	.	.											.	punct	15
+
+#sentid = 4
+0	The	the		dt	art								DT	det	2
+1	design	design	nn+npremod	nn			npremod						NN	compound	2
+2	parameters	parameter		nn	pl	nom							NNS	nsubj	7
+3	examined	examine	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	2
+4	in	in	in+advl	in	advl								IN	prep	3
+5	the	the		dt	art								DT	det	6
+6	experiment	experiment		nn		nom							NN	pobj	4
+7	include	include		vbmain	vblex	pres	simple	active					VBP	ROOT	7
+8	character	character	nn+npremod	nn		nom	npremod						NN	compound	9
+9	color	color		nn		nom							NN	dobj	7
+10	,	,											,	punct	9
+11	location	location		nn		nom							NN	conj	9
+12	on	on	in+npostmod	in	nmod								IN	prep	11
+13	the	the		dt	art								DT	det	15
+14	instrument	instrument	nn+npremod	nn		nom	npremod						NN	compound	15
+15	panel	panel		nn									NN	pobj	12
+16	,	,											,	punct	11
+17	character	character	nn+npremod	nn		nom	npremod						NN	compound	18
+18	size	size		nn									NN	conj	11
+19	(	(											-LRB-	punct	18
+20	strokewidth	strokewidth	appos+npostmod	nn			nappos						NN	appos	18
+21	and	and		cc	phrs								CC	cc	20
+22	height	height		nn									NN	conj	20
+23	)	)											,	punct	18
+24	,	,											,	punct	18
+25	radius	radius		nn									NN	conj	18
+26	and	and		cc	phrs								CC	cc	25
+27	numbering	numbering	nn+npremod	nn		nom	npremod						NN	compound	28
+28	scale	scale		nn									NN	conj	25
+29	.	.											.	punct	7
+
+#sentid = 5
+0	Each	each		dt									DT	det	1
+1	parameter	parameter		nn		nom							NN	nsubjpass	3
+2	was	be		vbaux									VBD	auxpass	3
+3	examined	examine		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	3
+4	in	in	in+advl	in	advl								IN	prep	3
+5	order	order		nn		nom							NN	pobj	4
+6	to	to		to									TO	aux	7
+7	explore	explore		vbmain	vblex	nonfinite	simple	active	nmod_cls		ncomp		VB	acl	5
+8	the	the		dt	art								DT	det	10
+9	possible	possible	attr+npremod	jj	attr								JJ	amod	10
+10	combinations	combination		nn	pl	nom							NNS	dobj	7
+11	of	of	of+npostmod	in	nmod								IN	prep	10
+12	design	design	nn+npremod	nn			npremod						NN	compound	13
+13	features	feature		nn	pl								NNS	pobj	11
+14	such	such		jj	attr								JJ	amod	22
+15	that	that		cs	cs_othr								IN	mark	22
+16	the	the		dt	art								DT	det	20
+17	speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	nmod	20
+18	average	average	attr+npremod	jj	attr								JJ	amod	20
+19	reading	reading	nn+npremod	nn		nom	npremod						NN	compound	20
+20	time	time		nn									NN	nsubj	22
+21	would	would		vbaux	mod	prd							MD	aux	22
+22	be	be	finitecls+advl	vbmain	be	vp_w_modal	simple	active	advlcls				VB	advcl	10
+23	low	low		jj	pred								JJ	acomp	22
+24	as	as		rb	othr								RB	advmod	26
+25	well	well		rb	othr								RB	advmod	26
+26	as	as		cc	phrs								IN	cc	22
+27	having	have		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	conj	22
+28	high	high	attr+npremod	jj	attr								JJ	amod	30
+29	reading	reading	nn+npremod	nn		nom	npremod						NN	compound	30
+30	accuracy	accuracy		nn		nom							NN	dobj	27
+31	.	.											.	punct	3
+
+#sentid = 6
+0	These	these		dt	dt_dem								DT	det	2
+1	design	design	nn+npremod	nn			npremod						NN	compound	2
+2	parameters	parameter		nn	pl	nom							NNS	nsubj	7
+3	,	,											,	punct	7
+4	however	however		rb	link								RB	advmod	7
+5	,	,											,	punct	7
+6	may	may		vbaux	mod	pos							MD	aux	7
+7	have	have		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	7
+8	a	a		dt	art								DT	det	10
+9	different	different	attr+npremod	jj	attr								JJ	amod	10
+10	effect	effect		nn									NN	dobj	7
+11	on	on	in+npostmod	in	nmod								IN	prep	10
+12	reading	reading	nn+npremod	nn		nom	npremod						NN	compound	13
+13	time	time		nn									NN	pobj	11
+14	and	and		cc	phrs								CC	cc	13
+15	accuracy	accuracy		nn		nom							NN	conj	13
+16	depending	depend		vbmain	advl	nonfinite	simple	active		ingcls			VBG	prep	7
+17	on	on	in+advl	in	advl								IN	prep	16
+18	the	the		dt	art								DT	det	20
+19	task	task	nn+npremod	nn			npremod						NN	compound	20
+20	condition	condition		nn		nom							NN	pobj	17
+21	.	.											.	punct	7
+
+#sentid = 7
+0	Two	two											CD	nummod	2
+1	task	task	nn+npremod	nn			npremod						NN	compound	2
+2	conditions	condition		nn	pl	nom							NNS	nsubjpass	4
+3	were	be		vbaux									VBD	auxpass	4
+4	examined	examine		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	4
+5	in	in	in+advl	in	advl								IN	prep	4
+6	this	this		dt	dt_dem								DT	det	7
+7	experiment	experiment		nn		nom							NN	pobj	5
+8	.	.											.	punct	4
+
+#sentid = 8
+0	The	the		dt	art								DT	det	4
+1	first	first	attr+npremod	jj	attr								JJ	amod	4
+2	speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	4
+3	task	task	nn+npremod	nn			npremod						NN	compound	4
+4	condition	condition		nn		nom							NN	nsubj	5
+5	was	be		vbmain	be	past	simple	active					VBD	ROOT	5
+6	to	to		to									TO	aux	7
+7	find	find	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	5
+8	the	the		dt	art								DT	det	10
+9	exact	exact	attr+npremod	jj	attr								JJ	amod	10
+10	speed	speed		nn									NN	dobj	7
+11	while	while		cs	con								IN	mark	14
+12	the	the		dt	art								DT	det	13
+13	second	second											JJ	nsubj	14
+14	was	be	finitecls+advl	vbmain	be	past	simple	active	advlcls		concessive		VBD	advcl	5
+15	to	to		to									TO	aux	16
+16	verify	verify	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	14
+17	if	if		cs	cnd								IN	mark	20
+18	the	the		dt	art								DT	det	19
+19	vehicle	vehicle		nn									NN	nsubj	20
+20	was	be		vbmain	be	past	simple	active	compcls		conditional	compdel	VBD	ccomp	16
+21	above	above	in+advl	in	advl								IN	prep	20
+22	or	or		cc									CC	cc	21
+23	below	below											IN	conj	21
+24	the	the		dt	art								DT	det	26
+25	speed	speed	nn+npremod	nn			npremod						NN	compound	26
+26	limit	limit		nn									NN	pobj	23
+27	.	.											.	punct	5
+
+#sentid = 9
+0	Therefore	therefore		rb	link								RB	advmod	8
+1	,	,											,	punct	8
+2	the	the		dt	art								DT	det	4
+3	two	two											CD	nummod	4
+4	objectives	objective		nn	pl								NNS	nsubj	8
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	the	the		dt	art								DT	det	7
+7	experiment	experiment		nn		nom							NN	pobj	5
+8	were	be		vbmain	be	past	simple	active					VBD	ROOT	8
+9	.	.											.	punct	8
+
+#sentid = 10
+0													_SP	dep	2
+1	-To	-to		vbaux									:	aux	2
+2	find	find		vbmain	vblex	nonfinite	simple	active					VB	ROOT	2
+3	the	the		dt	art								DT	det	4
+4	relationship	relationship		nn		nom							NN	dobj	2
+5	between	between	in+npostmod	in	nmod								IN	prep	4
+6	speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	8
+7	design	design	nn+npremod	nn			npremod						NN	compound	8
+8	parameters	parameter		nn	pl	nom							NNS	pobj	5
+9	,	,											,	punct	8
+10	task	task	nn+npremod	nn			npremod						NN	compound	11
+11	condition	condition		nn		nom							NN	conj	8
+12	and	and		cc	phrs								CC	cc	11
+13	task	task	nn+npremod	nn			npremod						NN	compound	14
+14	performance	performance		nn		nom							NN	conj	11
+15	(	(											-LRB-	punct	14
+16	reading	reading	nn+npremod	nn		nom	npremod						NN	compound	17
+17	time	time	appos+npostmod	nn			nappos						NN	appos	14
+18	and	and		cc	phrs								CC	cc	17
+19	accuracy	accuracy		nn		nom							NN	conj	17
+20	)	)											-RRB-	punct	14
+21	.	.											-RRB-	punct	2
+
+#sentid = 11
+0													_SP	dep	2
+1	-To	-to		vbaux									TO	aux	2
+2	find	find		vbmain	vblex	nonfinite	simple	active					VB	ROOT	2
+3	which	which		dt									WDT	det	4
+4	speedometer	speedometer		nn		nom							NN	nsubj	5
+5	is	be	thatcls+vcomp	vbmain	be	pres	simple	active	compcls		vcomp	compdel	VBZ	ccomp	2
+6	best	good		jj	pred								JJS	acomp	5
+7	for	for	in+jcomp	in	jcomp								IN	prep	6
+8	each	each		dt									DT	det	11
+9	given	give	attr+npremod	jj	attr	ed							VBN	amod	11
+10	task	task	nn+npremod	nn			npremod						NN	compound	11
+11	condition	condition		nn		nom							NN	pobj	7
+12	and	and		cc	phrs								CC	cc	5
+13	why	why											WRB	conj	5
+14	.	.											.	punct	2
+
+#sentid = 12
+0													_SP	dep	4
+1	The	the		dt	art								DT	det	2
+2	experiment	experiment		nn		nom							NN	nsubjpass	4
+3	was	be		vbaux									VBD	auxpass	4
+4	conducted	conduct		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	4
+5	using	use	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	4
+6	13	13											CD	nummod	8
+7	test	test	nn+npremod	nn			npremod						NN	compound	8
+8	participants	participant		nn	pl	nom							NNS	dobj	5
+9	.	.											.	punct	4
+
+#sentid = 13
+0	Appendix	appendix	nn+npremod	nn			npremod						NN	compound	1
+1	A	a		nn									NN	nsubj	2
+2	displays	display		vbmain	vblex	pres	simple	active					VBZ	ROOT	2
+3	the	the		dt	art								DT	det	5
+4	relevant	relevant	attr+npremod	jj	attr								JJ	amod	5
+5	information	information		nn		nom							NN	dobj	2
+6	for	for	in+npostmod	in	nmod								IN	prep	5
+7	each	each		dt									DT	det	9
+8	test	test	nn+npremod	nn			npremod						NN	compound	9
+9	participant	participant		nn		nom							NN	pobj	6
+10	.	.											.	punct	2
+
+#sentid = 14
+0	All	all											PDT	predet	3
+1	the	the		dt	art								DT	det	3
+2	test	test	nn+npremod	nn			npremod						NN	compound	3
+3	subjects	subject		nn	pl								NNS	nsubj	4
+4	were	be		vbmain	be	past	simple	active					VBD	ROOT	4
+5	volunteers	volunteer		nn	pl	nom							NNS	attr	4
+6	and	and		cc	phrs								CC	cc	5
+7	students	student		nn	pl	nom							NNS	conj	5
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	the	the		dt	art								DT	det	10
+10	University	university		nn		proper							NNP	pobj	8
+11	of	of	of+npostmod	in	nmod								IN	prep	10
+12	Michigan	michigan		nn		proper							NNP	pobj	11
+13	.	.											.	punct	4
+
+#sentid = 15
+0	There	there											EX	expl	1
+1	were	be		vbmain	be	past	simple	active					VBD	ROOT	1
+2	many	many	attr+npremod	jj	attr								JJ	amod	4
+3	individual	individual	attr+npremod	jj	attr								JJ	amod	4
+4	differences	difference		nn	pl	nom							NNS	attr	1
+5	between	between	in+npostmod	in	nmod								IN	prep	4
+6	the	the		dt	art								DT	det	8
+7	test	test	nn+npremod	nn			npremod						NN	compound	8
+8	participants	participant		nn	pl	nom							NNS	pobj	5
+9	that	that		relpro	relpro_that	sg							WDT	nsubjpass	11
+10	were	be		vbaux									VBD	auxpass	11
+11	considered	consider	finitecls+rel	vbmain	vblex	past	simple	pasv_agls	nmod_cls	thatcls	rel		VBN	relcl	4
+12	relevant	relevant											JJ	oprd	11
+13	to	to	in+jcomp	in	jcomp								IN	prep	12
+14	the	the		dt	art								DT	det	15
+15	experiment	experiment		nn		nom							NN	pobj	13
+16	and	and		cc	phrs								CC	cc	11
+17	will	will		vbaux	mod	prd							MD	aux	19
+18	be	be		vbaux									VB	auxpass	19
+19	analyzed	analyze		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	conj	11
+20	in	in	in+advl	in	advl								IN	prep	19
+21	later	later	attr+npremod	jj	attr								JJ	amod	22
+22	sections	section		nn	pl	nom							NNS	pobj	20
+23	of	of	of+npostmod	in	nmod								IN	prep	22
+24	this	this		dt	dt_dem								DT	det	25
+25	report	report		nn									NN	pobj	23
+26	.	.											.	punct	1
+
+#sentid = 16
+0	These	these		dt	dt_dem								DT	det	1
+1	differences	difference		nn	pl	nom							NNS	nsubj	2
+2	include	include		vbmain	vblex	pres	simple	active					VBP	ROOT	2
+3	participant	participant	nn+npremod	nn		nom	npremod						NN	compound	4
+4	vision	vision		nn									NN	dobj	2
+5	,	,											,	punct	4
+6	handedness	handedness		nn		nom							NN	conj	4
+7	,	,											,	punct	6
+8	sex	sex		nn									NN	conj	6
+9	and	and		cc	phrs								CC	cc	8
+10	viewing	viewing	nn+npremod	nn		nom	npremod						NN	compound	11
+11	distance	distance		nn		nom							NN	conj	8
+12	.	.											.	punct	2
+
+#sentid = 17
+0	All	all		dt									DT	det	2
+1	other	other	attr+npremod	jj	attr								JJ	amod	2
+2	factors	factor		nn	pl	nom							NNS	nsubjpass	4
+3	were	be		vbaux									VBD	auxpass	4
+4	considered	consider		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	4
+5	negligible	negligible											JJ	oprd	4
+6	.	.											.	punct	4
+
+#sentid = 18
+0	For	for	in+advl	in	advl								IN	prep	7
+1	example	example		nn									NN	pobj	0
+2	,	,											,	punct	7
+3	test	test	nn+npremod	nn			npremod						NN	compound	5
+4	participant	participant	nn+npremod	nn		nom	npremod						NN	compound	5
+5	age	age		nn									NN	nsubjpass	7
+6	was	be		vbaux									VBD	auxpass	7
+7	considered	consider		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	7
+8	to	to		to									TO	aux	9
+9	be	be	tocls+vcomp	vbmain	be	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	7
+10	negligible	negligible		jj	pred								JJ	acomp	9
+11	due	due		jj	attr								JJ	amod	12
+12	to	to	in+advl	in	advl								IN	prep	9
+13	the	the		dt	art								DT	det	15
+14	small	small	attr+npremod	jj	attr								JJ	amod	15
+15	range	range		nn									NN	pobj	12
+16	of	of	of+npostmod	in	nmod								IN	prep	15
+17	values	value		nn	pl								NNS	pobj	16
+18	(	(											-LRB-	punct	15
+19	18	18											CD	quantmod	21
+20	to	to											TO	quantmod	21
+21	21	21	in+npostmod	in	nmod								CD	prep	15
+22	)	)											.	punct	15
+23	.	.											.	punct	7
+
+#sentid = 19
+0													_SP	dep	3
+1	The	the		dt	art								DT	det	2
+2	experiment	experiment		nn		nom							NN	nsubj	3
+3	used	use		vbmain	vblex	past	simple	active					VBD	ROOT	3
+4	a	a		dt	art								DT	det	9
+5	simple	simple	attr+npremod	jj	attr								JJ	amod	9
+6	projection	projection	nn+npremod	nn		nom	npremod						NN	nmod	9
+7	and	and		cc	phrs								CC	cc	6
+8	timing	timing		nn		nom							NN	conj	6
+9	system	system		nn									NN	dobj	3
+10	to	to		to									TO	aux	11
+11	collect	collect	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	3
+12	the	the		dt	art								DT	det	13
+13	data	datum		nn	pl								NNS	dobj	11
+14	.	.											.	punct	3
+
+#sentid = 20
+0	This	this		dt	dt_dem								DT	det	1
+1	system	system		nn									NN	nsubj	2
+2	included	include		vbmain	vblex	past	simple	active					VBD	ROOT	2
+3	the	the		dt	art								DT	det	5
+4	following	follow	attr+npremod	jj	attr	ing							VBG	amod	5
+5	equipment	equipment		nn		nom							NN	dobj	2
+6	.	.											.	punct	2
+
+#sentid = 21
+0													_SP	dep	12
+1	The	the		dt	art								DT	det	2
+2	DRCU	drcu		nn		proper							NNP	nsubjpass	12
+3	,	,											,	punct	2
+4	PSCU	pscu		nn		proper							NNP	conj	2
+5	,	,											,	punct	4
+6	and	and		cc	phrs								CC	cc	4
+7	response	response	nn+npremod	nn			npremod						NN	compound	8
+8	boxes	box		nn	pl								NNS	conj	4
+9	were	be		vbaux									VBD	auxpass	12
+10	all	all											DT	dep	12
+11	custom	custom	rb+advl	rb	advl								RB	advmod	12
+12	made	make		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	12
+13	at	at	in+advl	in	advl								IN	prep	12
+14	the	the		dt	art								DT	det	15
+15	University	university		nn		proper							NNP	pobj	13
+16	of	of	of+npostmod	in	nmod								IN	prep	15
+17	Michigan	michigan		nn		proper							NNP	pobj	16
+18	.	.											.	punct	12
+
+#sentid = 22
+0	This	this		dt	dt_dem								DT	det	1
+1	system	system		nn									NN	nsubj	2
+2	worked	work		vbmain	vblex	past	simple	active					VBD	ROOT	2
+3	such	such		jj	attr								JJ	amod	10
+4	that	that		cs	cs_othr								IN	mark	10
+5	the	the		dt	art								DT	det	6
+6	software	software		nn									NN	nsubj	10
+7	in	in	in+npostmod	in	nmod								IN	prep	6
+8	the	the		dt	art								DT	det	9
+9	computer	computer		nn		nom							NN	pobj	7
+10	controlled	control	finitecls+advl	vbmain	vblex	past	simple	active	advlcls				VBD	advcl	2
+11	,	,											,	punct	10
+12	directly	directly	rb+advl	rb	advl	ly							RB	advmod	10
+13	or	or		cc	phrs								CC	cc	12
+14	indirectly	indirectly											RB	conj	12
+15	,	,											,	punct	10
+16	all	all											PDT	predet	18
+17	the	the		dt	art								DT	det	18
+18	elements	element		nn	pl	nom							NNS	dobj	10
+19	of	of	of+npostmod	in	nmod								IN	prep	18
+20	the	the		dt	art								DT	det	21
+21	system	system		nn									NN	pobj	19
+22	.	.											.	punct	2
+
+#sentid = 23
+0	The	the		dt	art								DT	det	1
+1	software	software		nn									NN	nsubjpass	3
+2	was	be		vbaux									VBD	auxpass	3
+3	called	call		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	3
+4	RT334	rt334		nn		proper							NNP	oprd	3
+5	and	and		cc	phrs								CC	cc	3
+6	written	write		vbmain	vblex	nonfinite	simple	active		edcls			VBN	conj	3
+7	by	by											IN	agent	6
+8	Prof.	prof.		nn		proper	npremod						NNP	compound	10
+9	Chuck	chuck		nn		proper	npremod						NNP	compound	10
+10	Wooley	wooley		nn		proper							NNP	pobj	7
+11	of	of	of+npostmod	in	nmod								IN	prep	10
+12	the	the		dt	art								DT	det	13
+13	University	university		nn		proper							NNP	pobj	11
+14	of	of	of+npostmod	in	nmod								IN	prep	13
+15	Michigan	michigan		nn		proper							NNP	pobj	14
+16	.	.											.	punct	3
+
+#sentid = 24
+0	The	the		dt	art								DT	det	1
+1	system	system		nn									NN	nsubj	2
+2	projected	project		vbmain	vblex	past	simple	active					VBD	ROOT	2
+3	various	various	attr+npremod	jj	attr								JJ	amod	4
+4	images	image		nn	pl	nom							NNS	dobj	2
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	speedometers	speedometer		nn	pl	nom							NNS	pobj	5
+7	for	for	in+advl	in	advl								IN	prep	2
+8	an	an		dt									DT	det	11
+9	exact	exact	attr+npremod	jj	attr								JJ	amod	11
+10	determined	determine	attr+npremod	jj	attr	ed							VBN	amod	11
+11	amount	amount		nn									NN	pobj	7
+12	of	of	of+npostmod	in	nmod								IN	prep	11
+13	time	time		nn									NN	pobj	12
+14	while	while		cs	con								IN	mark	15
+15	being	be	ingcls+advl	vbmain	be	nonfinite	simple	active	advlcls	ingcls	concessive		VBG	advcl	2
+16	able	able		jj	pred								JJ	acomp	15
+17	to	to		to									TO	aux	18
+18	store	store	tocls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	jcomp		VB	xcomp	16
+19	data	datum		nn	pl								NNS	dobj	18
+20	that	that		relpro	relpro_that	sg							WDT	nsubjpass	22
+21	was	be		vbaux									VBD	auxpass	22
+22	collected	collect	finitecls+rel	vbmain	vblex	past	simple	pasv_agls	nmod_cls	thatcls	rel		VBN	relcl	19
+23	at	at	in+advl	in	advl								IN	prep	22
+24	the	the		dt	art								DT	det	26
+25	response	response	nn+npremod	nn			npremod						NN	compound	26
+26	boxes	box		nn	pl								NNS	pobj	23
+27	.	.											.	punct	2
+
+#sentid = 25
+0	The	the		dt	art								DT	det	1
+1	images	image		nn	pl	nom							NNS	nsubjpass	3
+2	were	be		vbaux									VBD	auxpass	3
+3	projected	project		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	3
+4	on	on	in+advl	in	advl								IN	prep	3
+5	a	a		dt	art								DT	det	8
+6	large	large	attr+npremod	jj	attr								JJ	amod	8
+7	projection	projection	nn+npremod	nn		nom	npremod						NN	compound	8
+8	screen	screen		nn									NN	pobj	4
+9	in	in	in+npostmod	in	nmod								IN	prep	8
+10	the	the		dt	art								DT	det	11
+11	front	front		nn									NN	pobj	9
+12	of	of	of+npostmod	in	nmod								IN	prep	11
+13	the	the		dt	art								DT	det	14
+14	room	room		nn									NN	pobj	12
+15	.	.											.	punct	3
+
+#sentid = 26
+0	Two	two											CD	nummod	1
+1	TVs	tv		nn	pl								NNS	nsubjpass	3
+2	were	be		vbaux									VBD	auxpass	3
+3	used	use		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	3
+4	to	to		to									TO	aux	5
+5	show	show	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	3
+6	summary	summary											JJ	compound	7
+7	data	datum		nn	pl								NNS	dobj	5
+8	to	to											IN	dative	5
+9	the	the		dt	art								DT	det	11
+10	test	test	nn+npremod	nn			npremod						NN	compound	11
+11	participants	participant		nn	pl	nom							NNS	pobj	8
+12	in	in	in+advl	in	advl								IN	prep	5
+13	between	between		in	in_othr								IN	prep	12
+14	testing	testing	nn+npremod	nn		nom	npremod						NN	compound	15
+15	blocks	block		nn	pl								NNS	pobj	13
+16	.	.											.	punct	3
+
+#sentid = 27
+0	Figure	figure		nn		nom							NN	nsubj	2
+1	1	1											CD	nummod	0
+2	displays	display		vbmain	vblex	pres	simple	active					VBZ	ROOT	2
+3	the	the		dt	art								DT	det	4
+4	system	system	s+gen	dt	poss		sgen						NN	poss	7
+5	's	's											POS	case	4
+6	electronic	electronic	attr+npremod	jj	attr								JJ	amod	7
+7	connections	connection		nn	pl	nom							NNS	dobj	2
+8	.	.											.	punct	2
+
+#sentid = 28
+0													_SP	dep	1
+1	Figure	figure		nn		nom							NN	dep	13
+2	1	1											CD	nummod	1
+3	.	.											.	punct	1
+4	Projection	projection	nn+npremod	nn		nom	npremod						NN	nmod	7
+5	and	and		cc	phrs								CC	cc	4
+6	Timing	timing		nn		nom							NN	conj	4
+7	System	system	nn+npremod	nn			npremod						NN	nmod	9
+8	Electronic	electronic											JJ	compound	9
+9	Connections	connection		nn	pl	nom	nappos						NNS	appos	1
+10													_SP	dep	1
+11	Figure	figure		nn		nom							NN	nsubj	13
+12	1	1											CD	nummod	11
+13	displays	display		vbmain	vblex	pres	simple	active					VBZ	ROOT	13
+14	how	how		comp	comp_wh								WRB	advmod	22
+15	the	the		dt	art								DT	det	16
+16	computer	computer		nn		nom							NN	nsubj	22
+17	,	,											,	punct	22
+18	directly	directly	rb+advl	rb	advl	ly							RB	advmod	22
+19	or	or		cc	phrs								CC	cc	18
+20	indirectly	indirectly											RB	conj	18
+21	,	,											,	punct	22
+22	controlled	control	whcls+vcomp	vbmain	vblex	past	simple	active	compcls	whcls	vcomp		VBD	ccomp	13
+23	the	the		dt	art								DT	det	25
+24	entire	entire	attr+npremod	jj	attr								JJ	amod	25
+25	system	system		nn									NN	dobj	22
+26	.	.											.	punct	13
+
+#sentid = 29
+0													_SP	dep	5
+1	Four	four											CD	nummod	3
+2	unique	unique	attr+npremod	jj	attr								JJ	amod	3
+3	speedometers	speedometer		nn	pl	nom							NNS	nsubjpass	5
+4	were	be		vbaux									VBD	auxpass	5
+5	used	use		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	5
+6	in	in	in+advl	in	advl								IN	prep	5
+7	the	the		dt	art								DT	det	8
+8	experiment	experiment		nn		nom							NN	pobj	6
+9	.	.											.	punct	5
+
+#sentid = 30
+0	Table	table		nn									NN	nsubj	1
+1	gives	give		vbmain	vblex	pres	simple	active					VBZ	ROOT	1
+2	a	a		dt	art								DT	det	3
+3	description	description		nn		nom							NN	dobj	1
+4	of	of	of+npostmod	in	nmod								IN	prep	3
+5	the	the		dt	art								DT	det	7
+6	significant	significant	attr+npremod	jj	attr								JJ	amod	7
+7	differences	difference		nn	pl	nom							NNS	pobj	4
+8	for	for	in+npostmod	in	nmod								IN	prep	7
+9	each	each		dt									DT	det	10
+10	speedometer	speedometer		nn		nom							NN	pobj	8
+11	.	.											.	punct	1
+
+#sentid = 31
+0	It	it		pro	3rd	sg							PRP	nsubj	1
+1	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	1
+2	important	important		jj	pred								JJ	acomp	1
+3	to	to		to									TO	aux	4
+4	note	note	xtrapos+tocls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	1
+5	that	that		comp	comp_that								IN	mark	9
+6	the	the		dt	art								DT	det	8
+7	measurement	measurement	nn+npremod	nn		nom	npremod						NN	compound	8
+8	values	value		nn	pl								NNS	nsubj	9
+9	are	be	thatcls+vcomp	vbmain	be	pres	simple	active	compcls	thatcls	vcomp		VBP	ccomp	4
+10	for	for	in+advl	in	advl								IN	prep	9
+11	the	the		dt	art								DT	det	12
+12	size	size		nn									NN	pobj	10
+13	of	of	of+npostmod	in	nmod								IN	prep	12
+14	the	the		dt	art								DT	det	15
+15	characteristics	characteristic		nn	pl								NNS	pobj	13
+16	when	when		rb	advl								WRB	advmod	17
+17	projected	project	edcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	edcls			VBN	advcl	12
+18	on	on	in+advl	in	advl								IN	prep	17
+19	the	the		dt	art								DT	det	20
+20	screen	screen		nn									NN	pobj	18
+21	,	,											,	punct	12
+22	not	not											RB	neg	12
+23	the	the		dt	art								DT	det	25
+24	actual	actual	attr+npremod	jj	attr								JJ	amod	25
+25	size	size	appos+npostmod	nn			nappos						NN	appos	12
+26	.	.											.	punct	1
+
+#sentid = 32
+0													_SP	dep	0
+
+#sentid = 33
+0	Table	table		nn		proper							NNP	ROOT	0
+1	1	1											CD	nummod	0
+2	.	.											.	punct	0
+3	Speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	4
+4	Characteristics	characteristic		nn	pl		nappos						NNS	appos	0
+5	and	and		cc	phrs								CC	cc	4
+6	Attributes	attribute		nn	pl								NNS	conj	4
+7													_SP	dep	0
+
+#sentid = 34
+0	One	one											CD	nummod	1
+1	characteristic	characteristic		nn									NN	nsubj	12
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	speedometer	speedometer		nn		nom							NN	pobj	2
+4	4	4											CD	nummod	3
+5	that	that		relpro	relpro_that	sg							WDT	nsubj	6
+6	is	be	finitecls+rel	vbmain	be	pres	simple	active	nmod_cls	thatcls	rel		VBZ	relcl	1
+7	not	not											RB	neg	6
+8	apparent	apparent		jj	pred								JJ	acomp	6
+9	from	from	in+advl	in	advl								IN	prep	6
+10	Table	table		nn									NN	pobj	9
+11	1	1											CD	nummod	10
+12	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	12
+13	that	that		comp	comp_that								IN	mark	23
+14	the	the		dt	art								DT	det	16
+15	first	first	attr+npremod	jj	attr								JJ	amod	16
+16	number	number		nn		nom							NN	nsubj	23
+17	on	on	in+npostmod	in	nmod								IN	prep	16
+18	the	the		dt	art								DT	det	19
+19	speedometer	speedometer		nn		nom							NN	pobj	17
+20	after	after	in+npostmod	in	nmod								IN	prep	16
+21	0	0											CD	nummod	22
+22	mph	mph		nn									NN	pobj	20
+23	was	be	thatcls+vcomp	vbmain	be	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	12
+24	15	15											CD	nummod	25
+25	mph	mph		nn									NN	attr	23
+26	.	.											.	punct	12
+
+#sentid = 35
+0	From	from	in+advl	in	advl								IN	prep	9
+1	then	then											RB	pcomp	0
+2	on	on		rb	othr								RB	advmod	0
+3	a	a		dt	art								DT	det	4
+4	scale	scale		nn									NN	nsubjpass	9
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	10	10											CD	nummod	7
+7	mph	mph		nn									NN	pobj	5
+8	was	be		vbaux									VBD	auxpass	9
+9	used	use		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	9
+10	.	.											.	punct	9
+
+#sentid = 36
+0	All	all											PDT	predet	2
+1	the	the		dt	art								DT	det	2
+2	speedometers	speedometer		nn	pl	nom							NNS	nsubj	3
+3	were	be		vbmain	be	past	simple	active					VBD	ROOT	3
+4	circular	circular		jj	pred								JJ	acomp	3
+5	in	in	in+jcomp	in	jcomp								IN	prep	4
+6	shape	shape		nn									NN	pobj	5
+7	.	.											.	punct	3
+
+#sentid = 37
+0	The	the		dt	art								DT	det	2
+1	pointing	point	attr+npremod	jj	attr	ing							VBG	amod	2
+2	needles	needle		nn	pl								NNS	nsubj	7
+3	of	of	of+npostmod	in	nmod								IN	prep	2
+4	the	the		dt	art								DT	det	6
+5	different	different	attr+npremod	jj	attr								JJ	amod	6
+6	speedometers	speedometer		nn	pl	nom							NNS	pobj	3
+7	had	have		vbmain	vblex	past	simple	active					VBD	ROOT	7
+8	negligible	negligible	attr+npremod	jj	attr								JJ	amod	9
+9	differences	difference		nn	pl	nom							NNS	dobj	7
+10	.	.											.	punct	7
+
+#sentid = 38
+0	Figure	figure		nn		nom							NN	nsubj	2
+1	2	2											CD	nummod	0
+2	displays	display		vbmain	vblex	pres	simple	active					VBZ	ROOT	2
+3	the	the		dt	art								DT	det	7
+4	instrument	instrument	nn+npremod	nn		nom	npremod						NN	compound	5
+5	control	control	nn+npremod	nn			npremod						NN	compound	6
+6	panel	panel	nn+npremod	nn			npremod						NN	compound	7
+7	layout	layout		nn									NN	dobj	2
+8	,	,											,	punct	7
+9	common	common		jj	attr								JJ	amod	7
+10	to	to	in+jcomp	in	jcomp								IN	prep	9
+11	all	all											PDT	predet	13
+12	the	the		dt	art								DT	det	13
+13	speedometers	speedometer		nn	pl	nom							NNS	pobj	10
+14	,	,											,	punct	7
+15	shown	show	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	7
+16	on	on	in+advl	in	advl								IN	prep	15
+17	the	the		dt	art								DT	det	19
+18	projection	projection	nn+npremod	nn		nom	npremod						NN	compound	19
+19	screen	screen		nn									NN	pobj	16
+20	(	(											-LRB-	punct	15
+21	without	without	in+advl	in	advl								IN	prep	15
+22	negligible	negligible	attr+npremod	jj	attr								JJ	amod	27
+23	and	and		cc	phrs								CC	cc	22
+24	non	non											JJ	conj	22
+25	-	-											JJ	conj	22
+26	effecting	effecting											JJ	conj	22
+27	details	detail		nn	pl								NNS	pobj	21
+28	)	)											.	punct	7
+29	.	.											.	punct	2
+
+#sentid = 39
+0													_SP	dep	1
+1	Figure	figure		nn		proper							NNP	ROOT	1
+2	2	2											CD	nummod	1
+3	.	.											.	punct	1
+4	Common	common	attr+npremod	jj	attr								JJ	amod	8
+5	Instrument	instrument	nn+npremod	nn		nom	npremod						NN	compound	6
+6	Control	control	nn+npremod	nn			npremod						NN	compound	7
+7	Panel	panel	nn+npremod	nn		proper	npremod						NNP	compound	8
+8	Layout	layout		nn			nappos						NN	appos	1
+9	(	(											-LRB-	punct	8
+10	not	not											RB	neg	12
+11	to	to		to									TO	aux	12
+12	scale	scale		vbmain	vblex	nonfinite	simple	active		tocls			VB	nmod	8
+13	)	)											-RRB-	punct	12
+14													_SP	dep	1
+
+#sentid = 40
+0	The	the		dt	art								DT	det	1
+1	speedometer	speedometer		nn		nom							NN	nsubjpass	3
+2	was	be		vbaux									VBD	auxpass	3
+3	found	find		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	3
+4	in	in	in+advl	in	advl								IN	prep	3
+5	either	either											DT	pobj	4
+6	of	of		in	in_othr								IN	prep	5
+7	the	the		dt	art								DT	det	11
+8	large	large	attr+npremod	jj	attr								JJ	amod	11
+9	,	,											,	punct	11
+10	inner	inner	attr+npremod	jj	attr								JJ	amod	11
+11	circles	circle		nn	pl								NNS	pobj	6
+12	in	in	in+npostmod	in	nmod								IN	prep	11
+13	Figure	figure		nn		nom							NN	pobj	12
+14	1	1											CD	nummod	13
+15	.	.											.	punct	3
+
+#sentid = 41
+0	The	the		dt	art								DT	det	2
+1	other	other	attr+npremod	jj	attr								JJ	amod	2
+2	circles	circle		nn	pl								NNS	nsubj	3
+3	represent	represent		vbmain	vblex	pres	simple	active					VBP	ROOT	3
+4	other	other	attr+npremod	jj	attr								JJ	amod	5
+5	gauges	gauge		nn	pl								NNS	dobj	3
+6	for	for	in+npostmod	in	nmod								IN	prep	5
+7	RPM	rpm		nn									NN	pobj	6
+8	,	,											,	punct	7
+9	temperature	temperature		nn		nom							NN	conj	7
+10	,	,											,	punct	9
+11	oil	oil	nn+npremod	nn			npremod						NN	compound	12
+12	level	level		nn									NN	conj	9
+13	,	,											,	punct	12
+14	etc	etc											FW	conj	12
+15	.	.											.	punct	3
+
+#sentid = 42
+0	Other	other	attr+npremod	jj	attr								JJ	amod	2
+1	test	test	nn+npremod	nn			npremod						NN	compound	2
+2	materials	material		nn	pl	nom							NNS	nsubj	9
+3	and	and		cc	phrs								CC	cc	2
+4	equipment	equipment		nn		nom							NN	conj	2
+5	used	use	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	2
+6	in	in	in+advl	in	advl								IN	prep	5
+7	the	the		dt	art								DT	det	8
+8	experiment	experiment		nn		nom							NN	pobj	6
+9	include	include		vbmain	vblex	pres	simple	active					VBP	ROOT	9
+10	a	a		dt	art								DT	det	13
+11	standard	standard	attr+npremod	jj	attr								JJ	amod	13
+12	tape	tape	nn+npremod	nn			npremod						NN	compound	13
+13	measure	measure		nn		nom							NN	dobj	9
+14	,	,											,	punct	13
+15	chairs	chair		nn	pl								NNS	conj	13
+16	,	,											,	punct	15
+17	and	and		cc	phrs								CC	cc	15
+18	tables	table		nn	pl								NNS	conj	15
+19	.	.											.	punct	9
+
+#sentid = 43
+0													_SP	dep	3
+1	Each	each		dt									DT	det	2
+2	experiment	experiment		nn		nom							NN	nsubj	3
+3	began	begin		vbmain	prepv	past	simple	active					VBD	ROOT	3
+4	with	with	in+advl	in	advl								IN	prep	3
+5	the	the		dt	art								DT	det	8
+6	13	13											CD	nummod	8
+7	test	test	nn+npremod	nn			npremod						NN	compound	8
+8	participants	participant		nn	pl	nom							NNS	pobj	4
+9	seated	seat	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	8
+10	in	in	in+advl	in	advl								IN	prep	9
+11	two	two											CD	nummod	12
+12	rows	row		nn	pl								NNS	pobj	10
+13	,	,											,	punct	12
+14	each	each											DT	npadvmod	9
+15	with	with		in	in_othr								IN	prep	14
+16	their	their		dt	poss								PRP$	poss	19
+17	own	own	attr+npremod	jj	attr								JJ	amod	19
+18	response	response	nn+npremod	nn			npremod						NN	compound	19
+19	pad	pad		nn									NN	pobj	15
+20	directly	directly		rb	othr	ly							RB	advmod	21
+21	in	in	in+npostmod	in	nmod								IN	prep	19
+22	front	front		nn									NN	pobj	21
+23	of	of	of+npostmod	in	nmod								IN	prep	22
+24	them	they		pro	pl								PRP	pobj	23
+25	on	on	in+npostmod	in	nmod								IN	prep	19
+26	a	a		dt	art								DT	det	29
+27	standard	standard	attr+npremod	jj	attr								JJ	amod	29
+28	classroom	classroom	nn+npremod	nn			npremod						NN	compound	29
+29	table	table		nn									NN	pobj	25
+30	.	.											.	punct	3
+
+#sentid = 44
+0	The	the		dt	art								DT	det	1
+1	middle	middle		nn									NN	nsubj	6
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	the	the		dt	art								DT	det	5
+4	first	first	attr+npremod	jj	attr								JJ	amod	5
+5	row	row		nn									NN	pobj	2
+6	was	be		vbmain	be	past	simple	active					VBD	ROOT	6
+7	10	10											CD	nummod	8
+8	feet	foot		nn	pl								NNS	npadvmod	12
+9	and	and		cc	phrs								CC	cc	8
+10	5	5											CD	nummod	11
+11	inches	inch		nn	pl								NNS	conj	8
+12	from	from	in+advl	in	advl								IN	prep	6
+13	the	the		dt	art								DT	det	15
+14	projection	projection	nn+npremod	nn		nom	npremod						NN	compound	15
+15	screen	screen		nn									NN	pobj	12
+16	and	and		cc	phrs								CC	cc	6
+17	had	have		vbmain	vblex	past	simple	active					VBD	conj	6
+18	8	8											CD	nummod	19
+19	participants	participant		nn	pl	nom							NNS	dobj	17
+20	.	.											.	punct	6
+
+#sentid = 45
+0	The	the		dt	art								DT	det	2
+1	second	second	attr+npremod	jj	attr								JJ	amod	2
+2	row	row		nn									NN	nsubj	8
+3	,	,											,	punct	2
+4	containing	contain	ingcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	ingcls	ncomp		VBG	acl	2
+5	5	5											CD	nummod	6
+6	participants	participant		nn	pl	nom							NNS	dobj	4
+7	,	,											,	punct	2
+8	was	be		vbmain	be	past	simple	active					VBD	ROOT	8
+9	15	15											CD	nummod	10
+10	feet	foot		nn	pl								NNS	npadvmod	11
+11	from	from	in+advl	in	advl								IN	prep	8
+12	the	the		dt	art								DT	det	14
+13	projection	projection	nn+npremod	nn		nom	npremod						NN	compound	14
+14	screen	screen		nn									NN	pobj	11
+15	.	.											.	punct	8
+
+#sentid = 46
+0	The	the		dt	art								DT	det	1
+1	participants	participant		nn	pl	nom							NNS	nsubj	7
+2	in	in	in+npostmod	in	nmod								IN	prep	1
+3	the	the		dt	art								DT	det	5
+4	second	second	attr+npremod	jj	attr								JJ	amod	5
+5	row	row		nn									NN	pobj	2
+6	were	be		vbaux									VBD	aux	7
+7	sitting	sit		vbmain	vblex	past	prog	active					VBG	ROOT	7
+8	in	in	in+advl	in	advl								IN	prep	7
+9	slightly	slightly	rb+jjrbmod	rb	adjmod	ly							RB	advmod	10
+10	higher	high	attr+npremod	jj	attr								JJR	amod	15
+11	(	(											-LRB-	punct	15
+12	approx	approx											RB	quantmod	14
+13	.	.		nn			npremod						NN	compound	14
+14	6	6											CD	nummod	15
+15	inches	inch	nn+npremod	nn	pl		npremod						NNS	nmod	17
+16	)	)											-RRB-	punct	15
+17	chairs	chair		nn	pl								NNS	pobj	8
+18	than	than	in+npostmod	in	nmod								IN	prep	17
+19	the	the		dt	art								DT	det	21
+20	first	first	attr+npremod	jj	attr								JJ	amod	21
+21	row	row		nn									NN	pobj	18
+22	.	.											.	punct	7
+
+#sentid = 47
+0	Figure	figure		nn		nom							NN	nsubj	2
+1	3	3											CD	nummod	0
+2	depicts	depict		vbmain	vblex	pres	simple	active					VBZ	ROOT	2
+3	the	the		dt	art								DT	det	6
+4	testing	testing	nn+npremod	nn		nom	npremod						NN	compound	5
+5	room	room	nn+npremod	nn			npremod						NN	compound	6
+6	layout	layout		nn									NN	dobj	2
+7	.	.											.	punct	2
+
+#sentid = 48
+0													_SP	dep	0
+
+#sentid = 49
+0	Figure	figure		nn		nom							NN	ROOT	0
+1	3	3											CD	nummod	0
+2	.	.											.	punct	0
+3	Testing	testing	nn+npremod	nn		nom	npremod						NN	compound	4
+4	Room	room	nn+npremod	nn			npremod						NN	compound	5
+5	Layout	layout		nn			nappos						NN	appos	0
+6													_SP	dep	0
+
+#sentid = 50
+0	Each	each		dt									DT	det	1
+1	number	number		nn		nom							NN	nsubj	5
+2	on	on	in+npostmod	in	nmod								IN	prep	1
+3	figure	figure		nn		nom							NN	pobj	2
+4	3	3											CD	nummod	3
+5	represents	represent		vbmain	vblex	pres	simple	active					VBZ	ROOT	5
+6	the	the		dt	art								DT	det	9
+7	respective	respective	attr+npremod	jj	attr								JJ	amod	9
+8	test	test	nn+npremod	nn			npremod						NN	compound	9
+9	participant	participant	s+gen	dt	poss	nom	sgen						NN	poss	11
+10	's	's											POS	case	9
+11	seat	seat		nn									NN	dobj	5
+12	.	.											.	punct	5
+
+#sentid = 51
+0	Both	both		dt									DT	det	1
+1	televisions	television		nn	pl								NNS	nsubj	2
+2	projected	project		vbmain	vblex	past	simple	active					VBD	ROOT	2
+3	identical	identical	attr+npremod	jj	attr								JJ	amod	4
+4	information	information		nn		nom							NN	dobj	2
+5	,	,											,	punct	4
+6	which	which		relpro	relpro_wh								WDT	nsubj	7
+7	was	be	finitecls+rel	vbmain	be	past	simple	active	nmod_cls	whcls	rel		VBD	relcl	4
+8	easily	easily	rb+jjrbmod	rb	adjmod	ly							RB	advmod	9
+9	visible	visible		jj	pred								JJ	acomp	7
+10	for	for	in+advl	in	advl								IN	prep	7
+11	every	every		dt									DT	det	13
+12	test	test	nn+npremod	nn			npremod						NN	compound	13
+13	participant	participant		nn		nom							NN	pobj	10
+14	.	.											.	punct	2
+
+#sentid = 52
+0													_SP	dep	0
+
+#sentid = 53
+0	The	the		dt	art								DT	det	1
+1	experiment	experiment		nn		nom							NN	nsubjpass	3
+2	was	be		vbaux									VBD	auxpass	3
+3	run	run		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	3
+4	in	in	in+advl	in	advl								IN	prep	3
+5	blocks	block		nn	pl								NNS	pobj	4
+6	of	of	of+npostmod	in	nmod								IN	prep	5
+7	trials	trial		nn	pl	nom							NNS	pobj	6
+8	.	.											.	punct	3
+
+#sentid = 54
+0	Each	each		dt									DT	det	1
+1	trial	trial		nn		nom							NN	nsubj	2
+2	began	begin		vbmain	vblex	past	simple	active					VBD	ROOT	2
+3	when	when		rb	advl								WRB	advmod	6
+4	the	the		dt	art								DT	det	5
+5	shutter	shutter		nn		nom							NN	nsubj	6
+6	opened	open	finitecls+advl	vbmain	vblex	past	simple	active	advlcls	whcls			VBD	advcl	2
+7	revealing	reveal	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	6
+8	an	an		dt									DT	det	9
+9	image	image		nn		nom							NN	dobj	7
+10	of	of	of+npostmod	in	nmod								IN	prep	9
+11	a	a		dt	art								DT	det	12
+12	speedometer	speedometer		nn		nom							NN	pobj	10
+13	.	.											.	punct	2
+
+#sentid = 55
+0	This	this		pro	dem	sg							DT	nsubj	1
+1	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	1
+2	also	also	rb+advl	rb	advl								RB	advmod	1
+3	when	when		rb	advl								WRB	advmod	6
+4	the	the		dt	art								DT	det	5
+5	clock	clock		nn									NN	nsubj	6
+6	started	start	finitecls+advl	vbmain	vblex	past	simple	active	advlcls	whcls			VBD	advcl	1
+7	for	for	in+advl	in	advl								IN	prep	6
+8	the	the		dt	art								DT	det	9
+9	trial	trial		nn		nom							NN	pobj	7
+10	.	.											.	punct	1
+
+#sentid = 56
+0	The	the		dt	art								DT	det	1
+1	participants	participant		nn	pl	nom							NNS	nsubj	4
+2	could	could		vbaux	mod	pos							MD	aux	4
+3	then	then		rb	link		splaux						RB	advmod	4
+4	begin	begin		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	4
+5	to	to		to									TO	aux	6
+6	enter	enter	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	4
+7	a	a		dt	art								DT	det	8
+8	response	response		nn									NN	dobj	6
+9	by	by	in+advl	in	advl								IN	prep	4
+10	pushing	push	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	9
+11	a	a		dt	art								DT	det	12
+12	button	button		nn									NN	dobj	10
+13	on	on	in+npostmod	in	nmod								IN	prep	12
+14	the	the		dt	art								DT	det	16
+15	response	response	nn+npremod	nn			npremod						NN	compound	16
+16	box	box		nn									NN	pobj	13
+17	in	in	in+npostmod	in	nmod								IN	prep	16
+18	front	front		nn									NN	pobj	17
+19	of	of	of+npostmod	in	nmod								IN	prep	18
+20	them	they		pro	pl								PRP	pobj	19
+21	.	.											.	punct	4
+
+#sentid = 57
+0	After	after	in+advl	in	advl								IN	prep	9
+1	pushing	push	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	0
+2	the	the		dt	art								DT	det	3
+3	button	button		nn									NN	dobj	1
+4	,	,											,	punct	9
+5	a	a		dt	art								DT	det	6
+6	signal	signal		nn		nom							NN	nsubjpass	9
+7	would	would		vbaux	mod	prd							MD	aux	9
+8	be	be		vbaux									VB	auxpass	9
+9	sent	send		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	9
+10	indirectly	indirectly	rb+advl	rb	advl	ly							RB	advmod	9
+11	to	to											IN	dative	9
+12	the	the		dt	art								DT	det	13
+13	computer	computer		nn		nom							NN	pobj	11
+14	.	.											.	punct	9
+
+#sentid = 58
+0	The	the		dt	art								DT	det	1
+1	time	time		nn									NN	nsubjpass	13
+2	after	after	rb+advl	rb	advl								IN	advmod	5
+3	the	the		dt	art								DT	det	4
+4	shutter	shutter		nn		nom							NN	nsubj	5
+5	opened	open	finitecls+advl	vbmain	vblex	past	simple	active	advlcls				VBD	advcl	1
+6	until	until		cs	cs_othr								IN	mark	11
+7	the	the		dt	art								DT	det	9
+8	response	response	nn+npremod	nn			npremod						NN	compound	9
+9	button	button		nn									NN	nsubjpass	11
+10	was	be		vbaux									VBD	auxpass	11
+11	pushed	push	finitecls+advl	vbmain	vblex	past	simple	pasv_agls	advlcls		other_advl		VBN	advcl	1
+12	was	be		vbaux									VBD	auxpass	13
+13	stored	store		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	13
+14	in	in	in+advl	in	advl								IN	prep	13
+15	the	the		dt	art								DT	det	16
+16	computer	computer		nn		nom							NN	pobj	14
+17	for	for	in+advl	in	advl								IN	prep	13
+18	each	each		dt									DT	det	19
+19	participant	participant		nn		nom							NN	pobj	17
+20	.	.											.	punct	13
+
+#sentid = 59
+0	The	the		dt	art								DT	det	1
+1	shutter	shutter		nn		nom							NN	nsubj	4
+2	would	would		vbaux	mod	prd							MD	aux	4
+3	then	then		rb	link		splaux						RB	advmod	4
+4	close	close		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	4
+5	,	,											,	punct	4
+6	completing	complete	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	4
+7	the	the		dt	art								DT	det	9
+8	exposure	exposure	nn+npremod	nn		nom	npremod						NN	compound	9
+9	duration	duration		nn		nom							NN	dobj	6
+10	.	.											.	punct	4
+
+#sentid = 60
+0	The	the		dt	art								DT	det	1
+1	participant	participant		nn		nom							NN	nsubj	3
+2	could	could		vbaux	mod	pos							MD	aux	3
+3	enter	enter		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	3
+4	a	a		dt	art								DT	det	5
+5	response	response		nn									NN	dobj	3
+6	after	after		cs	cs_othr								IN	mark	9
+7	the	the		dt	art								DT	det	8
+8	shutter	shutter		nn		nom							NN	nsubj	9
+9	closed	close	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		other_advl		VBD	advcl	3
+10	,	,											,	punct	3
+11	but	but		cc	phrs								CC	cc	3
+12	only	only		rb	othr	ly							RB	advmod	13
+13	until	until		in	in_othr								IN	prep	11
+14	the	the		dt	art								DT	det	17
+15	maximum	maximum	attr+npremod	jj	attr								JJ	amod	17
+16	response	response	nn+npremod	nn			npremod						NN	compound	17
+17	time	time		nn									NN	pobj	13
+18	for	for	in+npostmod	in	nmod								IN	prep	17
+19	that	that		dt	dt_dem								DT	det	20
+20	trial	trial		nn		nom							NN	pobj	18
+21	.	.											.	punct	3
+
+#sentid = 61
+0	Only	only		rb	othr	ly							RB	advmod	3
+1	the	the		dt	art								DT	det	3
+2	first	first	attr+npremod	jj	attr								JJ	amod	3
+3	response	response		nn									NN	nsubjpass	9
+4	the	the		dt	art								DT	det	6
+5	test	test	nn+npremod	nn			npremod						NN	compound	6
+6	participant	participant		nn		nom							NN	nsubj	7
+7	gave	give	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls		rel	reldel	VBD	relcl	3
+8	was	be		vbaux									VBD	auxpass	9
+9	recorded	record		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	9
+10	.	.											.	punct	9
+
+#sentid = 62
+0	If	if		cs	cnd								IN	mark	4
+1	the	the		dt	art								DT	det	2
+2	participant	participant		nn		nom							NN	nsubj	4
+3	had	have		vbaux									VBD	aux	4
+4	responded	respond	finitecls+advl	vbmain	vblex	past	perf	active	advlcls		conditional		VBN	advcl	25
+5	with	with	in+advl	in	advl								IN	prep	4
+6	an	an		dt									DT	det	8
+7	incorrect	incorrect	attr+npremod	jj	attr								JJ	amod	8
+8	response	response		nn									NN	pobj	5
+9	(	(											-LRB-	punct	8
+10	error	error	appos+npostmod	nn		nom	nappos						NN	appos	8
+11	)	)											-RRB-	punct	8
+12	,	,											-RRB-	punct	25
+13	the	the		dt	art								DT	det	14
+14	time	time		nn									NN	nsubjpass	25
+15	as	as		rb	othr								RB	advmod	17
+16	well	well		rb	othr								RB	advmod	17
+17	as	as		cc	phrs								IN	cc	14
+18	the	the		dt	art								DT	det	19
+19	fact	fact		nn									NN	conj	14
+20	that	that		relpro	relpro_that								IN	mark	22
+21	it	it		pro	3rd	sg							PRP	nsubj	22
+22	was	be	thatcls+ncomp	vbmain	be	past	simple	active	nmod_cls	thatcls	ncomp		VBD	acl	19
+23	incorrect	incorrect		jj	pred								JJ	acomp	22
+24	was	be		vbaux									VBD	auxpass	25
+25	recorded	record		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	25
+26	.	.											.	punct	25
+
+#sentid = 63
+0	After	after	in+advl	in	advl								IN	prep	8
+1	the	the		dt	art								DT	det	4
+2	maximum	maximum	attr+npremod	jj	attr								JJ	amod	4
+3	response	response	nn+npremod	nn			npremod						NN	compound	4
+4	time	time		nn									NN	pobj	0
+5	,	,											,	punct	8
+6	data	datum	nn+npremod	nn	pl		npremod						NNS	compound	7
+7	collection	collection		nn		nom							NN	nsubj	8
+8	ended	end		vbmain	vblex	past	simple	active					VBD	ROOT	8
+9	and	and		cc	cls								CC	cc	8
+10	the	the		dt	art								DT	det	11
+11	projector	projector		nn		nom							NN	nsubj	12
+12	advanced	advance		vbmain	vblex	past	simple	active					VBD	conj	8
+13	.	.											.	punct	12
+
+#sentid = 64
+0	If	if		cs	cnd								IN	mark	3
+1	the	the		dt	art								DT	det	2
+2	participant	participant		nn		nom							NN	nsubj	3
+3	gave	give	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		conditional		VBD	advcl	12
+4	no	no		dt									DT	det	5
+5	response	response		nn									NN	dobj	3
+6	,	,											,	punct	12
+7	the	the		dt	art								DT	det	10
+8	maximum	maximum	attr+npremod	jj	attr								JJ	amod	10
+9	response	response	nn+npremod	nn			npremod						NN	compound	10
+10	time	time		nn									NN	nsubjpass	12
+11	was	be		vbaux									VBD	auxpass	12
+12	recorded	record		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	12
+13	for	for	in+advl	in	advl								IN	prep	12
+14	that	that		dt	dt_dem								DT	det	15
+15	participant	participant		nn		nom							NN	pobj	13
+16	as	as		rb	othr								RB	advmod	18
+17	well	well		rb	othr								RB	advmod	18
+18	as	as		cc	phrs								IN	cc	20
+19	the	the		dt	art								DT	det	20
+20	fact	fact		nn									NN	dep	12
+21	that	that		relpro	relpro_that								IN	mark	26
+22	the	the		dt	art								DT	det	23
+23	participant	participant		nn		nom							NN	nsubj	26
+24	did	do		vbaux									VBD	aux	26
+25	not	not											RB	neg	26
+26	respond	respond	thatcls+ncomp	vbmain	vblex	past	simple	active	nmod_cls	thatcls	ncomp		VB	acl	20
+27	(	(											-LRB-	punct	26
+28	miss	miss		nn									NN	dep	26
+29	)	)											-RRB-	punct	26
+30	.	.											-RRB-	punct	12
+
+#sentid = 65
+0	The	the		dt	art								DT	det	1
+1	time	time		nn									NN	nsubjpass	15
+2	in	in	in+npostmod	in	nmod								IN	prep	1
+3	between	between		in	in_othr								IN	prep	2
+4	the	the		dt	art								DT	det	5
+5	end	end		nn									NN	pobj	3
+6	of	of	of+npostmod	in	nmod								IN	prep	5
+7	data	data	nn+npremod	nn			npremod						NN	compound	8
+8	collection	collection		nn		nom							NN	pobj	6
+9	and	and		cc	phrs								CC	cc	5
+10	the	the		dt	art								DT	det	12
+11	shutter	shutter	nn+npremod	nn		nom	npremod						NN	compound	12
+12	opening	opening		nn		nom							NN	conj	5
+13	again	again		rb	othr								RB	advmod	12
+14	was	be		vbaux									VBD	auxpass	15
+15	called	call		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	15
+16	the	the		dt	art								DT	det	18
+17	intertrial	intertrial	attr+npremod	jj	attr								JJ	amod	18
+18	interval	interval		nn		nom							NN	oprd	15
+19	and	and		cc	phrs								CC	cc	15
+20	was	be		vbmain	be	past	simple	active					VBD	conj	15
+21	common	common		jj	pred								JJ	acomp	20
+22	for	for	in+advl	in	advl								IN	prep	20
+23	all	all		dt									DT	det	24
+24	trials	trial		nn	pl	nom							NNS	pobj	22
+25	.	.											.	punct	15
+
+#sentid = 66
+0													_SP	dep	12
+1	Nine	nine											CD	nummod	2
+2	blocks	block		nn	pl								NNS	nsubjpass	12
+3	,	,											,	punct	2
+4	each	each											DT	appos	2
+5	with	with		in	in_othr								IN	prep	4
+6	either	either											CC	preconj	7
+7	16	16											CD	nummod	10
+8	or	or		cc									CC	cc	7
+9	32	32											CD	conj	7
+10	trials	trial		nn	pl	nom							NNS	pobj	5
+11	were	be		vbaux									VBD	auxpass	12
+12	conducted	conduct		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	12
+13	.	.											.	punct	12
+
+#sentid = 67
+0	In	in	in+advl	in	advl								IN	prep	6
+1	all	all											PDT	predet	3
+2	the	the		dt	art								DT	det	3
+3	blocks	block		nn	pl								NNS	pobj	0
+4	the	the		dt	art								DT	det	5
+5	speedometers	speedometer		nn	pl	nom							NNS	nsubj	6
+6	read	read		vbmain	vblex	past	simple	active					VBD	ROOT	6
+7	50	50											CD	nummod	14
+8	,	,											,	punct	7
+9	55	55											CD	conj	7
+10	,	,											,	punct	9
+11	60	60											CD	conj	9
+12	or	or		cc									CC	cc	11
+13	65	65											CD	conj	11
+14	mph	mph		nn									NN	dobj	6
+15	.	.											.	punct	6
+
+#sentid = 68
+0	With	with	in+advl	in	advl								IN	prep	8
+1	blocks	block		nn	pl								NNS	pobj	0
+2	1	1											CD	nummod	1
+3	through	through		in	in_othr								IN	prep	2
+4	6	6											CD	pobj	3
+5	,	,											,	punct	8
+6	each	each		dt									DT	det	7
+7	participant	participant		nn		nom							NN	nsubj	8
+8	pressed	press		vbmain	vblex	past	simple	active					VBD	ROOT	8
+9	one	one		pro	other	pl							CD	dobj	8
+10	of	of		in	in_othr								IN	prep	9
+11	the	the		dt	art								DT	det	13
+12	four	four											CD	nummod	13
+13	buttons	button		nn	pl								NNS	pobj	10
+14	on	on	in+npostmod	in	nmod								IN	prep	13
+15	the	the		dt	art								DT	det	17
+16	response	response	nn+npremod	nn			npremod						NN	compound	17
+17	box	box		nn									NN	pobj	14
+18	that	that		relpro	relpro_that	sg							WDT	nsubjpass	21
+19	had	have		vbaux									VBD	aux	21
+20	been	be		vbaux									VBN	auxpass	21
+21	assigned	assign	finitecls+rel	vbmain	vblex	past	perf	pasv_agls	nmod_cls	thatcls	rel		VBN	relcl	13
+22	a	a		dt	art								DT	det	25
+23	respective	respective	attr+npremod	jj	attr								JJ	amod	25
+24	speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	25
+25	reading	reading		nn		nom							NN	dobj	21
+26	(	(											-LRB-	punct	25
+27	50	50											CD	nummod	35
+28	,	,											,	punct	27
+29	55	55											CD	conj	27
+30	,	,											,	punct	29
+31	60	60											CD	conj	29
+32	or	or		cc									CC	cc	31
+33	65	65											CD	nummod	34
+34	mph	mph		nn									NN	conj	31
+35	)	)											-RRB-	appos	25
+36	.	.											-RRB-	punct	8
+
+#sentid = 69
+0	In	in	in+advl	in	advl								IN	prep	8
+1	blocks	block		nn	pl								NNS	pobj	0
+2	7	7											CD	nummod	1
+3	through	through		in	in_othr								IN	prep	2
+4	9	9											CD	pobj	3
+5	,	,											,	punct	8
+6	the	the		dt	art								DT	det	7
+7	participants	participant		nn	pl	nom							NNS	nsubj	8
+8	pressed	press		vbmain	vblex	past	simple	active					VBD	ROOT	8
+9	1	1											CD	dobj	8
+10	of	of		in	in_othr								IN	prep	9
+11	the	the		dt	art								DT	det	13
+12	2	2											CD	nummod	13
+13	buttons	button		nn	pl								NNS	pobj	10
+14	that	that		relpro	relpro_that	sg							WDT	nsubjpass	17
+15	had	have		vbaux									VBD	aux	17
+16	been	be		vbaux									VBN	auxpass	17
+17	assigned	assign	finitecls+rel	vbmain	vblex	past	perf	pasv_agls	nmod_cls	thatcls	rel		VBN	relcl	13
+18	"	"											``	punct	19
+19	speeding	speeding		nn		nom							NN	dobj	17
+20	"	"											''	punct	19
+21	and	and		cc	phrs								CC	cc	19
+22	"	"											``	punct	24
+23	not	not											RB	neg	24
+24	speeding	speed		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	conj	19
+25	"	"											''	punct	24
+26	.	.											.	punct	8
+
+#sentid = 70
+0	The	the		dt	art								DT	det	3
+1	"	"											``	punct	3
+2	speed	speed	nn+npremod	nn			npremod						NN	compound	3
+3	limit	limit		nn									NN	nsubjpass	6
+4	"	"											''	punct	3
+5	was	be		vbaux									VBD	auxpass	6
+6	considered	consider		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	6
+7	to	to		to									TO	aux	8
+8	be	be	tocls+vcomp	vbmain	be	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	6
+9	55	55											CD	nummod	10
+10	mph	mph		nn									NN	attr	8
+11	.	.											.	punct	6
+
+#sentid = 71
+0	In	in	in+advl	in	advl								IN	prep	7
+1	both	both		dt									DT	det	2
+2	protocols	protocol		nn	pl								NNS	pobj	0
+3	,	,											,	punct	7
+4	the	the		dt	art								DT	det	5
+5	participants	participant		nn	pl	nom							NNS	nsubjpass	7
+6	were	be		vbaux									VBD	auxpass	7
+7	instructed	instruct		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	7
+8	to	to		to									TO	aux	9
+9	assign	assign	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	7
+10	one	one											CD	nummod	11
+11	finger	finger		nn		nom							NN	dobj	9
+12	for	for	in+npostmod	in	nmod								IN	prep	11
+13	each	each		dt									DT	det	14
+14	button	button		nn									NN	pobj	12
+15	.	.											.	punct	7
+
+#sentid = 72
+0	Also	also	rb+advl	rb	advl								RB	advmod	9
+1	,	,											,	punct	9
+2	before	before	in+advl	in	advl								IN	prep	9
+3	every	every		dt									DT	det	4
+4	block	block		nn									NN	pobj	2
+5	the	the		dt	art								DT	det	7
+6	test	test	nn+npremod	nn			npremod						NN	compound	7
+7	participants	participant		nn	pl	nom							NNS	nsubjpass	9
+8	were	be		vbaux									VBD	auxpass	9
+9	given	give		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	9
+10	the	the		dt	art								DT	det	11
+11	instruction	instruction		nn		nom							NN	dobj	9
+12	to	to		to									TO	aux	14
+13	"	"											``	punct	14
+14	be	be	tocls+ncomp	vbmain	be	nonfinite	simple	active	nmod_cls	tocls	ncomp		VB	acl	11
+15	as	as		rb	adjmod								RB	advmod	16
+16	fast	fast		jj	pred								JJ	acomp	14
+17	and	and		cc	phrs								CC	cc	16
+18	as	as		rb	othr								RB	advmod	19
+19	accurate	accurate											JJ	conj	16
+20	as	as	in+jcomp	in	jcomp								IN	prep	16
+21	possible	possible		jj	attr								JJ	amod	20
+22	"	"											''	punct	16
+23	.	.											.	punct	9
+
+#sentid = 73
+0	The	the		dt	art								DT	det	3
+1	first	first	attr+npremod	jj	attr								JJ	amod	3
+2	two	two											CD	nummod	3
+3	blocks	block		nn	pl								NNS	nsubj	4
+4	were	be		vbmain	be	past	simple	active					VBD	ROOT	4
+5	practice	practice		nn									NN	attr	4
+6	in	in	in+advl	in	advl								IN	prep	4
+7	order	order		nn		nom							NN	pobj	6
+8	to	to		to									TO	aux	9
+9	familiarize	familiarize		vbmain	vblex	nonfinite	simple	active	nmod_cls		ncomp		VB	acl	7
+10	the	the		dt	art								DT	det	12
+11	test	test	nn+npremod	nn			npremod						NN	compound	12
+12	participants	participant		nn	pl	nom							NNS	dobj	9
+13	with	with	in+advl	in	advl								IN	prep	9
+14	the	the		dt	art								DT	det	15
+15	routine	routine		nn									NN	pobj	13
+16	and	and		cc	phrs								CC	cc	15
+17	system	system		nn									NN	conj	15
+18	.	.											.	punct	4
+
+#sentid = 74
+0	Block	block		nn									NN	nsubj	2
+1	7	7											CD	nummod	0
+2	was	be		vbmain	be	past	simple	active					VBD	ROOT	2
+3	also	also	rb+advl	rb	advl								RB	advmod	2
+4	practice	practice		nn									NN	attr	2
+5	because	because	in+advl	in	advl								IN	prep	2
+6	of	of											IN	pcomp	5
+7	the	the		dt	art								DT	det	10
+8	new	new	attr+npremod	jj	attr								JJ	amod	10
+9	response	response	nn+npremod	nn			npremod						NN	compound	10
+10	protocol	protocol		nn									NN	pobj	5
+11	.	.											.	punct	2
+
+#sentid = 75
+0	The	the		dt	art								DT	det	2
+1	practice	practice	nn+npremod	nn			npremod						NN	compound	2
+2	blocks	block		nn	pl								NNS	nsubj	3
+3	had	have		vbmain	vblex	past	simple	active					VBD	ROOT	3
+4	one	one											CD	nummod	6
+5	large	large	attr+npremod	jj	attr								JJ	amod	6
+6	difference	difference		nn		nom							NN	dobj	3
+7	from	from	in+npostmod	in	nmod								IN	prep	6
+8	the	the		dt	art								DT	det	10
+9	testing	testing	nn+npremod	nn		nom	npremod						NN	compound	10
+10	blocks	block		nn	pl								NNS	pobj	7
+11	.	.											.	punct	3
+
+#sentid = 76
+0	In	in	in+advl	in	advl								IN	prep	7
+1	the	the		dt	art								DT	det	3
+2	practice	practice	nn+npremod	nn			npremod						NN	compound	3
+3	blocks	block		nn	pl								NNS	pobj	0
+4	no	no		dt									DT	det	5
+5	speedometers	speedometer		nn	pl	nom							NNS	nsubjpass	7
+6	were	be		vbaux									VBD	auxpass	7
+7	shown	show		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	7
+8	,	,											,	punct	7
+9	only	only		rb	othr	ly							RB	advmod	10
+10	3	3											CD	nummod	11
+11	boxes	box	appos+npostmod	nn	pl		nappos						NNS	appos	5
+12	,	,											,	punct	11
+13	each	each											DT	appos	11
+14	with	with		in	in_othr								IN	prep	13
+15	a	a		dt	art								DT	det	16
+16	word	word		nn									NN	pobj	14
+17	in	in	in+npostmod	in	nmod								IN	prep	16
+18	them	they		pro	pl								PRP	pobj	17
+19	.	.											.	punct	7
+
+#sentid = 77
+0	Only	only		rb	othr	ly							RB	advmod	1
+1	one	one											CD	nummod	2
+2	box	box		nn									NN	nsubj	4
+3	actually	actually	rb+advl	rb	advl	ly							RB	advmod	4
+4	had	have		vbmain	vblex	past	simple	active					VBD	ROOT	4
+5	a	a		dt	art								DT	det	7
+6	correct	correct	attr+npremod	jj	attr								JJ	amod	7
+7	spelling	spelling		nn		nom							NN	dobj	4
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	fifty	fifty											CD	pobj	8
+10	,	,											,	punct	9
+11	fifty	fifty											CD	compound	13
+12	-	-											HYPH	punct	13
+13	five	five											CD	conj	9
+14	,	,											,	punct	13
+15	sixty	sixty											CD	conj	13
+16	or	or		cc									CC	cc	15
+17	sixty	sixty											CD	compound	19
+18	-	-											HYPH	punct	19
+19	five	five											CD	conj	15
+20	.	.											.	punct	4
+
+#sentid = 78
+0	The	the		dt	art								DT	det	4
+1	one	one	rb+advl	rb	advl								CD	advmod	3
+2	correctly	correctly	rb+advl	rb	advl	ly							RB	advmod	3
+3	spelled	spell	attr+npremod	jj	attr	ed							VBN	amod	4
+4	speed	speed		nn									NN	nsubjpass	6
+5	was	be		vbaux									VBD	auxpass	6
+6	viewed	view		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	6
+7	as	as	in+advl	in	advl								IN	prep	6
+8	the	the		dt	art								DT	det	10
+9	speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	10
+10	reading	reading		nn		nom							NN	pobj	7
+11	for	for	in+npostmod	in	nmod								IN	prep	10
+12	the	the		dt	art								DT	det	13
+13	trial	trial		nn		nom							NN	pobj	11
+14	.	.											.	punct	6
+
+#sentid = 79
+0	This	this		dt	dt_dem								DT	det	1
+1	difference	difference		nn		nom							NN	nsubj	2
+2	was	be		vbmain	be	past	simple	active					VBD	ROOT	2
+3	to	to		to									TO	aux	4
+4	make	make	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	2
+5	sure	sure											JJ	ccomp	4
+6	that	that		cs	cs_othr								IN	mark	12
+7	the	the		dt	art								DT	det	9
+8	test	test	nn+npremod	nn			npremod						NN	compound	9
+9	participants	participant		nn	pl	nom							NNS	nsubj	12
+10	did	do		vbaux									VBD	aux	12
+11	not	not											RB	neg	12
+12	get	get	finitecls+advl	vbmain	vblex	past	simple	active	advlcls				VB	advcl	5
+13	any	any		dt									DT	det	14
+14	practice	practice		nn									NN	dobj	12
+15	at	at	in+npostmod	in	nmod								IN	prep	14
+16	looking	look	ingcls+incomp	vbmain	prepv	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	15
+17	at	at	in+advl	in	advl								IN	prep	16
+18	any	any		dt									DT	det	19
+19	speedometer	speedometer		nn		nom							NN	pobj	17
+20	before	before		cs	cs_othr								IN	mark	23
+21	they	they		pro	pl								PRP	nsubjpass	23
+22	were	be		vbaux									VBD	auxpass	23
+23	tested	test	finitecls+advl	vbmain	vblex	past	simple	pasv_agls	advlcls		other_advl		VBN	advcl	12
+24	on	on	in+advl	in	advl								IN	prep	23
+25	it	it		pro	3rd	sg							PRP	pobj	24
+26	.	.											.	punct	2
+
+#sentid = 80
+0	Also	also	rb+advl	rb	advl								RB	advmod	10
+1	,	,											,	punct	10
+2	between	between	in+advl	in	advl								IN	prep	10
+3	each	each		dt									DT	det	4
+4	block	block		nn									NN	pobj	2
+5	,	,											,	punct	10
+6	the	the		dt	art								DT	det	8
+7	test	test	nn+npremod	nn			npremod						NN	compound	8
+8	participants	participant		nn	pl	nom							NNS	nsubjpass	10
+9	were	be		vbaux									VBD	auxpass	10
+10	shown	show		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	10
+11	their	their		dt	poss								PRP$	poss	14
+12	mean	mean	attr+npremod	jj	attr								JJ	amod	14
+13	response	response	nn+npremod	nn			npremod						NN	compound	14
+14	time	time		nn									NN	dobj	10
+15	and	and		cc	phrs								CC	cc	14
+16	error	error	nn+npremod	nn		nom	npremod						NN	compound	17
+17	count	count		nn									NN	conj	14
+18	of	of	of+npostmod	in	nmod								IN	prep	14
+19	the	the		dt	art								DT	det	21
+20	previous	previous	attr+npremod	jj	attr								JJ	amod	21
+21	block	block		nn									NN	pobj	18
+22	on	on	in+npostmod	in	nmod								IN	prep	21
+23	the	the		dt	art								DT	det	25
+24	2	2											CD	nummod	25
+25	televisions	television		nn	pl								NNS	pobj	22
+26	in	in	in+npostmod	in	nmod								IN	prep	25
+27	the	the		dt	art								DT	det	28
+28	front	front		nn									NN	pobj	26
+29	of	of	of+npostmod	in	nmod								IN	prep	28
+30	the	the		dt	art								DT	det	31
+31	room	room		nn									NN	pobj	29
+32	.	.											.	punct	10
+
+#sentid = 81
+0													_SP	dep	4
+1	The	the		dt	art								DT	det	2
+2	speedometers	speedometer		nn	pl	nom							NNS	nsubjpass	4
+3	were	be		vbaux									VBD	auxpass	4
+4	grouped	group		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	4
+5	into	into	in+advl	in	advl								IN	prep	4
+6	2	2											CD	nummod	7
+7	groups	group		nn	pl								NNS	pobj	5
+8	.	.											.	punct	4
+
+#sentid = 82
+0	Speedometers	speedometer		nn	pl	nom							NNS	nsubj	4
+1	1	1											CD	nummod	0
+2	and	and		cc	phrs								CC	cc	0
+3	2	2											CD	conj	0
+4	were	be		vbmain	be	past	simple	active					VBD	ROOT	4
+5	group	group	nn+npremod	nn			npremod						NN	compound	6
+6	A	a		nn									NN	attr	4
+7	and	and		cc	cls								CC	cc	4
+8	speedometers	speedometer		nn	pl	nom							NNS	nsubj	12
+9	3	3											CD	nummod	8
+10	and	and		cc	phrs								CC	cc	8
+11	4	4											CD	conj	8
+12	were	be		vbmain	be	past	simple	active					VBD	conj	4
+13	group	group		nn			npremod						NN	compound	14
+14	B.	b.											.	attr	12
+
+#sentid = 83
+0	Only	only		rb	othr	ly							RB	advmod	1
+1	one	one											CD	nummod	2
+2	group	group		nn									NN	nsubjpass	4
+3	was	be		vbaux									VBD	auxpass	4
+4	shown	show		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	4
+5	per	per	in+advl	in	advl								IN	prep	4
+6	block	block		nn									NN	pobj	5
+7	of	of	of+npostmod	in	nmod								IN	prep	6
+8	trials	trial		nn	pl	nom							NNS	pobj	7
+9	.	.											.	punct	4
+
+#sentid = 84
+0	Within	within	in+advl	in	advl								IN	prep	19
+1	each	each		dt									DT	det	2
+2	block	block		nn									NN	pobj	0
+3	,	,											,	punct	19
+4	the	the		dt	art								DT	det	6
+5	2	2											CD	nummod	6
+6	speedometers	speedometer		nn	pl	nom							NNS	nsubj	19
+7	of	of	of+npostmod	in	nmod								IN	prep	6
+8	the	the		dt	art								DT	det	9
+9	group	group		nn									NN	pobj	7
+10	as	as		rb	othr								RB	advmod	12
+11	well	well		rb	othr								RB	advmod	12
+12	as	as		cc	phrs								IN	cc	6
+13	the	the		dt	art								DT	det	14
+14	reading	reading		nn		nom							NN	conj	6
+15	on	on	in+npostmod	in	nmod								IN	prep	14
+16	them	they		pro	pl								PRP	pobj	15
+17	would	would		vbaux	mod	prd							MD	aux	19
+18	randomly	randomly	rb+advl	rb	advl	ly	splaux						RB	advmod	19
+19	change	change		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	19
+20	from	from	in+advl	in	advl								IN	prep	19
+21	trial	trial		nn		nom							NN	pobj	20
+22	to	to		in	in_othr								IN	prep	20
+23	trial	trial		nn		nom							NN	pobj	22
+24	.	.											.	punct	19
+
+#sentid = 85
+0	Table	table		nn									NN	nsubj	2
+1	2	2											CD	nummod	0
+2	displays	display		vbmain	vblex	pres	simple	active					VBZ	ROOT	2
+3	each	each		dt									DT	det	4
+4	block	block		nn									NN	dobj	2
+5	with	with	in+npostmod	in	nmod								IN	prep	4
+6	its	its		dt	poss								PRP$	poss	8
+7	respective	respective	attr+npremod	jj	attr								JJ	amod	8
+8	parameters	parameter		nn	pl	nom							NNS	pobj	5
+9	.	.											.	punct	2
+
+#sentid = 86
+0													_SP	dep	1
+1	Table	table		nn									NN	dep	15
+2	2	2											CD	nummod	1
+3	.	.											.	punct	1
+4	Individual	individual	attr+npremod	jj	attr								JJ	amod	6
+5	Block	block	nn+npremod	nn			npremod						NN	compound	6
+6	Descriptions	description		nn	pl	nom	nappos						NNS	appos	1
+7													_SP	dep	1
+8	*	*											NFP	punct	15
+9	The	the		dt	art								DT	det	11
+10	first	first	attr+npremod	jj	attr								JJ	amod	11
+11	trial	trial		nn		nom							NN	nsubj	15
+12	of	of	of+npostmod	in	nmod								IN	prep	11
+13	block	block		nn									NN	pobj	12
+14	5	5											CD	nummod	13
+15	had	have		vbmain	vblex	past	simple	active					VBD	ROOT	15
+16	an	an		dt									DT	det	17
+17	error	error		nn		nom							NN	dobj	15
+18	and	and		cc	phrs								CC	cc	15
+19	was	be		vbaux									VBD	auxpass	20
+20	considered	consider		vbmain	vblex	past	simple	pasv_agls					VBN	conj	15
+21	junk	junk		nn									NN	oprd	20
+22	.	.											.	punct	15
+
+#sentid = 87
+0	This	this		pro	dem	sg							DT	nsubj	1
+1	means	mean		vbmain	vblex	pres	simple	active					VBZ	ROOT	1
+2	that	that		comp	comp_that								IN	mark	4
+3	there	there											EX	expl	4
+4	were	be	thatcls+vcomp	vbmain	be	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	1
+5	only	only		rb	othr	ly							RB	advmod	6
+6	31	31											CD	nummod	8
+7	legitimate	legitimate	attr+npremod	jj	attr								JJ	amod	8
+8	trials	trial		nn	pl	nom							NNS	attr	4
+9	in	in	in+npostmod	in	nmod								IN	prep	8
+10	block	block		nn									NN	pobj	9
+11	5	5											CD	nummod	10
+12	.	.											.	punct	1
+
+#sentid = 88
+0													_SP	dep	8
+1	The	the		dt	art								DT	det	3
+2	first	first	attr+npremod	jj	attr								JJ	amod	3
+3	step	step		nn									NN	nsubj	8
+4	in	in	in+npostmod	in	nmod								IN	prep	3
+5	analyzing	analyze	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	4
+6	the	the		dt	art								DT	det	7
+7	data	data		nn									NN	dobj	5
+8	was	be		vbmain	be	past	simple	active					VBD	ROOT	8
+9	look	look		vbmain	prepv	nonfinite	simple	active	compcls		vcomp	compdel	VB	xcomp	8
+10	at	at	in+advl	in	advl								IN	prep	9
+11	the	the		dt	art								DT	det	13
+12	summary	summary	nn+npremod	nn		nom	npremod						NN	compound	13
+13	data	datum		nn	pl								NNS	pobj	10
+14	of	of	of+npostmod	in	nmod								IN	prep	13
+15	each	each		dt									DT	det	16
+16	block	block		nn									NN	pobj	14
+17	with	with	in+npostmod	in	nmod								IN	prep	13
+18	respect	respect		nn									NN	pobj	17
+19	to	to	in+npostmod	in	nmod								IN	prep	18
+20	each	each		dt									DT	det	21
+21	speedometer	speedometer		nn		nom							NN	pobj	19
+22	.	.											.	punct	8
+
+#sentid = 89
+0	Table	table		nn									NN	nsubj	2
+1	3	3											CD	nummod	0
+2	displays	display		vbmain	vblex	pres	simple	active					VBZ	ROOT	2
+3	each	each		dt									DT	det	4
+4	speedometer	speedometer	s+gen	dt	poss	nom	sgen						NN	poss	8
+5	's	's											POS	case	4
+6	average	average	attr+npremod	jj	attr								JJ	amod	8
+7	response	response	nn+npremod	nn			npremod						NN	compound	8
+8	time	time		nn									NN	dobj	2
+9	for	for	in+npostmod	in	nmod								IN	prep	8
+10	each	each		dt									DT	det	11
+11	block	block		nn									NN	pobj	9
+12	in	in	in+advl	in	advl								IN	prep	17
+13	which	which											WDT	pobj	12
+14	the	the		dt	art								DT	det	15
+15	speedometer	speedometer		nn		nom							NN	nsubjpass	17
+16	was	be		vbaux									VBD	auxpass	17
+17	shown	show	finitecls+rel	vbmain	vblex	past	simple	pasv_agls	nmod_cls		rel	reldel	VBN	relcl	11
+18	.	.											.	punct	2
+
+#sentid = 90
+0													_SP	dep	1
+1	Table	table		nn									NN	ROOT	1
+2	3	3											CD	nummod	1
+3	.	.											.	punct	1
+4	Average	average	attr+npremod	jj	attr								JJ	amod	6
+5	Response	response	nn+npremod	nn			npremod						NN	compound	6
+6	Time	time		nn			nappos						NN	appos	1
+7	(	(											-LRB-	punct	6
+8	s	s	appos+npostmod	nn			nappos						NN	appos	6
+9	)	)											-RRB-	punct	6
+10	for	for	in+npostmod	in	nmod								IN	prep	6
+11	Each	each		dt									DT	det	12
+12	Speedometer	speedometer		nn		nom							NN	pobj	10
+13	in	in	in+npostmod	in	nmod								IN	prep	12
+14	Each	each		dt									DT	det	15
+15	Block	block		nn									NN	pobj	13
+16													_SP	dep	1
+
+#sentid = 91
+0	Table	table		nn									NN	nsubj	2
+1	4	4											CD	nummod	0
+2	displays	display		vbmain	vblex	pres	simple	active					VBZ	ROOT	2
+3	the	the		dt	art								DT	det	7
+4	average	average	attr+npremod	jj	attr								JJ	amod	7
+5	error	error	nn+npremod	nn		nom	npremod						NN	compound	6
+6	percentage	percentage	nn+npremod	nn		nom	npremod						NN	compound	7
+7	rate	rate		nn		nom							NN	dobj	2
+8	and	and		cc	phrs								CC	cc	7
+9	average	average	attr+npremod	jj	attr								JJ	amod	12
+10	miss	miss	nn+npremod	nn			npremod						NN	compound	11
+11	percentage	percentage	nn+npremod	nn		nom	npremod						NN	compound	12
+12	rate	rate		nn		nom							NN	conj	7
+13	for	for	in+npostmod	in	nmod								IN	prep	7
+14	each	each		dt									DT	det	15
+15	speedometer	speedometer		nn		nom							NN	pobj	13
+16	.	.											.	punct	2
+
+#sentid = 92
+0													_SP	dep	1
+1	Table	table		nn									NN	ROOT	1
+2	4	4											CD	nummod	1
+3	.	.											.	punct	1
+4	Average	average	attr+npremod	jj	attr								JJ	amod	9
+5	Error	error	nn+npremod	nn		nom	npremod						NN	nmod	8
+6	and	and		cc	phrs								CC	cc	5
+7	Miss	miss		nn									NN	conj	5
+8	Percentage	percentage	nn+npremod	nn		nom	npremod						NN	compound	9
+9	Rates	rate		nn	pl	nom	nappos						NNS	appos	1
+10													_SP	dep	1
+
+#sentid = 93
+0	Comparing	compare	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	16
+1	blocks	block		nn	pl								NNS	pobj	0
+2	3	3											CD	nummod	1
+3	and	and		cc	phrs								CC	cc	1
+4	5	5											CD	conj	1
+5	(	(											-LRB-	punct	1
+6	the	the		dt	art								DT	det	7
+7	blocks	block	appos+npostmod	nn	pl		nappos						NNS	appos	1
+8	with	with	in+npostmod	in	nmod								IN	prep	7
+9	prolonged	prolonged	attr+npremod	jj	attr								JJ	amod	12
+10	speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	11
+11	exposure	exposure	nn+npremod	nn		nom	npremod						NN	compound	12
+12	duration	duration		nn		nom							NN	pobj	8
+13	)	)											,	punct	1
+14	,	,											,	punct	16
+15	patterns	pattern		nn	pl								NNS	nsubj	16
+16	become	become		vbmain	vblex	pres	simple	active					VBP	ROOT	16
+17	apparent	apparent		jj	pred								JJ	acomp	16
+18	.	.											.	punct	16
+
+#sentid = 94
+0	Speedometer	speedometer		nn		proper							NNP	nsubj	2
+1	2	2											CD	nummod	0
+2	had	have		vbmain	vblex	past	simple	active					VBD	ROOT	2
+3	the	the		dt	art								DT	det	7
+4	lowest	low	attr+npremod	jj	attr								JJS	amod	7
+5	average	average	attr+npremod	jj	attr								JJ	amod	7
+6	response	response	nn+npremod	nn			npremod						NN	compound	7
+7	time	time		nn									NN	dobj	2
+8	and	and		cc	phrs								CC	cc	7
+9	the	the		dt	art								DT	det	15
+10	lowest	low	attr+npremod	jj	attr								JJS	amod	15
+11	error	error	nn+npremod	nn		nom	npremod						NN	nmod	14
+12	and	and		cc	phrs								CC	cc	11
+13	miss	miss		nn									NN	conj	11
+14	percentage	percentage	nn+npremod	nn		nom	npremod						NN	compound	15
+15	rates	rate		nn	pl	nom							NNS	conj	7
+16	.	.											.	punct	2
+
+#sentid = 95
+0	Speedometer	speedometer		nn		nom							NN	nsubj	2
+1	1	1											CD	nummod	0
+2	was	be		vbmain	be	past	simple	active					VBD	ROOT	2
+3	very	very	rb+jjrbmod	rb	adjmod								RB	advmod	4
+4	close	close		jj	pred								JJ	acomp	2
+5	in	in	in+jcomp	in	jcomp								IN	prep	4
+6	average	average	attr+npremod	jj	attr								JJ	amod	8
+7	response	response	nn+npremod	nn			npremod						NN	compound	8
+8	time	time		nn									NN	pobj	5
+9	,	,											,	punct	4
+10	but	but		cc	phrs								CC	cc	4
+11	not	not											RB	neg	13
+12	as	as		rb	othr								RB	advmod	13
+13	close	close											JJ	conj	4
+14	in	in	in+jcomp	in	jcomp								IN	prep	13
+15	error	error	nn+npremod	nn		nom	npremod						NN	compound	16
+16	rate	rate		nn		nom							NN	pobj	14
+17	.	.											.	punct	2
+
+#sentid = 96
+0	Speedometers	speedometer		nn	pl	nom							NNS	nsubj	4
+1	3	3											CD	nummod	0
+2	and	and		cc	phrs								CC	cc	0
+3	4	4											CD	conj	0
+4	seem	seem		vbmain	vblex	pres	simple	active					VBP	ROOT	4
+5	to	to		to									TO	aux	7
+6	be	be		vbaux									VB	auxpass	7
+7	stratified	stratify		vbmain	vblex	nonfinite	simple	pasv_agls	compcls		vcomp	compdel	VBN	xcomp	4
+8	from	from	in+advl	in	advl								IN	prep	7
+9	speedometers	speedometer		nn	pl	nom							NNS	pobj	8
+10	1	1											CD	nummod	9
+11	and	and		cc	phrs								CC	cc	9
+12	2	2											CD	conj	9
+13	in	in	in+advl	in	advl								IN	prep	7
+14	response	response	nn+npremod	nn			npremod						NN	compound	15
+15	time	time		nn									NN	pobj	13
+16	.	.											.	punct	4
+
+#sentid = 97
+0	One	one											CD	nummod	2
+1	possible	possible	attr+npremod	jj	attr								JJ	amod	2
+2	explanation	explanation		nn		nom							NN	nsubj	7
+3	for	for	in+npostmod	in	nmod								IN	prep	2
+4	these	these		dt	dt_dem								DT	det	5
+5	differences	difference		nn	pl	nom							NNS	pobj	3
+6	can	can		vbaux	mod	pos							MD	aux	7
+7	be	be		vbmain	be	vp_w_modal	simple	active					VB	ROOT	7
+8	in	in	in+advl	in	advl								IN	prep	7
+9	the	the		dt	art								DT	det	11
+10	overall	overall	attr+npremod	jj	attr								JJ	amod	11
+11	size	size		nn									NN	pobj	8
+12	of	of	of+npostmod	in	nmod								IN	prep	11
+13	speedometers	speedometer		nn	pl	nom							NNS	pobj	12
+14	1	1											CD	nummod	13
+15	and	and		cc	phrs								CC	cc	13
+16	2	2											CD	conj	13
+17	versus	versus	in+npostmod	in	nmod								IN	prep	11
+18	3	3											CD	pobj	17
+19	and	and		cc									CC	cc	18
+20	4	4											CD	conj	18
+21	.	.											.	punct	7
+
+#sentid = 98
+0	Speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	1
+1	set	set	nn+npremod	nn			npremod						NN	compound	2
+2	A	a		nn									NN	nsubj	3
+3	averaged	average		vbmain	vblex	past	simple	active					VBD	ROOT	3
+4	much	much	rb+jjrbmod	rb	adjmod								RB	advmod	5
+5	larger	large	attr+npremod	jj	attr								JJR	amod	7
+6	character	character	nn+npremod	nn		nom	npremod						NN	compound	7
+7	strokewidth	strokewidth		nn									NN	dobj	3
+8	,	,											,	punct	7
+9	character	character	nn+npremod	nn		nom	npremod						NN	compound	10
+10	height	height		nn									NN	conj	7
+11	,	,											,	punct	10
+12	and	and		cc	phrs								CC	cc	10
+13	speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	14
+14	radius	radius		nn									NN	conj	10
+15	than	than	in+npostmod	in	nmod								IN	prep	7
+16	speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	17
+17	set	set	nn+npremod	nn			npremod						NN	compound	18
+18	B	b		nn									NN	pobj	15
+19	,	,											,	punct	3
+20	accounting	account	ingcls+advl	vbmain	prepv	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	3
+21	for	for	in+advl	in	advl								IN	prep	20
+22	the	the		dt	art								DT	det	24
+23	large	large	attr+npremod	jj	attr								JJ	amod	24
+24	difference	difference		nn		nom							NN	pobj	21
+25	in	in	in+npostmod	in	nmod								IN	prep	24
+26	task	task	nn+npremod	nn			npremod						NN	compound	27
+27	performances	performance		nn	pl	nom							NNS	pobj	25
+28	.	.											.	punct	3
+
+#sentid = 99
+0													_SP	dep	18
+1	Comparing	compare		vbmain	advl	nonfinite	simple	active		ingcls			VBG	prep	18
+2	blocks	block		nn	pl								NNS	pobj	1
+3	4	4											CD	nummod	2
+4	and	and		cc	phrs								CC	cc	2
+5	6	6											CD	conj	2
+6	(	(											-LRB-	punct	2
+7	the	the		dt	art								DT	det	8
+8	blocks	block	appos+npostmod	nn	pl		nappos						NNS	appos	2
+9	with	with	in+npostmod	in	nmod								IN	prep	8
+10	shortened	shorten	attr+npremod	jj	attr	ed							VBN	amod	13
+11	speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	12
+12	exposure	exposure	nn+npremod	nn		nom	npremod						NN	compound	13
+13	duration	duration		nn		nom							NN	pobj	9
+14	)	)											,	punct	2
+15	,	,											,	punct	18
+16	similar	similar	attr+npremod	jj	attr								JJ	amod	17
+17	patterns	pattern		nn	pl								NNS	nsubj	18
+18	become	become		vbmain	vblex	pres	simple	active					VBP	ROOT	18
+19	apparent	apparent		jj	pred								JJ	acomp	18
+20	.	.											.	punct	18
+
+#sentid = 100
+0	Overall	overall	rb+advl	rb	advl								RB	advmod	8
+1	,	,											,	punct	8
+2	the	the		dt	art								DT	det	5
+3	average	average	attr+npremod	jj	attr								JJ	amod	5
+4	response	response	nn+npremod	nn			npremod						NN	compound	5
+5	times	time		nn	pl								NNS	nsubjpass	8
+6	were	be		vbaux									VBD	auxpass	8
+7	all	all											DT	dep	8
+8	reduced	reduce		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	8
+9	from	from	in+advl	in	advl								IN	prep	8
+10	blocks	block		nn	pl								NNS	pobj	9
+11	3	3											CD	nummod	10
+12	and	and		cc	phrs								CC	cc	10
+13	5	5											CD	conj	10
+14	.	.											.	punct	8
+
+#sentid = 101
+0	Also	also	rb+advl	rb	advl								RB	advmod	13
+1	,	,											,	punct	13
+2	as	as	in+advl	in	advl								RB	prep	13
+3	with	with		in	in_othr								IN	prep	2
+4	blocks	block		nn	pl								NNS	pobj	3
+5	3	3											CD	nummod	4
+6	and	and		cc	phrs								CC	cc	4
+7	5	5											CD	conj	4
+8	,	,											,	punct	13
+9	speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	11
+10	set	set	nn+npremod	nn			npremod						NN	compound	11
+11	A	a		nn									NN	nsubjpass	13
+12	is	be		vbaux									VBZ	auxpass	13
+13	stratified	stratify		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	13
+14	from	from	in+advl	in	advl								IN	prep	13
+15	speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	17
+16	set	set	nn+npremod	nn			npremod						NN	compound	17
+17	B	b		nn									NN	pobj	14
+18	in	in		cs	cs_othr								IN	mark	21
+19	that	that		cs	cs_othr								IN	mark	21
+20	it	it		pro	3rd	sg							PRP	nsubj	21
+21	has	have	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		other_advl		VBZ	advcl	13
+22	much	much	rb+jjrbmod	rb	adjmod								RB	advmod	23
+23	lower	low	attr+npremod	jj	attr								JJR	amod	26
+24	average	average	attr+npremod	jj	attr								JJ	amod	26
+25	response	response	nn+npremod	nn			npremod						NN	compound	26
+26	times	time		nn	pl								NNS	dobj	21
+27	.	.											.	punct	13
+
+#sentid = 102
+0	Overall	overall	rb+advl	rb	advl								RB	advmod	8
+1	,	,											,	punct	8
+2	average	average	attr+npremod	jj	attr								JJ	amod	7
+3	error	error	nn+npremod	nn		nom	npremod						NN	nmod	7
+4	and	and		cc	phrs								CC	cc	3
+5	miss	miss		nn									NN	conj	3
+6	percentage	percentage	nn+npremod	nn		nom	npremod						NN	compound	7
+7	rates	rate		nn	pl	nom							NNS	nsubj	8
+8	were	be		vbmain	be	past	simple	active					VBD	ROOT	8
+9	much	much	rb+jjrbmod	rb	adjmod								RB	advmod	10
+10	higher	high		jj	pred								JJR	acomp	8
+11	than	than	in+comparative	in	jcomp								IN	prep	10
+12	in	in		in	in_othr								IN	prep	11
+13	blocks	block		nn	pl								NNS	pobj	12
+14	3	3											CD	nummod	13
+15	and	and		cc	phrs								CC	cc	13
+16	5	5											CD	conj	13
+17	due	due	in+advl	in	advl								IN	prep	8
+18	to	to											IN	pcomp	17
+19	the	the		dt	art								DT	det	22
+20	shortened	shorten	attr+npremod	jj	attr	ed							VBN	amod	22
+21	exposure	exposure	nn+npremod	nn		nom	npremod						NN	compound	22
+22	time	time		nn									NN	pobj	17
+23	for	for	in+npostmod	in	nmod								IN	prep	22
+24	the	the		dt	art								DT	det	25
+25	blocks	block		nn	pl								NNS	pobj	23
+26	.	.											.	punct	8
+
+#sentid = 103
+0	This	this		pro	dem	sg							DT	nsubj	1
+1	shows	show		vbmain	vblex	pres	simple	active					VBZ	ROOT	1
+2	that	that		comp	comp_that								IN	mark	13
+3	as	as		cs	cs_othr								IN	mark	6
+4	response	response	nn+npremod	nn			npremod						NN	compound	5
+5	time	time		nn									NN	nsubj	6
+6	decreased	decrease	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		other_advl		VBD	advcl	13
+7	,	,											,	punct	13
+8	error	error	nn+npremod	nn		nom	npremod						NN	nmod	12
+9	and	and		cc	phrs								CC	cc	8
+10	miss	miss		nn									NN	conj	8
+11	percentage	percentage	nn+npremod	nn		nom	npremod						NN	compound	12
+12	rate	rate		nn		nom							NN	nsubj	13
+13	increased	increase	thatcls+vcomp	vbmain	vblex	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	1
+14	.	.											.	punct	1
+
+#sentid = 104
+0	The	the		dt	art								DT	det	2
+1	error	error	nn+npremod	nn		nom	npremod						NN	compound	2
+2	rates	rate		nn	pl	nom							NNS	nsubj	7
+3	for	for	in+npostmod	in	nmod								IN	prep	2
+4	all	all											PDT	predet	6
+5	the	the		dt	art								DT	det	6
+6	speedometers	speedometer		nn	pl	nom							NNS	pobj	3
+7	were	be		vbmain	be	past	simple	active	compcls		vcomp	compdel	VBD	ccomp	21
+8	about	about	rb+jjrbmod	rb	adjmod								RB	advmod	9
+9	equal	equal		jj	pred								JJ	acomp	7
+10	,	,											,	punct	21
+11	however	however		rb	link								RB	advmod	21
+12	,	,											,	punct	21
+13	the	the		dt	art								DT	det	17
+14	average	average	attr+npremod	jj	attr								JJ	amod	17
+15	miss	miss	nn+npremod	nn			npremod						NN	compound	16
+16	percentage	percentage	nn+npremod	nn		nom	npremod						NN	compound	17
+17	rates	rate		nn	pl	nom							NNS	nsubj	21
+18	for	for	in+npostmod	in	nmod								IN	prep	17
+19	set	set	nn+npremod	nn			npremod						NN	compound	20
+20	B	b		nn									NN	pobj	18
+21	were	be		vbmain	be	past	simple	active					VBD	ROOT	21
+22	double	double											PDT	predet	23
+23	that	that											DT	attr	21
+24	of	of		in	in_othr								IN	prep	23
+25	set	set		nn			npremod						NN	compound	26
+26	A.	a.											.	pobj	24
+
+#sentid = 105
+0	This	this		pro	dem	sg							DT	nsubjpass	4
+1	can	can		vbaux	mod	pos							MD	aux	4
+2	also	also	rb+advl	rb	advl		splaux						RB	advmod	4
+3	be	be		vbaux									VB	auxpass	4
+4	attributed	attribute		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	4
+5	to	to	in+advl	in	advl								IN	prep	4
+6	the	the		dt	art								DT	det	9
+7	overall	overall	attr+npremod	jj	attr								JJ	amod	9
+8	size	size	nn+npremod	nn			npremod						NN	compound	9
+9	difference	difference		nn		nom							NN	pobj	5
+10	of	of	of+npostmod	in	nmod								IN	prep	9
+11	the	the		dt	art								DT	det	13
+12	speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	13
+13	parameters	parameter		nn	pl	nom							NNS	pobj	10
+14	.	.											.	punct	4
+
+#sentid = 106
+0													_SP	dep	19
+1	When	when		rb	advl								WRB	advmod	5
+2	the	the		dt	art								DT	det	4
+3	task	task	nn+npremod	nn			npremod						NN	compound	4
+4	condition	condition		nn		nom							NN	nsubj	5
+5	changed	change	finitecls+advl	vbmain	vblex	past	simple	active	advlcls	whcls			VBD	advcl	19
+6	to	to	in+advl	in	advl								IN	prep	5
+7	whether	whether		cs	cs_othr								IN	mark	14
+8	or	or		cc	phrs								CC	cc	14
+9	not	not											RB	neg	14
+10	the	the		dt	art								DT	det	11
+11	car	car		nn									NN	nsubj	14
+12	was	be		vbaux									VBD	aux	14
+13	"	"											``	punct	14
+14	speeding	speed		vbmain	vblex	past	prog	active	compcls		other_advl	compdel	VBG	pcomp	6
+15	"	"											''	punct	14
+16	,	,											,	punct	19
+17	the	the		dt	art								DT	det	18
+18	patterns	pattern		nn	pl								NNS	nsubj	19
+19	remained	remain		vbmain	vblex	past	simple	active					VBD	ROOT	19
+20	the	the		dt	art								DT	det	21
+21	same	same											JJ	attr	19
+22	.	.											.	punct	19
+
+#sentid = 107
+0	Speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	2
+1	set	set	nn+npremod	nn			npremod						NN	compound	2
+2	A	a		nn									NN	nsubj	3
+3	had	have		vbmain	vblex	past	simple	active					VBD	ROOT	3
+4	lower	low	attr+npremod	jj	attr								JJR	amod	7
+5	average	average	attr+npremod	jj	attr								JJ	amod	7
+6	response	response	nn+npremod	nn			npremod						NN	compound	7
+7	times	time		nn	pl								NNS	dobj	3
+8	than	than	in+npostmod	in	nmod								IN	prep	7
+9	set	set	attr+npremod	jj	attr	ed							VBN	amod	10
+10	B	b		nn									NN	pobj	8
+11	,	,											,	punct	7
+12	as	as		rb	othr								RB	advmod	14
+13	well	well		rb	othr								RB	advmod	14
+14	as	as		cc	phrs								IN	cc	7
+15	having	have		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	conj	7
+16	lower	low	attr+npremod	jj	attr								JJR	amod	20
+17	average	average	attr+npremod	jj	attr								JJ	amod	20
+18	error	error	nn+npremod	nn		nom	npremod						NN	compound	19
+19	rate	rate	nn+npremod	nn		nom	npremod						NN	compound	20
+20	percentages	percentage		nn	pl	nom							NNS	dobj	15
+21	.	.											.	punct	3
+
+#sentid = 108
+0	Overall	overall	attr+npremod	jj	attr								JJ	amod	3
+1	speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	3
+2	response	response	nn+npremod	nn			npremod						NN	compound	3
+3	times	time		nn	pl								NNS	nsubj	13
+4	as	as		rb	othr								RB	advmod	6
+5	well	well		rb	othr								RB	advmod	6
+6	as	as		cc	phrs								IN	cc	3
+7	error	error	nn+npremod	nn		nom	npremod						NN	nmod	10
+8	and	and		cc	phrs								CC	cc	7
+9	miss	miss		nn									NN	conj	7
+10	percentage	percentage	nn+npremod	nn		nom	npremod						NN	compound	11
+11	rates	rate		nn	pl	nom							NNS	conj	3
+12	did	do		vbaux									VBD	aux	13
+13	decrease	decrease		vbmain	vblex	past	simple	active					VB	ROOT	13
+14	due	due	in+advl	in	advl								IN	prep	13
+15	to	to											IN	pcomp	14
+16	the	the		dt	art								DT	det	18
+17	lower	low	attr+npremod	jj	attr								JJR	amod	18
+18	number	number		nn		nom							NN	pobj	14
+19	of	of	of+npostmod	in	nmod								IN	prep	18
+20	response	response	nn+npremod	nn			npremod						NN	compound	21
+21	choices	choice		nn	pl								NNS	pobj	19
+22	.	.											.	punct	13
+
+#sentid = 109
+0													_SP	dep	17
+1	The	the		dt	art								DT	det	4
+2	overall	overall	attr+npremod	jj	attr								JJ	amod	4
+3	size	size	nn+npremod	nn			npremod						NN	compound	4
+4	increase	increase		nn									NN	nsubj	17
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	many	many	attr+npremod	jj	attr								JJ	amod	9
+7	speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	9
+8	design	design	nn+npremod	nn			npremod						NN	compound	9
+9	parameters	parameter		nn	pl	nom							NNS	pobj	5
+10	between	between	in+npostmod	in	nmod								IN	prep	4
+11	speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	13
+12	set	set	nn+npremod	nn			npremod						NN	compound	13
+13	A	a		nn									NN	pobj	10
+14	to	to	in+npostmod	in	nmod								IN	prep	13
+15	set	set	nn+npremod	nn			npremod						NN	compound	16
+16	B	b		nn									NN	pobj	14
+17	seem	seem		vbmain	vblex	pres	simple	active					VBP	ROOT	17
+18	to	to		to									TO	aux	20
+19	have	have		vbaux									VB	aux	20
+20	accounted	account		vbmain	prepv	nonfinite	perf	active	compcls		vcomp	compdel	VBN	xcomp	17
+21	for	for	in+advl	in	advl								IN	prep	20
+22	the	the		dt	art								DT	det	27
+23	overall	overall	attr+npremod	jj	attr								JJ	amod	27
+24	lower	low	attr+npremod	jj	attr								JJR	amod	27
+25	average	average	attr+npremod	jj	attr								JJ	amod	27
+26	response	response	nn+npremod	nn			npremod						NN	compound	27
+27	times	time		nn	pl								NNS	pobj	21
+28	and	and		cc	phrs								CC	cc	27
+29	lower	low	attr+npremod	jj	attr								JJR	amod	35
+30	average	average	attr+npremod	jj	attr								JJ	amod	35
+31	error	error	nn+npremod	nn		nom	npremod						NN	nmod	35
+32	and	and		cc	phrs								CC	cc	31
+33	miss	miss		nn									NN	conj	31
+34	percentage	percentage	nn+npremod	nn		nom	npremod						NN	compound	35
+35	rates	rate		nn	pl	nom							NNS	conj	27
+36	.	.											.	punct	17
+
+#sentid = 110
+0	However	however		rb	link								RB	advmod	20
+1	,	,											,	punct	20
+2	other	other	attr+npremod	jj	attr								JJ	amod	4
+3	design	design	nn+npremod	nn			npremod						NN	compound	4
+4	differences	difference		nn	pl	nom							NNS	nsubj	20
+5	,	,											,	punct	4
+6	such	such		jj	attr								JJ	amod	7
+7	as	as	in+npostmod	in	nmod								IN	prep	4
+8	location	location		nn		nom							NN	pobj	7
+9	of	of	of+npostmod	in	nmod								IN	prep	8
+10	the	the		dt	art								DT	det	11
+11	speedometer	speedometer		nn		nom							NN	pobj	9
+12	on	on	in+npostmod	in	nmod								IN	prep	8
+13	the	the		dt	art								DT	det	16
+14	instrument	instrument	nn+npremod	nn		nom	npremod						NN	compound	16
+15	display	display	nn+npremod	nn			npremod						NN	compound	16
+16	panel	panel		nn									NN	pobj	12
+17	,	,											,	punct	4
+18	did	do		vbaux									VBD	aux	20
+19	not	not											RB	neg	20
+20	have	have		vbmain	vblex	past	simple	active					VB	ROOT	20
+21	such	such	attr+npremod	jj	attr								JJ	amod	23
+22	influential	influential	attr+npremod	jj	attr								JJ	amod	23
+23	effects	effect		nn	pl								NNS	dobj	20
+24	on	on	in+npostmod	in	nmod								IN	prep	23
+25	the	the		dt	art								DT	det	26
+26	data	data		nn									NN	pobj	24
+27	.	.											.	punct	20
+
+#sentid = 111
+0	Comparing	compare	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	27
+1	speedometers	speedometer		nn	pl	nom							NNS	dobj	0
+2	1	1											CD	nummod	1
+3	and	and		cc	phrs								CC	cc	1
+4	4	4											CD	conj	1
+5	(	(											-LRB-	punct	1
+6	speedometer	speedometer	appos+npostmod	nn		nom	nappos						NN	appos	1
+7	on	on	in+npostmod	in	nmod								IN	prep	6
+8	left	left	attr+npremod	jj	attr								JJ	amod	9
+9	side	side		nn									NN	pobj	7
+10	)	)											-RRB-	punct	1
+11	to	to	in+advl	in	advl								IN	prep	0
+12	speedometers	speedometer		nn	pl	nom							NNS	pobj	11
+13	2	2											CD	nummod	12
+14	and	and		cc	phrs								CC	cc	12
+15	3	3											CD	nummod	12
+16	(	(											-LRB-	punct	12
+17	speedometer	speedometer	appos+npostmod	nn		nom	nappos						NN	appos	12
+18	on	on	in+npostmod	in	nmod								IN	prep	17
+19	right	right	attr+npremod	jj	attr								JJ	amod	20
+20	side	side		nn									NN	pobj	18
+21	)	)											-RRB-	punct	12
+22	only	only		rb	othr	ly							RB	advmod	23
+23	one	one											CD	nummod	25
+24	small	small	attr+npremod	jj	attr								JJ	amod	25
+25	pattern	pattern		nn									NN	nsubjpass	27
+26	was	be		vbaux									VBD	auxpass	27
+27	seen	see		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	27
+28	.	.											.	punct	27
+
+#sentid = 112
+0	Speedometers	speedometer		nn	pl	nom							NNS	nsubj	4
+1	2	2											CD	nummod	0
+2	and	and		cc	phrs								CC	cc	0
+3	3	3											CD	conj	0
+4	had	have		vbmain	vblex	past	simple	active					VBD	ROOT	4
+5	,	,											,	punct	4
+6	compared	compare	edcls+advl	vbmain	advl	nonfinite	simple	active		edcls			VBN	prep	4
+7	to	to	in+advl	in	advl								IN	prep	6
+8	their	their		dt	poss								PRP$	poss	11
+9	respective	respective		jj	attr								JJ	amod	11
+10	speedometer	speedometer		nn		nom	npremod						NN	compound	11
+11	set	set		vbmain	vblex	nonfinite	simple	active		edcls			VBN	pobj	7
+12	,	,											,	punct	4
+13	slightly	slightly	rb+jjrbmod	rb	adjmod	ly							RB	advmod	14
+14	lower	low	attr+npremod	jj	attr								JJR	amod	17
+15	average	average	attr+npremod	jj	attr								JJ	amod	17
+16	response	response	nn+npremod	nn			npremod						NN	compound	17
+17	times	time		nn	pl								NNS	dobj	4
+18	than	than	in+npostmod	in	nmod								IN	prep	17
+19	the	the		dt	art								DT	det	21
+20	other	other	attr+npremod	jj	attr								JJ	amod	21
+21	speedometer	speedometer		nn		nom							NN	pobj	18
+22	in	in	in+npostmod	in	nmod								IN	prep	21
+23	the	the		dt	art								DT	det	24
+24	set	set		nn									NN	pobj	22
+25	.	.											.	punct	4
+
+#sentid = 113
+0	Whether	whether		cs	cs_othr								IN	mark	12
+1	or	or		cc	phrs								CC	cc	12
+2	not	not											RB	neg	12
+3	this	this		dt	dt_dem								DT	det	5
+4	small	small	attr+npremod	jj	attr								JJ	amod	5
+5	difference	difference		nn		nom							NN	nsubjpass	12
+6	in	in	in+npostmod	in	nmod								IN	prep	5
+7	average	average	attr+npremod	jj	attr								JJ	amod	9
+8	response	response	nn+npremod	nn			npremod						NN	compound	9
+9	time	time		nn									NN	pobj	6
+10	can	can		vbaux	mod	pos							MD	aux	12
+11	be	be		vbaux									VB	auxpass	12
+12	attributed	attribute		vbmain	vblex	vp_w_modal	simple	pasv_agls	compcls		other_advl	compdel	VBN	csubj	24
+13	to	to	in+advl	in	advl								IN	prep	12
+14	the	the		dt	art								DT	det	15
+15	location	location		nn		nom							NN	pobj	13
+16	of	of	of+npostmod	in	nmod								IN	prep	15
+17	the	the		dt	art								DT	det	18
+18	speedometers	speedometer		nn	pl	nom							NNS	pobj	16
+19	on	on	in+npostmod	in	nmod								IN	prep	15
+20	the	the		dt	art								DT	det	23
+21	instrument	instrument	nn+npremod	nn		nom	npremod						NN	compound	22
+22	display	display	nn+npremod	nn			npremod						NN	compound	23
+23	panel	panel		nn									NN	pobj	19
+24	was	be		vbmain	be	past	simple	active					VBD	ROOT	24
+25	not	not											RB	neg	24
+26	possible	possible		jj	pred								JJ	acomp	24
+27	.	.											.	punct	24
+
+#sentid = 114
+0													_SP	dep	12
+1	Other	other	attr+npremod	jj	attr								JJ	amod	3
+2	major	major	attr+npremod	jj	attr								JJ	amod	3
+3	differences	difference		nn	pl	nom							NNS	nsubj	12
+4	in	in	in+npostmod	in	nmod								IN	prep	3
+5	design	design	nn+npremod	nn			npremod						NN	compound	6
+6	features	feature		nn	pl								NNS	pobj	4
+7	within	within	in+npostmod	in	nmod								IN	prep	3
+8	speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	9
+9	set	set	nn+npremod	nn			npremod						NN	compound	10
+10	B	b		nn									NN	pobj	7
+11	also	also	rb+advl	rb	advl								RB	advmod	12
+12	seemed	seem		vbmain	vblex	past	simple	active					VBD	ROOT	12
+13	to	to		to									TO	aux	14
+14	have	have		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	xcomp	12
+15	little	little	attr+npremod	jj	attr								JJ	amod	16
+16	effect	effect		nn									NN	dobj	14
+17	on	on	in+npostmod	in	nmod								IN	prep	16
+18	the	the		dt	art								DT	det	19
+19	data	data		nn									NN	pobj	17
+20	.	.											.	punct	12
+
+#sentid = 115
+0	Speedometer	speedometer		nn		proper							NNP	nsubj	2
+1	4	4											CD	nummod	0
+2	had	have		vbmain	vblex	past	simple	active					VBD	ROOT	2
+3	a	a		dt	art								DT	det	6
+4	different	different	attr+npremod	jj	attr								JJ	amod	6
+5	character	character	nn+npremod	nn		nom	npremod						NN	compound	6
+6	color	color		nn		nom							NN	dobj	2
+7	,	,											,	punct	6
+8	location	location		nn		nom							NN	conj	6
+9	,	,											,	punct	8
+10	numbering	numbering	nn+npremod	nn		nom	npremod						NN	compound	11
+11	scale	scale		nn									NN	conj	8
+12	and	and		cc	phrs								CC	cc	11
+13	character	character	nn+npremod	nn		nom	npremod						NN	compound	14
+14	height	height		nn									NN	conj	11
+15	than	than	in+npostmod	in	nmod								IN	prep	6
+16	speedometer	speedometer		nn		nom							NN	pobj	15
+17	3	3											CD	nummod	16
+18	.	.											.	punct	2
+
+#sentid = 116
+0	However	however		rb	link								RB	advmod	6
+1	,	,											,	punct	6
+2	the	the		dt	art								DT	det	3
+3	differences	difference		nn	pl	nom							NNS	nsubj	6
+4	did	do		vbaux									VBD	aux	6
+5	not	not											RB	neg	6
+6	produce	produce		vbmain	vblex	past	simple	active					VB	ROOT	6
+7	much	much	attr+npremod	jj	attr								JJ	amod	8
+8	stratification	stratification		nn		nom							NN	dobj	6
+9	in	in	in+advl	in	advl								IN	prep	6
+10	the	the		dt	art								DT	det	11
+11	data	data		nn									NN	pobj	9
+12	.	.											.	punct	6
+
+#sentid = 117
+0	Speedometer	speedometer		nn		proper							NNP	nsubj	2
+1	4	4											CD	nummod	0
+2	had	have		vbmain	vblex	past	simple	active					VBD	ROOT	2
+3	slightly	slightly	rb+jjrbmod	rb	adjmod	ly							RB	advmod	4
+4	lower	low	attr+npremod	jj	attr								JJR	amod	10
+5	average	average	attr+npremod	jj	attr								JJ	amod	10
+6	error	error	nn+npremod	nn		nom	npremod						NN	nmod	10
+7	and	and		cc	phrs								CC	cc	6
+8	miss	miss		nn									NN	conj	6
+9	percentage	percentage	nn+npremod	nn		nom	npremod						NN	compound	10
+10	rates	rate		nn	pl	nom							NNS	dobj	2
+11	than	than	in+npostmod	in	nmod								IN	prep	10
+12	speedometer	speedometer		nn		nom							NN	pobj	11
+13	3	3											CD	nummod	12
+14	while	while		cs	con								IN	mark	17
+15	speedometer	speedometer		nn		nom							NN	nsubj	17
+16	3	3											CD	nummod	15
+17	had	have	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		concessive		VBD	advcl	2
+18	slightly	slightly	rb+jjrbmod	rb	adjmod	ly							RB	advmod	19
+19	lower	low	attr+npremod	jj	attr								JJR	amod	22
+20	average	average	attr+npremod	jj	attr								JJ	amod	22
+21	response	response	nn+npremod	nn			npremod						NN	compound	22
+22	times	time		nn	pl								NNS	dobj	17
+23	than	than	in+npostmod	in	nmod								IN	prep	22
+24	speedometer	speedometer		nn		nom							NN	pobj	23
+25	4	4											CD	nummod	24
+26	.	.											.	punct	2
+
+#sentid = 118
+0	From	from	in+advl	in	advl								IN	prep	20
+1	prior	prior	attr+npremod	jj	attr								JJ	amod	3
+2	established	establish	attr+npremod	jj	attr	ed							VBN	amod	3
+3	patterns	pattern		nn	pl								NNS	pobj	0
+4	,	,											,	punct	20
+5	the	the		dt	art								DT	det	6
+6	speedometer	speedometer		nn		nom							NN	nsubj	20
+7	with	with	in+npostmod	in	nmod								IN	prep	6
+8	larger	large	attr+npremod	jj	attr								JJR	amod	10
+9	character	character	nn+npremod	nn		nom	npremod						NN	compound	10
+10	height	height		nn									NN	pobj	7
+11	(	(											-LRB-	punct	6
+12	speedometer	speedometer	appos+npostmod	nn		nom	nappos						NN	appos	6
+13	4	4											CD	nummod	12
+14	in	in	in+npostmod	in	nmod								IN	prep	12
+15	this	this		dt	dt_dem								DT	det	16
+16	case	case		nn									NN	pobj	14
+17	)	)											-RRB-	punct	6
+18	should	should		vbaux	mod	nec							MD	aux	20
+19	have	have		vbaux									VB	aux	20
+20	had	have		vbmain	vblex	vp_w_modal	perf	active					VBN	ROOT	20
+21	lower	low	attr+npremod	jj	attr								JJR	amod	24
+22	average	average	attr+npremod	jj	attr								JJ	amod	24
+23	response	response	nn+npremod	nn			npremod						NN	compound	24
+24	times	time		nn	pl								NNS	dobj	20
+25	and	and		cc	phrs								CC	cc	24
+26	error	error	nn+npremod	nn		nom	npremod						NN	nmod	30
+27	and	and		cc	phrs								CC	cc	26
+28	miss	miss		nn									NN	conj	26
+29	percentage	percentage	nn+npremod	nn		nom	npremod						NN	compound	30
+30	rates	rate		nn	pl	nom							NNS	conj	24
+31	.	.											.	punct	20
+
+#sentid = 119
+0	Although	although		cs	con								IN	mark	4
+1	speedometer	speedometer		nn		nom							NN	nsubj	4
+2	4	4											CD	nummod	1
+3	did	do		vbaux									VBD	aux	4
+4	have	have	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		concessive		VB	advcl	15
+5	lower	low	attr+npremod	jj	attr								JJR	amod	10
+6	error	error	nn+npremod	nn		nom	npremod						NN	nmod	10
+7	and	and		cc	phrs								CC	cc	6
+8	miss	miss		nn									NN	conj	6
+9	percentage	percentage	nn+npremod	nn		nom	npremod						NN	compound	10
+10	rates	rate		nn	pl	nom							NNS	dobj	4
+11	,	,											,	punct	15
+12	it	it		pro	3rd	sg							PRP	nsubj	15
+13	did	do		vbaux									VBD	aux	15
+14	not	not											RB	neg	15
+15	have	have		vbmain	vblex	past	simple	active					VB	ROOT	15
+16	lower	low	attr+npremod	jj	attr								JJR	amod	19
+17	average	average	attr+npremod	jj	attr								JJ	amod	19
+18	response	response	nn+npremod	nn			npremod						NN	compound	19
+19	times	time		nn	pl								NNS	dobj	15
+20	.	.											.	punct	15
+
+#sentid = 120
+0	Therefore	therefore		rb	link								RB	advmod	3
+1	,	,											,	punct	3
+2	it	it		pro	3rd	sg							PRP	nsubj	3
+3	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	3
+4	possible	possible		jj	pred								JJ	acomp	3
+5	that	that		comp	comp_that								IN	mark	17
+6	the	the		dt	art								DT	det	8
+7	combined	combine	attr+npremod	jj	attr	ed							VBN	amod	8
+8	differences	difference		nn	pl	nom							NNS	nsubj	17
+9	in	in	in+npostmod	in	nmod								IN	prep	8
+10	speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	11
+11	design	design		nn									NN	pobj	9
+12	between	between	in+npostmod	in	nmod								IN	prep	8
+13	speedometers	speedometer		nn	pl	nom							NNS	pobj	12
+14	3	3											CD	nummod	13
+15	and	and		cc	phrs								CC	cc	13
+16	4	4											CD	conj	13
+17	caused	cause	xtrapos+thatcls+jcomp	vbmain	vblex	past	simple	active	compcls	thatcls	jcomp		VBD	ccomp	3
+18	speedometer	speedometer		nn		nom							NN	nsubj	21
+19	4	4											CD	nummod	18
+20	to	to		to									TO	aux	21
+21	be	be		vbmain	be	nonfinite	simple	active	compcls	tocls	vcomp		VB	ccomp	17
+22	slightly	slightly	rb+jjrbmod	rb	othr	ly							RB	advmod	23
+23	less	less	rb+jjrbmod	rb	adjmod								RBR	advmod	24
+24	legible	legible		jj	pred								JJ	acomp	21
+25	than	than	in+jcomp	in	jcomp								IN	prep	24
+26	speedometer	speedometer		nn		nom							NN	pobj	25
+27	3	3											CD	nummod	26
+28	.	.											.	punct	3
+
+#sentid = 121
+0													_SP	dep	5
+1	Speedometers	speedometer		nn	pl	nom							NNS	nsubj	5
+2	1	1											CD	nummod	1
+3	and	and		cc	phrs								CC	cc	1
+4	2	2											CD	conj	1
+5	differed	differ		vbmain	vblex	past	simple	active					VBD	ROOT	5
+6	in	in	in+advl	in	advl								IN	prep	5
+7	location	location		nn		nom							NN	pobj	6
+8	and	and		cc	phrs								CC	cc	7
+9	radius	radius	nn+npremod	nn			npremod						NN	compound	10
+10	size	size		nn									NN	conj	7
+11	.	.											.	punct	5
+
+#sentid = 122
+0	However	however		rb	link								RB	advmod	4
+1	,	,											,	punct	4
+2	the	the		dt	art								DT	det	3
+3	speedometers	speedometer		nn	pl	nom							NNS	nsubj	4
+4	differed	differ		vbmain	vblex	past	simple	active					VBD	ROOT	4
+5	only	only	rb+jjrbmod	rb	othr	ly							RB	advmod	6
+6	slightly	slightly	rb+advl	rb	advl	ly							RB	advmod	4
+7	in	in	in+advl	in	advl								IN	prep	4
+8	average	average	attr+npremod	jj	attr								JJ	amod	10
+9	response	response	nn+npremod	nn			npremod						NN	compound	10
+10	times	time		nn	pl								NNS	pobj	7
+11	and	and		cc	phrs								CC	cc	10
+12	error	error	nn+npremod	nn		nom	npremod						NN	nmod	15
+13	and	and		cc	phrs								CC	cc	12
+14	miss	miss		nn									NN	conj	12
+15	percentage	percentage	nn+npremod	nn		nom	npremod						NN	compound	16
+16	rates	rate		nn	pl	nom							NNS	conj	10
+17	.	.											.	punct	4
+
+#sentid = 123
+0	Speedometer	speedometer		nn		nom							NN	nsubj	3
+1	2	2											CD	nummod	0
+2	consistently	consistently	rb+advl	rb	advl	ly							RB	advmod	3
+3	had	have		vbmain	vblex	past	simple	active					VBD	ROOT	3
+4	the	the		dt	art								DT	det	8
+5	lowest	low	attr+npremod	jj	attr								JJS	amod	8
+6	average	average	attr+npremod	jj	attr								JJ	amod	8
+7	response	response	nn+npremod	nn			npremod						NN	compound	8
+8	time	time		nn									NN	dobj	3
+9	as	as		rb	othr								RB	advmod	11
+10	well	well		rb	othr								RB	advmod	11
+11	as	as		cc	phrs								IN	cc	8
+12	having	have		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	conj	8
+13	the	the		dt	art								DT	det	20
+14	lower	low	attr+npremod	jj	attr								JJR	amod	20
+15	average	average	attr+npremod	jj	attr								JJ	amod	20
+16	error	error	nn+npremod	nn		nom	npremod						NN	nmod	19
+17	and	and		cc	phrs								CC	cc	16
+18	miss	miss		nn									NN	conj	16
+19	percentage	percentage	nn+npremod	nn		nom	npremod						NN	compound	20
+20	rates	rate		nn	pl	nom							NNS	dobj	12
+21	(	(											-LRB-	punct	12
+22	except	except	in+advl	in	advl								IN	prep	12
+23	in	in		in	in_othr								IN	prep	22
+24	one	one											CD	nummod	25
+25	instance	instance		nn		nom							NN	pobj	23
+26	)	)											-RRB-	punct	12
+27	.	.											-RRB-	punct	3
+
+#sentid = 124
+0	The	the		dt	art								DT	det	1
+1	effect	effect		nn									NN	nsubj	9
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	location	location		nn		nom							NN	pobj	2
+4	,	,											,	punct	6
+5	as	as		cs	cs_othr								IN	mark	6
+6	discussed	discuss		vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	other_advl		VBN	acl	1
+7	earlier	early	rb+advl	rb	advl								RBR	advmod	6
+8	,	,											,	punct	6
+9	was	be		vbmain	be	past	simple	active					VBD	ROOT	9
+10	not	not											RB	neg	9
+11	clear	clear		jj	pred								JJ	acomp	9
+12	.	.											.	punct	9
+
+#sentid = 125
+0	However	however		rb	link								RB	advmod	10
+1	,	,											,	punct	10
+2	the	the		dt	art								DT	det	4
+3	larger	large	attr+npremod	jj	attr								JJR	amod	4
+4	radius	radius		nn									NN	nsubj	10
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	speedometer	speedometer		nn		nom							NN	pobj	5
+7	2	2											CD	nummod	6
+8	could	could		vbaux	mod	pos							MD	aux	10
+9	of	of		vbaux									IN	aux	10
+10	caused	cause		vbmain	vblex	vp_w_modal	simple	active					VBN	ROOT	10
+11	the	the		dt	art								DT	det	13
+12	small	small	attr+npremod	jj	attr								JJ	amod	13
+13	differences	difference		nn	pl	nom							NNS	dobj	10
+14	in	in	in+npostmod	in	nmod								IN	prep	13
+15	the	the		dt	art								DT	det	16
+16	data	data		nn									NN	pobj	14
+17	.	.											.	punct	10
+
+#sentid = 126
+0	This	this		dt	dt_dem								DT	det	1
+1	inference	inference		nn		nom							NN	nsubj	2
+2	continues	continue		vbmain	vblex	pres	simple	active					VBZ	ROOT	2
+3	the	the		dt	art								DT	det	4
+4	pattern	pattern		nn									NN	dobj	2
+5	concerning	concern		vbmain	nmod	nonfinite	simple	active		ingcls			VBG	prep	4
+6	the	the		dt	art								DT	det	7
+7	size	size		nn									NN	pobj	5
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	10
+10	parameters	parameter		nn	pl	nom							NNS	pobj	8
+11	.	.											.	punct	2
+
+#sentid = 127
+0													_SP	dep	2
+1	It	it		pro	3rd	sg							PRP	nsubj	2
+2	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	2
+3	necessary	necessary		jj	pred								JJ	acomp	2
+4	to	to		to									TO	aux	5
+5	examine	examine	xtrapos+tocls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	2
+6	the	the		dt	art								DT	det	7
+7	effects	effect		nn	pl								NNS	dobj	5
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	the	the		dt	art								DT	det	12
+10	test	test	nn+npremod	nn			npremod						NN	compound	11
+11	participant	participant	nn+npremod	nn		nom	npremod						NN	compound	12
+12	differences	difference		nn	pl	nom							NNS	pobj	8
+13	in	in		cs	cs_othr								IN	mark	16
+14	order	order		nn		nom							NN	dep	16
+15	to	to		to									TO	aux	16
+16	find	find		vbmain	vblex	nonfinite	simple	active	advlcls		other_advl		VB	advcl	2
+17	any	any		dt									DT	det	18
+18	discrepancies	discrepancy		nn	pl	nom							NNS	dobj	16
+19	in	in	in+npostmod	in	nmod								IN	prep	18
+20	the	the		dt	art								DT	det	21
+21	data	datum		nn	pl								NNS	pobj	19
+22	.	.											.	punct	2
+
+#sentid = 128
+0	The	the		dt	art								DT	det	2
+1	relevant	relevant	attr+npremod	jj	attr								JJ	amod	2
+2	differences	difference		nn	pl	nom							NNS	nsubj	4
+3	examined	examine	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	2
+4	were	be		vbmain	be	past	simple	active					VBD	ROOT	4
+5	sex	sex		nn									NN	attr	4
+6	,	,											,	punct	5
+7	handedness	handedness		nn		nom							NN	conj	5
+8	,	,											,	punct	7
+9	visibility	visibility		nn		nom							NN	conj	7
+10	(	(											-LRB-	punct	9
+11	defined	define	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	9
+12	as	as	in+advl	in	advl								IN	prep	11
+13	the	the		dt	art								DT	det	14
+14	need	need		nn									NN	pobj	12
+15	of	of	of+npostmod	in	nmod								IN	prep	14
+16	correctional	correctional	attr+npremod	jj	attr								JJ	amod	17
+17	lenses	lense		nn	pl								NNS	pobj	15
+18	vs.	vs.	in+npostmod	in	nmod								IN	prep	14
+19	no	no		dt									DT	det	20
+20	need	need		nn									NN	pobj	18
+21	)	)											-RRB-	punct	9
+22	,	,											-RRB-	punct	9
+23	and	and		cc	phrs								CC	cc	9
+24	distance	distance		nn		nom							NN	conj	9
+25	from	from	in+npostmod	in	nmod								IN	prep	24
+26	the	the		dt	art								DT	det	28
+27	projection	projection	nn+npremod	nn		nom	npremod						NN	compound	28
+28	screen	screen		nn									NN	pobj	25
+29	.	.											.	punct	4
+
+#sentid = 129
+0	The	the		dt	art								DT	det	2
+1	first	first	attr+npremod	jj	attr								JJ	amod	2
+2	step	step		nn									NN	nsubj	12
+3	in	in	in+npostmod	in	nmod								IN	prep	2
+4	evaluating	evaluate	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	3
+5	the	the		dt	art								DT	det	6
+6	effect	effect		nn									NN	dobj	4
+7	of	of	of+npostmod	in	nmod								IN	prep	6
+8	the	the		dt	art								DT	det	11
+9	test	test	nn+npremod	nn			npremod						NN	compound	10
+10	participant	participant	nn+npremod	nn		nom	npremod						NN	compound	11
+11	differences	difference		nn	pl	nom							NNS	pobj	7
+12	was	be		vbmain	be	past	simple	active					VBD	ROOT	12
+13	to	to		to									TO	aux	14
+14	compare	compare	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	12
+15	how	how		comp	comp_wh								WRB	advmod	22
+16	each	each											DT	nsubj	22
+17	of	of		in	in_othr								IN	prep	16
+18	the	the		dt	art								DT	det	21
+19	4	4											CD	nummod	21
+20	modeled	model	attr+npremod	jj	attr	ed							VBN	amod	21
+21	differences	difference		nn	pl	nom							NNS	pobj	17
+22	affected	affect	whcls+vcomp	vbmain	vblex	past	simple	active	compcls	whcls	vcomp		VBD	ccomp	14
+23	the	the		dt	art								DT	det	26
+24	average	average	attr+npremod	jj	attr								JJ	amod	26
+25	response	response	nn+npremod	nn			npremod						NN	compound	26
+26	times	time		nn	pl								NNS	dobj	22
+27	and	and		cc	phrs								CC	cc	26
+28	total	total	attr+npremod	jj	attr								JJ	amod	35
+29	incorrect	incorrect	attr+npremod	jj	attr								JJ	amod	31
+30	(	(											-LRB-	punct	31
+31	errors	error	nn+npremod	nn	pl	nom	npremod						NNS	nmod	35
+32	and	and		cc	phrs								CC	cc	31
+33	misses	miss		nn	pl								NNS	conj	31
+34	)	)											-RRB-	punct	35
+35	responses	response		nn	pl								NNS	conj	26
+36	.	.											.	punct	12
+
+#sentid = 130
+0	The	the		dt	art								DT	det	1
+1	discrepancies	discrepancy		nn	pl	nom							NNS	nsubj	13
+2	in	in	in+npostmod	in	nmod								IN	prep	1
+3	average	average	attr+npremod	jj	attr								JJ	amod	5
+4	response	response	nn+npremod	nn			npremod						NN	compound	5
+5	times	time		nn	pl								NNS	pobj	2
+6	for	for	in+npostmod	in	nmod								IN	prep	1
+7	most	most											JJS	pobj	6
+8	of	of	in+jcomp	in	jcomp								IN	prep	7
+9	the	the		dt	art								DT	det	12
+10	test	test	nn+npremod	nn			npremod						NN	compound	11
+11	participant	participant	nn+npremod	nn		nom	npremod						NN	compound	12
+12	differences	difference		nn	pl	nom							NNS	pobj	8
+13	were	be		vbmain	be	past	simple	active					VBD	ROOT	13
+14	very	very	rb+jjrbmod	rb	adjmod								RB	advmod	15
+15	small	small	attr+npremod	jj	attr								JJ	amod	20
+16	(	(											-LRB-	punct	15
+17	less	less		jj	attr								JJR	amod	19
+18	than	than											IN	quantmod	19
+19	0.060	0.060											CD	nummod	20
+20	s	s		nn	pl								NNS	attr	13
+21	)	)											-RRB-	punct	13
+22	.	.											-RRB-	punct	13
+
+#sentid = 131
+0	The	the		dt	art								DT	det	2
+1	same	same	attr+npremod	jj	attr								JJ	amod	2
+2	result	result		nn									NN	nsubj	3
+3	occurred	occur		vbmain	vblex	past	simple	active					VBD	ROOT	3
+4	for	for	in+advl	in	advl								IN	prep	3
+5	the	the		dt	art								DT	det	8
+6	average	average	attr+npremod	jj	attr								JJ	amod	8
+7	incorrect	incorrect	attr+npremod	jj	attr								JJ	amod	8
+8	responses	response		nn	pl								NNS	pobj	4
+9	.	.											.	punct	3
+
+#sentid = 132
+0	The	the		dt	art								DT	det	2
+1	sample	sample	nn+npremod	nn			npremod						NN	compound	2
+2	size	size		nn									NN	nsubj	6
+3	of	of	of+npostmod	in	nmod								IN	prep	2
+4	test	test	nn+npremod	nn			npremod						NN	compound	5
+5	participants	participant		nn	pl	nom							NNS	pobj	3
+6	was	be		vbmain	be	past	simple	active					VBD	ROOT	6
+7	also	also	rb+advl	rb	advl								RB	advmod	6
+8	small	small		jj	pred								JJ	acomp	6
+9	,	,											,	punct	6
+10	making	make	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	6
+11	almost	almost		rb	othr								RB	advmod	12
+12	all	all											DT	nummod	13
+13	inferences	inference		nn	pl	nom							NNS	nsubj	14
+14	impossible	impossible											JJ	ccomp	10
+15	.	.											.	punct	6
+
+#sentid = 133
+0	However	however		rb	link								RB	advmod	13
+1	,	,											,	punct	13
+2	the	the		dt	art								DT	det	5
+3	one	one											CD	nummod	5
+4	individual	individual	attr+npremod	jj	attr								JJ	amod	5
+5	difference	difference		nn		nom							NN	nsubj	13
+6	that	that		relpro	relpro_that	sg							WDT	nsubj	8
+7	did	do		vbaux									VBD	aux	8
+8	stick	stick	finitecls+rel	vbmain	phrsv	past	simple	active	nmod_cls	thatcls	rel		VB	relcl	5
+9	out	out		rb	prtcle								RP	prt	8
+10	as	as	in+advl	in	advl								IN	prep	8
+11	possibly	possibly	rb+jjrbmod	rb	adjmod	ly							RB	advmod	12
+12	meaningful	meaningful		jj	attr								JJ	amod	10
+13	was	be		vbmain	be	past	simple	active					VBD	ROOT	13
+14	sex	sex		nn									NN	attr	13
+15	.	.											.	punct	13
+
+#sentid = 134
+0	The	the		dt	art								DT	det	3
+1	average	average	attr+npremod	jj	attr								JJ	amod	3
+2	response	response	nn+npremod	nn			npremod						NN	compound	3
+3	times	time		nn	pl								NNS	nsubj	6
+4	for	for	in+npostmod	in	nmod								IN	prep	3
+5	males	male		nn	pl								NNS	pobj	4
+6	were	be		vbmain	be	past	simple	active					VBD	ROOT	6
+7	,	,											,	punct	6
+8	on	on	in+advl	in	advl								IN	prep	6
+9	average	average		jj	attr								JJ	amod	8
+10	,	,											,	punct	6
+11	0.111	0.111											CD	nummod	12
+12	s	s		nn	pl								NNS	npadvmod	13
+13	faster	fast		jj	pred								JJR	acomp	6
+14	than	than	in+comparative	in	jcomp								IN	prep	13
+15	for	for		in	in_othr								IN	prep	14
+16	females	female		nn	pl								NNS	pobj	15
+17	.	.											.	punct	6
+
+#sentid = 135
+0	Also	also	rb+advl	rb	advl								RB	advmod	10
+1	,	,											,	punct	10
+2	the	the		dt	art								DT	det	6
+3	average	average	attr+npremod	jj	attr								JJ	amod	6
+4	total	total	attr+npremod	jj	attr								JJ	amod	6
+5	incorrect	incorrect	attr+npremod	jj	attr								JJ	amod	6
+6	responses	response		nn	pl								NNS	nsubj	10
+7	for	for	in+npostmod	in	nmod								IN	prep	6
+8	the	the		dt	art								DT	det	9
+9	males	male		nn	pl								NNS	pobj	7
+10	was	be		vbmain	be	past	simple	active					VBD	ROOT	10
+11	6.3	6.3											CD	npadvmod	12
+12	less	less		jj	pred								JJR	acomp	10
+13	than	than	in+comparative	in	jcomp								IN	prep	12
+14	for	for		in	in_othr								IN	prep	13
+15	females	female		nn	pl								NNS	pobj	14
+16	.	.											.	punct	10
+
+#sentid = 136
+0	One	one											CD	nummod	1
+1	explanation	explanation		nn		nom							NN	nsubjpass	7
+2	for	for	in+npostmod	in	nmod								IN	prep	1
+3	this	this		dt	dt_dem								DT	det	4
+4	difference	difference		nn		nom							NN	pobj	2
+5	can	can		vbaux	mod	pos							MD	aux	7
+6	be	be		vbaux									VB	auxpass	7
+7	attributed	attribute		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	7
+8	to	to	in+advl	in	advl								IN	prep	7
+9	the	the		dt	art								DT	det	11
+10	test	test	nn+npremod	nn			npremod						NN	compound	11
+11	sequence	sequence		nn		nom							NN	pobj	8
+12	.	.											.	punct	7
+
+#sentid = 137
+0	Due	due	in+advl	in	advl								IN	prep	10
+1	to	to											IN	pcomp	0
+2	the	the		dt	art								DT	det	4
+3	2	2											CD	nummod	4
+4	televisions	television		nn	pl								NNS	pobj	0
+5	,	,											,	punct	10
+6	all	all											PDT	predet	8
+7	the	the		dt	art								DT	det	8
+8	participants	participant		nn	pl	nom							NNS	nsubj	10
+9	could	could		vbaux	mod	pos							MD	aux	10
+10	see	see		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	10
+11	each	each		dt									DT	det	12
+12	other	other		dt	poss								JJ	poss	16
+13	's	's											POS	case	12
+14	average	average	attr+npremod	jj	attr								JJ	amod	16
+15	response	response	nn+npremod	nn			npremod						NN	compound	16
+16	times	time		nn	pl								NNS	dobj	10
+17	after	after	in+advl	in	advl								IN	prep	10
+18	every	every		dt									DT	det	19
+19	block	block		nn									NN	pobj	17
+20	,	,											,	punct	10
+21	creating	create	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	10
+22	a	a		dt	art								DT	det	24
+23	small	small	attr+npremod	jj	attr								JJ	amod	24
+24	competition	competition		nn		nom							NN	dobj	21
+25	in	in	in+advl	in	advl								IN	prep	30
+26	which	which											WDT	pobj	25
+27	males	male		nn	pl								NNS	nsubjpass	30
+28	are	be		vbaux									VBP	auxpass	30
+29	commonly	commonly	rb+advl	rb	advl	ly							RB	advmod	30
+30	known	know	finitecls+rel	vbmain	vblex	pres	simple	pasv_agls	nmod_cls		rel	reldel	VBN	relcl	24
+31	to	to		to									TO	aux	32
+32	be	be	tocls+vcomp	vbmain	be	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	30
+33	more	more	rb+jjrbmod	rb	adjmod								RBR	advmod	34
+34	aggressive	aggressive		jj	pred								JJ	acomp	32
+35	and	and		cc	phrs								CC	cc	34
+36	competitive	competitive											JJ	conj	34
+37	.	.											.	punct	10
+
+#sentid = 138
+0	This	this		pro	dem	sg							DT	nsubj	2
+1	would	would		vbaux	mod	prd							MD	aux	2
+2	explain	explain		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	2
+3	the	the		dt	art								DT	det	4
+4	reason	reason		nn									NN	dobj	2
+5	for	for	in+npostmod	in	nmod								IN	prep	4
+6	the	the		dt	art								DT	det	13
+7	0.111	0.111											CD	nummod	8
+8	s	s		nn	pl								NNS	npadvmod	9
+9	lower	low	attr+npremod	jj	attr								JJR	amod	13
+10	male	male	attr+npremod	jj	attr								JJ	amod	13
+11	average	average	attr+npremod	jj	attr								JJ	amod	13
+12	response	response	nn+npremod	nn			npremod						NN	compound	13
+13	time	time		nn									NN	pobj	5
+14	.	.											.	punct	2
+
+#sentid = 139
+0													_SP	dep	15
+1	In	in	in+advl	in	advl								IN	prep	15
+2	order	order		nn		nom							NN	pobj	1
+3	to	to		to									TO	aux	4
+4	find	find		vbmain	vblex	nonfinite	simple	active	nmod_cls		ncomp		VB	acl	2
+5	the	the		dt	art								DT	det	7
+6	best	good	attr+npremod	jj	attr								JJS	amod	7
+7	speedometer	speedometer		nn		nom							NN	dobj	4
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	the	the		dt	art								DT	det	10
+10	4	4											CD	pobj	8
+11	examined	examine	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	10
+12	,	,											,	punct	15
+13	it	it		pro	3rd	sg							PRP	nsubjpass	15
+14	is	be		vbaux									VBZ	auxpass	15
+15	required	require		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	15
+16	to	to		to									TO	aux	18
+17	first	first		rb	link		splaux						RB	advmod	18
+18	define	define	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	15
+19	which	which		dt									WDT	det	21
+20	task	task	nn+npremod	nn			npremod						NN	compound	21
+21	condition	condition		nn		nom							NN	nsubjpass	24
+22	is	be		vbaux									VBZ	aux	24
+23	being	be		vbaux									VBG	auxpass	24
+24	used	use	thatcls+vcomp	vbmain	vblex	pres	simple	pasv_agls	compcls		vcomp	compdel	VBN	ccomp	18
+25	.	.											.	punct	15
+
+#sentid = 140
+0	For	for	in+advl	in	advl								IN	prep	16
+1	the	the		dt	art								DT	det	3
+2	task	task	nn+npremod	nn			npremod						NN	compound	3
+3	condition	condition		nn		nom							NN	pobj	0
+4	of	of	of+npostmod	in	nmod								IN	prep	3
+5	reading	read	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	4
+6	the	the		dt	art								DT	det	8
+7	exact	exact	attr+npremod	jj	attr								JJ	amod	8
+8	speed	speed		nn									NN	dobj	5
+9	(	(											-LRB-	punct	8
+10	4	4											CD	nummod	11
+11	choices	choice	appos+npostmod	nn	pl		nappos						NNS	appos	8
+12	)	)											-RRB-	punct	8
+13	,	,											-RRB-	punct	16
+14	speedometer	speedometer		nn		nom							NN	nsubj	16
+15	2	2											CD	nummod	14
+16	was	be		vbmain	be	past	simple	active					VBD	ROOT	16
+17	clearly	clearly	rb+advl	rb	advl	ly							RB	advmod	16
+18	the	the		dt	art								DT	det	20
+19	optimal	optimal	attr+npremod	jj	attr								JJ	amod	20
+20	speedometer	speedometer		nn		nom							NN	attr	16
+21	.	.											.	punct	16
+
+#sentid = 141
+0	It	it		pro	3rd	sg							PRP	nsubj	2
+1	consistently	consistently	rb+advl	rb	advl	ly							RB	advmod	2
+2	had	have		vbmain	vblex	past	simple	active					VBD	ROOT	2
+3	the	the		dt	art								DT	det	7
+4	lowest	low	attr+npremod	jj	attr								JJS	amod	7
+5	average	average	attr+npremod	jj	attr								JJ	amod	7
+6	response	response	nn+npremod	nn			npremod						NN	compound	7
+7	time	time		nn									NN	dobj	2
+8	and	and		cc	phrs								CC	cc	7
+9	average	average	attr+npremod	jj	attr								JJ	amod	12
+10	miss	miss	nn+npremod	nn			npremod						NN	compound	11
+11	percentage	percentage	nn+npremod	nn		nom	npremod						NN	compound	12
+12	rate	rate		nn		nom							NN	conj	7
+13	.	.											.	punct	2
+
+#sentid = 142
+0	It	it		pro	3rd	sg							PRP	nsubj	1
+1	had	have		vbmain	vblex	past	simple	active					VBD	ROOT	1
+2	the	the		dt	art								DT	det	7
+3	lowest	low	attr+npremod	jj	attr								JJS	amod	7
+4	average	average	attr+npremod	jj	attr								JJ	amod	6
+5	error	error	nn+npremod	nn		nom	npremod						NN	compound	6
+6	rate	rate	nn+npremod	nn		nom	npremod						NN	compound	7
+7	percentage	percentage		nn		nom							NN	dobj	1
+8	one	one											CD	nummod	7
+9	of	of	of+npostmod	in	nmod								IN	prep	7
+10	the	the		dt	art								DT	det	14
+11	two	two											CD	nummod	14
+12	4	4											CD	nummod	13
+13	choice	choice	nn+npremod	nn			npremod						NN	compound	14
+14	blocks	block		nn	pl								NNS	pobj	9
+15	.	.											.	punct	1
+
+#sentid = 143
+0													_SP	dep	22
+1	For	for	in+advl	in	advl								IN	prep	22
+2	the	the		dt	art								DT	det	4
+3	task	task	nn+npremod	nn			npremod						NN	compound	4
+4	condition	condition		nn		nom							NN	pobj	1
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	"	"											``	punct	7
+7	speeding	speeding		nn		nom							NN	pobj	5
+8	"	"											''	punct	7
+9	versus	versus	in+npostmod	in	nmod								IN	prep	7
+10	"	"											``	punct	9
+11	non	non		nn									NN	pobj	9
+12	-	-		nn									NN	pobj	9
+13	speeding	speeding		nn		nom							NN	pobj	9
+14	"	"											''	punct	9
+15	(	(											-LRB-	punct	7
+16	2	2											CD	nummod	17
+17	choices	choice	appos+npostmod	nn	pl		nappos						NNS	appos	7
+18	)	)											-RRB-	punct	7
+19	,	,											-RRB-	punct	22
+20	the	the		dt	art								DT	det	21
+21	decision	decision		nn									NN	nsubj	22
+22	was	be		vbmain	be	past	simple	active					VBD	ROOT	22
+23	not	not											RB	neg	22
+24	as	as		rb	adjmod								RB	advmod	25
+25	simple	simple		jj	pred								JJ	acomp	22
+26	.	.											.	punct	22
+
+#sentid = 144
+0	Although	although		cs	con								IN	mark	3
+1	speedometer	speedometer		nn		nom							NN	nsubj	3
+2	2	2											CD	nummod	1
+3	had	have	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		concessive		VBD	advcl	11
+4	the	the		dt	art								DT	det	8
+5	lowest	low	attr+npremod	jj	attr								JJS	amod	8
+6	average	average	attr+npremod	jj	attr								JJ	amod	8
+7	response	response	nn+npremod	nn			npremod						NN	compound	8
+8	time	time		nn									NN	dobj	3
+9	,	,											,	punct	11
+10	it	it		pro	3rd	sg							PRP	nsubj	11
+11	had	have		vbmain	vblex	past	simple	active					VBD	ROOT	11
+12	6	6											CD	nummod	13
+13	errors	error		nn	pl	nom							NNS	dobj	11
+14	.	.											.	punct	11
+
+#sentid = 145
+0	Speedometer	speedometer		nn		nom							NN	nsubj	2
+1	1	1											CD	nummod	0
+2	had	have		vbmain	vblex	past	simple	active					VBD	ROOT	2
+3	a	a		dt	art								DT	det	8
+4	slightly	slightly	rb+jjrbmod	rb	adjmod	ly							RB	advmod	5
+5	larger	large	attr+npremod	jj	attr								JJR	amod	8
+6	average	average	attr+npremod	jj	attr								JJ	amod	8
+7	response	response	nn+npremod	nn			npremod						NN	compound	8
+8	time	time		nn									NN	dobj	2
+9	with	with	in+npostmod	in	nmod								IN	prep	8
+10	4	4											CD	nummod	11
+11	errors	error		nn	pl	nom							NNS	pobj	9
+12	.	.											.	punct	2
+
+#sentid = 146
+0	However	however		rb	link								RB	advmod	19
+1	,	,											,	punct	19
+2	the	the		dt	art								DT	det	5
+3	task	task	nn+npremod	nn			npremod						NN	compound	4
+4	performance	performance	nn+npremod	nn		nom	npremod						NN	compound	5
+5	measurement	measurement		nn		nom							NN	nsubj	19
+6	that	that		relpro	relpro_that	sg							WDT	nsubj	7
+7	becomes	become	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls	thatcls	rel		VBZ	relcl	5
+8	more	more	rb+jjrbmod	rb	adjmod								RBR	advmod	9
+9	important	important		jj	pred								JJ	acomp	7
+10	in	in	in+advl	in	advl								IN	prep	7
+11	the	the		dt	art								DT	det	13
+12	selection	selection	nn+npremod	nn		nom	npremod						NN	compound	13
+13	criteria	criterion		nn	pl								NNS	pobj	10
+14	for	for	in+npostmod	in	nmod								IN	prep	13
+15	this	this		dt	dt_dem								DT	det	17
+16	task	task	nn+npremod	nn			npremod						NN	compound	17
+17	condition	condition		nn		nom							NN	pobj	14
+18	should	should		vbaux	mod	nec							MD	aux	19
+19	be	be		vbmain	be	vp_w_modal	simple	active					VB	ROOT	19
+20	the	the		dt	art								DT	det	23
+21	average	average	attr+npremod	jj	attr								JJ	amod	23
+22	response	response	nn+npremod	nn			npremod						NN	compound	23
+23	time	time		nn									NN	attr	19
+24	.	.											.	punct	19
+
+#sentid = 147
+0	This	this		pro	dem	sg							DT	nsubj	1
+1	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	1
+2	because	because	in+advl	in	advl								IN	prep	1
+3	the	the		dt	art								DT	det	6
+4	most	most	rb+jjrbmod	rb	adjmod								RBS	advmod	5
+5	important	important	attr+npremod	jj	attr								JJ	amod	6
+6	task	task		nn									NN	npadvmod	1
+7	while	while		cs	con								IN	mark	9
+8	driving	drive	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	7
+9	is	be	finitecls+advl	vbmain	be	pres	simple	active	advlcls		concessive		VBZ	advcl	6
+10	to	to		to									TO	aux	11
+11	have	have	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	9
+12	your	your		dt	poss								PRP$	poss	13
+13	eyes	eye		nn	pl								NNS	dobj	11
+14	on	on	in+advl	in	advl								IN	prep	11
+15	the	the		dt	art								DT	det	16
+16	road	road		nn									NN	pobj	14
+17	.	.											.	punct	1
+
+#sentid = 148
+0	Whether	whether		cs	cs_othr								IN	mark	3
+1	you	you		pro	2nd	sg							PRP	nsubjpass	3
+2	are	be		vbaux									VBP	auxpass	3
+3	mistaken	mistake		vbmain	vblex	pres	simple	pasv_agls	compcls		other_advl	compdel	VBN	csubj	12
+4	in	in	in+advl	in	advl								IN	prep	3
+5	your	your		dt	poss								PRP$	poss	6
+6	knowledge	knowledge		nn									NN	pobj	4
+7	of	of	of+npostmod	in	nmod								IN	prep	6
+8	speeding	speeding		nn		nom							NN	pobj	7
+9	or	or		cc	phrs								CC	cc	3
+10	not	not											RB	neg	11
+11	speeding	speeding		nn		nom							NN	conj	3
+12	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	12
+13	generally	generally	rb+advl	rb	advl	ly							RB	advmod	12
+14	not	not											RB	neg	12
+15	as	as		rb	adjmod								RB	advmod	16
+16	important	important		jj	pred								JJ	acomp	12
+17	to	to	in+jcomp	in	jcomp								IN	prep	16
+18	your	your		dt	poss								PRP$	poss	19
+19	safety	safety		nn									NN	pobj	17
+20	as	as	in+jcomp	in	jcomp								IN	prep	16
+21	the	the		dt	art								DT	det	22
+22	time	time		nn									NN	pobj	20
+23	you	you		pro	2nd	sg							PRP	nsubj	24
+24	look	look	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls		rel	reldel	VBP	relcl	22
+25	away	away	rb+advl	rb	advl								RB	advmod	24
+26	from	from		in	in_othr								IN	prep	25
+27	the	the		dt	art								DT	det	28
+28	road	road		nn									NN	pobj	26
+29	.	.											.	punct	12
+
+#sentid = 149
+0	Therefore	therefore		rb	link								RB	advmod	9
+1	,	,											,	punct	9
+2	the	the		dt	art								DT	det	4
+3	optimal	optimal	attr+npremod	jj	attr								JJ	amod	4
+4	speedometer	speedometer		nn		nom							NN	nsubj	9
+5	for	for	in+npostmod	in	nmod								IN	prep	4
+6	this	this		dt	dt_dem								DT	det	8
+7	task	task	nn+npremod	nn			npremod						NN	compound	8
+8	condition	condition		nn		nom							NN	pobj	5
+9	was	be		vbmain	be	past	simple	active					VBD	ROOT	9
+10	also	also	rb+advl	rb	advl								RB	advmod	9
+11	speedometer	speedometer		nn		nom							NN	attr	9
+12	2	2											CD	nummod	11
+13	.	.											.	punct	9
+
+#sentid = 150
+0													_SP	dep	13
+1	The	the		dt	art								DT	det	2
+2	relationships	relationship		nn	pl	nom							NNS	nsubj	13
+3	between	between	in+npostmod	in	nmod								IN	prep	2
+4	speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	6
+5	design	design	nn+npremod	nn			npremod						NN	compound	6
+6	parameters	parameter		nn	pl	nom							NNS	pobj	3
+7	,	,											,	punct	6
+8	task	task	nn+npremod	nn			npremod						NN	compound	9
+9	condition	condition		nn		nom							NN	conj	6
+10	and	and		cc	phrs								CC	cc	9
+11	task	task	nn+npremod	nn			npremod						NN	compound	12
+12	performance	performance		nn		nom							NN	conj	9
+13	were	be		vbmain	be	past	simple	active					VBD	ROOT	13
+14	not	not											RB	neg	13
+15	obvious	obvious		jj	pred								JJ	acomp	13
+16	or	or		cc	phrs								CC	cc	15
+17	clear	clear											JJ	conj	15
+18	given	give	edcls+advl	vbmain	advl	nonfinite	simple	active		edcls			VBN	prep	13
+19	the	the		dt	art								DT	det	21
+20	collected	collect	attr+npremod	jj	attr	ed							VBN	amod	21
+21	data	datum		nn	pl								NNS	pobj	18
+22	.	.											.	punct	13
+
+#sentid = 151
+0	However	however		rb	link								RB	advmod	6
+1	,	,											,	punct	6
+2	some	some		dt									DT	det	3
+3	inferences	inference		nn	pl	nom							NNS	nsubjpass	6
+4	can	can		vbaux	mod	pos							MD	aux	6
+5	be	be		vbaux									VB	auxpass	6
+6	drawn	draw		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	6
+7	.	.											.	punct	6
+
+#sentid = 152
+0	For	for	in+advl	in	advl								IN	prep	26
+1	example	example		nn									NN	pobj	0
+2	,	,											,	punct	26
+3	the	the	rb+jjrbmod	rb	adjmod								DT	advmod	4
+4	larger	large	attr+npremod	jj	attr								JJR	amod	7
+5	the	the		dt	art								DT	det	7
+6	character	character	nn+npremod	nn		nom	npremod						NN	compound	7
+7	height	height		nn									NN	advcl	26
+8	,	,											,	punct	7
+9	character	character	nn+npremod	nn		nom	npremod						NN	compound	10
+10	strokewidth	strokewidth		nn									NN	conj	7
+11	and	and		cc	phrs								CC	cc	10
+12	radius	radius		nn									NN	conj	10
+13	,	,											,	punct	26
+14	no	no											RB	neg	15
+15	matter	matter	rb+advl	rb	advl								RB	advmod	26
+16	what	what											WP	ccomp	15
+17	the	the		dt	art								DT	det	19
+18	task	task	nn+npremod	nn			npremod						NN	compound	19
+19	condition	condition		nn		nom							NN	nsubj	16
+20	,	,											,	punct	26
+21	the	the	rb+jjrbmod	rb	othr								DT	advmod	22
+22	more	more	rb+advl	rb	advl								RBR	advmod	26
+23	the	the		dt	art								DT	det	25
+24	task	task	nn+npremod	nn			npremod						NN	compound	25
+25	performance	performance		nn		nom							NN	nsubj	26
+26	improved	improve		vbmain	vblex	past	simple	active					VBD	ROOT	26
+27	.	.											.	punct	26
+
+#sentid = 153
+0	This	this		pro	dem	sg							DT	nsubjpass	2
+1	was	be		vbaux									VBD	auxpass	2
+2	shown	show		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	2
+3	in	in	in+advl	in	advl								IN	prep	2
+4	the	the		dt	art								DT	det	5
+5	stratification	stratification		nn		nom							NN	pobj	3
+6	between	between	in+npostmod	in	nmod								IN	prep	5
+7	speedometer	speedometer	nn+npremod	nn		nom	npremod						NN	compound	8
+8	sets	set	nn+npremod	nn	pl		npremod						NNS	compound	9
+9	A	a		nn									NN	pobj	6
+10	and	and		cc	phrs								CC	cc	9
+11	B	b		nn									NN	conj	9
+12	for	for	in+npostmod	in	nmod								IN	prep	5
+13	all	all		dt									DT	det	15
+14	task	task	nn+npremod	nn			npremod						NN	compound	15
+15	conditions	condition		nn	pl	nom							NNS	pobj	12
+16	in	in	in+npostmod	in	nmod								IN	prep	15
+17	the	the		dt	art								DT	det	20
+18	task	task	nn+npremod	nn			npremod						NN	compound	19
+19	performance	performance	nn+npremod	nn		nom	npremod						NN	compound	20
+20	measurements	measurement		nn	pl	nom							NNS	pobj	16
+21	.	.											.	punct	2
+
+#sentid = 154
+0	This	this		dt	dt_dem								DT	det	1
+1	pattern	pattern		nn									NN	nsubj	2
+2	was	be		vbmain	be	past	simple	active					VBD	ROOT	2
+3	also	also	rb+advl	rb	advl								RB	advmod	2
+4	visible	visible		jj	pred								JJ	acomp	2
+5	when	when		rb	advl								WRB	advmod	11
+6	speedometers	speedometer		nn	pl	nom							NNS	nsubjpass	11
+7	1	1											CD	nummod	6
+8	and	and		cc	phrs								CC	cc	6
+9	2	2											CD	conj	6
+10	were	be		vbaux									VBD	auxpass	11
+11	compared	compare	finitecls+advl	vbmain	vblex	past	simple	pasv_agls	advlcls	whcls			VBN	advcl	2
+12	based	base	edcls+advl	vbmain	advl	nonfinite	simple	active		edcls			VBN	prep	11
+13	on	on	in+advl	in	advl								IN	prep	12
+14	their	their		dt	poss								PRP$	poss	16
+15	radius	radius	nn+npremod	nn			npremod						NN	compound	16
+16	size	size		nn									NN	pobj	13
+17	.	.											.	punct	2
+
+#sentid = 155
+0	Conclusions	conclusion		nn	pl								NNS	nsubj	12
+1	about	about	in+npostmod	in	nmod								IN	prep	0
+2	the	the		dt	art								DT	det	3
+3	effects	effect		nn	pl								NNS	pobj	1
+4	of	of	of+npostmod	in	nmod								IN	prep	3
+5	location	location		nn		nom							NN	pobj	4
+6	,	,											,	punct	5
+7	character	character	nn+npremod	nn		nom	npremod						NN	compound	8
+8	color	color		nn		nom							NN	conj	5
+9	and	and		cc	phrs								CC	cc	8
+10	numbering	numbering	nn+npremod	nn		nom	npremod						NN	compound	11
+11	scale	scale		nn									NN	conj	8
+12	were	be		vbmain	be	past	simple	active					VBD	ROOT	12
+13	not	not											RB	neg	12
+14	possible	possible		jj	pred								JJ	acomp	12
+15	.	.											.	punct	12
+
+#sentid = 156
+0													_SP	dep	21
+1	Using	use	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	21
+2	the	the		dt	art								DT	det	3
+3	relationships	relationship		nn	pl	nom							NNS	dobj	1
+4	found	find	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	3
+5	above	above	rb+advl	rb	advl								RB	advmod	4
+6	as	as		rb	othr								RB	advmod	8
+7	well	well		rb	othr								RB	advmod	8
+8	as	as		cc	phrs								IN	cc	3
+9	the	the		dt	art								DT	det	10
+10	data	datum		nn	pl								NNS	conj	3
+11	collected	collect	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	10
+12	,	,											,	punct	21
+13	the	the		dt	art								DT	det	15
+14	optimal	optimal	attr+npremod	jj	attr								JJ	amod	15
+15	speedometers	speedometer		nn	pl	nom							NNS	nsubjpass	21
+16	for	for	in+npostmod	in	nmod								IN	prep	15
+17	each	each		dt									DT	det	19
+18	task	task	nn+npremod	nn			npremod						NN	compound	19
+19	condition	condition		nn		nom							NN	pobj	16
+20	were	be		vbaux									VBD	auxpass	21
+21	found	find		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	21
+22	.	.											.	punct	21
+
+#sentid = 157
+0	Using	use	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	15
+1	low	low	attr+npremod	jj	attr								JJ	amod	3
+2	response	response	nn+npremod	nn			npremod						NN	compound	3
+3	time	time		nn									NN	dobj	0
+4	and	and		cc	phrs								CC	cc	3
+5	incorrect	incorrect	attr+npremod	jj	attr								JJ	amod	7
+6	response	response	nn+npremod	nn			npremod						NN	compound	7
+7	rate	rate		nn		nom							NN	conj	3
+8	as	as	in+advl	in	advl								IN	prep	0
+9	the	the		dt	art								DT	det	10
+10	criteria	criterion		nn	pl								NNS	pobj	8
+11	,	,											,	punct	15
+12	speedometer	speedometer		nn		nom							NN	nsubjpass	15
+13	2	2											CD	nummod	12
+14	was	be		vbaux									VBD	auxpass	15
+15	selected	select		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	15
+16	the	the		dt	art								DT	det	18
+17	optimal	optimal	attr+npremod	jj	attr								JJ	amod	18
+18	speedometer	speedometer		nn		nom							NN	oprd	15
+19	for	for	in+npostmod	in	nmod								IN	prep	18
+20	both	both		dt									DT	det	22
+21	task	task	nn+npremod	nn			npremod						NN	compound	22
+22	conditions	condition		nn	pl	nom							NNS	pobj	19
+23	.	.											.	punct	15
+
+#sentid = 158
+0	One	one											CD	nummod	2
+1	interesting	interesting	attr+npremod	jj	attr								JJ	amod	2
+2	point	point		nn									NN	nsubj	3
+3	was	be		vbmain	be	past	simple	active					VBD	ROOT	3
+4	the	the		dt	art								DT	det	5
+5	difference	difference		nn		nom							NN	attr	3
+6	in	in	in+npostmod	in	nmod								IN	prep	5
+7	importance	importance		nn		nom							NN	pobj	6
+8	between	between	in+npostmod	in	nmod								IN	prep	5
+9	response	response	nn+npremod	nn			npremod						NN	compound	10
+10	time	time		nn									NN	pobj	8
+11	and	and		cc	phrs								CC	cc	10
+12	incorrect	incorrect	attr+npremod	jj	attr								JJ	amod	14
+13	response	response	nn+npremod	nn			npremod						NN	compound	14
+14	rate	rate		nn		nom							NN	conj	10
+15	.	.											.	punct	3
+
+#sentid = 159
+0	This	this		pro	dem	sg							DT	nsubjpass	2
+1	was	be		vbaux									VBD	auxpass	2
+2	concluded	conclude		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	2
+3	due	due	in+advl	in	advl								IN	prep	2
+4	to	to											IN	pcomp	3
+5	the	the		dt	art								DT	det	7
+6	natural	natural	attr+npremod	jj	attr								JJ	amod	7
+7	consequence	consequence		nn		nom							NN	pobj	3
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	not	not											RB	neg	10
+10	having	have	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	8
+11	your	your		dt	poss								PRP$	poss	12
+12	eyes	eye		nn	pl								NNS	dobj	10
+13	on	on	in+advl	in	advl								IN	prep	10
+14	the	the		dt	art								DT	det	15
+15	road	road		nn									NN	pobj	13
+16	.	.											.	punct	2
+
+#sentid = 160
+0	The	the		dt	art								DT	det	2
+1	safety	safety	nn+npremod	nn			npremod						NN	compound	2
+2	issues	issue		nn	pl								NNS	nsubj	14
+3	concerning	concern		vbmain	nmod	nonfinite	simple	active		ingcls			VBG	prep	2
+4	the	the		dt	art								DT	det	5
+5	amount	amount		nn									NN	pobj	3
+6	of	of	of+npostmod	in	nmod								IN	prep	5
+7	time	time		nn									NN	pobj	6
+8	your	your		dt	poss								PRP$	poss	9
+9	eyes	eye		nn	pl								NNS	nsubj	10
+10	are	be	finitecls+rel	vbmain	be	pres	simple	active	nmod_cls		rel	reldel	VBP	relcl	5
+11	off	off	in+advl	in	advl								IN	prep	10
+12	the	the		dt	art								DT	det	13
+13	road	road		nn									NN	pobj	11
+14	are	be		vbmain	be	pres	simple	active					VBP	ROOT	14
+15	generally	generally	rb+advl	rb	advl	ly							RB	advmod	14
+16	more	more	rb+jjrbmod	rb	adjmod								RBR	advmod	17
+17	severe	severe		jj	pred								JJ	acomp	14
+18	than	than	in+jcomp	in	jcomp								IN	prep	17
+19	incorrect	incorrect	attr+npremod	jj	attr								JJ	amod	20
+20	knowledge	knowledge		nn									NN	pobj	18
+21	of	of	of+npostmod	in	nmod								IN	prep	20
+22	whether	whether		cs	cs_othr								IN	mark	25
+23	you	you		pro	2nd	sg							PRP	nsubj	25
+24	are	be		vbaux									VBP	aux	25
+25	speeding	speed		vbmain	vblex	pres	prog	active	compcls		other_advl	compdel	VBG	pcomp	21
+26	.	.											.	punct	14
+
+#sentid = 161
+0													_SP	dep	6
+1	Revisions	revision		nn	pl								NNS	nsubj	6
+2	in	in	in+npostmod	in	nmod								IN	prep	1
+3	the	the		dt	art								DT	det	4
+4	experiment	experiment		nn		nom							NN	pobj	2
+5	could	could		vbaux	mod	pos							MD	aux	6
+6	prove	prove		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	6
+7	to	to		to									TO	aux	8
+8	be	be	tocls+vcomp	vbmain	be	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	6
+9	very	very	rb+jjrbmod	rb	adjmod								RB	advmod	10
+10	helpful	helpful		jj	pred								JJ	acomp	8
+11	.	.											.	punct	6
+
+#sentid = 162
+0	For	for	in+advl	in	advl								IN	prep	12
+1	example	example		nn									NN	pobj	0
+2	,	,											,	punct	12
+3	due	due	in+advl	in	advl								IN	prep	12
+4	to	to											IN	pcomp	3
+5	the	the		dt	art								DT	det	7
+6	poor	poor	attr+npremod	jj	attr								JJ	amod	7
+7	choice	choice		nn									NN	pobj	3
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	speedometers	speedometer		nn	pl	nom							NNS	pobj	8
+10	,	,											,	punct	12
+11	it	it		pro	3rd	sg							PRP	nsubj	12
+12	was	be		vbmain	be	past	simple	active					VBD	ROOT	12
+13	very	very	rb+jjrbmod	rb	adjmod								RB	advmod	14
+14	difficult	difficult		jj	pred								JJ	acomp	12
+15	to	to		to									TO	aux	16
+16	assign	assign	xtrapos+tocls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	12
+17	the	the		dt	art								DT	det	18
+18	causes	cause		nn	pl								NNS	dobj	16
+19	of	of	of+npostmod	in	nmod								IN	prep	18
+20	differences	difference		nn	pl	nom							NNS	pobj	19
+21	in	in	in+npostmod	in	nmod								IN	prep	20
+22	task	task	nn+npremod	nn			npremod						NN	compound	23
+23	performance	performance		nn		nom							NN	pobj	21
+24	to	to	in+advl	in	advl								IN	prep	16
+25	attributes	attribute		nn	pl								NNS	pobj	24
+26	of	of	of+npostmod	in	nmod								IN	prep	25
+27	the	the		dt	art								DT	det	28
+28	speedometers	speedometer		nn	pl	nom							NNS	pobj	26
+29	.	.											.	punct	12
+
+#sentid = 163
+0	Speedometers	speedometer		nn	pl	nom							NNS	nsubjpass	11
+1	with	with	in+npostmod	in	nmod								IN	prep	0
+2	similar	similar	attr+npremod	jj	attr								JJ	amod	3
+3	characteristics	characteristic		nn	pl								NNS	pobj	1
+4	and	and		cc	phrs								CC	cc	3
+5	one	one											CD	nummod	7
+6	large	large	attr+npremod	jj	attr								JJ	amod	7
+7	difference	difference		nn		nom							NN	conj	3
+8	should	should		vbaux	mod	nec							MD	aux	11
+9	have	have		vbaux									VB	aux	11
+10	been	be		vbaux									VBN	auxpass	11
+11	chosen	choose		vbmain	vblex	vp_w_modal	perf	pasv_agls					VBN	ROOT	11
+12	for	for	in+advl	in	advl								IN	prep	11
+13	the	the		dt	art								DT	det	14
+14	experiment	experiment		nn		nom							NN	pobj	12
+15	such	such	rb+advl	rb	advl								JJ	advmod	30
+16	that	that		cs	cs_othr								IN	mark	30
+17	the	the		dt	art								DT	det	18
+18	process	process		nn		nom							NN	nsubj	30
+19	of	of	of+npostmod	in	nmod								IN	prep	18
+20	assigning	assign	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	19
+21	the	the		dt	art								DT	det	22
+22	causes	cause		nn	pl								NNS	dobj	20
+23	of	of	of+npostmod	in	nmod								IN	prep	22
+24	differences	difference		nn	pl	nom							NNS	pobj	23
+25	in	in	in+npostmod	in	nmod								IN	prep	24
+26	the	the		dt	art								DT	det	27
+27	data	datum		nn	pl								NNS	pobj	25
+28	could	could		vbaux	mod	pos							MD	aux	30
+29	have	have		vbaux									VB	aux	30
+30	been	be	finitecls+advl	vbmain	be	vp_w_modal	perf	active	advlcls				VBN	advcl	11
+31	clearer	clear		jj	pred								JJR	acomp	30
+32	.	.											.	punct	11
+
+#sentid = 164
+0	Also	also	rb+advl	rb	advl								RB	advmod	17
+1	,	,											,	punct	17
+2	a	a		dt	art								DT	det	5
+3	larger	large	attr+npremod	jj	attr								JJR	amod	5
+4	sample	sample	nn+npremod	nn			npremod						NN	compound	5
+5	size	size		nn									NN	nsubjpass	17
+6	of	of	of+npostmod	in	nmod								IN	prep	5
+7	test	test	nn+npremod	nn			npremod						NN	compound	8
+8	participants	participant		nn	pl	nom							NNS	pobj	6
+9	as	as		rb	othr								RB	advmod	11
+10	well	well		rb	othr								RB	advmod	11
+11	as	as		cc	phrs								IN	cc	5
+12	testing	testing	nn+npremod	nn		nom	npremod						NN	compound	13
+13	blocks	block		nn	pl								NNS	conj	5
+14	should	should		vbaux	mod	nec							MD	aux	17
+15	have	have		vbaux									VB	aux	17
+16	been	be		vbaux									VBN	auxpass	17
+17	used	use		vbmain	vblex	vp_w_modal	perf	pasv_agls					VBN	ROOT	17
+18	to	to		to									TO	aux	19
+19	increase	increase	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	17
+20	confidence	confidence		nn		nom							NN	dobj	19
+21	in	in	in+npostmod	in	nmod								IN	prep	20
+22	the	the		dt	art								DT	det	23
+23	inferences	inference		nn	pl	nom							NNS	pobj	21
+24	made	make	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	23
+25	.	.											.	punct	17
+
+#sentid = 165
+0	With	with	in+advl	in	advl								IN	prep	7
+1	these	these		dt	dt_dem								DT	det	2
+2	changes	change		nn	pl								NNS	pobj	0
+3	,	,											,	punct	7
+4	the	the		dt	art								DT	det	5
+5	experiment	experiment		nn		nom							NN	nsubj	7
+6	could	could		vbaux	mod	pos							MD	aux	7
+7	be	be		vbmain	be	vp_w_modal	simple	active					VB	ROOT	7
+8	much	much	rb+jjrbmod	rb	othr								RB	advmod	9
+9	more	more	rb+jjrbmod	rb	adjmod								RBR	advmod	10
+10	effective	effective		jj	pred								JJ	acomp	7
+11	in	in	in+jcomp	in	jcomp								IN	prep	10
+12	answering	answer	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	11
+13	the	the		dt	art								DT	det	14
+14	objectives	objective		nn	pl								NNS	dobj	12
+15	stated	state	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	14
+16	.	.											.	punct	7

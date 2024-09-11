@@ -1,0 +1,2045 @@
+#sentid = 0
+0	Your	your		dt	poss								PRP$	poss	1
+1	company	company		nn									NN	nsubj	2
+2	trains	train		vbmain	vblex	pres	simple	active					VBZ	ROOT	2
+3	heating	heating	nn+npremod	nn		nom	npremod						NN	nmod	10
+4	,	,											,	punct	3
+5	ventilation	ventilation		nn		nom							NN	conj	3
+6	and	and		cc	phrs								CC	cc	5
+7	air	air	nn+npremod	nn			npremod						NN	compound	8
+8	conditioning	conditioning		nn		nom							NN	conj	5
+9	(	(											-LRB-	punct	10
+10	HVAC	hvac	nn+npremod	nn		proper	npremod						NNP	nmod	12
+11	)	)											-RRB-	punct	10
+12	technicians	technician		nn	pl								NNS	dobj	2
+13	to	to		to									TO	aux	14
+14	install	install	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	2
+15	and	and		cc	phrs								CC	cc	14
+16	optimize	optimize		vbmain	vblex	nonfinite	simple	active					VB	conj	14
+17	refrigeration	refrigeration	nn+npremod	nn		nom	npremod						NN	nmod	20
+18	and	and		cc	phrs								CC	cc	17
+19	heating	heating		nn		nom							NN	conj	17
+20	systems	system		nn	pl								NNS	dobj	16
+21	.	.											.	punct	2
+
+#sentid = 1
+0	After	after	in+advl	in	advl								IN	prep	4
+1	training	training		nn		nom							NN	pobj	0
+2	,	,											,	punct	4
+3	you	you		pro	2nd	sg							PRP	nsubj	4
+4	test	test		vbmain	vblex	pres	simple	active					VBP	ROOT	4
+5	them	they		pro	pl								PRP	dobj	4
+6	on	on	in+advl	in	advl								IN	prep	4
+7	their	their		dt	poss								PRP$	poss	8
+8	ability	ability		nn		nom							NN	pobj	6
+9	to	to		to									TO	aux	10
+10	find	find	tocls+ncomp	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	ncomp		VB	acl	8
+11	a	a		dt	art								DT	det	12
+12	system	system	s+gen	dt	poss		sgen						NN	poss	16
+13	’s	’s											POS	case	12
+14	best	good	attr+npremod	jj	attr								JJS	amod	16
+15	operating	operating	nn+npremod	nn		nom	npremod						NN	compound	16
+16	condition	condition		nn		nom							NN	dobj	10
+17	but	but		cc	cls								CC	cc	4
+18	you	you		pro	2nd	sg							PRP	nsubj	21
+19	have	have		vbaux									VBP	aux	21
+20	been	be		vbaux									VBN	aux	21
+21	receiving	receive		vbmain	vblex	pres	perfprog	active					VBG	conj	4
+22	complaints	complaint		nn	pl								NNS	dobj	21
+23	that	that		relpro	relpro_that								IN	mark	26
+24	this	this		dt	dt_dem								DT	det	25
+25	test	test		nn									NN	nsubj	26
+26	is	be	thatcls+ncomp	vbmain	be	pres	simple	active	nmod_cls	thatcls	ncomp		VBZ	acl	22
+27	unfair	unfair		jj	pred								JJ	acomp	26
+28	due	due		jj	attr								IN	amod	29
+29	to	to	in+advl	in	advl								IN	prep	26
+30	the	the		dt	art								DT	det	31
+31	uncertainties	uncertainty		nn	pl								NNS	pobj	29
+32	in	in	in+npostmod	in	nmod								IN	prep	31
+33	the	the		dt	art								DT	det	41
+34	vapor	vapor	nn+npremod	nn		nom	npremod						NN	nmod	35
+35	compression	compression	nn+npremod	nn			npremod						NN	nmod	36
+36	cycle	cycle	nn+npremod	nn			npremod						NN	nmod	41
+37	(	(											-LRB-	punct	41
+38	VCC	vcc	nn+npremod	nn		proper	npremod						NNP	nmod	41
+39	)	)											-RRB-	punct	41
+40	training	training	nn+npremod	nn		nom	npremod						NN	compound	41
+41	carts	cart		nn	pl								NNS	pobj	32
+42	used	use	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	41
+43	.	.											.	punct	21
+
+#sentid = 2
+0	Thus	thus		rb	link								RB	advmod	4
+1	,	,											,	punct	4
+2	you	you		pro	2nd	sg							PRP	nsubj	4
+3	have	have		vbaux									VBP	aux	4
+4	provided	provide		vbmain	vblex	pres	perf	active					VBN	ROOT	4
+5	our	our		dt	poss								PRP$	poss	6
+6	company	company		nn									NN	dobj	4
+7	with	with	in+advl	in	advl								IN	prep	4
+8	the	the		dt	art								DT	det	10
+9	VCC	vcc	nn+npremod	nn		proper	npremod						NNP	compound	10
+10	cart	cart		nn									NN	pobj	7
+11	used	use	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	10
+12	for	for	in+advl	in	advl								IN	prep	11
+13	training	training		nn		nom							NN	pobj	12
+14	and	and		cc	phrs								CC	cc	4
+15	requested	request		vbmain	vblex	nonfinite	simple	active		edcls			VBN	conj	4
+16	that	that		comp	comp_that								IN	mark	18
+17	we	we		pro	1st								PRP	nsubj	18
+18	quantify	quantify		vbmain	vblex	nonfinite	simple	active	compcls	thatcls	vcomp		VB	ccomp	15
+19	the	the		dt	art								DT	det	20
+20	coefficient	coefficient		nn		nom							NN	dobj	18
+21	of	of	of+npostmod	in	nmod								IN	prep	20
+22	performance	performance		nn		nom							NN	pobj	21
+23	using	use	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	18
+24	compressor	compressor	nn+npremod	nn		nom	npremod						NN	compound	25
+25	frequencies	frequency		nn	pl	nom							NNS	dobj	23
+26	of	of	of+npostmod	in	nmod								IN	prep	25
+27	30	30											CD	nummod	28
+28	Hz	hz		nn									NN	pobj	26
+29	,	,											,	punct	28
+30	45	45											CD	nummod	31
+31	Hz	hz		nn									NN	conj	28
+32	and	and		cc	phrs								CC	cc	31
+33	60	60											CD	nummod	34
+34	Hz	hz		nn									NN	conj	31
+35	and	and		cc	phrs								CC	cc	18
+36	show	show		vbmain	vblex	nonfinite	simple	active					VB	conj	18
+37	the	the		dt	art								DT	det	38
+38	results	result		nn	pl								NNS	dobj	36
+39	on	on	in+advl	in	advl								IN	prep	36
+40	a	a		dt	art								DT	det	44
+41	temperature	temperature	nn+npremod	nn		nom	npremod						NN	compound	43
+42	-	-											HYPH	punct	43
+43	entropy	entropy	nn+npremod	nn			npremod						NN	compound	44
+44	diagram	diagram		nn									NN	pobj	39
+45	.	.											.	punct	4
+
+#sentid = 3
+0	Additionally	additionally	rb+advl	rb	advl	ly							RB	advmod	4
+1	,	,											,	punct	4
+2	you	you		pro	2nd	sg							PRP	nsubj	4
+3	have	have		vbaux									VBP	aux	4
+4	asked	ask		vbmain	prepv	pres	perf	active					VBN	ROOT	4
+5	for	for	in+advl	in	advl								IN	prep	4
+6	any	any		dt									DT	det	8
+7	other	other	attr+npremod	jj	attr								JJ	amod	8
+8	properties	property		nn	pl								NNS	pobj	5
+9	to	to		to									TO	aux	10
+10	consider	consider	tocls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	rel		VB	relcl	8
+11	when	when		rb	advl								WRB	advmod	12
+12	determining	determine	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	10
+13	a	a		dt	art								DT	det	14
+14	unit	unit	s+gen	dt	poss		sgen						NN	poss	16
+15	’s	’s											POS	case	14
+16	ability	ability		nn		nom							NN	dobj	12
+17	to	to		to									TO	aux	18
+18	heat	heat	tocls+ncomp	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	ncomp		VB	acl	16
+19	or	or		cc	phrs								CC	cc	18
+20	cool	cool		vbmain	vblex	nonfinite	simple	active					VB	conj	18
+21	efficiently	efficiently	rb+advl	rb	advl	ly							RB	advmod	20
+22	,	,											,	punct	16
+23	and	and		cc	phrs								CC	cc	16
+24	if	if		cs	cnd								IN	mark	29
+25	they	they		pro	pl								PRP	nsubjpass	29
+26	should	should		vbaux	mod	nec							MD	aux	29
+27	also	also	rb+advl	rb	advl		splaux						RB	advmod	29
+28	be	be		vbaux									VB	auxpass	29
+29	used	use		vbmain	vblex	vp_w_modal	simple	pasv_agls			conditional		VBN	conj	16
+30	to	to		to									TO	aux	31
+31	test	test	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	29
+32	your	your		dt	poss								PRP$	poss	33
+33	technicians	technician		nn	pl								NNS	dobj	31
+34	.	.											.	punct	4
+
+#sentid = 4
+0	We	we		pro	1st								PRP	nsubj	2
+1	have	have		vbaux									VBP	aux	2
+2	completed	complete		vbmain	vblex	pres	perf	active					VBN	ROOT	2
+3	these	these		dt	dt_dem								DT	det	4
+4	tasks	task		nn	pl								NNS	dobj	2
+5	.	.											.	punct	2
+
+#sentid = 5
+0	The	the		dt	art								DT	det	1
+1	purpose	purpose		nn									NN	nsubj	5
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	this	this		dt	dt_dem								DT	det	4
+4	report	report		nn									NN	pobj	2
+5	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	5
+6	to	to		to									TO	aux	7
+7	present	present	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	5
+8	our	our		dt	poss								PRP$	poss	9
+9	procedure	procedure		nn		nom							NN	dobj	7
+10	,	,											,	punct	9
+11	findings	finding		nn	pl	nom							NNS	conj	9
+12	,	,											,	punct	11
+13	conclusions	conclusion		nn	pl								NNS	conj	11
+14	,	,											,	punct	13
+15	recommendations	recommendation		nn	pl	nom							NNS	conj	13
+16	and	and		cc	phrs								CC	cc	15
+17	supporting	support	attr+npremod	jj	attr	ing							VBG	amod	18
+18	documents	document		nn	pl	nom							NNS	conj	15
+19	.	.											.	punct	5
+
+#sentid = 6
+0													_SP	dep	2
+1	We	we		pro	1st								PRP	nsubj	2
+2	determined	determine		vbmain	vblex	past	simple	active					VBD	ROOT	2
+3	the	the		dt	art								DT	det	4
+4	values	value		nn	pl								NNS	dobj	2
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	the	the		dt	art								DT	det	7
+7	coefficient	coefficient		nn		nom							NN	pobj	5
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	performance	performance		nn		nom							NN	pobj	8
+10	shown	show	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	4
+11	in	in	in+advl	in	advl								IN	prep	10
+12	Table	table		nn									NN	pobj	11
+13	1	1											CD	nummod	12
+14	below	below		rb	othr								RB	advmod	12
+15	.	.											.	punct	2
+
+#sentid = 7
+0	We	we		pro	1st								PRP	nsubj	2
+1	also	also	rb+advl	rb	advl								RB	advmod	2
+2	constructed	construct		vbmain	vblex	past	simple	active					VBD	ROOT	2
+3	a	a		dt	art								DT	det	7
+4	temperature	temperature	nn+npremod	nn		nom	npremod						NN	compound	6
+5	-	-											HYPH	punct	6
+6	entropy	entropy	nn+npremod	nn			npremod						NN	compound	7
+7	diagram	diagram		nn									NN	dobj	2
+8	(	(											-LRB-	punct	7
+9	Fig	fig	appos+npostmod	nn			nappos						NN	appos	7
+10	.	.	appos+npostmod	nn			nappos						NN	appos	9
+11	2	2											CD	nummod	10
+12	on	on	in+npostmod	in	nmod								IN	prep	10
+13	p.	p.		nn									NN	pobj	12
+14	3	3											CD	nummod	13
+15	)	)											-RRB-	punct	7
+16	from	from	in+advl	in	advl								IN	prep	2
+17	our	our		dt	poss								PRP$	poss	18
+18	results	result		nn	pl								NNS	pobj	16
+19	.	.											.	punct	2
+
+#sentid = 8
+0	Our	our		dt	poss								PRP$	poss	1
+1	results	result		nn	pl								NNS	nsubj	2
+2	show	show		vbmain	vblex	pres	simple	active					VBP	ROOT	2
+3	that	that		cs	cs_othr								IN	mark	8
+4	the	the		dt	art								DT	det	5
+5	coefficient	coefficient		nn		nom							NN	nsubj	8
+6	of	of	of+npostmod	in	nmod								IN	prep	5
+7	performance	performance		nn		nom							NN	pobj	6
+8	decreases	decrease	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls				VBZ	advcl	2
+9	as	as		cs	cs_othr								IN	mark	13
+10	the	the		dt	art								DT	det	12
+11	compressor	compressor	nn+npremod	nn		nom	npremod						NN	compound	12
+12	frequency	frequency		nn		nom							NN	nsubj	13
+13	increases	increase	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		other_advl		VBZ	advcl	8
+14	,	,											,	punct	8
+15	and	and		cc	cls								CC	cc	8
+16	that	that											IN	mark	22
+17	the	the		dt	art								DT	det	18
+18	values	value		nn	pl								NNS	nsubj	22
+19	at	at	in+npostmod	in	nmod								IN	prep	18
+20	each	each		dt									DT	det	21
+21	frequency	frequency		nn		nom							NN	pobj	19
+22	are	be		vbmain	be	pres	simple	active					VBP	conj	8
+23	distinct	distinct		jj	pred								JJ	acomp	22
+24	even	even		rb	othr								RB	advmod	25
+25	with	with	in+jcomp	in	jcomp								IN	prep	23
+26	uncertainties	uncertainty		nn	pl								NNS	pobj	25
+27	.	.											.	punct	2
+
+#sentid = 9
+0	The	the		dt	art								DT	det	2
+1	clear	clear	attr+npremod	jj	attr								JJ	amod	2
+2	distinction	distinction		nn		nom							NN	nsubj	6
+3	in	in	in+npostmod	in	nmod								IN	prep	2
+4	these	these		dt	dt_dem								DT	det	5
+5	values	value		nn	pl								NNS	pobj	3
+6	leads	lead		vbmain	vblex	pres	simple	active					VBZ	ROOT	6
+7	us	we		pro	pl								PRP	dobj	6
+8	to	to		to									TO	aux	9
+9	conclude	conclude	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	6
+10	that	that		cs	cs_othr								IN	mark	13
+11	your	your		dt	poss								PRP$	poss	12
+12	testing	testing		nn		nom							NN	nsubj	13
+13	is	be	finitecls+advl	vbmain	be	pres	simple	active	advlcls				VBZ	advcl	9
+14	fair	fair		jj	pred								JJ	acomp	13
+15	and	and		cc	cls								CC	cc	13
+16	that	that											IN	mark	21
+17	the	the		dt	art								DT	det	18
+18	uncertainties	uncertainty		nn	pl								NNS	nsubj	21
+19	should	should		vbaux	mod	nec							MD	aux	21
+20	not	not											RB	neg	21
+21	create	create		vbmain	vblex	vp_w_modal	simple	active					VB	conj	13
+22	any	any		dt									DT	det	23
+23	confusion	confusion		nn									NN	dobj	21
+24	as	as	in+npostmod	in	nmod								IN	prep	23
+25	to	to		in	in_othr								IN	prep	24
+26	which	which		dt									WDT	det	28
+27	compressor	compressor	nn+npremod	nn		nom	npremod						NN	compound	28
+28	speed	speed		nn									NN	nsubj	29
+29	produces	produce		vbmain	vblex	pres	simple	active	compcls		incomp	compdel	VBZ	pcomp	25
+30	the	the		dt	art								DT	det	32
+31	best	good	attr+npremod	jj	attr								JJS	amod	32
+32	coefficient	coefficient		nn		nom							NN	dobj	29
+33	of	of	of+npostmod	in	nmod								IN	prep	32
+34	performance	performance		nn		nom							NN	pobj	33
+35	.	.											.	punct	6
+
+#sentid = 10
+0	We	we		pro	1st								PRP	nsubj	1
+1	recommend	recommend		vbmain	vblex	pres	simple	active					VBP	ROOT	1
+2	that	that		comp	comp_that								IN	mark	18
+3	in	in	in+advl	in	advl								IN	prep	18
+4	addition	addition		nn		nom							NN	pobj	3
+5	to	to	in+npostmod	in	nmod								IN	prep	4
+6	training	train	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	5
+7	your	your		dt	poss								PRP$	poss	8
+8	technicians	technician		nn	pl								NNS	dobj	6
+9	on	on	in+advl	in	advl								IN	prep	6
+10	optimizing	optimize	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	9
+11	the	the		dt	art								DT	det	12
+12	coefficient	coefficient		nn		nom							NN	dobj	10
+13	of	of	of+npostmod	in	nmod								IN	prep	12
+14	performance	performance		nn		nom							NN	pobj	13
+15	that	that		comp	comp_that								IN	mark	18
+16	you	you		pro	2nd	sg							PRP	nsubj	18
+17	also	also	rb+advl	rb	advl								RB	advmod	18
+18	train	train	thatcls+vcomp	vbmain	vblex	pres	simple	active	compcls	thatcls	vcomp		VBP	ccomp	1
+19	them	they		pro	pl								PRP	dobj	18
+20	to	to		to									TO	aux	21
+21	understand	understand	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	18
+22	the	the		dt	art								DT	det	27
+23	minimum	minimum	attr+npremod	jj	attr								JJ	amod	27
+24	cooling	cooling	nn+npremod	nn		nom	npremod						NN	nmod	27
+25	and	and		cc	phrs								CC	cc	24
+26	heating	heating		nn		nom							NN	conj	24
+27	capacities	capacity		nn	pl	nom							NNS	dobj	21
+28	needed	need	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	27
+29	for	for	in+advl	in	advl								IN	prep	28
+30	the	the		dt	art								DT	det	31
+31	building	building		nn		nom							NN	pobj	29
+32	the	the		dt	art								DT	det	33
+33	system	system		nn									NN	nsubjpass	35
+34	is	be		vbaux									VBZ	auxpass	35
+35	used	use	finitecls+rel	vbmain	vblex	pres	simple	pasv_agls	nmod_cls		rel	reldel	VBN	relcl	31
+36	on	on	in+advl	in	advl								IN	prep	35
+37	.	.											.	punct	1
+
+#sentid = 11
+0	We	we		pro	1st								PRP	nsubj	1
+1	observed	observe		vbmain	vblex	past	simple	active					VBD	ROOT	1
+2	the	the		dt	art								DT	det	6
+3	cooling	cooling	nn+npremod	nn		nom	npremod						NN	nmod	6
+4	and	and		cc	phrs								CC	cc	3
+5	heating	heating		nn		nom							NN	conj	3
+6	capacities	capacity		nn	pl	nom							NNS	nsubj	14
+7	(	(											-LRB-	punct	6
+8	also	also	rb+advl	rb	advl								RB	advmod	9
+9	shown	show	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	6
+10	in	in	in+advl	in	advl								IN	prep	9
+11	Table	table		nn									NN	pobj	10
+12	1	1											CD	nummod	11
+13	)	)											-RRB-	punct	6
+14	decreased	decrease	thatcls+vcomp	vbmain	vblex	past	simple	active	compcls		vcomp	compdel	VBN	ccomp	1
+15	as	as		cs	cs_othr								IN	mark	19
+16	the	the		dt	art								DT	det	18
+17	compressor	compressor	nn+npremod	nn		nom	npremod						NN	compound	18
+18	speed	speed		nn									NN	nsubj	19
+19	increases	increase	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		other_advl		VBZ	advcl	14
+20	,	,											,	punct	14
+21	the	the		dt	art								DT	det	23
+22	opposite	opposite	attr+npremod	jj	attr								JJ	amod	23
+23	trend	trend		nn									NN	npadvmod	14
+24	of	of		in	nmod								IN	prep	23
+25	the	the		dt	art								DT	det	26
+26	coefficient	coefficient		nn		nom							NN	pobj	24
+27	of	of	of+npostmod	in	nmod								IN	prep	26
+28	performance	performance		nn		nom							NN	pobj	27
+29	.	.											.	punct	1
+
+#sentid = 12
+0	If	if		cs	cnd								IN	mark	6
+1	the	the		dt	art								DT	det	5
+2	cooling	cooling	nn+npremod	nn		nom	npremod						NN	nmod	5
+3	and	and		cc	phrs								CC	cc	2
+4	heating	heating		nn		nom							NN	conj	2
+5	capacities	capacity		nn	pl	nom							NNS	nsubj	6
+6	are	be	finitecls+advl	vbmain	be	pres	simple	active	advlcls		conditional		VBP	advcl	24
+7	too	too	rb+jjrbmod	rb	adjmod								RB	advmod	8
+8	low	low		jj	pred								JJ	acomp	6
+9	with	with	in+advl	in	advl								IN	prep	6
+10	respect	respect		nn									NN	pobj	9
+11	to	to	in+npostmod	in	nmod								IN	prep	10
+12	the	the		dt	art								DT	det	13
+13	volume	volume		nn									NN	pobj	11
+14	of	of	of+npostmod	in	nmod								IN	prep	13
+15	building	building		nn		nom							NN	pobj	14
+16	they	they		pro	pl								PRP	nsubj	17
+17	operate	operate	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls		rel	reldel	VBP	relcl	13
+18	on	on	in+advl	in	advl								IN	prep	17
+19	,	,											,	punct	24
+20	the	the		dt	art								DT	det	21
+21	system	system		nn									NN	nsubj	24
+22	will	will		vbaux	mod	prd							MD	aux	24
+23	not	not											RB	neg	24
+24	be	be		vbmain	be	vp_w_modal	simple	active					VB	ROOT	24
+25	able	able		jj	pred								JJ	acomp	24
+26	to	to		to									TO	aux	27
+27	produce	produce	tocls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	jcomp		VB	xcomp	25
+28	enough	enough	attr+npremod	jj	attr								JJ	amod	30
+29	heat	heat	nn+npremod	nn			npremod						NN	compound	30
+30	transfer	transfer		nn		nom							NN	dobj	27
+31	to	to		to									TO	aux	32
+32	cool	cool	tocls+ncomp	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	ncomp		VB	acl	30
+33	or	or		cc	phrs								CC	cc	32
+34	heat	heat		vbmain	vblex	nonfinite	simple	active					VB	conj	32
+35	the	the		dt	art								DT	det	36
+36	building	building		nn		nom							NN	dobj	34
+37	to	to	in+advl	in	advl								IN	prep	34
+38	a	a		dt	art								DT	det	40
+39	desired	desire	attr+npremod	jj	attr	ed							VBN	amod	40
+40	temperature	temperature		nn		nom							NN	pobj	37
+41	.	.											.	punct	24
+
+#sentid = 13
+0													_SP	dep	1
+1	Table	table		nn									NN	ROOT	1
+2	1	1											CD	nummod	1
+3	.	.											.	punct	1
+
+#sentid = 14
+0	Both	both		dt									DT	det	1
+1	values	value		nn	pl								NNS	nsubj	7
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	the	the		dt	art								DT	det	4
+4	coefficient	coefficient		nn		nom							NN	pobj	2
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	performance	performance		nn		nom							NN	pobj	5
+7	decrease	decrease		vbmain	vblex	pres	simple	active					VBP	ROOT	7
+8	and	and		cc	cls								CC	cc	7
+9	the	the		dt	art								DT	det	10
+10	values	value		nn	pl								NNS	nsubj	17
+11	of	of	of+npostmod	in	nmod								IN	prep	10
+12	the	the		dt	art								DT	det	16
+13	cooling	cooling	nn+npremod	nn		nom	npremod						NN	nmod	15
+14	/	/											SYM	punct	15
+15	heating	heating	nn+npremod	nn		nom	npremod						NN	compound	16
+16	capacities	capacity		nn	pl	nom							NNS	pobj	11
+17	increase	increase		vbmain	vblex	pres	simple	active					VBP	conj	7
+18	with	with	in+advl	in	advl								IN	prep	17
+19	an	an		dt									DT	det	22
+20	increasing	increase	attr+npremod	jj	attr	ing							VBG	amod	22
+21	operating	operating	nn+npremod	nn		nom	npremod						NN	compound	22
+22	speed	speed		nn									NN	pobj	18
+23	.	.											.	punct	17
+
+#sentid = 15
+0													_SP	dep	3
+1	This	this		dt	dt_dem								DT	det	2
+2	section	section		nn		nom							NN	nsubj	3
+3	details	detail		vbmain	vblex	pres	simple	active					VBZ	ROOT	3
+4	the	the		dt	art								DT	det	6
+5	equipment	equipment	nn+npremod	nn		nom	npremod						NN	compound	6
+6	setup	setup		nn									NN	dobj	3
+7	and	and		cc	phrs								CC	cc	6
+8	the	the		dt	art								DT	det	9
+9	methodology	methodology		nn									NN	conj	6
+10	we	we		pro	1st								PRP	nsubj	11
+11	used	use	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls		rel	reldel	VBD	relcl	9
+12	for	for	in+advl	in	advl								IN	prep	11
+13	testing	testing		nn		nom							NN	pobj	12
+14	.	.											.	punct	3
+
+#sentid = 16
+0													_SP	dep	3
+1	Your	your		dt	poss								PRP$	poss	2
+2	company	company		nn									NN	nsubj	3
+3	provided	provide		vbmain	vblex	past	simple	active					VBD	ROOT	3
+4	us	we		pro	pl								PRP	dobj	3
+5	with	with	in+advl	in	advl								IN	prep	3
+6	a	a		dt	art								DT	det	14
+7	Hampden	hampden		nn		proper	npremod						NNP	nmod	8
+8	Model	model	nn+npremod	nn		proper	npremod						NNP	nmod	14
+9	H	h	nn+npremod	nn		proper	npremod						NNP	nmod	14
+10	-	-		nn		proper							NNP	punct	14
+11	CRT-1	crt-1		nn		proper							NNP	nummod	10
+12	Refrigeration	refrigeration		nn		proper	npremod						NNP	compound	13
+13	Trainer	trainer	nn+npremod	nn		proper	npremod						NNP	compound	14
+14	cart	cart		nn									NN	pobj	5
+15	as	as		rb	othr								RB	advmod	17
+16	well	well		rb	othr								RB	advmod	17
+17	as	as		cc	phrs								IN	cc	14
+18	a	a		dt	art								DT	det	23
+19	computer	computer		nn		nom							NN	npadvmod	20
+20	controlled	control	attr+npremod	jj	attr	ed							VBN	amod	23
+21	data	data	nn+npremod	nn			npremod						NN	compound	22
+22	acquisition	acquisition	nn+npremod	nn		nom	npremod						NN	compound	23
+23	system	system		nn									NN	conj	14
+24	to	to		to									TO	aux	25
+25	record	record	tocls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	rel		VB	relcl	23
+26	data	datum		nn	pl								NNS	dobj	25
+27	.	.											.	punct	3
+
+#sentid = 17
+0	The	the		dt	art								DT	det	1
+1	cart	cart	s+gen	dt	poss		sgen						NN	poss	4
+2	’s	’s											POS	case	1
+3	working	work	attr+npremod	jj	attr	ing							VBG	amod	4
+4	fluid	fluid		nn									NN	nsubj	5
+5	was	be		vbmain	be	past	simple	active					VBD	ROOT	5
+6	R-134a	r-134a		nn									NN	attr	5
+7	refrigerant	refrigerant		nn		nom							NN	attr	5
+8	.	.											.	punct	5
+
+#sentid = 18
+0	A	a		dt	art								DT	det	2
+1	simplified	simplified	attr+npremod	jj	attr								JJ	amod	2
+2	schematic	schematic		nn									NN	nsubjpass	8
+3	of	of	of+npostmod	in	nmod								IN	prep	2
+4	the	the		dt	art								DT	det	5
+5	cart	cart		nn									NN	pobj	3
+6	can	can		vbaux	mod	pos							MD	aux	8
+7	be	be		vbaux									VB	auxpass	8
+8	seen	see		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	8
+9	in	in	in+advl	in	advl								IN	prep	8
+10	Figure	figure		nn		nom							NN	pobj	9
+11	1	1											CD	nummod	10
+12	which	which		relpro	relpro_wh								WDT	nsubj	13
+13	shows	show	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls	whcls	rel		VBZ	relcl	10
+14	the	the		dt	art								DT	det	15
+15	path	path		nn									NN	dobj	13
+16	of	of	of+npostmod	in	nmod								IN	prep	15
+17	the	the		dt	art								DT	det	18
+18	fluid	fluid		nn									NN	pobj	16
+19	and	and		cc	phrs								CC	cc	15
+20	the	the		dt	art								DT	det	21
+21	points	point		nn	pl								NNS	conj	15
+22	where	where		rb	advl								WRB	advmod	25
+23	digital	digital	attr+npremod	jj	attr								JJ	amod	24
+24	transducers	transducer		nn	pl	nom							NNS	nsubj	25
+25	measured	measure	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls	whcls	rel		VBD	relcl	21
+26	temperature	temperature		nn		nom							NN	dobj	25
+27	and	and		cc	phrs								CC	cc	26
+28	pressure	pressure		nn		nom							NN	conj	26
+29	.	.											.	punct	8
+
+#sentid = 19
+0	The	the		dt	art								DT	det	1
+1	schematic	schematic		nn									NN	nsubj	2
+2	omits	omit		vbmain	vblex	pres	simple	active					VBZ	ROOT	2
+3	additional	additional	attr+npremod	jj	attr								JJ	amod	4
+4	elements	element		nn	pl	nom							NNS	dobj	2
+5	(	(											-LRB-	punct	4
+6	such	such		jj	attr								JJ	amod	7
+7	as	as	in+npostmod	in	nmod								IN	prep	4
+8	an	an		dt									DT	det	10
+9	oil	oil	nn+npremod	nn			npremod						NN	compound	10
+10	separator	separator		nn		nom							NN	pobj	7
+11	for	for	in+npostmod	in	nmod								IN	prep	10
+12	the	the		dt	art								DT	det	13
+13	compressor	compressor		nn		nom							NN	pobj	11
+14	)	)											-RRB-	punct	4
+15	and	and		cc	phrs								CC	cc	4
+16	extra	extra	attr+npremod	jj	attr								JJ	amod	17
+17	transducers	transducer		nn	pl	nom							NNS	conj	4
+18	because	because		cs	cos								IN	mark	22
+19	they	they		pro	pl								PRP	nsubjpass	22
+20	were	be		vbaux									VBD	auxpass	22
+21	not	not											RB	neg	22
+22	used	use	finitecls+advl	vbmain	vblex	past	simple	pasv_agls	advlcls		causative		VBN	advcl	2
+23	in	in	in+advl	in	advl								IN	prep	22
+24	our	our		dt	poss								PRP$	poss	25
+25	analysis	analysis		nn									NN	pobj	23
+26	.	.											.	punct	2
+
+#sentid = 20
+0	We	we		pro	1st								PRP	nsubj	2
+1	have	have		vbaux									VBP	aux	2
+2	defined	define		vbmain	vblex	pres	perf	active					VBN	ROOT	2
+3	the	the		dt	art								DT	det	5
+4	following	follow	attr+npremod	jj	attr	ing							VBG	amod	5
+5	points	point		nn	pl								NNS	dobj	2
+6	on	on	in+npostmod	in	nmod								IN	prep	5
+7	the	the		dt	art								DT	det	8
+8	schematic	schematic		nn									NN	pobj	6
+9	,	,											,	punct	5
+10	which	which		relpro	relpro_wh								WDT	nsubjpass	13
+11	will	will		vbaux	mod	prd							MD	aux	13
+12	be	be		vbaux									VB	auxpass	13
+13	used	use	finitecls+rel	vbmain	vblex	vp_w_modal	simple	pasv_agls	nmod_cls	whcls	rel		VBN	relcl	5
+14	later	later	rb+advl	rb	advl								RB	advmod	13
+15	in	in	in+advl	in	advl								IN	prep	13
+16	reference	reference		nn		nom							NN	pobj	15
+17	to	to	in+npostmod	in	nmod								IN	prep	16
+18	the	the		dt	art								DT	det	21
+19	vapor	vapor	nn+npremod	nn		nom	npremod						NN	compound	20
+20	compression	compression	nn+npremod	nn			npremod						NN	compound	21
+21	cycle	cycle		nn									NN	pobj	17
+22	.	.											.	punct	2
+
+#sentid = 21
+0	point	point		nn									NN	nsubj	2
+1	1	1											CD	nummod	0
+2	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	2
+3	at	at	in+advl	in	advl								IN	prep	2
+4	the	the		dt	art								DT	det	5
+5	entrance	entrance		nn		nom							NN	pobj	3
+6	to	to	in+npostmod	in	nmod								IN	prep	5
+7	the	the		dt	art								DT	det	8
+8	compressor	compressor		nn		nom							NN	pobj	6
+9	,	,											,	punct	2
+10	point	point		nn									NN	nsubj	12
+11	2	2											CD	nummod	10
+12	is	be		vbmain	be	pres	simple	active					VBZ	conj	2
+13	at	at	in+advl	in	advl								IN	prep	12
+14	the	the		dt	art								DT	det	15
+15	exit	exit		nn									NN	pobj	13
+16	of	of	of+npostmod	in	nmod								IN	prep	15
+17	the	the		dt	art								DT	det	18
+18	compressor	compressor		nn		nom							NN	pobj	16
+19	,	,											,	punct	12
+20	point	point		nn									NN	nsubj	22
+21	3	3											CD	nummod	20
+22	is	be		vbmain	be	pres	simple	active					VBZ	conj	12
+23	at	at	in+advl	in	advl								IN	prep	22
+24	the	the		dt	art								DT	det	25
+25	exit	exit		nn									NN	pobj	23
+26	of	of	of+npostmod	in	nmod								IN	prep	25
+27	the	the		dt	art								DT	det	28
+28	condenser	condenser		nn		nom							NN	pobj	26
+29	,	,											,	punct	22
+30	and	and		cc	cls								CC	cc	22
+31	point	point		nn									NN	nsubj	33
+32	4	4											CD	nummod	31
+33	is	be		vbmain	be	pres	simple	active					VBZ	conj	22
+34	at	at	in+advl	in	advl								IN	prep	33
+35	the	the		dt	art								DT	det	36
+36	entrance	entrance		nn		nom							NN	pobj	34
+37	to	to	in+npostmod	in	nmod								IN	prep	36
+38	the	the		dt	art								DT	det	39
+39	evaporator	evaporator		nn		nom							NN	pobj	37
+40	.	.											.	punct	33
+
+#sentid = 22
+0													_SP	dep	1
+1	Figure	figure		nn		nom							NN	ROOT	1
+2	1	1											CD	nummod	1
+3	.	.											.	punct	1
+4	A	a		dt	art								DT	det	6
+5	simplified	simplified	attr+npremod	jj	attr								JJ	amod	6
+6	schematic	schematic		nn			nappos						NN	appos	1
+7	of	of	of+npostmod	in	nmod								IN	prep	6
+8	the	the		dt	art								DT	det	11
+9	VCC	vcc	nn+npremod	nn		proper	npremod						NNP	compound	11
+10	training	training	nn+npremod	nn		nom	npremod						NN	compound	11
+11	cart	cart		nn									NN	pobj	7
+12	tested	test	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	11
+13													_SP	dep	1
+
+#sentid = 23
+0	We	we		pro	1st								PRP	nsubj	1
+1	conducted	conduct		vbmain	vblex	past	simple	active					VBD	ROOT	1
+2	our	our		dt	poss								PRP$	poss	3
+3	tests	test		nn	pl								NNS	dobj	1
+4	in	in	in+advl	in	advl								IN	prep	1
+5	a	a		dt	art								DT	det	6
+6	laboratory	laboratory		nn		nom							NN	pobj	4
+7	with	with	in+npostmod	in	nmod								IN	prep	6
+8	ambient	ambient	attr+npremod	jj	attr								JJ	amod	10
+9	air	air	nn+npremod	nn			npremod						NN	compound	10
+10	temperature	temperature		nn		nom							NN	pobj	7
+11	of	of	of+npostmod	in	nmod								IN	prep	10
+12	295.9±0.5	295.9±0.5											CD	nummod	13
+13	K	k		nn									NN	pobj	11
+14	and	and		cc	phrs								CC	cc	10
+15	ambient	ambient	attr+npremod	jj	attr								JJ	amod	16
+16	pressure	pressure		nn		nom							NN	conj	10
+17	of	of	of+npostmod	in	nmod								IN	prep	16
+18	97.8±0.1	97.8±0.1											CD	nummod	19
+19	kPa	kpa		nn									NN	pobj	17
+20	.	.											.	punct	1
+
+#sentid = 24
+0	First	first		rb	link								RB	advmod	3
+1	,	,											,	punct	3
+2	we	we		pro	1st								PRP	nsubj	3
+3	turned	turn		vbmain	phrsv	past	simple	active					VBD	ROOT	3
+4	on	on		rb	prtcle								RP	prt	3
+5	the	the		dt	art								DT	det	6
+6	fans	fan		nn	pl								NNS	dobj	3
+7	inside	inside	in+npostmod	in	nmod								IN	prep	6
+8	the	the		dt	art								DT	det	9
+9	condenser	condenser		nn		nom							NN	pobj	7
+10	and	and		cc	phrs								CC	cc	9
+11	evaporator	evaporator		nn		nom							NN	conj	9
+12	.	.											.	punct	3
+
+#sentid = 25
+0	Then	then		rb	link								RB	advmod	3
+1	,	,											,	punct	3
+2	we	we		pro	1st								PRP	nsubj	3
+3	set	set		vbmain	vblex	past	simple	active					VBD	ROOT	3
+4	the	the		dt	art								DT	det	6
+5	speed	speed	nn+npremod	nn			npremod						NN	compound	6
+6	controller	controller		nn		nom							NN	dobj	3
+7	to	to	in+advl	in	advl								IN	prep	3
+8	30	30											CD	nummod	9
+9	Hz	hz		nn									NN	pobj	7
+10	.	.											.	punct	3
+
+#sentid = 26
+0	Using	use	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	4
+1	LabView	labview		nn		proper							NNP	dobj	0
+2	,	,											,	punct	4
+3	we	we		pro	1st								PRP	nsubj	4
+4	monitored	monitor		vbmain	vblex	past	simple	active					VBD	ROOT	4
+5	the	the		dt	art								DT	det	6
+6	temperature	temperature		nn		nom							NN	dobj	4
+7	and	and		cc	phrs								CC	cc	6
+8	pressure	pressure		nn		nom							NN	conj	6
+9	through	through	in+npostmod	in	nmod								IN	prep	6
+10	all	all											DT	pobj	9
+11	of	of		in	in_othr								IN	prep	10
+12	the	the		dt	art								DT	det	13
+13	transducers	transducer		nn	pl	nom							NNS	pobj	11
+14	as	as		rb	othr								RB	advmod	16
+15	well	well		rb	othr								RB	advmod	16
+16	as	as		cc	phrs								IN	cc	6
+17	the	the		dt	art								DT	det	20
+18	compressor	compressor	nn+npremod	nn		nom	npremod						NN	compound	20
+19	input	input	nn+npremod	nn			npremod						NN	compound	20
+20	power	power		nn		nom							NN	conj	6
+21	and	and		cc	phrs								CC	cc	20
+22	the	the		dt	art								DT	det	24
+23	flow	flow	nn+npremod	nn			npremod						NN	compound	24
+24	rate	rate		nn		nom							NN	conj	20
+25	into	into	in+npostmod	in	nmod								IN	prep	24
+26	the	the		dt	art								DT	det	28
+27	throttling	throttle	attr+npremod	jj	attr	ing							VBG	amod	28
+28	valve	valve		nn									NN	pobj	25
+29	.	.											.	punct	4
+
+#sentid = 27
+0	We	we		pro	1st								PRP	nsubj	1
+1	waited	wait		vbmain	prepv	past	simple	active					VBD	ROOT	1
+2	for	for		cs	cs_othr								IN	mark	5
+3	readings	reading		nn	pl	nom							NNS	nsubj	5
+4	to	to		to									TO	aux	5
+5	reach	reach	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls	other_advl		VB	advcl	1
+6	steady	steady	attr+npremod	jj	attr								JJ	amod	7
+7	state	state		nn		nom							NN	dobj	5
+8	,	,											,	punct	5
+9	at	at	in+advl	in	advl								IN	prep	15
+10	which	which		dt									WDT	det	11
+11	time	time		nn									NN	pcomp	9
+12	their	their		dt	poss								PRP$	poss	13
+13	values	value		nn	pl								NNS	nsubjpass	15
+14	were	be		vbaux									VBD	auxpass	15
+15	recorded	record	finitecls+rel	vbmain	vblex	past	simple	pasv_agls	nmod_cls		rel	reldel	VBN	relcl	3
+16	five	five											CD	nummod	17
+17	times	time		nn	pl								NNS	npadvmod	15
+18	at	at	in+advl	in	advl								IN	prep	15
+19	10	10											CD	nummod	20
+20	second	second	nn+npremod	nn			npremod						NN	compound	21
+21	intervals	interval		nn	pl	nom							NNS	pobj	18
+22	.	.											.	punct	1
+
+#sentid = 28
+0	We	we		pro	1st								PRP	nsubj	1
+1	repeated	repeat		vbmain	vblex	past	simple	active					VBD	ROOT	1
+2	this	this		dt	dt_dem								DT	det	3
+3	process	process		nn		nom							NN	dobj	1
+4	twice	twice	rb+jjrbmod	rb	othr								RB	advmod	5
+5	more	more	rb+advl	rb	advl								RBR	advmod	1
+6	with	with	in+advl	in	advl								IN	prep	1
+7	speed	speed	nn+npremod	nn			npremod						NN	compound	8
+8	controller	controller	nn+npremod	nn		nom	npremod						NN	compound	9
+9	values	value		nn	pl								NNS	pobj	6
+10	of	of	of+npostmod	in	nmod								IN	prep	9
+11	45	45											CD	nummod	12
+12	Hz	hz		nn									NN	pobj	10
+13	and	and		cc	phrs								CC	cc	12
+14	59	59											CD	nummod	15
+15	Hz	hz		nn									NN	conj	12
+16	.	.											.	punct	1
+
+#sentid = 29
+0													_SP	dep	3
+1	This	this		dt	dt_dem								DT	det	2
+2	section	section		nn		nom							NN	nsubj	3
+3	outlines	outline		vbmain	vblex	pres	simple	active					VBZ	ROOT	3
+4	each	each		dt									DT	det	5
+5	process	process		nn		nom							NN	dobj	3
+6	in	in	in+npostmod	in	nmod								IN	prep	5
+7	the	the		dt	art								DT	det	11
+8	ideal	ideal	attr+npremod	jj	attr								JJ	amod	11
+9	vapor	vapor	nn+npremod	nn		nom	npremod						NN	compound	10
+10	compression	compression	nn+npremod	nn			npremod						NN	compound	11
+11	cycle	cycle		nn									NN	pobj	6
+12	and	and		cc	phrs								CC	cc	5
+13	the	the		dt	art								DT	det	14
+14	expectations	expectation		nn	pl	nom							NNS	conj	5
+15	for	for	in+npostmod	in	nmod								IN	prep	14
+16	each	each		dt									DT	det	17
+17	process	process		nn		nom							NN	pobj	15
+18	in	in	in+npostmod	in	nmod								IN	prep	14
+19	reality	reality		nn		nom							NN	pobj	18
+20	.	.											.	punct	3
+
+#sentid = 30
+0	It	it		pro	3rd	sg							PRP	nsubj	2
+1	also	also	rb+advl	rb	advl								RB	advmod	2
+2	presents	present		vbmain	vblex	pres	simple	active					VBZ	ROOT	2
+3	the	the		dt	art								DT	det	8
+4	requested	request	attr+npremod	jj	attr	ed							VBN	amod	8
+5	temperature	temperature	nn+npremod	nn		nom	npremod						NN	compound	7
+6	-	-											HYPH	punct	7
+7	entropy	entropy	nn+npremod	nn			npremod						NN	compound	8
+8	diagram	diagram		nn									NN	dobj	2
+9	,	,											,	punct	8
+10	coefficients	coefficient		nn	pl	nom							NNS	conj	8
+11	of	of	of+npostmod	in	nmod								IN	prep	10
+12	performance	performance		nn		nom							NN	pobj	11
+13	and	and		cc	phrs								CC	cc	10
+14	all	all		dt									DT	det	16
+15	relevant	relevant	attr+npremod	jj	attr								JJ	amod	16
+16	derivations	derivation		nn	pl	nom							NNS	conj	10
+17	.	.											.	punct	2
+
+#sentid = 31
+0													_SP	dep	8
+1	Each	each		dt									DT	det	2
+2	process	process		nn		nom							NN	nsubj	8
+3	in	in	in+npostmod	in	nmod								IN	prep	2
+4	the	the		dt	art								DT	det	7
+5	vapor	vapor	nn+npremod	nn		nom	npremod						NN	compound	6
+6	compression	compression	nn+npremod	nn			npremod						NN	compound	7
+7	cycle	cycle		nn									NN	pobj	3
+8	occurs	occur		vbmain	vblex	pres	simple	active					VBZ	ROOT	8
+9	as	as		cs	cs_othr								IN	mark	12
+10	the	the		dt	art								DT	det	11
+11	fluid	fluid		nn									NN	nsubj	12
+12	passes	pass	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		other_advl		VBZ	advcl	8
+13	through	through	in+advl	in	advl								IN	prep	12
+14	the	the		dt	art								DT	det	15
+15	compressor	compressor		nn		nom							NN	pobj	13
+16	,	,											,	punct	15
+17	condenser	condenser		nn		nom							NN	conj	15
+18	,	,											,	punct	17
+19	throttling	throttle	attr+npremod	jj	attr	ing							VBG	amod	20
+20	valve	valve		nn									NN	conj	17
+21	or	or		cc	phrs								CC	cc	20
+22	evaporator	evaporator		nn		nom							NN	conj	20
+23	.	.											.	punct	8
+
+#sentid = 32
+0	We	we		pro	1st								PRP	nsubj	1
+1	assumed	assume		vbmain	vblex	past	simple	active					VBD	ROOT	1
+2	that	that		comp	comp_that								IN	mark	7
+3	the	the		dt	art								DT	det	4
+4	fluid	fluid		nn									NN	nsubj	7
+5	does	do		vbaux									VBZ	aux	7
+6	not	not											RB	neg	7
+7	undergo	undergo	thatcls+vcomp	vbmain	vblex	pres	simple	active	compcls	thatcls	vcomp		VB	ccomp	1
+8	any	any		dt									DT	det	10
+9	thermodynamic	thermodynamic	attr+npremod	jj	attr								JJ	amod	10
+10	changes	change		nn	pl								NNS	dobj	7
+11	in	in	in+npostmod	in	nmod								IN	prep	10
+12	the	the		dt	art								DT	det	13
+13	tubes	tube		nn	pl								NNS	pobj	11
+14	from	from	in+npostmod	in	nmod								IN	prep	10
+15	one	one											CD	nummod	16
+16	device	device		nn									NN	pobj	14
+17	to	to		in	in_othr								IN	prep	14
+18	another	another											DT	pobj	17
+19	.	.											.	punct	1
+
+#sentid = 33
+0													_SP	dep	3
+1	The	the		dt	art								DT	det	3
+2	ideal	ideal	attr+npremod	jj	attr								JJ	amod	3
+3	cycle	cycle		nn									NN	ROOT	3
+4	.	.											.	punct	3
+
+#sentid = 34
+0	First	first		rb	link								RB	advmod	4
+1	,	,											,	punct	4
+2	the	the		dt	art								DT	det	3
+3	fluid	fluid		nn									NN	nsubj	4
+4	increases	increase		vbmain	vblex	pres	simple	active					VBZ	ROOT	4
+5	in	in	in+advl	in	advl								IN	prep	4
+6	pressure	pressure		nn		nom							NN	pobj	5
+7	through	through	in+advl	in	advl								IN	prep	4
+8	the	the		dt	art								DT	det	9
+9	compressor	compressor		nn		nom							NN	pobj	7
+10	in	in	in+advl	in	advl								IN	prep	4
+11	an	an		dt									DT	det	15
+12	adiabatic	adiabatic	attr+npremod	jj	attr								JJ	amod	15
+13	,	,											,	punct	15
+14	reversible	reversible	attr+npremod	jj	attr								JJ	amod	15
+15	process	process		nn		nom							NN	pobj	10
+16	.	.											.	punct	4
+
+#sentid = 35
+0	Then	then		rb	link								RB	advmod	4
+1	,	,											,	punct	4
+2	the	the		dt	art								DT	det	3
+3	fluid	fluid		nn									NN	nsubj	4
+4	lowers	lower		vbmain	vblex	pres	simple	active					VBZ	ROOT	4
+5	in	in	in+advl	in	advl								IN	prep	4
+6	temperature	temperature		nn		nom							NN	pobj	5
+7	at	at	in+advl	in	advl								IN	prep	4
+8	constant	constant	attr+npremod	jj	attr								JJ	amod	9
+9	pressure	pressure		nn		nom							NN	pobj	7
+10	through	through	in+advl	in	advl								IN	prep	4
+11	the	the		dt	art								DT	det	12
+12	condenser	condenser		nn		nom							NN	pobj	10
+13	and	and		cc	phrs								CC	cc	4
+14	changes	change		vbmain	vblex	pres	simple	active					VBZ	conj	4
+15	phase	phase		nn									NN	dobj	14
+16	from	from	in+advl	in	advl								IN	prep	14
+17	a	a		dt	art								DT	det	19
+18	superheated	superheate	attr+npremod	jj	attr	ed							VBN	amod	19
+19	vapor	vapor		nn		nom							NN	pobj	16
+20	to	to	in+advl	in	advl								IN	prep	14
+21	a	a		dt	art								DT	det	23
+22	saturated	saturated	attr+npremod	jj	attr								JJ	amod	23
+23	liquid	liquid		nn									NN	pobj	20
+24	.	.											.	punct	4
+
+#sentid = 36
+0	Next	next	rb+advl	rb	advl								RB	advmod	4
+1	,	,											,	punct	4
+2	the	the		dt	art								DT	det	3
+3	pressure	pressure		nn		nom							NN	nsubj	4
+4	decreases	decrease		vbmain	vblex	pres	simple	active					VBZ	ROOT	4
+5	through	through	in+advl	in	advl								IN	prep	4
+6	the	the		dt	art								DT	det	8
+7	throttling	throttle	attr+npremod	jj	attr	ing							VBG	amod	8
+8	valve	valve		nn									NN	pobj	5
+9	with	with	in+advl	in	advl								IN	prep	4
+10	no	no		dt									DT	det	11
+11	change	change		nn									NN	pobj	9
+12	in	in	in+npostmod	in	nmod								IN	prep	11
+13	enthalpy	enthalpy		nn									NN	pobj	12
+14	,	,											,	punct	11
+15	which	which		relpro	relpro_wh								WDT	nsubj	17
+16	consequently	consequently	rb+advl	rb	advl	ly							RB	advmod	17
+17	lowers	lower	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls	whcls	rel		VBZ	relcl	11
+18	the	the		dt	art								DT	det	19
+19	temperature	temperature		nn		nom							NN	dobj	17
+20	.	.											.	punct	4
+
+#sentid = 37
+0	Finally	finally		rb	link	ly							RB	advmod	4
+1	,	,											,	punct	4
+2	the	the		dt	art								DT	det	3
+3	fluid	fluid		nn									NN	nsubj	4
+4	absorbs	absorb		vbmain	vblex	pres	simple	active					VBZ	ROOT	4
+5	heat	heat		nn									NN	dobj	4
+6	in	in	in+npostmod	in	nmod								IN	prep	5
+7	the	the		dt	art								DT	det	8
+8	evaporator	evaporator		nn		nom							NN	pobj	6
+9	in	in	in+advl	in	advl								IN	prep	4
+10	an	an		dt									DT	det	16
+11	isothermal	isothermal	attr+npremod	jj	attr								JJ	amod	16
+12	,	,											,	punct	16
+13	constant	constant	attr+npremod	jj	attr								JJ	amod	15
+14	-	-											HYPH	punct	15
+15	pressure	pressure	nn+npremod	nn		nom	npremod						NN	compound	16
+16	process	process		nn		nom							NN	pobj	9
+17	.	.											.	punct	4
+
+#sentid = 38
+0													_SP	dep	1
+1	Differences	difference		nn	pl	nom							NNS	ROOT	1
+2	from	from	in+npostmod	in	nmod								IN	prep	1
+3	the	the		dt	art								DT	det	5
+4	ideal	ideal	attr+npremod	jj	attr								JJ	amod	5
+5	cycle	cycle		nn									NN	pobj	2
+6	to	to	in+npostmod	in	nmod								IN	prep	1
+7	reality	reality		nn		nom							NN	pobj	6
+8	.	.											.	punct	1
+
+#sentid = 39
+0	We	we		pro	1st								PRP	nsubj	1
+1	expect	expect		vbmain	vblex	pres	simple	active					VBP	ROOT	1
+2	that	that		comp	comp_that								IN	mark	10
+3	the	the		dt	art								DT	det	4
+4	entropy	entropy		nn									NN	nsubj	10
+5	through	through	in+npostmod	in	nmod								IN	prep	4
+6	the	the		dt	art								DT	det	7
+7	compressor	compressor		nn		nom							NN	pobj	5
+8	will	will		vbaux	mod	prd							MD	aux	10
+9	not	not											RB	neg	10
+10	be	be	thatcls+vcomp	vbmain	be	vp_w_modal	simple	active	compcls	thatcls	vcomp		VB	ccomp	1
+11	constant	constant		jj	pred								JJ	acomp	10
+12	but	but		cc	phrs								CC	cc	10
+13	will	will		vbaux	mod	prd							MD	aux	14
+14	increase	increase		vbmain	vblex	vp_w_modal	simple	active					VB	conj	10
+15	.	.											.	punct	1
+
+#sentid = 40
+0	We	we		pro	1st								PRP	nsubj	2
+1	also	also	rb+advl	rb	advl								RB	advmod	2
+2	expect	expect		vbmain	vblex	pres	simple	active					VBP	ROOT	2
+3	that	that		comp	comp_that								IN	mark	7
+4	the	the		dt	art								DT	det	5
+5	pressure	pressure		nn		nom							NN	nsubj	7
+6	will	will		vbaux	mod	prd							MD	aux	7
+7	decrease	decrease	thatcls+vcomp	vbmain	vblex	vp_w_modal	simple	active	compcls	thatcls	vcomp		VB	ccomp	2
+8	across	across	in+advl	in	advl								IN	prep	7
+9	the	the		dt	art								DT	det	10
+10	condenser	condenser		nn		nom							NN	pobj	8
+11	.	.											.	punct	2
+
+#sentid = 41
+0	Finally	finally		rb	link	ly							RB	advmod	3
+1	,	,											,	punct	3
+2	we	we		pro	1st								PRP	nsubj	3
+3	expect	expect		vbmain	vblex	pres	simple	active					VBP	ROOT	3
+4	a	a		dt	art								DT	det	5
+5	decrease	decrease		nn									NN	dobj	3
+6	in	in	in+npostmod	in	nmod								IN	prep	5
+7	pressure	pressure		nn		nom							NN	pobj	6
+8	and	and		cc	phrs								CC	cc	7
+9	temperature	temperature		nn		nom							NN	conj	7
+10	across	across	in+npostmod	in	nmod								IN	prep	5
+11	the	the		dt	art								DT	det	12
+12	evaporator	evaporator		nn		nom							NN	pobj	10
+13	.	.											.	punct	3
+
+#sentid = 42
+0													_SP	dep	13
+1	The	the		dt	art								DT	det	3
+2	specific	specific	attr+npremod	jj	attr								JJ	amod	3
+3	entropy	entropy		nn									NN	nsubjpass	13
+4	at	at	in+npostmod	in	nmod								IN	prep	3
+5	points	point		nn	pl								NNS	pobj	4
+6	1	1											CD	nummod	5
+7	,	,											,	punct	5
+8	2	2											CD	nummod	5
+9	,	,											,	punct	8
+10	and	and		cc									CC	cc	8
+11	3	3											CD	conj	8
+12	were	be		vbaux									VBD	auxpass	13
+13	found	find		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	13
+14	in	in	in+advl	in	advl								IN	prep	13
+15	thermodynamic	thermodynamic	attr+npremod	jj	attr								JJ	amod	16
+16	tables[1	tables[1		nn	pl								NNS	pobj	14
+17	]	]											XX	punct	13
+18	using	use	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	13
+19	their	their		dt	poss								PRP$	poss	21
+20	measured	measure	attr+npremod	jj	attr	ed							VBN	amod	21
+21	temperature	temperature		nn		nom							NN	dobj	18
+22	and	and		cc	phrs								CC	cc	21
+23	absolute	absolute	attr+npremod	jj	attr								JJ	amod	24
+24	pressure	pressure		nn		nom							NN	conj	21
+25	.	.											.	punct	13
+
+#sentid = 43
+0	The	the		dt	art								DT	det	2
+1	specific	specific	attr+npremod	jj	attr								JJ	amod	2
+2	entropy	entropy		nn									NN	nsubj	11
+3	at	at	in+npostmod	in	nmod								IN	prep	2
+4	point	point		nn									NN	pobj	3
+5	2	2											CD	nummod	4
+6	during	during	in+npostmod	in	nmod								IN	prep	2
+7	the	the		dt	art								DT	det	10
+8	30	30											CD	nummod	9
+9	Hz	hz	nn+npremod	nn			npremod						NN	compound	10
+10	test	test		nn									NN	pobj	6
+11	corresponded	correspond		vbmain	vblex	past	simple	active					VBD	ROOT	11
+12	to	to	in+advl	in	advl								IN	prep	11
+13	a	a		dt	art								DT	det	15
+14	compressed	compress	attr+npremod	jj	attr	ed							VBN	amod	15
+15	liquid	liquid		nn									NN	pobj	12
+16	,	,											,	punct	15
+17	which	which											WDT	nsubj	20
+18	we	we		pro	1st								PRP	nsubj	19
+19	know	know	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls		rel	reldel	VBP	relcl	15
+20	is	be	whcls+vcomp	vbmain	be	pres	simple	active	compcls	whcls	vcomp		VBZ	ccomp	19
+21	not	not											RB	neg	20
+22	possible	possible		jj	pred								JJ	acomp	20
+23	.	.											.	punct	11
+
+#sentid = 44
+0	This	this		pro	dem	sg							DT	nsubj	2
+1	would	would		vbaux	mod	prd							MD	aux	2
+2	mean	mean		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	2
+3	the	the		dt	art								DT	det	4
+4	compressor	compressor		nn		nom							NN	nsubj	5
+5	was	be	thatcls+vcomp	vbmain	be	past	simple	active	compcls		vcomp	compdel	VBD	ccomp	2
+6	more	more		jj	attr								JJR	amod	8
+7	than	than											IN	quantmod	8
+8	100	100											CD	nummod	9
+9	%	%		nn									NN	npadvmod	10
+10	efficient	efficient		jj	pred								JJ	acomp	5
+11	.	.											.	punct	2
+
+#sentid = 45
+0	We	we		pro	1st								PRP	nsubj	1
+1	observed	observe		vbmain	vblex	past	simple	active	compcls		vcomp	compdel	VBD	ccomp	15
+2	that	that		comp	comp_that								IN	mark	7
+3	the	the		dt	art								DT	det	6
+4	specific	specific	attr+npremod	jj	attr								JJ	amod	6
+5	entropy	entropy	nn+npremod	nn			npremod						NN	compound	6
+6	value	value		nn									NN	nsubj	7
+7	is	be	thatcls+vcomp	vbmain	be	pres	simple	active	compcls	thatcls	vcomp		VBZ	ccomp	1
+8	sensitive	sensitive		jj	pred								JJ	acomp	7
+9	to	to	in+jcomp	in	jcomp								IN	prep	8
+10	pressure	pressure	nn+npremod	nn		nom	npremod						NN	compound	11
+11	changes	change		nn	pl								NNS	pobj	9
+12	,	,											,	punct	15
+13	so	so		rb	link								IN	advmod	15
+14	we	we		pro	1st								PRP	nsubj	15
+15	hypothesized	hypothesize		vbmain	vblex	past	simple	active					VBD	ROOT	15
+16	that	that		comp	comp_that								IN	mark	26
+17	the	the		dt	art								DT	det	19
+18	pressure	pressure	nn+npremod	nn		nom	npremod						NN	compound	19
+19	gauge	gauge		nn									NN	nsubj	26
+20	at	at	in+npostmod	in	nmod								IN	prep	19
+21	point	point		nn									NN	pobj	20
+22	2	2											CD	nummod	21
+23	may	may		vbaux	mod	pos							MD	aux	26
+24	not	not											RB	neg	26
+25	be	be		vbaux									VB	aux	26
+26	measuring	measure	thatcls+vcomp	vbmain	vblex	vp_w_modal	prog	active	compcls	thatcls	vcomp		VBG	ccomp	15
+27	accurately	accurately	rb+advl	rb	advl	ly							RB	advmod	26
+28	.	.											.	punct	15
+
+#sentid = 46
+0	The	the		dt	art								DT	det	2
+1	specific	specific	attr+npremod	jj	attr								JJ	amod	2
+2	entropy	entropy		nn									NN	nsubjpass	12
+3	of	of	of+npostmod	in	nmod								IN	prep	2
+4	a	a		dt	art								DT	det	6
+5	saturated	saturate	attr+npremod	jj	attr	ed							VBN	amod	6
+6	vapor	vapor		nn		nom							NN	pobj	3
+7	at	at	in+npostmod	in	nmod								IN	prep	6
+8	the	the		dt	art								DT	det	10
+9	same	same	attr+npremod	jj	attr								JJ	amod	10
+10	temperature	temperature		nn		nom							NN	pobj	7
+11	was	be		vbaux									VBD	auxpass	12
+12	used	use		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	12
+13	for	for	in+advl	in	advl								IN	prep	12
+14	this	this		dt	dt_dem								DT	det	15
+15	point	point		nn									NN	pobj	13
+16	.	.											.	punct	12
+
+#sentid = 47
+0													_SP	dep	8
+1	The	the		dt	art								DT	det	3
+2	specific	specific	attr+npremod	jj	attr								JJ	amod	3
+3	entropy	entropy		nn									NN	nsubjpass	8
+4	at	at	in+npostmod	in	nmod								IN	prep	3
+5	point	point		nn									NN	pobj	4
+6	4	4											CD	nummod	5
+7	was	be		vbaux									VBD	auxpass	8
+8	determined	determine		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	8
+9	using	use	ingcls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	vcomp		VBG	xcomp	8
+10	a	a		dt	art								DT	det	12
+11	different	different	attr+npremod	jj	attr								JJ	amod	12
+12	procedure	procedure		nn		nom							NN	dobj	9
+13	due	due	in+advl	in	advl								IN	prep	9
+14	to	to											IN	pcomp	13
+15	a	a		dt	art								DT	det	16
+16	lack	lack		nn									NN	pobj	13
+17	of	of	of+npostmod	in	nmod								IN	prep	16
+18	a	a		dt	art								DT	det	20
+19	pressure	pressure	nn+npremod	nn		nom	npremod						NN	compound	20
+20	transducer	transducer		nn		nom							NN	pobj	17
+21	there	there		rb	othr								RB	advmod	16
+22	.	.											.	punct	8
+
+#sentid = 48
+0	It	it		pro	3rd	sg							PRP	nsubjpass	2
+1	was	be		vbaux									VBD	auxpass	2
+2	determined	determine		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	2
+3	using	use	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	2
+4	the	the		dt	art								DT	det	5
+5	assumption	assumption		nn		nom							NN	dobj	3
+6	that	that		cs	cs_othr								IN	mark	16
+7	the	the		dt	art								DT	det	8
+8	process	process		nn		nom							NN	nsubj	16
+9	of	of	of+npostmod	in	nmod								IN	prep	8
+10	fluid	fluid		nn									NN	pobj	9
+11	passing	pass	ingcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	ingcls	ncomp		VBG	acl	10
+12	through	through	in+advl	in	advl								IN	prep	11
+13	the	the		dt	art								DT	det	15
+14	throttling	throttle	attr+npremod	jj	attr	ing							VBG	amod	15
+15	valve	valve		nn									NN	pobj	12
+16	was	be	finitecls+advl	vbmain	be	past	simple	active	advlcls				VBD	advcl	5
+17	adiabatic	adiabatic		jj	pred								JJ	acomp	16
+18	and	and		cc	cls								CC	cc	16
+19	that	that											IN	mark	22
+20	the	the		dt	art								DT	det	21
+21	enthalpy	enthalpy		nn									NN	nsubj	22
+22	remained	remain		vbmain	vblex	past	simple	active					VBD	conj	16
+23	constant	constant		jj	pred								JJ	acomp	22
+24	.	.											.	punct	2
+
+#sentid = 49
+0	To	to		to									TO	aux	1
+1	find	find	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	10
+2	the	the		dt	art								DT	det	4
+3	specific	specific	attr+npremod	jj	attr								JJ	amod	4
+4	entropy	entropy		nn									NN	dobj	1
+5	in	in	in+advl	in	advl								IN	prep	1
+6	the	the		dt	art								DT	det	7
+7	tables	table		nn	pl								NNS	pobj	5
+8	,	,											,	punct	10
+9	we	we		pro	1st								PRP	nsubj	10
+10	needed	need		vbmain	vblex	past	simple	active					VBD	ROOT	10
+11	to	to		to									TO	aux	12
+12	know	know		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	xcomp	10
+13	a	a		dt	art								DT	det	14
+14	pressure	pressure		nn		nom							NN	dobj	12
+15	and	and		cc	phrs								CC	cc	14
+16	specific	specific	attr+npremod	jj	attr								JJ	amod	17
+17	enthalpy	enthalpy		nn									NN	conj	14
+18	,	,											,	punct	10
+19	so	so		cc	cls								CC	cc	10
+20	we	we		pro	1st								PRP	nsubj	21
+21	used	use		vbmain	vblex	past	simple	active					VBD	conj	10
+22	the	the		dt	art								DT	det	23
+23	pressure	pressure		nn		nom							NN	dobj	21
+24	of	of	of+npostmod	in	nmod								IN	prep	23
+25	a	a		dt	art								DT	det	27
+26	saturated	saturate	attr+npremod	jj	attr	ed							VBN	amod	27
+27	liquid	liquid		nn									NN	pobj	24
+28	at	at	in+npostmod	in	nmod								IN	prep	23
+29	the	the		dt	art								DT	det	31
+30	measured	measure	attr+npremod	jj	attr	ed							VBN	amod	31
+31	temperature	temperature		nn		nom							NN	pobj	28
+32	and	and		cc	phrs								CC	cc	23
+33	the	the		dt	art								DT	det	34
+34	enthalpy	enthalpy		nn									NN	conj	23
+35	at	at	in+npostmod	in	nmod								IN	prep	34
+36	point	point		nn									NN	pobj	35
+37	3	3											CD	nummod	36
+38	as	as		cs	cs_othr								IN	mark	39
+39	read	read	edcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	edcls	other_advl		VBN	advcl	34
+40	from	from	in+advl	in	advl								IN	prep	39
+41	tables	table		nn	pl								NNS	pobj	40
+42	.	.											.	punct	21
+
+#sentid = 50
+0													_SP	dep	5
+1	As	as		cs	cs_othr								IN	mark	2
+2	requested	request	edcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	edcls	other_advl		VBN	advcl	5
+3	,	,											,	punct	5
+4	we	we		pro	1st								PRP	nsubj	5
+5	made	make		vbmain	vblex	past	simple	active					VBD	ROOT	5
+6	a	a		dt	art								DT	det	10
+7	temperature	temperature	nn+npremod	nn		nom	npremod						NN	compound	9
+8	-	-											HYPH	punct	9
+9	entropy	entropy	nn+npremod	nn			npremod						NN	compound	10
+10	diagram	diagram		nn									NN	dobj	5
+11	using	use	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	5
+12	our	our		dt	poss								PRP$	poss	13
+13	results	result		nn	pl								NNS	dobj	11
+14	and	and		cc	phrs								CC	cc	5
+15	plotted	plot		vbmain	vblex	past	simple	active					VBD	conj	5
+16	it	it		pro	3rd	sg							PRP	dobj	15
+17	on	on	in+advl	in	advl								IN	prep	15
+18	top	top		nn									NN	pobj	17
+19	of	of	of+npostmod	in	nmod								IN	prep	18
+20	the	the		dt	art								DT	det	23
+21	R-134a	r-134a	nn+npremod	nn		proper	npremod						NNP	compound	23
+22	saturation	saturation	nn+npremod	nn		nom	npremod						NN	compound	23
+23	dome	dome		nn									NN	pobj	19
+24	,	,											,	punct	15
+25	as	as		cs	cs_othr								IN	mark	26
+26	shown	show	edcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	edcls	other_advl		VBN	advcl	15
+27	in	in	in+advl	in	advl								IN	prep	26
+28	Fig	fig		nn		proper	npremod						NNP	compound	29
+29	.	.		nn		proper							NNP	pobj	27
+30	2	2											CD	nummod	29
+31	.	.											.	punct	5
+
+#sentid = 51
+0	When	when		rb	advl								WRB	advmod	1
+1	looking	look	ingcls+advl	vbmain	prepv	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	15
+2	at	at	in+advl	in	advl								IN	prep	1
+3	the	the		dt	art								DT	det	4
+4	process	process		nn		nom							NN	pobj	2
+5	from	from	in+advl	in	advl								IN	prep	1
+6	point	point		nn									NN	pobj	5
+7	1	1											CD	nummod	6
+8	to	to		in	in_othr								IN	prep	5
+9	point	point		nn									NN	pobj	8
+10	2	2											CD	nummod	9
+11	,	,											,	punct	15
+12	it	it		pro	3rd	sg							PRP	nsubjpass	15
+13	can	can		vbaux	mod	pos							MD	aux	15
+14	be	be		vbaux									VB	auxpass	15
+15	seen	see		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	15
+16	that	that		comp	comp_that								IN	mark	19
+17	the	the		dt	art								DT	det	18
+18	cycle	cycle		nn									NN	nsubj	19
+19	is	be	thatcls+vcomp	vbmain	be	pres	simple	active	compcls	thatcls	vcomp		VBZ	ccomp	15
+20	not	not											RB	neg	21
+21	quite	quite	rb+advl	rb	advl								RB	advmod	19
+22	the	the		dt	art								DT	det	26
+23	ideal	ideal	attr+npremod	jj	attr								JJ	amod	26
+24	vapor	vapor	nn+npremod	nn		nom	npremod						NN	compound	25
+25	compression	compression	nn+npremod	nn			npremod						NN	compound	26
+26	cycle	cycle		nn									NN	attr	19
+27	as	as		cs	cs_othr								IN	mark	32
+28	the	the		dt	art								DT	det	29
+29	entropy	entropy		nn									NN	nsubj	32
+30	does	do		vbaux									VBZ	aux	32
+31	not	not											RB	neg	32
+32	remain	remain	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		other_advl		VB	advcl	19
+33	constant	constant		jj	pred								JJ	acomp	32
+34	.	.											.	punct	15
+
+#sentid = 52
+0	We	we		pro	1st								PRP	nsubj	1
+1	observed	observe		vbmain	vblex	past	simple	active					VBD	ROOT	1
+2	that	that		comp	comp_that								IN	mark	5
+3	the	the		dt	art								DT	det	4
+4	entropy	entropy		nn									NN	nsubj	5
+5	decreased	decrease	thatcls+vcomp	vbmain	vblex	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	1
+6	through	through	in+advl	in	advl								IN	prep	5
+7	the	the		dt	art								DT	det	8
+8	compressor	compressor		nn		nom							NN	pobj	6
+9	,	,											,	punct	5
+10	contrary	contrary	rb+advl	rb	advl								JJ	advmod	5
+11	to	to	in+jcomp	in	jcomp								IN	prep	10
+12	what	what		comp	comp_wh								WP	dobj	14
+13	we	we		pro	1st								PRP	nsubj	14
+14	expected	expect	whcls+incomp	vbmain	vblex	past	simple	active	compcls	whcls	incomp		VBD	pcomp	11
+15	.	.											.	punct	1
+
+#sentid = 53
+0	Also	also	rb+advl	rb	advl								RB	advmod	8
+1	contrary	contrary											JJ	advcl	8
+2	to	to	in+jcomp	in	jcomp								IN	prep	1
+3	what	what		comp	comp_wh								WP	dobj	5
+4	we	we		pro	1st								PRP	nsubj	5
+5	expected	expect	whcls+incomp	vbmain	vblex	past	simple	active	compcls	whcls	incomp		VBD	pcomp	2
+6	,	,											,	punct	8
+7	we	we		pro	1st								PRP	nsubj	8
+8	observed	observe		vbmain	vblex	past	simple	active					VBD	ROOT	8
+9	that	that		comp	comp_that								IN	mark	14
+10	the	the		dt	art								DT	det	11
+11	temperature	temperature		nn		nom							NN	nsubj	14
+12	and	and		cc	phrs								CC	cc	11
+13	pressure	pressure		nn		nom							NN	conj	11
+14	increased	increase	thatcls+vcomp	vbmain	vblex	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	8
+15	through	through	in+advl	in	advl								IN	prep	14
+16	the	the		dt	art								DT	det	17
+17	evaporator	evaporator		nn		nom							NN	pobj	15
+18	at	at	in+advl	in	advl								IN	prep	14
+19	45	45											CD	nummod	22
+20	and	and		cc									CC	cc	19
+21	59	59											CD	conj	19
+22	Hz	hz		nn									NN	pobj	18
+23	.	.											.	punct	8
+
+#sentid = 54
+0													_SP	dep	0
+1	Fig	fig	nn+npremod	nn		proper	npremod						NNP	compound	2
+2	.	.	appos+npostmod	nn			nappos						NN	appos	0
+3	2	2											CD	nummod	2
+4	.	.											.	punct	2
+
+#sentid = 55
+0	Temperature	temperature		nn		nom							NN	nsubj	4
+1	and	and		cc	phrs								CC	cc	0
+2	specific	specific	attr+npremod	jj	attr								JJ	amod	3
+3	entropy	entropy		nn									NN	conj	0
+4	differ	differ		nn		nom							NN	ROOT	4
+5	in	in	in+npostmod	in	nmod								IN	prep	4
+6	value	value		nn									NN	pobj	5
+7	at	at	in+npostmod	in	nmod								IN	prep	4
+8	different	different	attr+npremod	jj	attr								JJ	amod	10
+9	operating	operating	nn+npremod	nn		nom	npremod						NN	compound	10
+10	speeds	speed		nn	pl								NNS	pobj	7
+11	.	.											.	punct	4
+
+#sentid = 56
+0													_SP	dep	2
+1	Error	error	nn+npremod	nn		nom	npremod						NN	compound	2
+2	Analysis	analysis		nn									NN	ROOT	2
+3	.	.											.	punct	2
+
+#sentid = 57
+0	The	the		dt	art								DT	det	2
+1	resolution	resolution	nn+npremod	nn		nom	npremod						NN	compound	2
+2	error	error		nn		nom							NN	nsubjpass	7
+3	of	of	of+npostmod	in	nmod								IN	prep	2
+4	the	the		dt	art								DT	det	5
+5	transducers	transducer		nn	pl	nom							NNS	pobj	3
+6	was	be		vbaux									VBD	auxpass	7
+7	considered	consider		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	7
+8	negligible	negligible											JJ	oprd	7
+9	.	.											.	punct	7
+
+#sentid = 58
+0	A	a		dt	art								DT	det	2
+1	precision	precision	nn+npremod	nn			npremod						NN	compound	2
+2	error	error		nn		nom							NN	nsubjpass	7
+3	for	for	in+npostmod	in	nmod								IN	prep	2
+4	each	each		dt									DT	det	5
+5	temperature	temperature		nn		nom							NN	pobj	3
+6	was	be		vbaux									VBD	auxpass	7
+7	generated	generate		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	7
+8	from	from	in+advl	in	advl								IN	prep	7
+9	the	the		dt	art								DT	det	11
+10	five	five											CD	nummod	11
+11	runs	run		nn	pl								NNS	pobj	8
+12	of	of	of+npostmod	in	nmod								IN	prep	11
+13	data	datum		nn	pl								NNS	pobj	12
+14	and	and		cc	phrs								CC	cc	7
+15	this	this		dt	dt_dem								DT	det	16
+16	error	error		nn		nom							NN	nsubjpass	18
+17	was	be		vbaux									VBD	auxpass	18
+18	used	use		vbmain	vblex	past	simple	pasv_agls					VBN	conj	7
+19	as	as	in+advl	in	advl								IN	prep	18
+20	the	the		dt	art								DT	det	22
+21	total	total	attr+npremod	jj	attr								JJ	amod	22
+22	error	error		nn		nom							NN	pobj	19
+23	.	.											.	punct	18
+
+#sentid = 59
+0	This	this		dt	dt_dem								DT	det	1
+1	error	error		nn		nom							NN	nsubj	8
+2	and	and		cc	phrs								CC	cc	1
+3	the	the		dt	art								DT	det	5
+4	precision	precision	nn+npremod	nn			npremod						NN	compound	5
+5	error	error		nn		nom							NN	conj	1
+6	in	in	in+npostmod	in	nmod								IN	prep	5
+7	pressure	pressure		nn		nom							NN	pobj	6
+8	gave	give		vbmain	vblex	past	simple	active					VBD	ROOT	8
+9	us	we		pro	pl								PRP	dative	8
+10	a	a		dt	art								DT	det	11
+11	range	range		nn									NN	dobj	8
+12	of	of	of+npostmod	in	nmod								IN	prep	11
+13	values	value		nn	pl								NNS	pobj	12
+14	for	for	in+npostmod	in	nmod								IN	prep	13
+15	entropy	entropy		nn									NN	pobj	14
+16	in	in	in+advl	in	advl								IN	prep	8
+17	the	the		dt	art								DT	det	18
+18	tables	table		nn	pl								NNS	pobj	16
+19	.	.											.	punct	8
+
+#sentid = 60
+0	The	the		dt	art								DT	det	2
+1	largest	large	attr+npremod	jj	attr								JJS	amod	2
+2	difference	difference		nn		nom							NN	nsubjpass	13
+3	between	between	in+npostmod	in	nmod								IN	prep	2
+4	one	one		pro	other	pl							CD	pobj	3
+5	of	of		in	in_othr								IN	prep	4
+6	these	these		dt	dt_dem								DT	det	7
+7	values	value		nn	pl								NNS	pobj	5
+8	and	and		cc									CC	cc	4
+9	the	the		dt	art								DT	det	11
+10	mean	mean	attr+npremod	jj	attr								JJ	amod	11
+11	value	value		nn									NN	conj	4
+12	was	be		vbaux									VBD	auxpass	13
+13	used	use		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	13
+14	as	as	in+advl	in	advl								IN	prep	13
+15	the	the		dt	art								DT	det	17
+16	total	total	attr+npremod	jj	attr								JJ	amod	17
+17	error	error		nn		nom							NN	pobj	14
+18	in	in	in+npostmod	in	nmod								IN	prep	17
+19	specific	specific	attr+npremod	jj	attr								JJ	amod	20
+20	entropy	entropy		nn									NN	pobj	18
+21	.	.											.	punct	13
+
+#sentid = 61
+0													_SP	dep	17
+1	The	the		dt	art								DT	det	2
+2	values	value		nn	pl								NNS	nsubjpass	17
+3	for	for	in+npostmod	in	nmod								IN	prep	2
+4	the	the		dt	art								DT	det	5
+5	coefficient	coefficient		nn		nom							NN	pobj	3
+6	of	of	of+npostmod	in	nmod								IN	prep	5
+7	performance	performance		nn		nom							NN	pobj	6
+8	(	(											-LRB-	punct	5
+9	COP	cop	appos+npostmod	nn		proper	nappos						NNP	appos	5
+10	)	)											-RRB-	punct	5
+11	for	for	in+npostmod	in	nmod								IN	prep	5
+12	cooling	cooling		nn		nom							NN	pobj	11
+13	and	and		cc	phrs								CC	cc	12
+14	heating	heating		nn		nom							NN	conj	12
+15	can	can		vbaux	mod	pos							MD	aux	17
+16	be	be		vbaux									VB	auxpass	17
+17	found	find		vbmain	vblex	vp_w_modal	simple	pasv_agls					VBN	ROOT	17
+18	in	in	in+advl	in	advl								IN	prep	17
+19	Table	table		nn									NN	pobj	18
+20	2	2											CD	nummod	19
+21	as	as		rb	othr								RB	advmod	22
+22	well	well		rb	othr								RB	advmod	19
+23	the	the		dt	art								DT	det	25
+24	cooling	cooling	nn+npremod	nn		nom	npremod						NN	compound	25
+25	capacity	capacity		nn		nom							NN	npadvmod	17
+26	,	,											,	punct	25
+27	heating	heating	nn+npremod	nn		nom	npremod						NN	compound	28
+28	capacity	capacity		nn		nom							NN	conj	25
+29	and	and		cc	phrs								CC	cc	28
+30	power	power	nn+npremod	nn		nom	npremod						NN	compound	31
+31	input	input		nn									NN	conj	28
+32	to	to	in+npostmod	in	nmod								IN	prep	31
+33	the	the		dt	art								DT	det	34
+34	compressor	compressor		nn		nom							NN	pobj	32
+35	.	.											.	punct	17
+
+#sentid = 62
+0	Both	both		dt									DT	det	1
+1	values	value		nn	pl								NNS	nsubj	5
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	the	the		dt	art								DT	det	4
+4	COP	cop		nn		proper							NNP	pobj	2
+5	decrease	decrease		vbmain	vblex	pres	simple	active					VBP	ROOT	5
+6	as	as		cs	cs_othr								IN	mark	16
+7	the	the		dt	art								DT	det	9
+8	compressor	compressor	nn+npremod	nn		nom	npremod						NN	compound	9
+9	speed	speed		nn									NN	nsubj	16
+10	and	and		cc	phrs								CC	cc	9
+11	power	power	nn+npremod	nn		nom	npremod						NN	compound	12
+12	input	input		nn									NN	conj	9
+13	to	to	in+npostmod	in	nmod								IN	prep	12
+14	the	the		dt	art								DT	det	15
+15	system	system		nn									NN	pobj	13
+16	increase	increase	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		other_advl		VBP	advcl	5
+17	,	,											,	punct	5
+18	and	and		cc	cls								CC	cc	5
+19	the	the		dt	art								DT	det	20
+20	values	value		nn	pl								NNS	nsubj	25
+21	at	at	in+npostmod	in	nmod								IN	prep	20
+22	each	each		dt									DT	det	24
+23	operating	operating	nn+npremod	nn		nom	npremod						NN	compound	24
+24	speed	speed		nn									NN	pobj	21
+25	are	be		vbmain	be	pres	simple	active					VBP	conj	5
+26	distinct	distinct		jj	pred								JJ	acomp	25
+27	.	.											.	punct	25
+
+#sentid = 63
+0	These	these		dt	dt_dem								DT	det	1
+1	values	value		nn	pl								NNS	nsubj	4
+2	do	do		vbaux									VBP	aux	4
+3	not	not											RB	neg	4
+4	come	come		vbmain	vblex	pres	simple	active					VB	ROOT	4
+5	close	close	rb+advl	rb	advl								RB	advmod	4
+6	to	to		in	in_othr								IN	prep	5
+7	one	one		pro	other	pl							CD	pobj	6
+8	another	another		dt									DT	det	7
+9	even	even		rb	othr								RB	advmod	10
+10	at	at	in+advl	in	advl								IN	prep	4
+11	the	the		dt	art								DT	det	14
+12	far	far	attr+npremod	jj	attr								JJ	amod	13
+13	ends	end	nn+npremod	nn	pl		npremod						NNS	compound	14
+14	uncertainty	uncertainty		nn									NN	pobj	10
+15	.	.											.	punct	4
+
+#sentid = 64
+0	The	the		dt	art								DT	det	1
+1	values	value		nn	pl								NNS	nsubj	8
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	the	the		dt	art								DT	det	7
+4	cooling	cooling	nn+npremod	nn		nom	npremod						NN	nmod	7
+5	and	and		cc	phrs								CC	cc	4
+6	heating	heating		nn		nom							NN	conj	4
+7	capacities	capacity		nn	pl	nom							NNS	pobj	2
+8	increase	increase		vbmain	vblex	pres	simple	active					VBP	ROOT	8
+9	as	as		cs	cs_othr								IN	mark	19
+10	the	the		dt	art								DT	det	12
+11	compressor	compressor	nn+npremod	nn		nom	npremod						NN	compound	12
+12	speed	speed		nn									NN	nsubj	19
+13	and	and		cc	phrs								CC	cc	12
+14	power	power	nn+npremod	nn		nom	npremod						NN	compound	15
+15	input	input		nn									NN	conj	12
+16	to	to	in+npostmod	in	nmod								IN	prep	15
+17	the	the		dt	art								DT	det	18
+18	system	system		nn									NN	pobj	16
+19	increase	increase	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		other_advl		VBP	advcl	8
+20	.	.											.	punct	8
+
+#sentid = 65
+0													_SP	dep	1
+1	Table	table		nn		proper							NNP	ROOT	1
+2	2	2											CD	nummod	1
+3	.	.											.	punct	1
+
+#sentid = 66
+0	Both	both		dt									DT	det	1
+1	values	value		nn	pl								NNS	nsubj	7
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	the	the		dt	art								DT	det	4
+4	coefficient	coefficient		nn		nom							NN	pobj	2
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	performance	performance		nn		nom							NN	pobj	5
+7	decrease	decrease		vbmain	vblex	pres	simple	active					VBP	ROOT	7
+8	and	and		cc	cls								CC	cc	7
+9	the	the		dt	art								DT	det	10
+10	values	value		nn	pl								NNS	nsubj	17
+11	of	of	of+npostmod	in	nmod								IN	prep	10
+12	the	the		dt	art								DT	det	16
+13	cooling	cooling	nn+npremod	nn		nom	npremod						NN	nmod	15
+14	/	/											SYM	punct	15
+15	heating	heating	nn+npremod	nn		nom	npremod						NN	compound	16
+16	capacities	capacity		nn	pl	nom							NNS	pobj	11
+17	increase	increase		vbmain	vblex	pres	simple	active					VBP	conj	7
+18	with	with	in+advl	in	advl								IN	prep	17
+19	an	an		dt									DT	det	22
+20	increasing	increase	attr+npremod	jj	attr	ing							VBG	amod	22
+21	operating	operating	nn+npremod	nn		nom	npremod						NN	compound	22
+22	speed	speed		nn									NN	pobj	18
+23	.	.											.	punct	17
+
+#sentid = 67
+0													_SP	dep	12
+1	The	the		dt	art								DT	det	2
+2	coefficient	coefficient		nn		nom							NN	nsubjpass	12
+3	of	of	of+npostmod	in	nmod								IN	prep	2
+4	performance	performance		nn		nom							NN	pobj	3
+5	(	(											-LRB-	punct	2
+6	β	β	appos+npostmod	nn			nappos						NN	appos	2
+7	)	)											-RRB-	punct	6
+8	in	in	in+npostmod	in	nmod								IN	prep	2
+9	a	a		dt	art								DT	det	10
+10	VCC	vcc		nn		proper							NNP	pobj	8
+11	is	be		vbaux									VBZ	auxpass	12
+12	defined	define		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	12
+13	as	as	in+advl	in	advl								IN	prep	12
+14	the	the		dt	art								DT	det	16
+15	heat	heat	nn+npremod	nn			npremod						NN	compound	16
+16	energy	energy		nn									NN	pobj	13
+17	sought	seek	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	16
+18	divided	divide	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	16
+19	by	by											IN	agent	18
+20	the	the		dt	art								DT	det	22
+21	power	power	nn+npremod	nn		nom	npremod						NN	compound	22
+22	input	input		nn									NN	pobj	19
+23	(	(											-LRB-	punct	22
+24	compressor	compressor	nn+npremod	nn		nom	npremod						NN	compound	25
+25	power	power	appos+npostmod	nn		nom	nappos						NN	appos	22
+26	)	)											-RRB-	punct	22
+27	into	into	in+npostmod	in	nmod								IN	prep	22
+28	the	the		dt	art								DT	det	29
+29	system[2	system[2		nn									NN	pobj	27
+30	]	]											.	punct	12
+31	.	.											.	punct	12
+
+#sentid = 68
+0	The	the		dt	art								DT	det	2
+1	heat	heat	nn+npremod	nn			npremod						NN	compound	2
+2	energy	energy		nn									NN	nsubj	8
+3	sought	seek	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	2
+4	in	in	in+advl	in	advl								IN	prep	3
+5	a	a		dt	art								DT	det	7
+6	refrigeration	refrigeration	nn+npremod	nn		nom	npremod						NN	compound	7
+7	cycle	cycle		nn									NN	pobj	4
+8	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	8
+9	the	the		dt	art								DT	det	11
+10	cooling	cooling	nn+npremod	nn		nom	npremod						NN	compound	11
+11	capacity	capacity		nn		nom							NN	attr	8
+12	from	from	in+npostmod	in	nmod								IN	prep	11
+13	the	the		dt	art								DT	det	14
+14	evaporator	evaporator		nn		nom							NN	pobj	12
+15	and	and		cc	cls								CC	cc	8
+16	the	the		dt	art								DT	det	18
+17	heat	heat	nn+npremod	nn			npremod						NN	compound	18
+18	energy	energy		nn									NN	nsubj	24
+19	sought	seek	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	18
+20	in	in	in+advl	in	advl								IN	prep	19
+21	a	a		dt	art								DT	det	23
+22	heating	heating	nn+npremod	nn		nom	npremod						NN	compound	23
+23	cycle	cycle		nn									NN	pobj	20
+24	is	be		vbmain	be	pres	simple	active					VBZ	conj	8
+25	the	the		dt	art								DT	det	27
+26	heating	heating	nn+npremod	nn		nom	npremod						NN	compound	27
+27	capacity	capacity		nn		nom							NN	attr	24
+28	from	from	in+npostmod	in	nmod								IN	prep	27
+29	the	the		dt	art								DT	det	30
+30	condenser	condenser		nn		nom							NN	pobj	28
+31	.	.											.	punct	24
+
+#sentid = 69
+0	These	these		dt	dt_dem								DT	det	1
+1	values	value		nn	pl								NNS	nsubjpass	3
+2	are	be		vbaux									VBP	auxpass	3
+3	determined	determine		vbmain	vblex	pres	simple	pasv_by					VBN	ROOT	3
+4	by	by											IN	agent	3
+5	the	the		dt	art								DT	det	6
+6	states	state		nn	pl	nom							NNS	pobj	4
+7	of	of	of+npostmod	in	nmod								IN	prep	6
+8	the	the		dt	art								DT	det	9
+9	fluid	fluid		nn									NN	pobj	7
+10	entering	enter	ingcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	ingcls	ncomp		VBG	acl	9
+11	and	and		cc	phrs								CC	cc	10
+12	exiting	exit		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	conj	10
+13	each	each		dt									DT	det	14
+14	device	device		nn									NN	dobj	12
+15	and	and		cc	phrs								CC	cc	3
+16	represent	represent		vbmain	vblex	pres	simple	active					VBP	conj	3
+17	the	the		dt	art								DT	det	19
+18	total	total	attr+npremod	jj	attr								JJ	amod	19
+19	amount	amount		nn									NN	dobj	16
+20	of	of	of+npostmod	in	nmod								IN	prep	19
+21	cooling	cooling		nn		nom							NN	pobj	20
+22	or	or		cc	phrs								CC	cc	21
+23	heating	heating		nn		nom							NN	conj	21
+24	the	the		dt	art								DT	det	25
+25	system	system		nn									NN	nsubj	27
+26	can	can		vbaux	mod	pos							MD	aux	27
+27	do	do	finitecls+rel	vbmain	vblex	vp_w_modal	simple	active	nmod_cls		rel	reldel	VB	relcl	19
+28	.	.											.	punct	3
+
+#sentid = 70
+0	The	the		dt	art								DT	det	2
+1	cooling	cooling	nn+npremod	nn		nom	npremod						NN	compound	2
+2	capacity	capacity		nn		nom							NN	nsubjpass	4
+3	was	be		vbaux									VBD	auxpass	4
+4	calculated	calculate		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	4
+5	using	use	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	4
+6	Eq	eq		nn									NN	dobj	5
+7	.	.		nn									NN	dobj	5
+8	1	1											CD	nummod	7
+9	and	and		cc	phrs								CC	cc	4
+10	the	the		dt	art								DT	det	12
+11	heating	heating	nn+npremod	nn		nom	npremod						NN	compound	12
+12	capacity	capacity		nn		nom							NN	nsubjpass	14
+13	was	be		vbaux									VBD	auxpass	14
+14	calculated	calculate		vbmain	vblex	past	simple	pasv_agls					VBN	conj	4
+15	using	use	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	14
+16	Eq	eq		nn									NN	dobj	15
+17	.	.		nn									NN	dobj	15
+18	2	2											CD	nummod	17
+19	where	where		rb	othr								WRB	advmod	20
+20													_SP	dep	14
+21	Cooling	cooling	nn+npremod	nn		nom	npremod						NN	compound	22
+22	Capacity	capacity		nn		nom							NN	punct	14
+23													_SP	dep	22
+24	Heating	heating	nn+npremod	nn		nom	npremod						NN	compound	25
+25	Capacity	capacity	appos+npostmod	nn		nom	nappos						NN	appos	22
+26													_SP	dep	14
+27	Error	error	nn+npremod	nn		nom	npremod						NN	compound	28
+28	Analysis	analysis		nn									NN	punct	14
+29	.	.											.	punct	14
+
+#sentid = 71
+0	Similar	similar											JJ	advcl	12
+1	to	to	in+jcomp	in	jcomp								IN	prep	0
+2	specific	specific	attr+npremod	jj	attr								JJ	amod	3
+3	entropy	entropy		nn									NN	pobj	1
+4	,	,											,	punct	12
+5	the	the		dt	art								DT	det	6
+6	error	error		nn		nom							NN	nsubj	12
+7	in	in	in+npostmod	in	nmod								IN	prep	6
+8	temperature	temperature	nn+npremod	nn		nom	npremod						NN	nmod	11
+9	and	and		cc	phrs								CC	cc	8
+10	pressure	pressure		nn		nom							NN	conj	8
+11	data	datum		nn	pl								NNS	pobj	7
+12	produced	produce		vbmain	vblex	past	simple	active					VBD	ROOT	12
+13	a	a		dt	art								DT	det	14
+14	range	range		nn									NN	dobj	12
+15	of	of	of+npostmod	in	nmod								IN	prep	14
+16	specific	specific	attr+npremod	jj	attr								JJ	amod	17
+17	enthalpy	enthalpy		nn									NN	pobj	15
+18	and	and		cc	phrs								CC	cc	17
+19	specific	specific	attr+npremod	jj	attr								JJ	amod	20
+20	volume	volume	nn+npremod	nn			npremod						NN	compound	21
+21	values	value		nn	pl								NNS	conj	17
+22	.	.											.	punct	12
+
+#sentid = 72
+0	The	the		dt	art								DT	det	2
+1	largest	large	attr+npremod	jj	attr								JJS	amod	2
+2	difference	difference		nn		nom							NN	nsubjpass	13
+3	between	between	in+npostmod	in	nmod								IN	prep	2
+4	one	one		pro	other	pl							CD	pobj	3
+5	of	of		in	in_othr								IN	prep	4
+6	these	these		dt	dt_dem								DT	det	7
+7	values	value		nn	pl								NNS	pobj	5
+8	and	and		cc									CC	cc	4
+9	the	the		dt	art								DT	det	11
+10	mean	mean	attr+npremod	jj	attr								JJ	amod	11
+11	value	value		nn									NN	conj	4
+12	was	be		vbaux									VBD	auxpass	13
+13	used	use		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	13
+14	as	as	in+advl	in	advl								IN	prep	13
+15	the	the		dt	art								DT	det	17
+16	total	total	attr+npremod	jj	attr								JJ	amod	17
+17	error	error		nn		nom							NN	pobj	14
+18	.	.											.	punct	13
+
+#sentid = 73
+0	The	the		dt	art								DT	det	1
+1	error	error		nn		nom							NN	nsubjpass	7
+2	in	in	in+npostmod	in	nmod								IN	prep	1
+3	specific	specific	attr+npremod	jj	attr								JJ	amod	4
+4	volume	volume		nn									NN	pobj	2
+5	was	be		vbaux									VBD	auxpass	7
+6	then	then		rb	link								RB	advmod	7
+7	translated	translate		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	7
+8	to	to	in+advl	in	advl								IN	prep	7
+9	an	an		dt									DT	det	10
+10	error	error		nn		nom							NN	pobj	8
+11	in	in	in+npostmod	in	nmod								IN	prep	10
+12	density	density		nn		nom							NN	pobj	11
+13	.	.											.	punct	7
+
+#sentid = 74
+0	The	the		dt	art								DT	det	1
+1	error	error		nn		nom							NN	nsubj	8
+2	in	in	in+npostmod	in	nmod								IN	prep	1
+3	the	the		dt	art								DT	det	7
+4	cooling	cooling	nn+npremod	nn		nom	npremod						NN	nmod	7
+5	and	and		cc	phrs								CC	cc	4
+6	heating	heating		nn		nom							NN	conj	4
+7	capacities	capacity		nn	pl	nom							NNS	pobj	2
+8	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	8
+9	a	a		dt	art								DT	det	10
+10	combination	combination		nn		nom							NN	attr	8
+11	of	of	of+npostmod	in	nmod								IN	prep	10
+12	all	all											PDT	predet	14
+13	these	these		dt	dt_dem								DT	det	14
+14	errors	error		nn	pl	nom							NNS	pobj	11
+15	which	which		relpro	relpro_wh								WDT	nsubjpass	17
+16	is	be		vbaux									VBZ	auxpass	17
+17	dominated	dominate	finitecls+rel	vbmain	vblex	pres	simple	pasv_by	nmod_cls	whcls	rel		VBN	relcl	10
+18	by	by											IN	agent	17
+19	the	the		dt	art								DT	det	20
+20	error	error		nn		nom							NN	pobj	18
+21	generated	generate	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	20
+22	from	from	in+advl	in	advl								IN	prep	21
+23	finding	find	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	22
+24	the	the		dt	art								DT	det	25
+25	difference	difference		nn		nom							NN	dobj	23
+26	between	between	in+npostmod	in	nmod								IN	prep	25
+27	specific	specific	attr+npremod	jj	attr								JJ	amod	28
+28	enthalpies	enthalpy		nn	pl								NNS	pobj	26
+29	.	.											.	punct	8
+
+#sentid = 75
+0													_SP	dep	2
+1	We	we		pro	1st								PRP	nsubj	2
+2	found	find		vbmain	vblex	past	simple	active					VBD	ROOT	2
+3	the	the		dt	art								DT	det	4
+4	values	value		nn	pl								NNS	dobj	2
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	the	the		dt	art								DT	det	8
+7	specific	specific	attr+npremod	jj	attr								JJ	amod	8
+8	entropy	entropy		nn									NN	pobj	5
+9	for	for	in+npostmod	in	nmod								IN	prep	4
+10	each	each		dt									DT	det	11
+11	point	point		nn									NN	pobj	9
+12	in	in	in+npostmod	in	nmod								IN	prep	11
+13	the	the		dt	art								DT	det	14
+14	VCC	vcc		nn									NN	pobj	12
+15	and	and		cc	phrs								CC	cc	2
+16	plotted	plot		vbmain	vblex	past	simple	active					VBD	conj	2
+17	them	they		pro	pl								PRP	dobj	16
+18	on	on	in+advl	in	advl								IN	prep	16
+19	a	a		dt	art								DT	det	23
+20	temperature	temperature	nn+npremod	nn		nom	npremod						NN	compound	22
+21	-	-											HYPH	punct	22
+22	entropy	entropy	nn+npremod	nn			npremod						NN	compound	23
+23	diagram	diagram		nn									NN	pobj	18
+24	in	in	in+advl	in	advl								IN	prep	16
+25	Fig	fig		nn		proper	npremod						NNP	compound	26
+26	.	.		nn		proper							NNP	pobj	24
+27	2	2											CD	nummod	26
+28	.	.											.	punct	2
+
+#sentid = 76
+0	Additionally	additionally	rb+advl	rb	advl	ly							RB	advmod	3
+1	,	,											,	punct	3
+2	we	we		pro	1st								PRP	nsubj	3
+3	determined	determine		vbmain	vblex	past	simple	active					VBD	ROOT	3
+4	the	the		dt	art								DT	det	5
+5	values	value		nn	pl								NNS	dobj	3
+6	of	of	of+npostmod	in	nmod								IN	prep	5
+7	the	the		dt	art								DT	det	8
+8	COP	cop		nn									NN	pobj	6
+9	for	for	in+npostmod	in	nmod								IN	prep	5
+10	each	each		dt									DT	det	12
+11	compressor	compressor	nn+npremod	nn		nom	npremod						NN	compound	12
+12	frequency	frequency		nn		nom							NN	pobj	9
+13	as	as		cs	cs_othr								IN	mark	14
+14	shown	show	edcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	edcls	other_advl		VBN	advcl	3
+15	in	in	in+advl	in	advl								IN	prep	14
+16	Table	table		nn		proper							NNP	pobj	15
+17	2	2											CD	nummod	16
+18	.	.											.	punct	3
+
+#sentid = 77
+0	We	we		pro	1st								PRP	nsubj	1
+1	observed	observe		vbmain	vblex	past	simple	active					VBD	ROOT	1
+2	that	that		comp	comp_that								IN	mark	11
+3	the	the		dt	art								DT	det	4
+4	values	value		nn	pl								NNS	nsubj	11
+5	for	for	in+npostmod	in	nmod								IN	prep	4
+6	both	both											CC	preconj	7
+7	cooling	cooling	nn+npremod	nn		nom	npremod						NN	nmod	10
+8	and	and		cc	phrs								CC	cc	7
+9	heating	heating		nn		nom							NN	conj	7
+10	COP	cop		nn		proper							NNP	pobj	5
+11	were	be	thatcls+vcomp	vbmain	be	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	1
+12	distinct	distinct		jj	pred								JJ	acomp	11
+13	from	from	in+jcomp	in	jcomp								IN	prep	12
+14	one	one		pro	other	pl							CD	pobj	13
+15	another	another		dt									DT	det	14
+16	with	with	in+advl	in	advl								IN	prep	11
+17	uncertainties	uncertainty		nn	pl								NNS	pobj	16
+18	.	.											.	punct	1
+
+#sentid = 78
+0	The	the		dt	art								DT	det	2
+1	clear	clear	attr+npremod	jj	attr								JJ	amod	2
+2	distinction	distinction		nn		nom							NN	nsubj	6
+3	in	in	in+npostmod	in	nmod								IN	prep	2
+4	these	these		dt	dt_dem								DT	det	5
+5	values	value		nn	pl								NNS	pobj	3
+6	leads	lead		vbmain	vblex	pres	simple	active					VBZ	ROOT	6
+7	us	we		pro	pl								PRP	dobj	6
+8	to	to		to									TO	aux	9
+9	conclude	conclude	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	6
+10	that	that		cs	cs_othr								IN	mark	13
+11	your	your		dt	poss								PRP$	poss	12
+12	testing	testing		nn		nom							NN	nsubj	13
+13	is	be	finitecls+advl	vbmain	be	pres	simple	active	advlcls				VBZ	advcl	9
+14	fair	fair		jj	pred								JJ	acomp	13
+15	and	and		cc	cls								CC	cc	13
+16	that	that											IN	mark	21
+17	the	the		dt	art								DT	det	18
+18	uncertainties	uncertainty		nn	pl								NNS	nsubj	21
+19	should	should		vbaux	mod	nec							MD	aux	21
+20	not	not											RB	neg	21
+21	create	create		vbmain	vblex	vp_w_modal	simple	active					VB	conj	13
+22	any	any		dt									DT	det	23
+23	confusion	confusion		nn									NN	dobj	21
+24	as	as	in+npostmod	in	nmod								IN	prep	23
+25	to	to		in	in_othr								IN	prep	24
+26	which	which		dt									WDT	det	28
+27	compressor	compressor	nn+npremod	nn		nom	npremod						NN	compound	28
+28	speed	speed		nn									NN	nsubj	29
+29	produces	produce		vbmain	vblex	pres	simple	active	compcls		incomp	compdel	VBZ	pcomp	25
+30	the	the		dt	art								DT	det	32
+31	best	good	attr+npremod	jj	attr								JJS	amod	32
+32	COP	cop		nn		proper							NNP	dobj	29
+33	.	.											.	punct	6
+
+#sentid = 79
+0													_SP	dep	2
+1	We	we		pro	1st								PRP	nsubj	2
+2	recommend	recommend		vbmain	vblex	pres	simple	active					VBP	ROOT	2
+3	that	that		comp	comp_that								IN	mark	17
+4	in	in	in+advl	in	advl								IN	prep	17
+5	addition	addition		nn		nom							NN	pobj	4
+6	to	to	in+npostmod	in	nmod								IN	prep	5
+7	training	train	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	6
+8	your	your		dt	poss								PRP$	poss	9
+9	technicians	technician		nn	pl								NNS	dobj	7
+10	in	in	in+advl	in	advl								IN	prep	7
+11	optimizing	optimize	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	10
+12	the	the		dt	art								DT	det	13
+13	COP	cop		nn		proper							NNP	dobj	11
+14	,	,											,	punct	17
+15	you	you		pro	2nd	sg							PRP	nsubj	17
+16	also	also	rb+advl	rb	advl								RB	advmod	17
+17	train	train	thatcls+vcomp	vbmain	vblex	pres	simple	active	compcls	thatcls	vcomp		VBP	ccomp	2
+18	them	they		pro	pl								PRP	dobj	17
+19	to	to		to									TO	aux	20
+20	understand	understand	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	17
+21	the	the		dt	art								DT	det	26
+22	minimum	minimum	attr+npremod	jj	attr								JJ	amod	26
+23	cooling	cooling	nn+npremod	nn		nom	npremod						NN	nmod	26
+24	and	and		cc	phrs								CC	cc	23
+25	heating	heating		nn		nom							NN	conj	23
+26	capacities	capacity		nn	pl	nom							NNS	dobj	20
+27	needed	need	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	26
+28	for	for	in+advl	in	advl								IN	prep	27
+29	the	the		dt	art								DT	det	30
+30	building	building		nn		nom							NN	pobj	28
+31	the	the		dt	art								DT	det	32
+32	system	system		nn									NN	nsubjpass	34
+33	is	be		vbaux									VBZ	auxpass	34
+34	used	use	finitecls+rel	vbmain	vblex	pres	simple	pasv_agls	nmod_cls		rel	reldel	VBN	relcl	30
+35	on	on	in+advl	in	advl								IN	prep	34
+36	.	.											.	punct	2
+
+#sentid = 80
+0	Our	our		dt	poss								PRP$	poss	1
+1	results	result		nn	pl								NNS	nsubj	2
+2	showed	show		vbmain	vblex	past	simple	active					VBD	ROOT	2
+3	that	that		comp	comp_that								IN	mark	6
+4	the	the		dt	art								DT	det	5
+5	COP	cop		nn		proper							NNP	nsubj	6
+6	was	be	thatcls+vcomp	vbmain	be	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	2
+7	highest	high		jj	pred								JJS	acomp	6
+8	at	at	in+advl	in	advl								IN	prep	6
+9	the	the		dt	art								DT	det	12
+10	lowest	low	attr+npremod	jj	attr								JJS	amod	12
+11	operating	operating	nn+npremod	nn		nom	npremod						NN	compound	12
+12	speed	speed		nn									NN	pobj	8
+13	,	,											,	punct	6
+14	which	which											WDT	nsubj	16
+15	also	also	rb+advl	rb	advl								RB	advmod	16
+16	corresponded	correspond	finitecls+advl	vbmain	vblex	past	simple	active	advlcls	whcls			VBD	advcl	6
+17	to	to	in+advl	in	advl								IN	prep	16
+18	the	the		dt	art								DT	det	20
+19	lower	low	attr+npremod	jj	attr								JJR	amod	20
+20	value	value		nn									NN	pobj	17
+21	in	in	in+npostmod	in	nmod								IN	prep	20
+22	the	the		dt	art								DT	det	26
+23	cooling	cooling	nn+npremod	nn		nom	npremod						NN	nmod	26
+24	and	and		cc	phrs								CC	cc	23
+25	heating	heating		nn		nom							NN	conj	23
+26	capacities	capacity		nn	pl	nom							NNS	pobj	21
+27	.	.											.	punct	2
+
+#sentid = 81
+0	If	if		cs	cnd								IN	mark	6
+1	the	the		dt	art								DT	det	5
+2	cooling	cooling	nn+npremod	nn		nom	npremod						NN	nmod	5
+3	and	and		cc	phrs								CC	cc	2
+4	heating	heating		nn		nom							NN	conj	2
+5	capacities	capacity		nn	pl	nom							NNS	nsubj	6
+6	are	be	finitecls+advl	vbmain	be	pres	simple	active	advlcls		conditional		VBP	advcl	24
+7	too	too	rb+jjrbmod	rb	adjmod								RB	advmod	8
+8	low	low		jj	pred								JJ	acomp	6
+9	with	with	in+advl	in	advl								IN	prep	6
+10	respect	respect		nn									NN	pobj	9
+11	to	to	in+npostmod	in	nmod								IN	prep	10
+12	the	the		dt	art								DT	det	13
+13	volume	volume		nn									NN	pobj	11
+14	of	of	of+npostmod	in	nmod								IN	prep	13
+15	building	building		nn		nom							NN	pobj	14
+16	they	they		pro	pl								PRP	nsubj	17
+17	operate	operate	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls		rel	reldel	VBP	relcl	13
+18	on	on	in+advl	in	advl								IN	prep	17
+19	,	,											,	punct	24
+20	the	the		dt	art								DT	det	21
+21	system	system		nn									NN	nsubj	24
+22	wo	will		vbaux	mod								MD	aux	24
+23	n’t	not											RB	neg	24
+24	be	be		vbmain	be	vp_w_modal	simple	active					VB	ROOT	24
+25	able	able		jj	pred								JJ	acomp	24
+26	to	to		to									TO	aux	27
+27	produce	produce	tocls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	jcomp		VB	xcomp	25
+28	enough	enough	attr+npremod	jj	attr								JJ	amod	30
+29	heat	heat	nn+npremod	nn			npremod						NN	compound	30
+30	transfer	transfer		nn		nom							NN	dobj	27
+31	to	to		to									TO	aux	32
+32	cool	cool	tocls+ncomp	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	ncomp		VB	acl	30
+33	or	or		cc	phrs								CC	cc	32
+34	heat	heat		vbmain	vblex	nonfinite	simple	active					VB	conj	32
+35	the	the		dt	art								DT	det	36
+36	building	building		nn		nom							NN	dobj	34
+37	to	to	in+advl	in	advl								IN	prep	34
+38	a	a		dt	art								DT	det	40
+39	desired	desire	attr+npremod	jj	attr	ed							VBN	amod	40
+40	temperature	temperature		nn		nom							NN	pobj	37
+41	.	.											.	punct	24

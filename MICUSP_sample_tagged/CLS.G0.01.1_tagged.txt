@@ -1,0 +1,3056 @@
+#sentid = 0
+0	In	in	in+advl	in	advl								IN	prep	13
+1	the	the		dt	art								DT	det	4
+2	ancient	ancient	attr+npremod	jj	attr								JJ	amod	4
+3	Near	near		nn		proper	npremod						NNP	compound	4
+4	East	east		nn		proper							NNP	pobj	0
+5	,	,											,	punct	13
+6	the	the		dt	art								DT	det	7
+7	conquest	conquest		nn									NN	nsubj	13
+8	for	for	in+npostmod	in	nmod								IN	prep	7
+9	and	and		cc	phrs								CC	cc	7
+10	domination	domination		nn		nom							NN	conj	7
+11	of	of	of+npostmod	in	nmod								IN	prep	7
+12	territory	territory		nn		nom							NN	pobj	11
+13	was	be		vbmain	be	past	simple	active					VBD	ROOT	13
+14	a	a		dt	art								DT	det	16
+15	significant	significant	attr+npremod	jj	attr								JJ	amod	16
+16	indicator	indicator		nn		nom							NN	attr	13
+17	of	of	of+npostmod	in	nmod								IN	prep	16
+18	the	the		dt	art								DT	det	19
+19	glory	glory		nn		nom							NN	pobj	17
+20	,	,											,	punct	19
+21	power	power		nn		nom							NN	conj	19
+22	,	,											,	punct	21
+23	and	and		cc	phrs								CC	cc	21
+24	wealth	wealth		nn									NN	conj	21
+25	of	of	of+npostmod	in	nmod								IN	prep	19
+26	a	a		dt	art								DT	det	27
+27	kingdom	kingdom		nn		nom							NN	pobj	25
+28	.	.											.	punct	13
+
+#sentid = 1
+0	The	the	rb+jjrbmod	rb	adjmod								DT	advmod	1
+1	larger	large		jj	attr								JJR	amod	7
+2	and	and		cc	phrs								CC	cc	1
+3	more	more	rb+jjrbmod	rb	othr								RBR	advmod	4
+4	powerful	powerful											JJ	conj	1
+5	a	a		dt	art								DT	det	6
+6	kingdom	kingdom		nn		nom							NN	nsubj	7
+7	became	become	finitecls+advl	vbmain	vblex	past	simple	active	advlcls				VBD	advcl	13
+8	,	,											,	punct	13
+9	the	the	rb+jjrbmod	rb	adjmod								DT	advmod	11
+10	more	more	rb+jjrbmod	rb	adjmod								RBR	advmod	11
+11	unlikely	unlikely		jj	pred								JJ	acomp	13
+12	it	it		pro	3rd	sg							PRP	nsubj	13
+13	was	be		vbmain	be	past	simple	active					VBD	ROOT	13
+14	that	that		comp	comp_that								IN	mark	19
+15	any	any		dt									DT	det	17
+16	other	other	attr+npremod	jj	attr								JJ	amod	17
+17	nation	nation		nn		nom							NN	nsubj	19
+18	could	could		vbaux	mod	pos							MD	aux	19
+19	stand	stand	xtrapos+thatcls+jcomp	vbmain	vblex	vp_w_modal	simple	active	compcls	thatcls	jcomp		VB	ccomp	13
+20	in	in	in+advl	in	advl								IN	prep	19
+21	the	the		dt	art								DT	det	22
+22	way	way		nn									NN	pobj	20
+23	of	of	of+npostmod	in	nmod								IN	prep	22
+24	the	the		dt	art								DT	det	25
+25	kingdom	kingdom		nn		nom							NN	pobj	23
+26	.	.											.	punct	13
+
+#sentid = 2
+0	For	for	in+advl	in	advl								IN	prep	21
+1	the	the		dt	art								DT	det	2
+2	nation	nation		nn		nom							NN	nsubj	21
+3	that	that		relpro	relpro_that	sg							WDT	nsubj	4
+4	rose	rise	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls	thatcls	rel		VBD	relcl	2
+5	to	to	in+advl	in	advl								IN	prep	4
+6	the	the		dt	art								DT	det	7
+7	height	height		nn									NN	pobj	5
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	known	know	attr+npremod	jj	attr	ed							VBN	amod	11
+10	-	-											HYPH	punct	11
+11	world	world	nn+npremod	nn			npremod						NN	compound	12
+12	domination	domination		nn		nom							NN	pobj	8
+13	,	,											,	punct	12
+14	fame	fame		nn									NN	conj	12
+15	,	,											,	punct	14
+16	wealth	wealth		nn									NN	conj	14
+17	,	,											,	punct	16
+18	and	and		cc	phrs								CC	cc	16
+19	honor	honor		nn		nom							NN	conj	16
+20	unrivaled	unrivaled		jj	attr								JJ	amod	12
+21	was	be		vbmain	be	past	simple	active					VBD	ROOT	21
+22	due	due		jj	pred								JJ	acomp	21
+23	.	.											.	punct	21
+
+#sentid = 3
+0	While	while		cs	con								IN	mark	3
+1	these	these		dt	dt_dem								DT	det	2
+2	motivations	motivation		nn	pl	nom							NNS	nsubj	3
+3	were	be	finitecls+advl	vbmain	be	past	simple	active	advlcls		concessive		VBD	advcl	22
+4	central	central		jj	pred								JJ	acomp	3
+5	to	to	in+jcomp	in	jcomp								IN	prep	4
+6	the	the		dt	art								DT	det	7
+7	expansion	expansion		nn									NN	pobj	5
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	an	an		dt									DT	det	10
+10	empire	empire		nn									NN	pobj	8
+11	,	,											,	punct	22
+12	great	great	attr+npremod	jj	attr								JJ	amod	15
+13	and	and		cc	phrs								CC	cc	12
+14	complex	complex											JJ	conj	12
+15	empires	empire		nn	pl								NNS	nsubj	22
+16	like	like	in+npostmod	in	nmod								IN	prep	15
+17	the	the		dt	art								DT	det	21
+18	Assyrian	assyrian	attr+npremod	jj	attr								JJ	amod	21
+19	and	and		cc	phrs								CC	cc	18
+20	Achaemenid	achaemenid											JJ	conj	18
+21	empires	empire		nn	pl								NNS	pobj	16
+22	discovered	discover		vbmain	vblex	past	simple	active					VBD	ROOT	22
+23	a	a		dt	art								DT	det	24
+24	number	number		nn		nom							NN	dobj	22
+25	of	of	of+npostmod	in	nmod								IN	prep	24
+26	motivations	motivation		nn	pl	nom							NNS	pobj	25
+27	that	that		relpro	relpro_that	sg							WDT	nsubj	28
+28	spurred	spur	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls	thatcls	rel		VBD	relcl	26
+29	conquest	conquest		nn									NN	dobj	28
+30	to	to	in+advl	in	advl								IN	prep	28
+31	previously	previously	rb+jjrbmod	rb	adjmod	ly							RB	advmod	32
+32	unrivaled	unrivaled	attr+npremod	jj	attr								JJ	amod	33
+33	heights	height		nn	pl								NNS	pobj	30
+34	.	.											.	punct	22
+
+#sentid = 4
+0	Through	through	in+advl	in	advl								IN	prep	36
+1	the	the		dt	art								DT	det	2
+2	analysis	analysis		nn									NN	pobj	0
+3	of	of	of+npostmod	in	nmod								IN	prep	2
+4	Sargon	sargon	s+gen	dt	poss	proper	sgen						NNP	poss	6
+5	's	's											POS	case	4
+6	Letter	letter		nn		nom							NN	pobj	3
+7	to	to	in+npostmod	in	nmod								IN	prep	6
+8	Assur	assur		nn		proper							NNP	pobj	7
+9	Concerning	concern		vbmain	nmod	nonfinite	simple	active		ingcls			VBG	prep	6
+10	the	the		dt	art								DT	det	12
+11	Eighth	eighth		nn		proper	npremod						NNP	compound	12
+12	Campaign	campaign		nn		proper							NNP	pobj	9
+13	and	and		cc	phrs								CC	cc	6
+14	Herodotus	herodotus	s+gen	dt	poss	proper	sgen						NNP	poss	17
+15	'	'											POS	case	14
+16	The	the		dt	art								DT	det	17
+17	Histories	history		nn	pl	nom							NNS	conj	6
+18	,	,											,	punct	36
+19	three	three											CD	nummod	20
+20	motivations	motivation		nn	pl	nom							NNS	nsubj	36
+21	that	that		relpro	relpro_that	sg							WDT	nsubj	22
+22	appear	appear	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls	thatcls	rel		VBP	relcl	20
+23	in	in	in+advl	in	advl								IN	prep	22
+24	common	common		jj	attr								JJ	amod	23
+25	as	as	in+advl	in	advl								IN	prep	22
+26	motivation	motivation		nn		nom							NN	pobj	25
+27	for	for	in+npostmod	in	nmod								IN	prep	26
+28	warfare	warfare		nn									NN	pobj	27
+29	for	for	in+npostmod	in	nmod								IN	prep	26
+30	the	the		dt	art								DT	det	32
+31	Assyrian	assyrian	attr+npremod	jj	attr								JJ	amod	32
+32	kings	king		nn	pl	nom							NNS	pobj	29
+33	and	and		cc	phrs								CC	cc	32
+34	Persian	persian	attr+npremod	jj	attr								JJ	amod	35
+35	kings	king		nn	pl	nom							NNS	conj	32
+36	include	include		vbmain	vblex	pres	simple	active					VBP	ROOT	36
+37	religious	religious	attr+npremod	jj	attr								JJ	amod	38
+38	motivations	motivation		nn	pl	nom							NNS	dobj	36
+39	,	,											,	punct	38
+40	retribution	retribution		nn		nom							NN	conj	38
+41	for	for	in+npostmod	in	nmod								IN	prep	40
+42	acts	act		nn	pl								NNS	pobj	41
+43	against	against	in+npostmod	in	nmod								IN	prep	42
+44	these	these		dt	dt_dem								DT	det	45
+45	empires	empire		nn	pl								NNS	pobj	43
+46	,	,											,	punct	40
+47	and	and		cc	phrs								CC	cc	40
+48	the	the		dt	art								DT	det	49
+49	pursuit	pursuit		nn									NN	conj	40
+50	of	of	of+npostmod	in	nmod								IN	prep	49
+51	glory	glory		nn		nom							NN	pobj	50
+52	and	and		cc	phrs								CC	cc	51
+53	honor	honor		nn		nom							NN	conj	51
+54	.	.											.	punct	36
+
+#sentid = 5
+0	While	while		cs	con								IN	mark	6
+1	these	these		dt	dt_dem								DT	det	3
+2	three	three											CD	nummod	3
+3	motivations	motivation		nn	pl	nom							NNS	nsubjpass	6
+4	were	be		vbaux									VBD	auxpass	6
+5	heavily	heavily	rb+advl	rb	advl	ly							RB	advmod	6
+6	employed	employ	finitecls+advl	vbmain	vblex	past	simple	pasv_agls	advlcls		concessive		VBN	advcl	17
+7	during	during	in+advl	in	advl								IN	prep	6
+8	the	the		dt	art								DT	det	9
+9	advent	advent		nn		nom							NN	pobj	7
+10	of	of	of+npostmod	in	nmod								IN	prep	9
+11	each	each		dt									DT	det	12
+12	empire	empire		nn									NN	pobj	10
+13	,	,											,	punct	17
+14	they	they		pro	pl								PRP	nsubjpass	17
+15	were	be		vbaux									VBD	auxpass	17
+16	effectively	effectively	rb+advl	rb	advl	ly							RB	advmod	17
+17	manipulated	manipulate		vbmain	vblex	past	simple	pasv_agls					VBN	ROOT	17
+18	so	so		cs	cs_othr								IN	mark	21
+19	that	that		cs	cs_othr								IN	mark	21
+20	they	they		pro	pl								PRP	nsubj	21
+21	worked	work	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		other_advl		VBD	advcl	17
+22	to	to		to									TO	aux	23
+23	increase	increase	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	21
+24	territory	territory		nn		nom							NN	dobj	23
+25	and	and		cc	phrs								CC	cc	24
+26	wealth	wealth		nn									NN	conj	24
+27	for	for	in+advl	in	advl								IN	prep	23
+28	each	each		dt									DT	det	29
+29	empire	empire		nn									NN	pobj	27
+30	,	,											,	punct	17
+31	revealing	reveal	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	17
+32	that	that		comp	comp_that								IN	mark	36
+33	territory	territory		nn		nom							NN	nsubj	36
+34	and	and		cc	phrs								CC	cc	33
+35	wealth	wealth		nn									NN	conj	33
+36	were	be	thatcls+vcomp	vbmain	be	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	31
+37	always	always	rb+advl	rb	advl								RB	advmod	36
+38	the	the		dt	art								DT	det	41
+39	two	two											CD	nummod	41
+40	prime	prime	attr+npremod	jj	attr								JJ	amod	41
+41	motivations	motivation		nn	pl	nom							NNS	attr	36
+42	for	for	in+npostmod	in	nmod								IN	prep	41
+43	the	the		dt	art								DT	det	44
+44	campaigns	campaign		nn	pl								NNS	pobj	42
+45	of	of	of+npostmod	in	nmod								IN	prep	44
+46	the	the		dt	art								DT	det	50
+47	Assyrian	assyrian	attr+npremod	jj	attr								JJ	amod	50
+48	and	and		cc	phrs								CC	cc	47
+49	Persian	persian											JJ	conj	47
+50	Kings	king		nn	pl	nom							NNS	pobj	45
+51	.	.											.	punct	17
+
+#sentid = 6
+0													_SP	dep	14
+1	One	one		pro	other	pl							CD	nsubj	14
+2	of	of		in	in_othr								IN	prep	1
+3	the	the		dt	art								DT	det	5
+4	first	first	attr+npremod	jj	attr								JJ	amod	5
+5	developments	development		nn	pl	nom							NNS	pobj	2
+6	concerning	concern		vbmain	nmod	nonfinite	simple	active		ingcls			VBG	prep	5
+7	the	the		dt	art								DT	det	10
+8	nation	nation	nn+npremod	nn		nom	npremod						NN	compound	10
+9	-	-											HYPH	punct	10
+10	state	state		nn		nom							NN	pobj	6
+11	anthropologists	anthropologist		nn	pl	nom							NNS	nsubj	13
+12	can	can		vbaux	mod	pos							MD	aux	13
+13	identify	identify	finitecls+rel	vbmain	vblex	vp_w_modal	simple	active	nmod_cls		rel	reldel	VB	relcl	10
+14	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	14
+15	the	the		dt	art								DT	det	18
+16	conquest	conquest	nn+npremod	nn			npremod						NN	compound	18
+17	-	-											HYPH	punct	18
+18	state	state		nn		nom							NN	attr	14
+19	.	.											.	punct	14
+
+#sentid = 7
+0	While	while		cs	con								IN	mark	18
+1	many	many	attr+npremod	jj	attr								JJ	amod	3
+2	different	different	attr+npremod	jj	attr								JJ	amod	3
+3	theories	theory		nn	pl	nom							NNS	nsubj	18
+4	on	on	in+npostmod	in	nmod								IN	prep	3
+5	the	the		dt	art								DT	det	6
+6	evolution	evolution		nn		nom							NN	pobj	4
+7	of	of	of+npostmod	in	nmod								IN	prep	6
+8	collective	collective	attr+npremod	jj	attr								JJ	amod	9
+9	society	society		nn									NN	pobj	7
+10	and	and		cc	phrs								CC	cc	6
+11	the	the		dt	art								DT	det	12
+12	role	role		nn									NN	conj	6
+13	war	war		nn									NN	nsubj	14
+14	plays	play	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls		rel	reldel	VBZ	relcl	12
+15	in	in	in+advl	in	advl								IN	prep	14
+16	its	its		dt	poss								PRP$	poss	17
+17	advancement	advancement		nn		nom							NN	pobj	15
+18	exist	exist	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		concessive		VBP	advcl	23
+19	,	,											,	punct	23
+20	scholars	scholar		nn	pl								NNS	nsubj	23
+21	still	still	rb+advl	rb	advl								RB	advmod	23
+22	hotly	hotly	rb+advl	rb	advl	ly							RB	advmod	23
+23	debate	debate		vbmain	vblex	pres	simple	active					VBP	ROOT	23
+24	the	the		dt	art								DT	det	26
+25	best	good	attr+npremod	jj	attr								JJS	amod	26
+26	theories	theory		nn	pl	nom							NNS	dobj	23
+27	.	.											.	punct	23
+
+#sentid = 8
+0	Many	many	attr+npremod	jj	attr								JJ	amod	1
+1	scholars	scholar		nn	pl								NNS	nsubj	2
+2	are	be		vbmain	be	pres	simple	active					VBP	ROOT	2
+3	unsure	unsure		jj	pred								JJ	acomp	2
+4	whether	whether		cs	cs_othr								IN	mark	6
+5	war	war		nn									NN	nsubj	6
+6	gave	give		vbmain	vblex	past	simple	active	compcls		other_advl	compdel	VBD	ccomp	3
+7	rise	rise		nn									NN	dobj	6
+8	to	to											IN	dative	6
+9	the	the		dt	art								DT	det	12
+10	nation	nation	nn+npremod	nn		nom	npremod						NN	compound	12
+11	-	-											HYPH	punct	12
+12	state	state		nn		nom							NN	pobj	8
+13	,	,											,	punct	6
+14	or	or		cc	cls								CC	cc	6
+15	the	the		dt	art								DT	det	18
+16	nation	nation	nn+npremod	nn		nom	npremod						NN	compound	18
+17	-	-											HYPH	punct	18
+18	state	state		nn		nom							NN	nsubj	19
+19	gave	give		vbmain	vblex	past	simple	active					VBD	conj	6
+20	rise	rise		nn									NN	dobj	19
+21	to	to	in+advl	in	advl								IN	prep	19
+22	war	war		nn									NN	pobj	21
+23	.	.											.	punct	2
+
+#sentid = 9
+0	It	it		pro	3rd	sg							PRP	nsubj	1
+1	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	1
+2	sure	sure		jj	pred								JJ	acomp	1
+3	,	,											,	punct	1
+4	however	however	rb+advl	rb	advl								RB	advmod	1
+5	,	,											,	punct	1
+6	that	that		comp	comp_that								IN	mark	13
+7	the	the		dt	art								DT	det	12
+8	very	very	rb+jjrbmod	rb	adjmod								RB	advmod	9
+9	oldest	old	attr+npremod	jj	attr								JJS	amod	12
+10	people	people	nn+npremod	nn	pl		npremod						NNS	compound	12
+11	-	-											HYPH	punct	12
+12	groups	group		nn	pl								NNS	nsubj	13
+13	advanced	advance	xtrapos+thatcls+jcomp	vbmain	vblex	past	simple	active	compcls	thatcls	jcomp		VBD	ccomp	1
+14	their	their		dt	poss								PRP$	poss	15
+15	positions	position		nn	pl	nom							NNS	dobj	13
+16	,	,											,	punct	15
+17	power	power		nn		nom							NN	conj	15
+18	,	,											,	punct	17
+19	and	and		cc	phrs								CC	cc	17
+20	finances	finance		nn	pl	nom							NNS	conj	17
+21	through	through	in+advl	in	advl								IN	prep	13
+22	conquest	conquest		nn									NN	pobj	21
+23	of	of	of+npostmod	in	nmod								IN	prep	22
+24	territory	territory		nn		nom							NN	pobj	23
+25	and	and		cc	phrs								CC	cc	24
+26	goods	good		nn	pl								NNS	conj	24
+27	.	.											.	punct	1
+
+#sentid = 10
+0	Sargon	sargon		nn		proper							NNP	nsubj	4
+1	and	and		cc	phrs								CC	cc	0
+2	Herodotus	herodotus		nn		proper							NNP	conj	0
+3	both	both											DT	appos	0
+4	give	give		vbmain	vblex	pres	simple	active					VBP	ROOT	4
+5	reliable	reliable	attr+npremod	jj	attr								JJ	amod	6
+6	evidence	evidence		nn		nom							NN	dobj	4
+7	that	that		relpro	relpro_that								IN	mark	13
+8	the	the		dt	art								DT	det	9
+9	Assyrians	assyrians		nn	pl	proper							NNPS	nsubj	13
+10	and	and		cc	phrs								CC	cc	9
+11	Persians	persians		nn	pl	proper							NNPS	conj	9
+12	also	also	rb+advl	rb	advl								RB	advmod	13
+13	used	use	thatcls+ncomp	vbmain	vblex	past	simple	active	nmod_cls	thatcls	ncomp		VBD	acl	6
+14	war	war	nn+npremod	nn			npremod						NN	compound	15
+15	campaigns	campaign		nn	pl								NNS	dobj	13
+16	to	to		to									TO	aux	17
+17	increase	increase	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	13
+18	their	their		dt	poss								PRP$	poss	19
+19	territory	territory		nn		nom							NN	dobj	17
+20	and	and		cc	phrs								CC	cc	19
+21	wealth	wealth		nn									NN	conj	19
+22	.	.											.	punct	4
+
+#sentid = 11
+0	With	with	in+advl	in	advl								IN	prep	10
+1	the	the		dt	art								DT	det	2
+2	Assyrians	assyrians		nn	pl	proper							NNPS	pobj	0
+3	and	and		cc	phrs								CC	cc	2
+4	Persians	persians		nn	pl	proper							NNPS	conj	2
+5	some	some		dt									DT	det	7
+6	new	new	attr+npremod	jj	attr								JJ	amod	7
+7	motivations	motivation		nn	pl	nom							NNS	nsubj	10
+8	for	for	in+npostmod	in	nmod								IN	prep	7
+9	warfare	warfare		nn									NN	pobj	8
+10	came	come		vbmain	vblex	past	simple	active					VBD	ROOT	10
+11	into	into	in+advl	in	advl								IN	prep	10
+12	play	play		nn									NN	pobj	11
+13	as	as		rb	othr								IN	advmod	14
+14	well	well	rb+advl	rb	advl								RB	advmod	10
+15	,	,											,	punct	10
+16	including	include		vbmain	nmod	nonfinite	simple	active		ingcls			VBG	prep	7
+17	religiously	religiously	rb+advl	rb	advl	ly							RB	advmod	18
+18	motivated	motivate	attr+npremod	jj	attr	ed							VBN	amod	19
+19	conquest	conquest		nn									NN	pobj	16
+20	,	,											,	punct	19
+21	conquest	conquest		nn									NN	conj	19
+22	for	for	in+npostmod	in	nmod								IN	prep	21
+23	the	the		dt	art								DT	det	24
+24	sake	sake		nn									NN	pobj	22
+25	of	of	of+npostmod	in	nmod								IN	prep	24
+26	glory	glory		nn		nom							NN	pobj	25
+27	or	or		cc	phrs								CC	cc	26
+28	honor	honor		nn		nom							NN	conj	26
+29	,	,											,	punct	21
+30	and	and		cc	phrs								CC	cc	21
+31	conquest	conquest		nn									NN	conj	21
+32	for	for	in+npostmod	in	nmod								IN	prep	31
+33	retribution	retribution		nn		nom							NN	pobj	32
+34	.	.											.	punct	10
+
+#sentid = 12
+0													_SP	dep	2
+1	Assyria	assyria		nn		proper							NNP	nsubj	2
+2	was	be		vbmain	be	past	simple	active					VBD	ROOT	2
+3	well	well	rb+advl	rb	advl								RB	advmod	5
+4	-	-											HYPH	punct	5
+5	known	know		jj	pred	ed							VBN	acomp	2
+6	for	for	in+advl	in	advl								IN	prep	5
+7	its	its		dt	poss								PRP$	poss	9
+8	warfare	warfare	nn+npremod	nn			npremod						NN	compound	9
+9	lifestyle	lifestyle		nn									NN	pobj	6
+10	.	.											.	punct	2
+
+#sentid = 13
+0	the	the		dt	art								DT	det	1
+1	society	society	s+gen	dt	poss		sgen						NN	poss	3
+2	's	's											POS	case	1
+3	job	job		nn									NN	nsubj	4
+4	was	be		vbmain	be	past	simple	active					VBD	ROOT	4
+5	warfare	warfare		nn									NN	attr	4
+6	,	,											,	punct	4
+7	and	and		cc	cls								CC	cc	4
+8	its	its		dt	poss								PRP$	poss	9
+9	livelihood	livelihood		nn		nom							NN	nsubj	10
+10	came	come		vbmain	prepv	past	simple	active					VBD	conj	4
+11	from	from	in+advl	in	advl								IN	prep	10
+12	yearly	yearly	attr+npremod	jj	attr								JJ	amod	13
+13	conquests	conquest		nn	pl								NNS	pobj	11
+14	of	of	of+npostmod	in	nmod								IN	prep	13
+15	the	the		dt	art								DT	det	17
+16	surrounding	surround	attr+npremod	jj	attr	ing							VBG	amod	17
+17	kingdoms	kingdom		nn	pl	nom							NNS	pobj	14
+18	.	.											.	punct	10
+
+#sentid = 14
+0	Scholars	scholar		nn	pl								NNS	nsubj	1
+1	have	have		vbmain	vblex	pres	simple	active					VBP	ROOT	1
+2	evidence	evidence		nn		nom							NN	dobj	1
+3	for	for	in+npostmod	in	nmod								IN	prep	2
+4	these	these		dt	dt_dem								DT	det	6
+5	yearly	yearly	attr+npremod	jj	attr								JJ	amod	6
+6	campaigns	campaign		nn	pl								NNS	pobj	3
+7	from	from	in+advl	in	advl								IN	prep	1
+8	Biblical	biblical	attr+npremod	jj	attr								JJ	amod	10
+9	-	-											HYPH	punct	10
+10	period	period	nn+npremod	nn			npremod						NN	compound	11
+11	texts	text		nn	pl								NNS	pobj	7
+12	and	and		cc	phrs								CC	cc	11
+13	later	later	attr+npremod	jj	attr								JJ	amod	15
+14	Greek	greek	attr+npremod	jj	attr								JJ	amod	15
+15	accounts	account		nn	pl								NNS	conj	11
+16	,	,											,	punct	11
+17	including	include		vbmain	nmod	nonfinite	simple	active		ingcls			VBG	prep	11
+18	Sargon	sargon	s+gen	dt	poss	proper	sgen						NNP	poss	22
+19	's	's											POS	case	18
+20	Eighth	eighth		nn		proper	npremod						NNP	compound	22
+21	Campaign	campaign		nn		proper	npremod						NNP	compound	22
+22	Letter	letter		nn		proper							NNP	pobj	17
+23	to	to	in+npostmod	in	nmod								IN	prep	22
+24	Assur	assur		nn		proper							NNP	pobj	23
+25	(	(											-LRB-	punct	22
+26	Potter	potter		nn		proper	nappos						NNP	appos	22
+27	,	,											,	punct	26
+28	1/18/2008	1/18/2008											CD	npadvmod	26
+29	)	)											.	punct	22
+30	.	.											.	punct	1
+
+#sentid = 15
+0	The	the		dt	art								DT	det	2
+1	Assyrian	assyrian	attr+npremod	jj	attr								JJ	amod	2
+2	army	army		nn									NN	nsubj	4
+3	would	would		vbaux	mod	prd							MD	aux	4
+4	march	march		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	4
+5	out	out	rb+advl	rb	advl								RB	advmod	4
+6	to	to		to									TO	aux	7
+7	conquer	conquer	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	4
+8	a	a		dt	art								DT	det	10
+9	neighboring	neighbor	attr+npremod	jj	attr	ing							VBG	amod	10
+10	territory	territory		nn		nom							NN	dobj	7
+11	,	,											,	punct	4
+12	and	and		cc	phrs								CC	cc	4
+13	upon	upon	in+advl	in	advl								IN	prep	16
+14	arrival	arrival		nn		nom							NN	pobj	13
+15	there	there	rb+advl	rb	advl								RB	advmod	16
+16	demand	demand		vbmain	vblex	nonfinite	simple	active					VB	conj	4
+17	tribute	tribute		nn									NN	dobj	16
+18	or	or		cc	phrs								CC	cc	16
+19	sack	sack		vbmain	vblex	nonfinite	simple	active					VB	conj	16
+20	the	the		dt	art								DT	det	21
+21	area	area		nn									NN	dobj	19
+22	and	and		cc	phrs								CC	cc	19
+23	enslave	enslave		vbmain	vblex	nonfinite	simple	active					VB	conj	19
+24	the	the		dt	art								DT	det	26
+25	native	native	attr+npremod	jj	attr								JJ	amod	26
+26	people	people		nn	pl								NNS	dobj	23
+27	.	.											.	punct	4
+
+#sentid = 16
+0	This	this		pro	dem	sg							DT	nsubj	1
+1	was	be		vbmain	be	past	simple	active					VBD	ROOT	1
+2	an	an		dt									DT	det	4
+3	efficient	efficient	attr+npremod	jj	attr								JJ	amod	4
+4	means	means		nn									NN	attr	1
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	acquiring	acquire	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	5
+7	wealth	wealth		nn									NN	dobj	6
+8	because	because		cs	cos								IN	mark	12
+9	Assyrian	assyrian	attr+npremod	jj	attr								JJ	amod	10
+10	kings	king		nn	pl	nom							NNS	nsubj	12
+11	would	would		vbaux	mod	prd							MD	aux	12
+12	take	take	finitecls+advl	vbmain	vblex	vp_w_modal	simple	active	advlcls		causative		VB	advcl	1
+13	the	the		dt	art								DT	det	17
+14	hard	hard	rb+advl	rb	advl								RB	advmod	16
+15	-	-											HYPH	punct	16
+16	earned	earn	attr+npremod	jj	attr	ed							VBN	amod	17
+17	goods	good		nn	pl								NNS	dobj	12
+18	of	of	of+npostmod	in	nmod								IN	prep	17
+19	another	another		dt									DT	det	20
+20	society	society		nn									NN	pobj	18
+21	essentially	essentially		rb	othr	ly							RB	advmod	22
+22	through	through	in+advl	in	advl								IN	prep	12
+23	fear	fear		nn									NN	pobj	22
+24	and	and		cc	phrs								CC	cc	23
+25	bullying	bullying	nn+npremod	nn		nom	npremod						NN	compound	26
+26	tactics	tactic		nn	pl								NNS	conj	23
+27	.	.											.	punct	1
+
+#sentid = 17
+0	By	by	in+advl	in	advl								IN	prep	17
+1	forcing	force	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	0
+2	a	a		dt	art								DT	det	3
+3	nation	nation		nn		nom							NN	dobj	1
+4	to	to		to									TO	aux	5
+5	pay	pay	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	1
+6	tribute	tribute		nn									NN	dobj	5
+7	or	or		cc	phrs								CC	cc	5
+8	become	become		vbmain	vblex	nonfinite	simple	active					VB	conj	5
+9	a	a		dt	art								DT	det	12
+10	vassal	vassal	nn+npremod	nn		nom	npremod						NN	compound	12
+11	-	-											HYPH	punct	12
+12	state	state		nn		nom							NN	attr	8
+13	of	of	of+npostmod	in	nmod								IN	prep	12
+14	Assyria	assyria		nn		proper							NNP	pobj	13
+15	,	,											,	punct	17
+16	Assyria	assyria		nn		proper							NNP	nsubj	17
+17	received	receive		vbmain	vblex	past	simple	active					VBD	ROOT	17
+18	a	a		dt	art								DT	det	20
+19	financial	financial	attr+npremod	jj	attr								JJ	amod	20
+20	contribution	contribution		nn		nom							NN	dobj	17
+21	that	that		relpro	relpro_that	sg							WDT	nsubj	22
+22	allowed	allow	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls	thatcls	rel		VBD	relcl	20
+23	it	it		pro	3rd	sg							PRP	nsubj	25
+24	to	to		to									TO	aux	25
+25	continue	continue		vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	ccomp	22
+26	supporting	support	ingcls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	vcomp		VBG	xcomp	25
+27	its	its		dt	poss								PRP$	poss	28
+28	campaigns	campaign		nn	pl								NNS	dobj	26
+29	,	,											,	punct	26
+30	maintaining	maintain		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	conj	26
+31	an	an		dt									DT	det	32
+32	influx	influx		nn									NN	dobj	30
+33	of	of	of+npostmod	in	nmod								IN	prep	32
+34	money	money		nn									NN	pobj	33
+35	and	and		cc	phrs								CC	cc	30
+36	thus	thus		rb	link								RB	advmod	37
+37	holding	hold		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	conj	30
+38	significant	significant	attr+npremod	jj	attr								JJ	amod	39
+39	status	status		nn									NN	dobj	37
+40	in	in	in+advl	in	advl								IN	prep	37
+41	the	the		dt	art								DT	det	44
+42	ancient	ancient	attr+npremod	jj	attr								JJ	amod	44
+43	Near	near		nn		proper	npremod						NNP	compound	44
+44	East	east		nn		proper							NNP	pobj	40
+45	(	(											-LRB-	punct	25
+46	Kuhrt	kuhrt		nn		proper							NNP	dobj	25
+47	)	)											.	punct	25
+48	.	.											.	punct	17
+
+#sentid = 18
+0	When	when		rb	advl								WRB	advmod	2
+1	societies	society		nn	pl								NNS	nsubj	2
+2	refused	refuse	finitecls+advl	vbmain	vblex	past	simple	active	advlcls	whcls			VBD	advcl	15
+3	to	to		to									TO	aux	4
+4	pay	pay	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	2
+5	tribute	tribute		nn									NN	dobj	4
+6	to	to											IN	dative	4
+7	the	the		dt	art								DT	det	9
+8	Assyrian	assyrian	attr+npremod	jj	attr								JJ	amod	9
+9	king	king		nn		nom							NN	pobj	6
+10	,	,											,	punct	15
+11	the	the		dt	art								DT	det	12
+12	king	king		nn		nom							NN	nsubj	15
+13	would	would		vbaux	mod	prd							MD	aux	15
+14	simply	simply	rb+advl	rb	advl	ly	splaux						RB	advmod	15
+15	take	take		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	15
+16	the	the		dt	art								DT	det	17
+17	city	city		nn		nom							NN	dobj	15
+18	and	and		cc	phrs								CC	cc	15
+19	enslave	enslave		vbmain	vblex	nonfinite	simple	active					VB	conj	15
+20	its	its		dt	poss								PRP$	poss	21
+21	inhabitants	inhabitant		nn	pl	nom							NNS	dobj	19
+22	,	,											,	punct	19
+23	creating	create		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	conj	19
+24	a	a		dt	art								DT	det	25
+25	workforce	workforce		nn									NN	dobj	23
+26	that	that		relpro	relpro_that	sg							WDT	nsubj	27
+27	kept	keep	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls	thatcls	rel		VBD	relcl	25
+28	agriculture	agriculture		nn		nom							NN	dobj	27
+29	and	and		cc	phrs								CC	cc	28
+30	food	food	nn+npremod	nn			npremod						NN	compound	31
+31	production	production		nn		nom							NN	conj	28
+32	high	high											JJ	oprd	27
+33	enough	enough	rb+jjrbmod	rb	othr								RB	advmod	32
+34	to	to		to									TO	aux	35
+35	maintain	maintain	tocls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	jcomp		VB	xcomp	32
+36	the	the		dt	art								DT	det	37
+37	needs	need		nn	pl								NNS	dobj	35
+38	of	of	of+npostmod	in	nmod								IN	prep	37
+39	the	the		dt	art								DT	det	40
+40	army	army		nn									NN	pobj	38
+41	(	(											-LRB-	punct	40
+42	Kuhrt	kuhrt	appos+npostmod	nn		proper	nappos						NNP	appos	40
+43	)	)											.	punct	40
+44	.	.											.	punct	15
+
+#sentid = 19
+0	Primarily	primarily	rb+advl	rb	advl	ly							RB	advmod	4
+1	,	,											,	punct	4
+2	the	the		dt	art								DT	det	3
+3	Assyrians	assyrians		nn	pl	proper							NNPS	nsubj	4
+4	relied	rely		vbmain	prepv	past	simple	active					VBD	ROOT	4
+5	on	on	in+advl	in	advl								IN	prep	4
+6	fear	fear	nn+npremod	nn			npremod						NN	compound	7
+7	tactics	tactic		nn	pl								NNS	pobj	5
+8	to	to		to									TO	aux	9
+9	accomplish	accomplish	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	4
+10	widespread	widespread	attr+npremod	jj	attr								JJ	amod	11
+11	control	control		nn									NN	dobj	9
+12	of	of	of+npostmod	in	nmod								IN	prep	11
+13	Mesopotamia	mesopotamia		nn		proper							NNP	pobj	12
+14	.	.											.	punct	4
+
+#sentid = 20
+0	The	the		dt	art								DT	det	1
+1	Persians	persians		nn	pl	proper							NNPS	nsubj	13
+2	,	,											,	punct	13
+3	on	on	in+advl	in	advl								IN	prep	13
+4	the	the		dt	art								DT	det	6
+5	other	other	attr+npremod	jj	attr								JJ	amod	6
+6	hand	hand		nn									NN	pobj	3
+7	,	,											,	punct	13
+8	while	while		cs	con								IN	mark	9
+9	using	use	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls	concessive		VBG	advcl	13
+10	fear	fear	nn+npremod	nn			npremod						NN	compound	11
+11	tactics	tactic		nn	pl								NNS	dobj	9
+12	,	,											,	punct	13
+13	had	have		vbmain	vblex	past	simple	active					VBD	ROOT	13
+14	to	to		to									TO	aux	15
+15	rely	rely		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	xcomp	13
+16	more	more	rb+jjrbmod	rb	othr								RBR	advmod	17
+17	heavily	heavily	rb+advl	rb	advl	ly							RB	advmod	15
+18	on	on	in+advl	in	advl								IN	prep	15
+19	superior	superior	attr+npremod	jj	attr								JJ	amod	21
+20	battle	battle	nn+npremod	nn			npremod						NN	compound	21
+21	stratagems	stratagem		nn	pl								NNS	pobj	18
+22	to	to		to									TO	aux	23
+23	find	find	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	15
+24	success	success		nn		nom							NN	dobj	23
+25	against	against	in+npostmod	in	nmod								IN	prep	24
+26	the	the		dt	art								DT	det	27
+27	Greeks	greeks		nn	pl	proper							NNPS	pobj	25
+28	(	(											-LRB-	punct	34
+29	the	the		dt	art								DT	det	30
+30	lack	lack		nn									NN	nsubj	34
+31	of	of	of+npostmod	in	nmod								IN	prep	30
+32	superior	superior	attr+npremod	jj	attr								JJ	amod	33
+33	stratagems	stratagem		nn	pl								NNS	pobj	31
+34	is	be		vbmain	be	pres	simple	active					VBZ	parataxis	13
+35	what	what											WP	nsubj	36
+36	lead	lead	whcls+vcomp	vbmain	prepv	pres	simple	active	compcls	whcls	vcomp		VBP	ccomp	34
+37	to	to	in+advl	in	advl								IN	prep	36
+38	their	their		dt	poss								PRP$	poss	40
+39	eventual	eventual	attr+npremod	jj	attr								JJ	amod	40
+40	downfall	downfall		nn									NN	pobj	37
+41	to	to	in+npostmod	in	nmod								IN	prep	40
+42	the	the		dt	art								DT	det	43
+43	Greeks	greeks		nn	pl	proper							NNPS	pobj	41
+44	)	)											-RRB-	punct	34
+45	(	(											-LRB-	punct	34
+46	Herodotus	herodotus		nn		proper							NNP	dep	34
+47	)	)											.	punct	34
+48	.	.											.	punct	13
+
+#sentid = 21
+0													_SP	dep	6
+1	Sargon	sargon		nn		proper							NNP	nsubj	6
+2	and	and		cc	phrs								CC	cc	1
+3	the	the		dt	art								DT	det	5
+4	Persian	persian	attr+npremod	jj	attr								JJ	amod	5
+5	kings	king		nn	pl	nom							NNS	conj	1
+6	added	add		vbmain	vblex	past	simple	active					VBD	ROOT	6
+7	several	several	attr+npremod	jj	attr								JJ	amod	9
+8	new	new	attr+npremod	jj	attr								JJ	amod	9
+9	dimensions	dimension		nn	pl								NNS	dobj	6
+10	to	to	in+advl	in	advl								IN	prep	6
+11	this	this		dt	dt_dem								DT	det	14
+12	practical	practical	attr+npremod	jj	attr								JJ	amod	14
+13	Assyrian	assyrian	attr+npremod	jj	attr								JJ	amod	14
+14	model	model		nn									NN	pobj	10
+15	of	of	of+npostmod	in	nmod								IN	prep	14
+16	the	the		dt	art								DT	det	19
+17	conquest	conquest	nn+npremod	nn			npremod						NN	compound	19
+18	-	-											HYPH	punct	19
+19	state	state		nn		nom							NN	pobj	15
+20	by	by	in+advl	in	advl								IN	prep	6
+21	creating	create	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	20
+22	new	new	attr+npremod	jj	attr								JJ	amod	23
+23	motivations	motivation		nn	pl	nom							NNS	dobj	21
+24	for	for	in+npostmod	in	nmod								IN	prep	23
+25	maintained	maintain	attr+npremod	jj	attr	ed							VBN	amod	26
+26	campaigning	campaigning	nn+npremod	nn		nom	npremod						NN	nmod	29
+27	and	and		cc	phrs								CC	cc	26
+28	territorial	territorial											JJ	conj	26
+29	expansion	expansion		nn									NN	pobj	24
+30	.	.											.	punct	6
+
+#sentid = 22
+0	The	the		dt	art								DT	det	1
+1	empires	empire		nn	pl								NNS	nsubj	4
+2	could	could		vbaux	mod	pos							MD	aux	4
+3	not	not											RB	neg	4
+4	continue	continue		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	4
+5	to	to		to									TO	aux	6
+6	expand	expand	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	4
+7	based	base	edcls+advl	vbmain	advl	nonfinite	simple	active		edcls			VBN	prep	4
+8	on	on	in+advl	in	advl								IN	prep	7
+9	a	a		dt	art								DT	det	11
+10	sole	sole	attr+npremod	jj	attr								JJ	amod	11
+11	desire	desire		nn									NN	pobj	8
+12	to	to		to									TO	aux	13
+13	be	be	tocls+ncomp	vbmain	be	nonfinite	simple	active	nmod_cls	tocls	ncomp		VB	acl	11
+14	the	the		dt	art								DT	det	19
+15	biggest	big	attr+npremod	jj	attr								JJS	amod	19
+16	and	and		cc	phrs								CC	cc	15
+17	most	most	rb+jjrbmod	rb	othr								RBS	advmod	18
+18	glorious	glorious											JJ	conj	15
+19	state	state		nn		nom							NN	attr	13
+20	in	in	in+npostmod	in	nmod								IN	prep	19
+21	the	the		dt	art								DT	det	22
+22	world	world		nn									NN	pobj	20
+23	.	.											.	punct	4
+
+#sentid = 23
+0	this	this		dt	dt_dem								DT	det	1
+1	ambition	ambition		nn		nom							NN	nsubj	7
+2	for	for	in+npostmod	in	nmod								IN	prep	1
+3	power	power		nn		nom							NN	pobj	2
+4	would	would		vbaux	mod	prd							MD	aux	7
+5	have	have		vbaux									VB	aux	7
+6	undoubtedly	undoubtedly	rb+advl	rb	advl	ly	splaux						RB	advmod	7
+7	been	be		vbmain	be	vp_w_modal	perf	active					VBN	ROOT	7
+8	dangerous	dangerous		jj	pred								JJ	acomp	7
+9	and	and		cc	phrs								CC	cc	8
+10	overly	overly	rb+jjrbmod	rb	othr	ly							RB	advmod	11
+11	proud	proud											JJ	conj	8
+12	.	.											.	punct	7
+
+#sentid = 24
+0	The	the		dt	art								DT	det	1
+1	Assyrians	assyrians		nn	pl	proper							NNPS	nsubj	2
+2	had	have		vbmain	vblex	past	simple	active					VBD	ROOT	2
+3	to	to		to									TO	aux	4
+4	find	find		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	xcomp	2
+5	new	new	attr+npremod	jj	attr								JJ	amod	6
+6	motivations	motivation		nn	pl	nom							NNS	dobj	4
+7	to	to		to									TO	aux	8
+8	continue	continue	tocls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	rel		VB	relcl	6
+9	expanding	expand	ingcls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	vcomp		VBG	xcomp	8
+10	their	their		dt	poss								PRP$	poss	11
+11	territory	territory		nn		nom							NN	dobj	9
+12	,	,											,	punct	2
+13	and	and		cc	cls								CC	cc	2
+14	the	the		dt	art								DT	det	15
+15	Persians	persians		nn	pl	proper							NNPS	nsubj	17
+16	later	later	rb+advl	rb	advl								RB	advmod	17
+17	claims	claim		vbmain	vblex	pres	simple	active					VBZ	conj	2
+18	many	many											JJ	dobj	17
+19	of	of	in+jcomp	in	jcomp								IN	prep	18
+20	these	these		dt	dt_dem								DT	det	22
+21	same	same	attr+npremod	jj	attr								JJ	amod	22
+22	reasons	reason		nn	pl								NNS	pobj	19
+23	.	.											.	punct	17
+
+#sentid = 25
+0	The	the		dt	art								DT	det	4
+1	three	three											CD	nummod	4
+2	most	most	rb+advl	rb	advl								RBS	advmod	3
+3	influencing	influence	attr+npremod	jj	attr	ing							VBG	amod	4
+4	motivations	motivation		nn	pl	nom							NNS	nsubj	13
+5	for	for	in+npostmod	in	nmod								IN	prep	4
+6	conquest	conquest		nn									NN	pobj	5
+7	for	for	in+npostmod	in	nmod								IN	prep	4
+8	both	both		dt									DT	det	9
+9	Sargon	sargon		nn		proper							NNP	pobj	7
+10	and	and		cc	phrs								CC	cc	9
+11	the	the		dt	art								DT	det	12
+12	Persians	persians		nn	pl	proper							NNPS	conj	9
+13	were	be		vbaux									VBD	aux	14
+14	conquering	conquer		vbmain	vblex	past	prog	active					VBG	ROOT	14
+15	to	to		to									TO	aux	16
+16	serve	serve	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	14
+17	and	and		cc	phrs								CC	cc	16
+18	please	please		vbmain	vblex	nonfinite	simple	active					VB	conj	16
+19	the	the		dt	art								DT	det	20
+20	gods	god		nn	pl								NNS	dobj	18
+21	,	,											,	punct	16
+22	to	to		to									TO	aux	23
+23	achieve	achieve		vbmain	vblex	nonfinite	simple	active		tocls			VB	conj	16
+24	glory	glory		nn		nom							NN	dobj	23
+25	by	by	in+advl	in	advl								IN	prep	23
+26	conquering	conquer	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	25
+27	,	,											,	punct	23
+28	and	and		cc	phrs								CC	cc	23
+29	to	to		to									TO	aux	30
+30	repay	repay		vbmain	vblex	nonfinite	simple	active		tocls			VB	conj	23
+31	other	other	attr+npremod	jj	attr								JJ	amod	32
+32	societies	society		nn	pl								NNS	dobj	30
+33	for	for	in+advl	in	advl								IN	prep	30
+34	the	the		dt	art								DT	det	36
+35	evil	evil	attr+npremod	jj	attr								JJ	amod	36
+36	deeds	deed		nn	pl								NNS	pobj	33
+37	they	they		pro	pl								PRP	nsubj	38
+38	enacted	enact	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls		rel	reldel	VBD	relcl	36
+39	against	against	in+advl	in	advl								IN	prep	38
+40	the	the		dt	art								DT	det	41
+41	Persians	persians		nn	pl	proper							NNPS	pobj	39
+42	and	and		cc	phrs								CC	cc	41
+43	Assyrians	assyrians		nn	pl	proper							NNPS	conj	41
+44	.	.											.	punct	14
+
+#sentid = 26
+0	(	(											-LRB-	punct	19
+1	While	while		cs	con								IN	mark	4
+2	these	these		dt	dt_dem								DT	det	3
+3	themes	theme		nn	pl								NNS	nsubj	4
+4	were	be	finitecls+advl	vbmain	be	past	simple	active	advlcls		concessive		VBD	advcl	19
+5	probably	probably	rb+advl	rb	advl	ly							RB	advmod	4
+6	a	a		dt	art								DT	det	7
+7	part	part		nn									NN	attr	4
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	policy	policy		nn		nom							NN	pobj	8
+10	for	for	in+npostmod	in	nmod								IN	prep	9
+11	campaigning	campaign	attr+npremod	jj	attr	ing							VBG	amod	12
+12	states	state		nn	pl	nom							NNS	pobj	10
+13	prior	prior		rb	othr								RB	advmod	7
+14	to	to		in	in_othr								IN	prep	13
+15	the	the		dt	art								DT	det	16
+16	Assyrians	assyrians		nn	pl	proper							NNPS	pobj	14
+17	,	,											,	punct	19
+18	we	we		pro	1st								PRP	nsubj	19
+19	see	see		vbmain	vblex	pres	simple	active					VBP	ROOT	19
+20	a	a		dt	art								DT	det	23
+21	very	very	rb+jjrbmod	rb	adjmod								RB	advmod	22
+22	strong	strong	attr+npremod	jj	attr								JJ	amod	23
+23	increase	increase		nn									NN	dobj	19
+24	in	in	in+npostmod	in	nmod								IN	prep	23
+25	these	these		dt	dt_dem								DT	det	26
+26	motivations	motivation		nn	pl	nom							NNS	pobj	24
+27	beginning	begin		vbmain	advl	nonfinite	simple	active		ingcls			VBG	prep	19
+28	with	with	in+advl	in	advl								IN	prep	27
+29	the	the		dt	art								DT	det	31
+30	Assyrian	assyrian	attr+npremod	jj	attr								JJ	amod	31
+31	empire	empire		nn									NN	pobj	28
+32	.	.											.	punct	19
+33	)	)											.	punct	19
+
+#sentid = 27
+0													_SP	dep	6
+1	Sargon	sargon	s+gen	dt	poss	proper	sgen						NNP	poss	3
+2	's	's											POS	case	1
+3	letter	letter		nn		nom							NN	nsubj	6
+4	to	to	in+npostmod	in	nmod								IN	prep	3
+5	Assur	assur		nn		proper							NNP	pobj	4
+6	highlights	highlight		vbmain	vblex	pres	simple	active					VBZ	ROOT	6
+7	this	this		dt	dt_dem								DT	det	9
+8	first	first	attr+npremod	jj	attr								JJ	amod	9
+9	motivation	motivation		nn		nom							NN	dobj	6
+10	.	.											.	punct	6
+
+#sentid = 28
+0	his	his		dt	poss	sg							PRP$	poss	2
+1	entire	entire	attr+npremod	jj	attr								JJ	amod	2
+2	letter	letter		nn		nom							NN	nsubj	3
+3	claims	claim		vbmain	vblex	pres	simple	active					VBZ	ROOT	3
+4	to	to		to									TO	aux	5
+5	conquer	conquer	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	3
+6	people	people		nn	pl								NNS	dobj	5
+7	to	to		to									TO	aux	8
+8	punish	punish	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	5
+9	them	they		pro	pl								PRP	dobj	8
+10	for	for	in+advl	in	advl								IN	prep	8
+11	offending	offend	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	10
+12	the	the		dt	art								DT	det	13
+13	gods	god		nn	pl								NNS	dobj	11
+14	.	.											.	punct	3
+
+#sentid = 29
+0	For	for	in+advl	in	advl								IN	prep	4
+1	example	example		nn									NN	pobj	0
+2	,	,											,	punct	4
+3	Sargon	sargon		nn		proper							NNP	nsubj	4
+4	says	say		vbmain	vblex	pres	simple	active					VBZ	ROOT	4
+5	of	of	in+advl	in	advl								IN	prep	4
+6	an	an		dt									DT	det	8
+7	Armenian	armenian	attr+npremod	jj	attr								JJ	amod	8
+8	king	king		nn		nom							NN	pobj	5
+9	called	call	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	8
+10	Ursa	ursa		nn		proper							NNP	oprd	9
+11	who	who		relpro	relpro_wh								WP	nsubj	12
+12	refuses	refuse	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls	whcls	rel		VBZ	relcl	8
+13	to	to		to									TO	aux	14
+14	surrender	surrender	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	12
+15	his	his		dt	poss	sg							PRP$	poss	16
+16	territory	territory		nn		nom							NN	dobj	14
+17	and	and		cc	phrs								CC	cc	14
+18	pay	pay		vbmain	vblex	nonfinite	simple	active					VB	conj	14
+19	tribute	tribute		nn									NN	dobj	18
+20	to	to											IN	dative	18
+21	Sargon	sargon		nn		proper							NNP	pobj	20
+22	,	,											,	punct	26
+23	"	"											``	punct	26
+24	...	...											``	punct	26
+25	I	i		pro	1st	sg							PRP	nsubj	26
+26	lifted	lift	thatcls+vcomp	vbmain	vblex	past	simple	active	compcls		vcomp	compdel	VBD	ccomp	4
+27	my	my		dt	poss								PRP$	poss	28
+28	hands	hand		nn	pl								NNS	dobj	26
+29	,	,											,	punct	26
+30	praying	pray	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	26
+31	that	that		comp	comp_that								IN	mark	34
+32	I	i		pro	1st	sg							PRP	nsubj	34
+33	might	might		vbaux	mod	pos							MD	aux	34
+34	bring	bring	thatcls+vcomp	vbmain	phrsv	vp_w_modal	simple	active	compcls	thatcls	vcomp		VB	ccomp	30
+35	about	about		rb	prtcle								RP	prt	34
+36	his	his		dt	poss	sg							PRP$	poss	37
+37	defeat	defeat		nn									NN	dobj	34
+38	in	in	in+npostmod	in	nmod								IN	prep	37
+39	battle	battle		nn									NN	pobj	38
+40	,	,											,	punct	34
+41	turn	turn		vbmain	vblex	nonfinite	simple	active					VB	conj	34
+42	his	his		dt	poss	sg							PRP$	poss	44
+43	insolent	insolent	attr+npremod	jj	attr								JJ	amod	44
+44	words	word		nn	pl								NNS	dobj	41
+45	against	against	in+advl	in	advl								IN	prep	41
+46	himself	himself		pro	3rd	sg							PRP	pobj	45
+47	,	,											,	punct	41
+48	and	and		cc	phrs								CC	cc	41
+49	make	make		vbmain	vblex	nonfinite	simple	active					VB	conj	41
+50	him	he		pro	3rd	sg							PRP	nsubj	51
+51	bear	bear		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	ccomp	49
+52	his	his		dt	poss	sg							PRP$	poss	53
+53	sin	sin		nn									NN	dobj	51
+54	(	(											-LRB-	punct	34
+55	81	81											CD	dobj	34
+56	)	)											.	punct	34
+57	.	.											.	punct	26
+58	"	"											.	punct	4
+
+#sentid = 30
+0	Sargon	sargon		nn		proper							NNP	nsubj	1
+1	uses	use		vbmain	vblex	pres	simple	active					VBZ	ROOT	1
+2	the	the		dt	art								DT	det	3
+3	gods	god		nn	pl								NNS	dobj	1
+4	,	,											,	punct	1
+5	whether	whether											CC	preconj	8
+6	genuinely	genuinely		rb	othr	ly							RB	advmod	8
+7	or	or		cc									CC	cc	8
+8	through	through	in+advl	in	advl								IN	prep	1
+9	exploitation	exploitation		nn		nom							NN	pobj	8
+10	,	,											,	punct	1
+11	as	as	in+advl	in	advl								IN	prep	1
+12	a	a		dt	art								DT	det	13
+13	reason	reason		nn									NN	pobj	11
+14	to	to		to									TO	aux	15
+15	go	go	tocls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	rel		VB	relcl	13
+16	to	to	in+advl	in	advl								IN	prep	15
+17	war	war		nn									NN	pobj	16
+18	.	.											.	punct	1
+
+#sentid = 31
+0	He	he		pro	3rd	sg							PRP	nsubj	1
+1	paints	paint		vbmain	vblex	pres	simple	active					VBZ	ROOT	1
+2	himself	himself		pro	3rd	sg							PRP	dobj	1
+3	as	as	in+advl	in	advl								IN	prep	1
+4	a	a		dt	art								DT	det	5
+5	king	king		nn		nom							NN	pobj	3
+6	seeking	seek	ingcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	ingcls	ncomp		VBG	acl	5
+7	to	to		to									TO	aux	8
+8	justify	justify	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	6
+9	the	the		dt	art								DT	det	10
+10	evils	evil		nn	pl								NNS	dobj	8
+11	enacted	enact	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	10
+12	against	against	in+advl	in	advl								IN	prep	11
+13	the	the		dt	art								DT	det	14
+14	gods	god		nn	pl								NNS	pobj	12
+15	,	,											,	punct	1
+16	and	and		cc	phrs								CC	cc	1
+17	would	would		vbaux	mod	prd							MD	aux	18
+18	call	call		vbmain	vblex	vp_w_modal	simple	active					VB	conj	1
+19	himself	himself		pro	3rd	sg							PRP	dobj	18
+20	the	the		dt	art								DT	det	21
+21	servant	servant		nn		nom							NN	oprd	18
+22	of	of	of+npostmod	in	nmod								IN	prep	21
+23	the	the		dt	art								DT	det	25
+24	Assyrian	assyrian	attr+npremod	jj	attr								JJ	amod	25
+25	pantheon	pantheon		nn									NN	pobj	22
+26	.	.											.	punct	1
+
+#sentid = 32
+0	These	these		dt	dt_dem								DT	det	1
+1	tactics	tactic		nn	pl								NNS	nsubj	2
+2	were	be		vbmain	be	past	simple	active					VBD	ROOT	2
+3	very	very	rb+jjrbmod	rb	adjmod								RB	advmod	4
+4	useful	useful		jj	pred								JJ	acomp	2
+5	in	in	in+advl	in	advl								IN	prep	2
+6	ancient	ancient	attr+npremod	jj	attr								JJ	amod	7
+7	Mesopotamia	mesopotamia		nn		proper							NNP	pobj	5
+8	because	because		cs	cos								IN	mark	10
+9	people	people		nn	pl								NNS	nsubj	10
+10	possessed	possess	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		causative		VBD	advcl	2
+11	a	a		dt	art								DT	det	13
+12	genuine	genuine	attr+npremod	jj	attr								JJ	amod	13
+13	fear	fear		nn									NN	dobj	10
+14	toward	toward	in+npostmod	in	nmod								IN	prep	13
+15	the	the		dt	art								DT	det	16
+16	wrath	wrath		nn									NN	pobj	14
+17	of	of	of+npostmod	in	nmod								IN	prep	16
+18	the	the		dt	art								DT	det	19
+19	gods	god		nn	pl								NNS	pobj	17
+20	and	and		cc	phrs								CC	cc	10
+21	would	would		vbaux	mod	prd							MD	aux	22
+22	submit	submit		vbmain	vblex	vp_w_modal	simple	active					VB	conj	10
+23	to	to	in+advl	in	advl								IN	prep	22
+24	Sargon	sargon	s+gen	dt	poss	proper	sgen						NNP	poss	26
+25	's	's											POS	case	24
+26	attestations	attestation		nn	pl	nom							NNS	pobj	23
+27	.	.											.	punct	2
+
+#sentid = 33
+0													_SP	dep	10
+1	The	the		dt	art								DT	det	2
+2	Persians	persians		nn	pl	proper							NNPS	nsubj	10
+3	,	,											,	punct	10
+4	on	on	in+advl	in	advl								IN	prep	10
+5	the	the		dt	art								DT	det	7
+6	other	other	attr+npremod	jj	attr								JJ	amod	7
+7	hand	hand		nn									NN	pobj	4
+8	,	,											,	punct	10
+9	also	also	rb+advl	rb	advl								RB	advmod	10
+10	hold	hold		vbmain	vblex	pres	simple	active					VBP	ROOT	10
+11	paramount	paramount	attr+npremod	jj	attr								JJ	amod	13
+12	religious	religious	attr+npremod	jj	attr								JJ	amod	13
+13	reasons	reason		nn	pl								NNS	dobj	10
+14	concerning	concern		vbmain	nmod	nonfinite	simple	active		ingcls			VBG	prep	13
+15	their	their		dt	poss								PRP$	poss	16
+16	motivations	motivation		nn	pl	nom							NNS	pobj	14
+17	for	for	in+npostmod	in	nmod								IN	prep	16
+18	combat	combat		nn									NN	pobj	17
+19	.	.											.	punct	10
+
+#sentid = 34
+0	Herodotus	herodotus		nn		proper							NNP	nsubj	4
+1	,	,											,	punct	4
+2	however	however		rb	link								RB	advmod	4
+3	,	,											,	punct	4
+4	gives	give		vbmain	vblex	pres	simple	active					VBZ	ROOT	4
+5	us	we		pro	pl								PRP	dative	4
+6	more	more	rb+jjrbmod	rb	adjmod								RBR	advmod	7
+7	explicit	explicit	attr+npremod	jj	attr								JJ	amod	8
+8	reasons	reason		nn	pl								NNS	dobj	4
+9	for	for	in+npostmod	in	nmod								IN	prep	8
+10	the	the		dt	art								DT	det	12
+11	Persian	persian	attr+npremod	jj	attr								JJ	amod	12
+12	engagements	engagement		nn	pl	nom							NNS	pobj	9
+13	.	.											.	punct	4
+
+#sentid = 35
+0	For	for	in+advl	in	advl								IN	prep	11
+1	example	example		nn									NN	pobj	0
+2	,	,											,	punct	11
+3	during	during	in+advl	in	advl								IN	prep	11
+4	Darius	darius	s+gen	dt	poss	proper	sgen						NNP	poss	6
+5	'	'											POS	case	4
+6	reign	reign		nn									NN	pobj	3
+7	,	,											,	punct	11
+8	the	the		dt	art								DT	det	9
+9	Greeks	greeks		nn	pl	proper							NNPS	nsubj	11
+10	had	have		vbaux									VBD	aux	11
+11	attacked	attack		vbmain	vblex	past	perf	active					VBN	ROOT	11
+12	Sardis	sardis		nn		proper							NNP	dobj	11
+13	and	and		cc	phrs								CC	cc	11
+14	desecrated	desecrate		vbmain	vblex	nonfinite	simple	active		edcls			VBN	conj	11
+15	some	some		dt									DT	det	17
+16	sacred	sacred	attr+npremod	jj	attr								JJ	amod	17
+17	land	land		nn									NN	dobj	14
+18	.	.											.	punct	11
+
+#sentid = 36
+0	Xerxes	xerxes		nn		proper							NNP	nsubj	1
+1	cites	cite		vbmain	vblex	pres	simple	active					VBZ	ROOT	1
+2	this	this		pro	dem	sg							DT	dobj	1
+3	as	as	in+advl	in	advl								IN	prep	1
+4	one	one		pro	other	pl							CD	pobj	3
+5	of	of		in	in_othr								IN	prep	4
+6	the	the		dt	art								DT	det	7
+7	reasons	reason		nn	pl								NNS	pobj	5
+8	for	for	in+advl	in	advl								IN	prep	11
+9	which	which											WDT	pobj	8
+10	he	he		pro	3rd	sg							PRP	nsubj	11
+11	feels	feel	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls		rel	reldel	VBZ	relcl	7
+12	it	it		pro	3rd	sg							PRP	nsubj	13
+13	necessary	necessary											JJ	ccomp	11
+14	to	to		to									TO	aux	15
+15	reengage	reengage	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	13
+16	with	with	in+advl	in	advl								IN	prep	15
+17	the	the		dt	art								DT	det	18
+18	Greeks	greeks		nn	pl	proper							NNPS	pobj	16
+19	by	by	in+advl	in	advl								IN	prep	15
+20	land	land		nn									NN	pobj	19
+21	after	after	in+advl	in	advl								IN	prep	15
+22	a	a		dt	art								DT	det	25
+23	crushing	crushing	attr+npremod	jj	attr								JJ	amod	25
+24	naval	naval	attr+npremod	jj	attr								JJ	amod	25
+25	defeat	defeat		nn									NN	pobj	21
+26	(	(											-LRB-	punct	11
+27	7.8	7.8											CD	dobj	11
+28	)	)											.	punct	11
+29	.	.											.	punct	1
+
+#sentid = 37
+0	Herodotus	herodotus		nn		proper							NNP	nsubj	1
+1	tells	tell		vbmain	vblex	pres	simple	active					VBZ	ROOT	1
+2	the	the		dt	art								DT	det	3
+3	reader	reader		nn		nom							NN	dobj	1
+4	that	that		comp	comp_that								IN	mark	19
+5	the	the		dt	art								DT	det	8
+6	other	other	attr+npremod	jj	attr								JJ	amod	8
+7	determining	determine	attr+npremod	jj	attr	ing							VBG	amod	8
+8	factor	factor		nn		nom							NN	nsubj	19
+9	behind	behind	in+npostmod	in	nmod								IN	prep	8
+10	Xerxes	xerxes	s+gen	dt	poss	proper	sgen						NNP	poss	12
+11	'	'											POS	case	10
+12	decision	decision		nn									NN	pobj	9
+13	to	to		to									TO	aux	14
+14	march	march	tocls+ncomp	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	ncomp		VB	acl	12
+15	on	on	in+advl	in	advl								IN	prep	14
+16	Greece	greece		nn		proper							NNP	pobj	15
+17	by	by	in+advl	in	advl								IN	prep	14
+18	land	land		nn									NN	pobj	17
+19	was	be	thatcls+vcomp	vbmain	be	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	1
+20	the	the		dt	art								DT	det	21
+21	result	result		nn									NN	attr	19
+22	of	of	of+npostmod	in	nmod								IN	prep	21
+23	a	a		dt	art								DT	det	24
+24	dream	dream		nn									NN	pobj	22
+25	where	where		rb	advl								WRB	advmod	28
+26	a	a		dt	art								DT	det	27
+27	god	god		nn									NN	nsubj	28
+28	told	tell	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls	whcls	rel		VBD	relcl	24
+29	Xerxes	xerxes		nn		proper							NNP	dobj	28
+30	which	which		dt									WDT	det	31
+31	course	course		nn									NN	dobj	36
+32	of	of	of+npostmod	in	nmod								IN	prep	31
+33	action	action		nn		nom							NN	pobj	32
+34	he	he		pro	3rd	sg							PRP	nsubj	36
+35	should	should		vbaux	mod	nec							MD	aux	36
+36	take	take	thatcls+vcomp	vbmain	vblex	vp_w_modal	simple	active	compcls		vcomp	compdel	VB	ccomp	28
+37	(	(											-LRB-	punct	19
+38	7.17	7.17											CD	npadvmod	19
+39	)	)											.	punct	19
+40	.	.											.	punct	1
+
+#sentid = 38
+0	Additionally	additionally	rb+advl	rb	advl	ly							RB	advmod	8
+1	,	,											,	punct	8
+2	various	various	attr+npremod	jj	attr								JJ	amod	4
+3	Persian	persian	attr+npremod	jj	attr								JJ	amod	4
+4	leaders	leader		nn	pl	nom							NNS	nsubj	8
+5	in	in	in+npostmod	in	nmod								IN	prep	4
+6	The	the		dt	art								DT	det	7
+7	Histories	histories		nn	pl	proper							NNPS	pobj	5
+8	display	display		vbmain	vblex	pres	simple	active					VBP	ROOT	8
+9	reverence	reverence		nn		nom							NN	dobj	8
+10	for	for	in+npostmod	in	nmod								IN	prep	9
+11	dreams	dream		nn	pl								NNS	pobj	10
+12	and	and		cc	phrs								CC	cc	11
+13	oracles	oracle		nn	pl								NNS	conj	11
+14	of	of	of+npostmod	in	nmod								IN	prep	11
+15	both	both											CC	preconj	16
+16	Persian	persian	attr+npremod	jj	attr								JJ	amod	19
+17	and	and		cc	phrs								CC	cc	16
+18	Greek	greek											JJ	conj	16
+19	origin	origin		nn									NN	pobj	14
+20	.	.											.	punct	8
+
+#sentid = 39
+0	Astyages	astyages		nn		proper							NNP	nsubj	7
+1	,	,											,	punct	0
+2	the	the		dt	art								DT	det	3
+3	grandfather	grandfather	appos+npostmod	nn		nom	nappos						NN	appos	0
+4	of	of	of+npostmod	in	nmod								IN	prep	3
+5	Cyrus	cyrus		nn		proper							NNP	pobj	4
+6	,	,											,	punct	0
+7	tries	try		vbmain	vblex	pres	simple	active					VBZ	ROOT	7
+8	to	to		to									TO	aux	9
+9	kill	kill	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	7
+10	him	he		pro	3rd	sg							PRP	dobj	9
+11	based	base	edcls+advl	vbmain	advl	nonfinite	simple	active		edcls			VBN	prep	9
+12	on	on	in+advl	in	advl								IN	prep	11
+13	a	a		dt	art								DT	det	14
+14	dream	dream		nn									NN	pobj	12
+15	foretelling	foretell	ingcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	ingcls	ncomp		VBG	acl	14
+16	Cyrus	cyrus	s+gen	dt	poss	proper	sgen						NNP	poss	18
+17	'	'											POS	case	16
+18	kingship	kingship		nn		nom							NN	dobj	15
+19	(	(											-LRB-	punct	7
+20	1	1											CD	npadvmod	7
+21	.	.											CD	npadvmod	7
+22	108	108											CD	nummod	21
+23	)	)											.	punct	7
+24	.	.											.	punct	7
+
+#sentid = 40
+0													_SP	dep	24
+1	While	while		cs	con								IN	mark	4
+2	the	the		dt	art								DT	det	3
+3	Persians	persians		nn	pl	proper							NNPS	nsubj	4
+4	seem	seem	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		concessive		VBP	advcl	24
+5	to	to		to									TO	aux	7
+6	have	have		vbaux									VB	aux	7
+7	had	have		vbmain	vblex	nonfinite	perf	active	compcls		vcomp	compdel	VBN	xcomp	4
+8	more	more	rb+jjrbmod	rb	adjmod								RBR	advmod	9
+9	concrete	concrete	attr+npremod	jj	attr								JJ	amod	10
+10	reasons	reason		nn	pl								NNS	dobj	7
+11	within	within	in+npostmod	in	nmod								IN	prep	10
+12	the	the		dt	art								DT	det	14
+13	general	general	attr+npremod	jj	attr								JJ	amod	14
+14	scope	scope		nn									NN	pobj	11
+15	of	of	of+npostmod	in	nmod								IN	prep	14
+16	religious	religious	attr+npremod	jj	attr								JJ	amod	17
+17	conflict	conflict		nn									NN	pobj	15
+18	to	to		to									TO	aux	19
+19	go	go	tocls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	rel		VB	relcl	10
+20	to	to	in+advl	in	advl								IN	prep	19
+21	war	war		nn									NN	pobj	20
+22	,	,											,	punct	24
+23	it	it		pro	3rd	sg							PRP	nsubj	24
+24	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	24
+25	difficult	difficult		jj	pred								JJ	acomp	24
+26	to	to		to									TO	aux	27
+27	conclude	conclude	xtrapos+tocls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	24
+28	that	that		comp	comp_that								IN	mark	34
+29	their	their		dt	poss								PRP$	poss	30
+30	passion	passion		nn									NN	nsubj	34
+31	for	for	in+npostmod	in	nmod								IN	prep	30
+32	religious	religious	attr+npremod	jj	attr								JJ	amod	33
+33	retribution	retribution		nn		nom							NN	pobj	31
+34	was	be	thatcls+vcomp	vbmain	be	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	27
+35	unadulterated	unadulterated		jj	pred								JJ	acomp	34
+36	.	.											.	punct	24
+
+#sentid = 41
+0	Sargon	sargon		nn		proper							NNP	nsubj	2
+1	simply	simply	rb+advl	rb	advl	ly							RB	advmod	2
+2	says	say		vbmain	vblex	pres	simple	active					VBZ	ROOT	2
+3	that	that		comp	comp_that								IN	mark	7
+4	his	his		dt	poss	sg							PRP$	poss	5
+5	enemies	enemy		nn	pl								NNS	nsubj	7
+6	have	have		vbaux									VBP	aux	7
+7	offended	offend	thatcls+vcomp	vbmain	vblex	pres	perf	active	compcls	thatcls	vcomp		VBN	ccomp	2
+8	the	the		dt	art								DT	det	9
+9	gods	god		nn	pl								NNS	dobj	7
+10	,	,											,	punct	2
+11	without	without	in+advl	in	advl								IN	prep	2
+12	giving	give	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	11
+13	concrete	concrete	attr+npremod	jj	attr								JJ	amod	14
+14	examples	example		nn	pl								NNS	dobj	12
+15	of	of	of+npostmod	in	nmod								IN	prep	14
+16	their	their		dt	poss								PRP$	poss	17
+17	trespasses	trespass		nn	pl								NNS	pobj	15
+18	.	.											.	punct	2
+
+#sentid = 42
+0	Herodotus	herodotus		nn		proper							NNP	nsubj	8
+1	,	,											,	punct	8
+2	on	on	in+advl	in	advl								IN	prep	8
+3	the	the		dt	art								DT	det	5
+4	other	other	attr+npremod	jj	attr								JJ	amod	5
+5	hand	hand		nn									NN	pobj	2
+6	,	,											,	punct	8
+7	does	do		vbaux									VBZ	aux	8
+8	cite	cite		vbmain	vblex	pres	simple	active					VB	ROOT	8
+9	the	the		dt	art								DT	det	11
+10	specific	specific	attr+npremod	jj	attr								JJ	amod	11
+11	reasons	reason		nn	pl								NNS	dobj	8
+12	that	that	rb+advl	rb	advl								WDT	advmod	15
+13	the	the		dt	art								DT	det	14
+14	Persians	persians		nn	pl	proper							NNPS	nsubj	15
+15	find	find	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls		rel		VBP	relcl	11
+16	fault	fault		nn									NN	dobj	15
+17	with	with	in+npostmod	in	nmod								IN	prep	16
+18	the	the		dt	art								DT	det	19
+19	behaviors	behavior		nn	pl	nom							NNS	pobj	17
+20	of	of	of+npostmod	in	nmod								IN	prep	19
+21	the	the		dt	art								DT	det	22
+22	Greeks	greeks		nn	pl	proper							NNPS	pobj	20
+23	.	.											.	punct	8
+
+#sentid = 43
+0	Despite	despite	in+advl	in	advl								IN	prep	11
+1	these	these		dt	dt_dem								DT	det	3
+2	specific	specific	attr+npremod	jj	attr								JJ	amod	3
+3	problems	problem		nn	pl								NNS	pobj	0
+4	Xerxes	xerxes		nn		proper							NNP	nsubj	8
+5	and	and		cc	phrs								CC	cc	4
+6	his	his		dt	poss	sg							PRP$	poss	7
+7	leaders	leader		nn	pl	nom							NNS	conj	4
+8	have	have	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls		rel	reldel	VBP	relcl	3
+9	,	,											,	punct	11
+10	Herodotus	herodotus		nn		proper							NNP	nsubj	11
+11	makes	make		vbmain	vblex	pres	simple	active					VBZ	ROOT	11
+12	it	it		pro	3rd	sg							PRP	nsubj	13
+13	clear	clear											JJ	ccomp	11
+14	that	that		cs	cs_othr								IN	mark	23
+15	some	some		dt									DT	det	16
+16	people	people		nn	pl								NNS	nsubj	23
+17	within	within	in+npostmod	in	nmod								IN	prep	16
+18	Xerxes	xerxes	s+gen	dt	poss	proper	sgen						NNP	poss	20
+19	'	'											POS	case	18
+20	ring	ring		nn		nom							NN	pobj	17
+21	of	of	of+npostmod	in	nmod								IN	prep	20
+22	advisors	advisor		nn	pl	nom							NNS	pobj	21
+23	exploited	exploit	finitecls+advl	vbmain	vblex	past	simple	active	advlcls				VBD	advcl	13
+24	the	the		dt	art								DT	det	26
+25	religious	religious	attr+npremod	jj	attr								JJ	amod	26
+26	motivation	motivation		nn		nom							NN	dobj	23
+27	to	to		to									TO	aux	28
+28	campiagn	campiagn											XX	dobj	23
+29	.	.											.	punct	11
+
+#sentid = 44
+0	Herodotus	herodotus		nn		proper							NNP	nsubj	1
+1	tells	tell		vbmain	vblex	pres	simple	active					VBZ	ROOT	1
+2	us	we		pro	pl								PRP	dobj	1
+3	that	that		comp	comp_that								IN	mark	12
+4	Mardonious	mardonious		nn		proper							NNP	nsubj	12
+5	,	,											,	punct	4
+6	one	one											CD	appos	4
+7	of	of		in	in_othr								IN	prep	6
+8	Xerxes	xerxes	s+gen	dt	poss	proper	sgen						NNP	poss	10
+9	'	'											POS	case	8
+10	advisors	advisor		nn	pl	nom							NNS	pobj	7
+11	,	,											,	punct	4
+12	persuaded	persuade	thatcls+vcomp	vbmain	vblex	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	1
+13	Xerxes	xerxes		nn		proper							NNP	dobj	12
+14	to	to		to									TO	aux	15
+15	re	re	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	12
+16	-	-		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	xcomp	12
+17	attack	attack		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	xcomp	12
+18	the	the		dt	art								DT	det	19
+19	Greeks	greeks		nn	pl	proper							NNPS	dobj	17
+20	on	on	in+advl	in	advl								IN	prep	17
+21	land	land		nn									NN	pobj	20
+22	because	because		cs	cos								IN	mark	24
+23	Mardonious	mardonious		nn		proper							NNP	nsubj	24
+24	thought	think	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		causative		VBD	advcl	12
+25	he	he		pro	3rd	sg							PRP	nsubj	27
+26	would	would		vbaux	mod	prd							MD	aux	27
+27	become	become	thatcls+vcomp	vbmain	vblex	vp_w_modal	simple	active	compcls		vcomp	compdel	VB	ccomp	24
+28	the	the		dt	art								DT	det	29
+29	governor	governor		nn		nom							NN	attr	27
+30	of	of	of+npostmod	in	nmod								IN	prep	29
+31	Greece	greece		nn		proper							NNP	pobj	30
+32	when	when		rb	advl								WRB	advmod	35
+33	the	the		dt	art								DT	det	34
+34	Persians	persians		nn	pl	proper							NNPS	nsubj	35
+35	took	take	finitecls+advl	vbmain	phrsv	past	simple	active	advlcls	whcls			VBD	advcl	27
+36	it	it		pro	3rd	sg							PRP	dobj	35
+37	over	over		rb	prtcle								RP	prt	35
+38	(	(											-LRB-	punct	12
+39	7.6	7.6											CD	dobj	12
+40	)	)											.	punct	12
+41	.	.											.	punct	1
+
+#sentid = 45
+0	We	we		pro	1st								PRP	nsubj	2
+1	can	can		vbaux	mod	pos							MD	aux	2
+2	conclude	conclude		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	2
+3	from	from	in+advl	in	advl								IN	prep	2
+4	Sargon	sargon	s+gen	dt	poss	proper	sgen						NNP	poss	6
+5	's	's											POS	case	4
+6	letter	letter		nn		nom							NN	pobj	3
+7	and	and		cc	phrs								CC	cc	6
+8	Herodotus	herodotus	s+gen	dt	poss	proper	sgen						NNP	poss	10
+9	'	'											POS	case	8
+10	portrayal	portrayal		nn		nom							NN	conj	6
+11	of	of	of+npostmod	in	nmod								IN	prep	10
+12	the	the		dt	art								DT	det	14
+13	Persian	persian	attr+npremod	jj	attr								JJ	amod	14
+14	kings	king		nn	pl	nom							NNS	pobj	11
+15	that	that		comp	comp_that								IN	mark	31
+16	while	while		cs	con								IN	mark	19
+17	religious	religious	attr+npremod	jj	attr								JJ	amod	18
+18	motivations	motivation		nn	pl	nom							NNS	nsubj	19
+19	come	come	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		concessive		VBP	advcl	31
+20	to	to	in+advl	in	advl								IN	prep	19
+21	the	the		dt	art								DT	det	22
+22	front	front		nn									NN	pobj	20
+23	of	of	of+npostmod	in	nmod								IN	prep	22
+24	these	these		dt	dt_dem								DT	det	26
+25	two	two											CD	nummod	26
+26	societies	society	s+gen	dt	poss		sgen						NNS	poss	28
+27	'	'											POS	case	26
+28	campaigns	campaign		nn	pl								NNS	pobj	23
+29	,	,											,	punct	31
+30	they	they		pro	pl								PRP	nsubj	31
+31	are	be	thatcls+vcomp	vbmain	be	pres	simple	active	compcls	thatcls	vcomp		VBP	ccomp	2
+32	not	not											RB	neg	31
+33	as	as		rb	adjmod								RB	advmod	34
+34	genuine	genuine		jj	pred								JJ	acomp	31
+35	as	as		cs	cs_othr								IN	mark	38
+36	one	one		pro	other	pl							PRP	nsubj	38
+37	would	would		vbaux	mod	prd							MD	aux	38
+38	think	think	finitecls+advl	vbmain	vblex	vp_w_modal	simple	active	advlcls		other_advl		VB	advcl	34
+39	.	.											.	punct	2
+
+#sentid = 46
+0	In	in	in+advl	in	advl								IN	prep	7
+1	fact	fact		nn									NN	pobj	0
+2	,	,											,	punct	7
+3	religious	religious	attr+npremod	jj	attr								JJ	amod	4
+4	motivation	motivation		nn		nom							NN	nsubj	7
+5	for	for	in+npostmod	in	nmod								IN	prep	4
+6	war	war		nn									NN	pobj	5
+7	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	7
+8	really	really	rb+advl	rb	advl	ly							RB	advmod	7
+9	a	a		dt	art								DT	det	10
+10	façade	façade		nn									NN	attr	7
+11	for	for	in+npostmod	in	nmod								IN	prep	10
+12	the	the		dt	art								DT	det	16
+13	two	two											CD	nummod	16
+14	other	other	attr+npremod	jj	attr								JJ	amod	16
+15	new	new	attr+npremod	jj	attr								JJ	amod	16
+16	motivations	motivation		nn	pl	nom							NNS	pobj	11
+17	that	that		relpro	relpro_that	sg							WDT	nsubj	18
+18	arise	arise	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls	thatcls	rel		VBP	relcl	16
+19	with	with	in+advl	in	advl								IN	prep	18
+20	the	the		dt	art								DT	det	24
+21	Assyrian	assyrian	attr+npremod	jj	attr								JJ	amod	24
+22	and	and		cc	phrs								CC	cc	21
+23	Achaemenid	achaemenid											JJ	conj	21
+24	empires	empire		nn	pl								NNS	pobj	19
+25	.	.											.	punct	7
+
+#sentid = 47
+0													_SP	dep	14
+1	The	the		dt	art								DT	det	4
+2	second	second	attr+npremod	jj	attr								JJ	amod	4
+3	emerging	emerge	attr+npremod	jj	attr	ing							VBG	amod	4
+4	reason	reason		nn									NN	nsubj	14
+5	to	to		to									TO	aux	6
+6	campaign	campaign	tocls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	rel		VB	relcl	4
+7	in	in	in+advl	in	advl								IN	prep	6
+8	both	both											PDT	predet	13
+9	the	the		dt	art								DT	det	13
+10	Assyrian	assyrian	attr+npremod	jj	attr								JJ	amod	13
+11	and	and		cc	phrs								CC	cc	10
+12	Persian	persian											JJ	conj	10
+13	empires	empire		nn	pl								NNS	pobj	7
+14	was	be		vbmain	be	past	simple	active					VBD	ROOT	14
+15	the	the		dt	art								DT	det	16
+16	quest	quest		nn									NN	attr	14
+17	for	for	in+npostmod	in	nmod								IN	prep	16
+18	glory	glory		nn		nom							NN	pobj	17
+19	or	or		cc	phrs								CC	cc	18
+20	honor	honor		nn		nom							NN	conj	18
+21	.	.											.	punct	14
+
+#sentid = 48
+0	Sargon	sargon		nn		proper							NNP	nsubj	3
+1	never	never											RB	neg	3
+2	directly	directly	rb+advl	rb	advl	ly							RB	advmod	3
+3	says	say		vbmain	vblex	pres	simple	active					VBZ	ROOT	3
+4	that	that		comp	comp_that								IN	mark	6
+5	he	he		pro	3rd	sg							PRP	nsubj	6
+6	wants	want	thatcls+vcomp	vbmain	vblex	pres	simple	active	compcls	thatcls	vcomp		VBZ	ccomp	3
+7	glory	glory		nn		nom							NN	dobj	6
+8	or	or		cc	phrs								CC	cc	7
+9	honor	honor		nn		nom							NN	conj	7
+10	,	,											,	punct	3
+11	but	but		cc	cls								CC	cc	3
+12	we	we		pro	1st								PRP	nsubj	13
+13	know	know		vbmain	vblex	pres	simple	active					VBP	conj	3
+14	these	these		dt	dt_dem								DT	det	15
+15	things	thing		nn	pl	nom							NNS	nsubj	16
+16	are	be	thatcls+vcomp	vbmain	be	pres	simple	active	compcls		vcomp	compdel	VBP	ccomp	13
+17	important	important		jj	pred								JJ	acomp	16
+18	to	to	in+jcomp	in	jcomp								IN	prep	17
+19	him	he		pro	3rd	sg							PRP	pobj	18
+20	because	because	in+advl	in	advl								IN	prep	13
+21	of	of											IN	pcomp	20
+22	some	some		dt									DT	det	23
+23	tones	tone		nn	pl								NNS	pobj	20
+24	he	he		pro	3rd	sg							PRP	nsubj	25
+25	assumes	assume	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls		rel	reldel	VBZ	relcl	23
+26	in	in	in+advl	in	advl								IN	prep	25
+27	the	the		dt	art								DT	det	30
+28	Eighth	eighth		nn		proper	npremod						NNP	compound	29
+29	Campaign	campaign	nn+npremod	nn		proper	npremod						NNP	compound	30
+30	letter	letter		nn		nom							NN	pobj	26
+31	.	.											.	punct	13
+
+#sentid = 49
+0	Sargon	sargon		nn		proper							NNP	nsubj	1
+1	says	say		vbmain	vblex	pres	simple	active					VBZ	ROOT	1
+2	of	of	in+advl	in	advl								IN	prep	1
+3	a	a		dt	art								DT	det	5
+4	certain	certain	attr+npremod	jj	attr								JJ	amod	5
+5	king	king		nn		nom							NN	pobj	2
+6	whom	whom											WP	dobj	11
+7	he	he		pro	3rd	sg							PRP	nsubj	9
+8	was	be		vbaux									VBD	aux	9
+9	trying	try	finitecls+rel	vbmain	vblex	past	prog	active	nmod_cls		rel	reldel	VBG	relcl	5
+10	to	to		to									TO	aux	11
+11	conquer	conquer	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	9
+12	,	,											,	punct	5
+13	"	"											``	punct	5
+14	…	…											``	punct	5
+15	a	a		dt	art								DT	det	16
+16	worker	worker	appos+npostmod	nn		nom	nappos						NN	appos	5
+17	of	of	of+npostmod	in	nmod								IN	prep	16
+18	sin	sin		nn									NN	pobj	17
+19	and	and		cc	phrs								CC	cc	18
+20	iniquity	iniquity		nn		nom							NN	conj	18
+21	,	,											,	punct	16
+22	who	who		relpro	relpro_wh								WP	nsubj	23
+23	broke	break	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls	whcls	rel		VBD	relcl	16
+24	the	the		dt	art								DT	det	25
+25	oath	oath		nn									NN	dobj	23
+26	by	by	in+npostmod	in	nmod								IN	prep	25
+27	the	the		dt	art								DT	det	28
+28	gods	god		nn	pl								NNS	pobj	26
+29	and	and		cc	phrs								CC	cc	23
+30	recognized	recognize		vbmain	vblex	past	simple	active					VBD	conj	23
+31	no	no		dt									DT	det	32
+32	rule	rule		nn									NN	dobj	30
+33	,	,											,	punct	16
+34	a	a		dt	art								DT	det	36
+35	wicked	wicked	attr+npremod	jj	attr								JJ	amod	36
+36	mountaineer	mountaineer		nn		nom							NN	dobj	1
+37	,	,											,	punct	36
+38	who	who		relpro	relpro_wh								WP	nsubj	39
+39	sinned	sin	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls	whcls	rel		VBD	relcl	36
+40	against	against	in+advl	in	advl								IN	prep	39
+41	the	the		dt	art								DT	det	42
+42	oath	oath		nn									NN	pobj	40
+43	taken	take	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	42
+44	by	by											IN	agent	43
+45	Assur	assur		nn		proper							NNP	pobj	44
+46	,	,											,	punct	45
+47	Shamash	shamash		nn		proper							NNP	conj	45
+48	,	,											,	punct	47
+49	Nabu	nabu		nn		proper							NNP	conj	47
+50	and	and		cc	phrs								CC	cc	49
+51	Marduk	marduk		nn		proper							NNP	conj	49
+52	and	and		cc	phrs								CC	cc	39
+53	revolted	revolt		vbmain	vblex	past	simple	active					VBD	conj	39
+54	against	against	in+advl	in	advl								IN	prep	53
+55	me	i		pro	1st	sg							PRP	pobj	54
+56	,	,											,	punct	36
+57	halted	halt		vbmain	vblex	past	simple	active					VBD	conj	36
+58	the	the		dt	art								DT	det	60
+59	return	return	nn+npremod	nn			npremod						NN	compound	60
+60	march	march		nn									NN	dobj	57
+61	of	of	of+npostmod	in	nmod								IN	prep	60
+62	my	my		dt	poss								PRP$	poss	63
+63	expedition	expedition		nn		nom							NN	pobj	61
+64	,	,											,	punct	1
+65	(	(											-LRB-	punct	67
+66	he	he		pro	3rd	sg							PRP	nsubj	67
+67	failed	fail		vbmain	vblex	past	simple	active					VBD	conj	1
+68	to	to		to									TO	aux	69
+69	come	come	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	67
+70	bringing	bring	ingcls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	vcomp		VBG	xcomp	69
+71	)	)											-RRB-	punct	70
+72	his	his		dt	poss	sg							PRP$	poss	74
+73	ample	ample	attr+npremod	jj	attr								JJ	amod	74
+74	gifts	gift		nn	pl								NNS	dobj	70
+75	,	,											,	punct	67
+76	nor	nor		cc	cls								CC	cc	67
+77	did	do		vbaux									VBD	aux	79
+78	he	he		pro	3rd	sg							PRP	nsubj	79
+79	kiss	kiss		vbmain	vblex	past	simple	active					VB	conj	67
+80	my	my		dt	poss								PRP$	poss	81
+81	feet	foot		nn	pl								NNS	dobj	79
+82	(	(											-LRB-	punct	79
+83	92	92											CD	npadvmod	79
+84	-	-											SYM	punct	85
+85	3	3		in	in_othr								CD	prep	83
+86	)	)											.	punct	79
+87	.	.											.	punct	67
+88	"	"											.	punct	67
+
+#sentid = 50
+0	That	that		comp	comp_that								IN	mark	2
+1	Sargon	sargon		nn		proper							NNP	nsubj	2
+2	takes	take		vbmain	vblex	pres	simple	active	compcls	thatcls	vcomp		VBZ	csubj	16
+3	offence	offence		nn		nom							NN	dobj	2
+4	at	at	in+advl	in	advl								IN	prep	2
+5	the	the		dt	art								DT	det	6
+6	lack	lack		nn									NN	pobj	4
+7	of	of	of+npostmod	in	nmod								IN	prep	6
+8	tribute	tribute		nn									NN	pobj	7
+9	and	and		cc	phrs								CC	cc	6
+10	"	"											``	punct	11
+11	kissing	kissing		nn		nom							NN	conj	6
+12	of	of	of+npostmod	in	nmod								IN	prep	11
+13	the	the		dt	art								DT	det	14
+14	feet	foot		nn	pl								NNS	pobj	12
+15	"	"											''	punct	11
+16	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	16
+17	key	key		jj	pred								JJ	acomp	16
+18	.	.											.	punct	16
+
+#sentid = 51
+0	he	he		pro	3rd	sg							PRP	nsubj	1
+1	expects	expect		vbmain	vblex	pres	simple	active					VBZ	ROOT	1
+2	the	the		dt	art								DT	det	3
+3	people	people		nn	pl								NNS	nsubj	11
+4	he	he		pro	3rd	sg							PRP	nsubj	5
+5	comes	come	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls		rel	reldel	VBZ	relcl	3
+6	in	in	in+advl	in	advl								IN	prep	5
+7	contact	contact		nn									NN	pobj	6
+8	with	with	in+npostmod	in	nmod								IN	prep	7
+9	to	to		to									TO	aux	11
+10	naturally	naturally	rb+advl	rb	advl	ly	splaux						RB	advmod	11
+11	respond	respond		vbmain	prepv	nonfinite	simple	active	compcls	tocls	vcomp		VB	ccomp	1
+12	to	to	in+advl	in	advl								IN	prep	11
+13	him	he		pro	3rd	sg							PRP	pobj	12
+14	this	this		dt	dt_dem								DT	det	15
+15	way	way		nn									NN	npadvmod	11
+16	,	,											,	punct	1
+17	and	and		cc	phrs								CC	cc	1
+18	when	when		rb	advl								WRB	advmod	20
+19	they	they		pro	pl								PRP	nsubj	20
+20	do	do	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls	whcls			VBP	advcl	25
+21	not	not											RB	neg	20
+22	,	,											,	punct	25
+23	he	he		pro	3rd	sg							PRP	nsubjpass	25
+24	is	be		vbaux									VBZ	auxpass	25
+25	dishonored	dishonor		vbmain	vblex	pres	simple	pasv_agls					VBN	conj	1
+26	.	.											.	punct	25
+
+#sentid = 52
+0	This	this		dt	dt_dem								DT	det	4
+1	self	self		nn									NN	npadvmod	3
+2	-	-											HYPH	punct	3
+3	exalted	exalted	attr+npremod	jj	attr								JJ	amod	4
+4	view	view		nn									NN	nsubj	7
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	Assyrians	assyrians		nn	pl	proper							NNPS	pobj	5
+7	permeates	permeate		vbmain	vblex	pres	simple	active					VBZ	ROOT	7
+8	Sargon	sargon	s+gen	dt	poss	proper	sgen						NNP	poss	10
+9	's	's											POS	case	8
+10	letter	letter		nn		nom							NN	dobj	7
+11	.	.											.	punct	7
+
+#sentid = 53
+0	When	when		rb	advl								WRB	advmod	6
+1	those	those		pro	dem	pl							DT	nsubj	6
+2	he	he		pro	3rd	sg							PRP	nsubj	3
+3	conquered	conquer	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls		rel	reldel	VBD	relcl	1
+4	were	be		vbaux									VBD	aux	6
+5	not	not											RB	neg	6
+6	kissing	kiss	finitecls+advl	vbmain	vblex	past	prog	active	advlcls	whcls			VBG	advcl	12
+7	his	his		dt	poss	sg							PRP$	poss	8
+8	feet	foot		nn	pl								NNS	dobj	6
+9	,	,											,	punct	12
+10	they	they		pro	pl								PRP	nsubj	12
+11	were	be		vbaux									VBD	aux	12
+12	giving	give		vbmain	vblex	past	prog	active					VBG	ROOT	12
+13	him	he		pro	3rd	sg							PRP	dative	12
+14	tribute	tribute		nn									NN	dobj	12
+15	,	,											,	punct	12
+16	fearfully	fearfully	rb+advl	rb	advl	ly							RB	advmod	17
+17	handing	hand		vbmain	phrsv	nonfinite	simple	active		ingcls			VBG	conj	12
+18	over	over		rb	prtcle								RP	prt	17
+19	control	control		nn									NN	dobj	17
+20	of	of	of+npostmod	in	nmod								IN	prep	19
+21	their	their		dt	poss								PRP$	poss	22
+22	territory	territory		nn		nom							NN	pobj	20
+23	,	,											,	punct	17
+24	or	or		cc	phrs								CC	cc	17
+25	being	be		vbaux									VBG	auxpass	27
+26	severely	severely	rb+advl	rb	advl	ly							RB	advmod	27
+27	conquered	conquer		vbmain	vblex	nonfinite	simple	pasv_agls					VBN	conj	17
+28	and	and		cc	phrs								CC	cc	27
+29	fleeing	flee		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	conj	27
+30	for	for	in+advl	in	advl								IN	prep	29
+31	their	their		dt	poss								PRP$	poss	32
+32	lives	life		nn	pl								NNS	pobj	30
+33	.	.											.	punct	12
+
+#sentid = 54
+0	Sargon	sargon		nn		proper							NNP	nsubj	2
+1	never	never											RB	neg	2
+2	mentions	mention		vbmain	vblex	pres	simple	active					VBZ	ROOT	2
+3	a	a		dt	art								DT	det	4
+4	time	time		nn									NN	dobj	2
+5	when	when		rb	advl								WRB	advmod	7
+6	he	he		pro	3rd	sg							PRP	nsubj	7
+7	is	be	finitecls+rel	vbmain	be	pres	simple	active	nmod_cls	whcls	rel		VBZ	relcl	4
+8	not	not											RB	neg	7
+9	victorious	victorious		jj	pred								JJ	acomp	7
+10	in	in	in+advl	in	advl								IN	prep	7
+11	battle	battle		nn									NN	pobj	10
+12	.	.											.	punct	2
+
+#sentid = 55
+0	The	the		dt	art								DT	det	1
+1	letter	letter		nn		nom							NN	nsubj	2
+2	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	2
+3	in	in	in+advl	in	advl								IN	prep	2
+4	one	one											CD	nummod	5
+5	sense	sense		nn									NN	pobj	3
+6	a	a		dt	art								DT	det	7
+7	type	type		nn									NN	attr	2
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	political	political	attr+npremod	jj	attr								JJ	amod	10
+10	propaganda	propaganda		nn									NN	pobj	8
+11	,	,											,	punct	2
+12	because	because		cs	cos								IN	mark	14
+13	Sargon	sargon		nn		proper							NNP	nsubj	14
+14	omits	omit	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		causative		VBZ	advcl	2
+15	his	his		dt	poss	sg							PRP$	poss	17
+16	own	own	attr+npremod	jj	attr								JJ	amod	17
+17	faults	fault		nn	pl								NNS	dobj	14
+18	,	,											,	punct	17
+19	flaws	flaw		nn	pl								NNS	conj	17
+20	,	,											,	punct	19
+21	and	and		cc	phrs								CC	cc	19
+22	failures	failure		nn	pl								NNS	conj	19
+23	,	,											,	punct	14
+24	and	and		cc	phrs								CC	cc	14
+25	instead	instead	rb+advl	rb	advl								RB	advmod	26
+26	impresses	impress		vbmain	vblex	pres	simple	active					VBZ	conj	14
+27	on	on	in+advl	in	advl								IN	prep	26
+28	the	the		dt	art								DT	det	29
+29	reader	reader		nn		nom							NN	pobj	27
+30	that	that		comp	comp_that								IN	mark	32
+31	he	he		pro	3rd	sg							PRP	nsubj	32
+32	is	be	thatcls+vcomp	vbmain	be	pres	simple	active	compcls	thatcls	vcomp		VBZ	ccomp	26
+33	perfect	perfect		jj	pred								JJ	acomp	32
+34	.	.											.	punct	2
+
+#sentid = 56
+0	At	at	in+advl	in	advl								IN	prep	7
+1	the	the		dt	art								DT	det	3
+2	same	same	attr+npremod	jj	attr								JJ	amod	3
+3	time	time		nn									NN	pobj	0
+4	though	though		rb	link								RB	advmod	7
+5	,	,											,	punct	7
+6	it	it		pro	3rd	sg							PRP	nsubj	7
+7	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	7
+8	clear	clear		jj	pred								JJ	acomp	7
+9	that	that		comp	comp_that								IN	mark	12
+10	Assyrian	assyrian	attr+npremod	jj	attr								JJ	amod	11
+11	kings	king		nn	pl	nom							NNS	nsubj	12
+12	liked	like	xtrapos+thatcls+jcomp	vbmain	vblex	past	simple	active	compcls	thatcls	jcomp		VBD	ccomp	7
+13	glory	glory		nn		nom							NN	dobj	12
+14	and	and		cc	phrs								CC	cc	13
+15	honor	honor		nn		nom							NN	conj	13
+16	,	,											,	punct	12
+17	and	and		cc	phrs								CC	cc	12
+18	would	would		vbaux	mod	prd							MD	aux	19
+19	inflate	inflate		vbmain	vblex	vp_w_modal	simple	active					VB	conj	12
+20	their	their		dt	poss								PRP$	poss	21
+21	empire	empire		nn									NN	dobj	19
+22	with	with	in+advl	in	advl								IN	prep	19
+23	praises	praise		nn	pl								NNS	pobj	22
+24	to	to		to									TO	aux	25
+25	receive	receive	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	19
+26	these	these		dt	dt_dem								DT	det	28
+27	two	two											CD	nummod	28
+28	rewards	reward		nn	pl								NNS	dobj	25
+29	.	.											.	punct	7
+
+#sentid = 57
+0													_SP	dep	4
+1	The	the		dt	art								DT	det	2
+2	Persians	persians		nn	pl	proper							NNPS	nsubj	4
+3	equally	equally	rb+advl	rb	advl	ly							RB	advmod	4
+4	were	be		vbmain	be	past	simple	active					VBD	ROOT	4
+5	interested	interested		jj	pred								JJ	acomp	4
+6	in	in	in+jcomp	in	jcomp								IN	prep	5
+7	glory	glory		nn		nom							NN	pobj	6
+8	and	and		cc	phrs								CC	cc	7
+9	honor	honor		nn		nom							NN	conj	7
+10	.	.											.	punct	4
+
+#sentid = 58
+0	Herodotus	herodotus		nn		proper							NNP	nsubj	1
+1	takes	take		vbmain	vblex	pres	simple	active					VBZ	ROOT	1
+2	a	a		dt	art								DT	det	4
+3	different	different	attr+npremod	jj	attr								JJ	amod	4
+4	approach	approach		nn									NN	dobj	1
+5	to	to	in+npostmod	in	nmod								IN	prep	4
+6	the	the		dt	art								DT	det	7
+7	glory	glory		nn		nom							NN	pobj	5
+8	and	and		cc	phrs								CC	cc	7
+9	honor	honor		nn		nom							NN	conj	7
+10	of	of	of+npostmod	in	nmod								IN	prep	7
+11	the	the		dt	art								DT	det	12
+12	Persians	persians		nn	pl	proper							NNPS	pobj	10
+13	,	,											,	punct	1
+14	however	however	rb+advl	rb	advl								RB	advmod	1
+15	.	.											.	punct	1
+
+#sentid = 59
+0	Herodotus	herodotus		nn		proper							NNP	nsubj	1
+1	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	1
+2	able	able		jj	pred								JJ	acomp	1
+3	to	to		to									TO	aux	4
+4	point	point	tocls+jcomp	vbmain	phrsv	nonfinite	simple	active	compcls	tocls	jcomp		VB	xcomp	2
+5	out	out		rb	prtcle								RP	prt	4
+6	the	the		dt	art								DT	det	8
+7	various	various	attr+npremod	jj	attr								JJ	amod	8
+8	mistakes	mistake		nn	pl								NNS	dobj	4
+9	in	in	in+npostmod	in	nmod								IN	prep	8
+10	strategy	strategy		nn									NN	pobj	9
+11	,	,											,	punct	8
+12	flaws	flaw		nn	pl								NNS	conj	8
+13	in	in	in+npostmod	in	nmod								IN	prep	12
+14	ideology	ideology		nn									NN	pobj	13
+15	,	,											,	punct	12
+16	etc	etc											FW	conj	12
+17	.	.											FW	conj	12
+18	that	that		relpro	relpro_that	sg							WDT	nsubj	19
+19	yield	yield	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls	thatcls	rel		VBP	relcl	8
+20	to	to	in+advl	in	advl								IN	prep	19
+21	the	the		dt	art								DT	det	22
+22	failures	failure		nn	pl								NNS	pobj	20
+23	of	of	of+npostmod	in	nmod								IN	prep	22
+24	the	the		dt	art								DT	det	25
+25	Persians	persians		nn	pl	proper							NNPS	pobj	23
+26	.	.											.	punct	1
+
+#sentid = 60
+0	He	he		pro	3rd	sg							PRP	nsubj	2
+1	also	also	rb+advl	rb	advl								RB	advmod	2
+2	points	point		vbmain	phrsv	pres	simple	active					VBZ	ROOT	2
+3	out	out		rb	prtcle								RP	prt	2
+4	the	the		dt	art								DT	det	5
+5	times	time		nn	pl								NNS	dobj	2
+6	they	they		pro	pl								PRP	nsubj	8
+7	do	do		vbaux									VBP	aux	8
+8	achieve	achieve	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls		rel	reldel	VB	relcl	5
+9	in	in	in+advl	in	advl								IN	prep	8
+10	battles	battle		nn	pl								NNS	pobj	9
+11	and	and		cc	phrs								CC	cc	10
+12	negotiations	negotiation		nn	pl	nom							NNS	conj	10
+13	.	.											.	punct	2
+
+#sentid = 61
+0	With	with	in+advl	in	advl								IN	prep	11
+1	the	the		dt	art								DT	det	2
+2	interactions	interaction		nn	pl	nom							NNS	pobj	0
+3	between	between	in+npostmod	in	nmod								IN	prep	2
+4	the	the		dt	art								DT	det	5
+5	Persians	persians		nn	pl	proper							NNPS	pobj	3
+6	and	and		cc	phrs								CC	cc	5
+7	the	the		dt	art								DT	det	8
+8	Greeks	greeks		nn	pl	proper							NNPS	conj	5
+9	,	,											,	punct	11
+10	it	it		pro	3rd	sg							PRP	nsubj	11
+11	becomes	become		vbmain	vblex	pres	simple	active					VBZ	ROOT	11
+12	clear	clear		jj	pred								JJ	acomp	11
+13	that	that		comp	comp_that								IN	mark	16
+14	neither	neither		dt									DT	det	15
+15	party	party		nn									NN	nsubj	16
+16	demands	demand	thatcls+vcomp	vbmain	vblex	pres	simple	active	compcls	thatcls	vcomp		VBZ	ccomp	11
+17	glory	glory		nn		nom							NN	dobj	16
+18	and	and		cc	phrs								CC	cc	17
+19	honor	honor		nn		nom							NN	conj	17
+20	from	from	in+advl	in	advl								IN	prep	16
+21	the	the		dt	art								DT	det	22
+22	other	other											JJ	pobj	20
+23	unless	unless		cs	cnd								IN	mark	27
+24	it	it		pro	3rd	sg							PRP	nsubjpass	27
+25	is	be		vbaux									VBZ	auxpass	27
+26	somehow	somehow	rb+advl	rb	advl								RB	advmod	27
+27	merited	merit	finitecls+advl	vbmain	vblex	pres	simple	pasv_agls	advlcls		conditional		VBN	advcl	16
+28	.	.											.	punct	11
+
+#sentid = 62
+0	the	the		dt	art								DT	det	2
+1	Persian	persian	attr+npremod	jj	attr								JJ	amod	2
+2	king	king		nn		nom							NN	nsubj	5
+3	does	do		vbaux									VBZ	aux	5
+4	n't	not											RB	neg	5
+5	go	go		vbmain	vblex	pres	simple	active					VB	ROOT	5
+6	around	around	rb+advl	rb	advl								RB	advmod	5
+7	forcing	force	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	5
+8	everyone	everyone		nn	other	sg							NN	dobj	7
+9	to	to		to									TO	aux	10
+10	kiss	kiss	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	7
+11	his	his		dt	poss	sg							PRP$	poss	12
+12	feet	foot		nn	pl								NNS	dobj	10
+13	(	(											-LRB-	punct	7
+14	though	though		cs	con								IN	mark	18
+15	he	he		pro	3rd	sg							PRP	nsubj	18
+16	would	would		vbaux	mod	prd							MD	aux	18
+17	not	not											RB	neg	18
+18	mind	mind	finitecls+advl	vbmain	vblex	vp_w_modal	simple	active	advlcls		concessive		VB	advcl	7
+19	it	it		pro	3rd	sg							PRP	dobj	18
+20	if	if		cs	cnd								IN	mark	22
+21	someone	someone		nn	other	sg							NN	nsubj	22
+22	offered	offer	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		conditional		VBD	advcl	18
+23	)	)											.	punct	18
+24	.	.											.	punct	5
+
+#sentid = 63
+0	The	the		dt	art								DT	det	1
+1	Persians	persians		nn	pl	proper							NNPS	nsubj	2
+2	seem	seem		vbmain	vblex	pres	simple	active					VBP	ROOT	2
+3	more	more	rb+jjrbmod	rb	othr								RBR	advmod	4
+4	concerned	concerned											JJ	oprd	2
+5	with	with	in+jcomp	in	jcomp								IN	prep	4
+6	conquest	conquest		nn									NN	pobj	5
+7	to	to		to									TO	aux	8
+8	gain	gain	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	4
+9	territory	territory		nn		nom							NN	dobj	8
+10	and	and		cc	phrs								CC	cc	9
+11	wealth	wealth		nn									NN	conj	9
+12	,	,											,	punct	8
+13	or	or		cc	phrs								CC	cc	8
+14	to	to		to									TO	aux	15
+15	make	make		vbmain	vblex	nonfinite	simple	active		tocls			VB	conj	8
+16	amends	amend		nn	pl								NNS	dobj	15
+17	to	to	in+npostmod	in	nmod								IN	prep	16
+18	any	any		dt									DT	det	19
+19	wrong	wrong		nn									NN	pobj	17
+20	done	do	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	19
+21	of	of	in+advl	in	advl								IN	prep	20
+22	them	they		pro	pl								PRP	pobj	21
+23	.	.											.	punct	2
+
+#sentid = 64
+0	In	in	in+advl	in	advl								IN	prep	6
+1	The	the		dt	art								DT	det	2
+2	Histories	histories		nn	pl	proper							NNPS	pobj	0
+3	,	,											,	punct	6
+4	we	we		pro	1st								PRP	nsubj	6
+5	largely	largely	rb+advl	rb	advl	ly							RB	advmod	6
+6	see	see		vbmain	vblex	pres	simple	active					VBP	ROOT	6
+7	only	only		rb	othr	ly							RB	advmod	9
+8	their	their		dt	poss								PRP$	poss	9
+9	interactions	interaction		nn	pl	nom							NNS	dobj	6
+10	with	with	in+npostmod	in	nmod								IN	prep	9
+11	the	the		dt	art								DT	det	12
+12	Greeks	greeks		nn	pl	proper							NNPS	pobj	10
+13	,	,											,	punct	12
+14	Phoenicians	phoenicians		nn	pl	proper							NNPS	conj	12
+15	,	,											,	punct	14
+16	and	and		cc	phrs								CC	cc	14
+17	peoples	people		nn	pl								NNS	conj	14
+18	of	of	of+npostmod	in	nmod								IN	prep	17
+19	Asia	asia		nn		proper	npremod						NNP	compound	20
+20	Minor	minor		nn		proper							NNP	pobj	18
+21	like	like	in+npostmod	in	nmod								IN	prep	17
+22	the	the		dt	art								DT	det	23
+23	Lydians	lydians		nn	pl	proper							NNPS	pobj	21
+24	.	.											.	punct	6
+
+#sentid = 65
+0	The	the		dt	art								DT	det	1
+1	Persians	persians		nn	pl	proper							NNPS	nsubj	2
+2	expect	expect		vbmain	vblex	pres	simple	active					VBP	ROOT	2
+3	tribute	tribute		nn									NN	dobj	2
+4	from	from	in+advl	in	advl								IN	prep	2
+5	these	these		dt	dt_dem								DT	det	6
+6	people	people		nn	pl								NNS	pobj	4
+7	when	when		rb	advl								WRB	advmod	10
+8	they	they		pro	pl								PRP	nsubj	10
+9	have	have		vbaux									VBP	aux	10
+10	conquered	conquer	finitecls+advl	vbmain	vblex	pres	perf	active	advlcls	whcls			VBN	advcl	2
+11	them	they		pro	pl								PRP	dobj	10
+12	,	,											,	punct	2
+13	but	but		cc	cls								CC	cc	2
+14	they	they		pro	pl								PRP	nsubj	17
+15	do	do		vbaux									VBP	aux	17
+16	not	not											RB	neg	17
+17	demand	demand		vbmain	vblex	pres	simple	active					VB	conj	2
+18	to	to		to									TO	aux	20
+19	be	be		vbaux									VB	auxpass	20
+20	fawned	fawn	tocls+vcomp	vbmain	phrsv	nonfinite	simple	pasv_agls	compcls	tocls	vcomp		VBN	xcomp	17
+21	over	over		rb	prtcle								RP	prt	20
+22	in	in	in+advl	in	advl								IN	prep	20
+23	the	the		dt	art								DT	det	25
+24	same	same	attr+npremod	jj	attr								JJ	amod	25
+25	way	way		nn									NN	pobj	22
+26	that	that											WDT	relcl	25
+27	Sargon	sargon		nn		proper							NNP	nsubj	28
+28	does	do		vbaux									VBZ	aux	26
+29	.	.											.	punct	17
+
+#sentid = 66
+0	Most	most											JJS	nsubj	10
+1	of	of	in+jcomp	in	jcomp								IN	prep	0
+2	the	the		dt	art								DT	det	3
+3	campaigning	campaigning		nn		nom							NN	pobj	1
+4	for	for	in+npostmod	in	nmod								IN	prep	3
+5	glory	glory		nn		nom							NN	pobj	4
+6	or	or		cc									CC	cc	4
+7	to	to		to									TO	aux	8
+8	gain	gain		vbmain	vblex	nonfinite	simple	active		tocls			VB	conj	4
+9	honor	honor		nn		nom							NN	dobj	8
+10	comes	come		vbmain	prepv	pres	simple	active					VBZ	ROOT	10
+11	from	from	in+advl	in	advl								IN	prep	10
+12	wanting	want	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	11
+13	to	to		to									TO	aux	14
+14	justify	justify		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	xcomp	12
+15	a	a		dt	art								DT	det	17
+16	previous	previous	attr+npremod	jj	attr								JJ	amod	17
+17	dishonor	dishonor		nn		nom							NN	dobj	14
+18	by	by	in+npostmod	in	nmod								IN	prep	17
+19	one	one		pro	other	pl							CD	pobj	18
+20	of	of		in	in_othr								IN	prep	19
+21	these	these		dt	dt_dem								DT	det	24
+22	people	people	nn+npremod	nn	pl		npremod						NNS	compound	24
+23	-	-											HYPH	punct	24
+24	groups	group		nn	pl								NNS	pobj	20
+25	.	.											.	punct	10
+
+#sentid = 67
+0	For	for	in+advl	in	advl								IN	prep	4
+1	example	example		nn									NN	pobj	0
+2	,	,											,	punct	4
+3	Mardonious	mardonious		nn		proper							NNP	nsubj	4
+4	tells	tell		vbmain	vblex	pres	simple	active					VBZ	ROOT	4
+5	Xerxes	xerxes		nn		proper							NNP	dobj	4
+6	concerning	concern		vbmain	advl	nonfinite	simple	active		ingcls			VBG	prep	4
+7	the	the		dt	art								DT	det	8
+8	Athenians	athenians		nn	pl	proper							NNPS	pobj	6
+9	,	,											,	punct	4
+10	"	"											``	punct	33
+11	Master	master		nn		proper							NNP	npadvmod	14
+12	,	,											,	punct	14
+13	it	it		pro	3rd	sg							PRP	nsubj	14
+14	's	be		vbmain	be	pres	simple	active	compcls				VBZ	ccomp	33
+15	wrong	wrong		jj	pred								JJ	acomp	14
+16	for	for		cs	cs_othr								IN	mark	20
+17	the	the		dt	art								DT	det	18
+18	Athenians	athenians		nn	pl	proper							NNPS	nsubj	20
+19	to	to		to									TO	aux	20
+20	go	go	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls	other_advl		VB	advcl	14
+21	unpunished	unpunished		jj	pred								JJ	acomp	20
+22	for	for	in+advl	in	advl								IN	prep	20
+23	all	all											PDT	predet	25
+24	the	the		dt	art								DT	det	25
+25	harm	harm		nn									NN	pobj	22
+26	they	they		pro	pl								PRP	nsubj	28
+27	've	've		vbaux									VBP	aux	28
+28	done	do	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls		rel	reldel	VBN	relcl	25
+29	to	to	in+advl	in	advl								IN	prep	28
+30	Persia	persia		nn		proper							NNP	pobj	29
+31	…	…											:	punct	33
+32	you	you		pro	2nd	sg							PRP	nsubj	33
+33	ought	ought	thatcls+vcomp	vbmain	vblex	vp_w_modal	simple	active	compcls		vcomp	compdel	MD	ccomp	4
+34	to	to		to									TO	aux	35
+35	march	march	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls			VB	xcomp	33
+36	against	against	in+advl	in	advl								IN	prep	35
+37	Greece	greece		nn		proper							NNP	pobj	36
+38	.	.											.	punct	4
+
+#sentid = 68
+0	It	it		pro	3rd	sg							PRP	nsubj	2
+1	will	will		vbaux	mod	prd							MD	aux	2
+2	enhance	enhance		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	2
+3	your	your		dt	poss								PRP$	poss	4
+4	glory	glory		nn		nom							NN	dobj	2
+5	and	and		cc	phrs								CC	cc	4
+6	reputation	reputation		nn		nom							NN	conj	4
+7	,	,											,	punct	2
+8	and	and		cc	phrs								CC	cc	2
+9	also	also	rb+advl	rb	advl								RB	advmod	10
+10	make	make		vbmain	vblex	nonfinite	simple	active					VB	conj	2
+11	people	people		nn	pl								NNS	nsubj	12
+12	think	think		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	ccomp	10
+13	twice	twice	rb+advl	rb	advl								RB	advmod	12
+14	in	in	in+advl	in	advl								IN	prep	12
+15	the	the		dt	art								DT	det	16
+16	future	future		nn		nom							NN	pobj	14
+17	before	before	in+advl	in	advl								IN	prep	12
+18	attacking	attack	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	17
+19	your	your		dt	poss								PRP$	poss	20
+20	territory	territory		nn		nom							NN	dobj	18
+21	(	(											-LRB-	punct	2
+22	7.5	7.5											CD	punct	2
+23	)	)											.	punct	2
+24	.	.											.	punct	2
+25	"	"											.	punct	2
+
+#sentid = 69
+0	Here	here	rb+advl	rb	advl								RB	advmod	3
+1	,	,											,	punct	3
+2	Mardonious	mardonious		nn		proper							NNP	nsubj	3
+3	tells	tell		vbmain	vblex	pres	simple	active					VBZ	ROOT	3
+4	Xerxes	xerxes		nn		proper							NNP	dobj	3
+5	not	not											RB	neg	7
+6	to	to		to									TO	aux	7
+7	attack	attack	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	3
+8	solely	solely	rb+advl	rb	advl	ly							RB	advmod	10
+9	to	to		to									TO	aux	10
+10	achieve	achieve	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	7
+11	glory	glory		nn		nom							NN	dobj	10
+12	,	,											,	punct	7
+13	but	but		cc	cls								CC	cc	7
+14	because	because		cs	cos								IN	mark	20
+15	the	the		dt	art								DT	det	16
+16	achievement	achievement		nn		nom							NN	nsubj	20
+17	of	of	of+npostmod	in	nmod								IN	prep	16
+18	glory	glory		nn		nom							NN	pobj	17
+19	will	will		vbaux	mod	prd							MD	aux	20
+20	be	be		vbmain	be	vp_w_modal	simple	active			causative		VB	conj	7
+21	advantageous	advantageous		jj	pred								JJ	acomp	20
+22	for	for	in+jcomp	in	jcomp								IN	prep	21
+23	the	the		dt	art								DT	det	25
+24	Persian	persian	attr+npremod	jj	attr								JJ	amod	25
+25	king	king		nn		nom							NN	pobj	22
+26	,	,											,	punct	20
+27	and	and		cc	phrs								CC	cc	20
+28	be	be		vbmain	be	nonfinite	simple	active					VB	conj	20
+29	a	a		dt	art								DT	det	31
+30	fitting	fitting	attr+npremod	jj	attr								JJ	amod	31
+31	payment	payment		nn		nom							NN	attr	28
+32	for	for	in+npostmod	in	nmod								IN	prep	31
+33	the	the		dt	art								DT	det	34
+34	Athenians	athenians		nn	pl	proper							NNPS	pobj	32
+35	who	who		relpro	relpro_wh								WP	nsubj	37
+36	had	have		vbaux									VBD	aux	37
+37	transgressed	transgress	finitecls+rel	vbmain	vblex	past	perf	active	nmod_cls	whcls	rel		VBN	relcl	34
+38	the	the		dt	art								DT	det	39
+39	Persians	persians		nn	pl	proper							NNPS	dobj	37
+40	.	.											.	punct	3
+
+#sentid = 70
+0													_SP	dep	17
+1	One	one											CD	nummod	3
+2	noteworthy	noteworthy	attr+npremod	jj	attr								JJ	amod	3
+3	difference	difference		nn		nom							NN	nsubj	17
+4	between	between	in+npostmod	in	nmod								IN	prep	3
+5	Herodotus	herodotus	s+gen	dt	poss	proper	sgen						NNP	poss	7
+6	'	'											POS	case	5
+7	portrayal	portrayal		nn		nom							NN	pobj	4
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	the	the		dt	art								DT	det	11
+10	Persian	persian	attr+npremod	jj	attr								JJ	amod	11
+11	kings	king		nn	pl	nom							NNS	pobj	8
+12	and	and		cc	phrs								CC	cc	7
+13	how	how		rb	advl								WRB	advmod	15
+14	Sargon	sargon		nn		proper							NNP	nsubj	15
+15	paints	paint		vbmain	vblex	pres	simple	active					VBZ	conj	7
+16	himself	himself		pro	3rd	sg							PRP	dobj	15
+17	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	17
+18	the	the		dt	art								DT	det	19
+19	difference	difference		nn		nom							NN	attr	17
+20	between	between	in+npostmod	in	nmod								IN	prep	19
+21	failures	failure		nn	pl								NNS	pobj	20
+22	and	and		cc	phrs								CC	cc	21
+23	successes	success		nn	pl	nom							NNS	conj	21
+24	.	.											.	punct	17
+
+#sentid = 71
+0	Sargon	sargon		nn		proper							NNP	nsubj	10
+1	,	,											,	punct	10
+2	because	because		cs	cos								IN	mark	5
+3	he	he		pro	3rd	sg							PRP	nsubj	5
+4	is	be		vbaux									VBZ	aux	5
+5	writing	write	finitecls+advl	vbmain	vblex	pres	prog	active	advlcls		causative		VBG	advcl	10
+6	his	his		dt	poss	sg							PRP$	poss	8
+7	own	own	attr+npremod	jj	attr								JJ	amod	8
+8	account	account		nn									NN	dobj	5
+9	,	,											,	punct	10
+10	fills	fill		vbmain	vblex	pres	simple	active					VBZ	ROOT	10
+11	it	it		pro	3rd	sg							PRP	dobj	10
+12	with	with	in+advl	in	advl								IN	prep	10
+13	much	much	attr+npremod	jj	attr								JJ	amod	15
+14	political	political	attr+npremod	jj	attr								JJ	amod	15
+15	propaganda	propaganda		nn									NN	pobj	12
+16	,	,											,	punct	10
+17	and	and		cc	phrs								CC	cc	10
+18	continually	continually	rb+advl	rb	advl	ly							RB	advmod	19
+19	discusses	discuss		vbmain	vblex	pres	simple	active					VBZ	conj	10
+20	how	how	rb+jjrbmod	rb	adjmod								WRB	advmod	21
+21	amazing	amazing		jj	pred								JJ	acomp	23
+22	he	he		pro	3rd	sg							PRP	nsubj	23
+23	is	be	thatcls+vcomp	vbmain	be	pres	simple	active	compcls		vcomp	compdel	VBZ	ccomp	19
+24	.	.											.	punct	10
+
+#sentid = 72
+0	Sargon	sargon	s+gen	dt	poss	proper	sgen						NNP	poss	3
+1	's	's											POS	case	0
+2	political	political	attr+npremod	jj	attr								JJ	amod	3
+3	propaganda	propaganda		nn									NN	nsubj	4
+4	sends	send		vbmain	vblex	pres	simple	active					VBZ	ROOT	4
+5	the	the		dt	art								DT	det	6
+6	reader	reader		nn		nom							NN	dative	4
+7	the	the		dt	art								DT	det	8
+8	message	message		nn		nom							NN	dobj	4
+9	that	that		relpro	relpro_that								IN	mark	11
+10	he	he		pro	3rd	sg							PRP	nsubj	11
+11	reaps	reap	thatcls+ncomp	vbmain	vblex	pres	simple	active	nmod_cls	thatcls	ncomp		VBZ	acl	8
+12	much	much	attr+npremod	jj	attr								JJ	amod	13
+13	honor	honor		nn		nom							NN	dobj	11
+14	from	from	in+advl	in	advl								IN	prep	11
+15	his	his		dt	poss	sg							PRP$	poss	16
+16	campaigns	campaign		nn	pl								NNS	pobj	14
+17	,	,											,	punct	11
+18	because	because		cs	cos								IN	mark	21
+19	he	he		pro	3rd	sg							PRP	nsubj	21
+20	never	never											RB	neg	21
+21	fails	fail	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		causative		VBZ	advcl	11
+22	.	.											.	punct	4
+
+#sentid = 73
+0	The	the		dt	art								DT	det	1
+1	Persians	persians		nn	pl	proper							NNPS	nsubj	5
+2	themselves	themselves		pro	pl								PRP	appos	1
+3	are	be		vbaux									VBP	aux	5
+4	not	not											RB	neg	5
+5	writing	write		vbmain	vblex	pres	prog	active					VBG	ROOT	5
+6	their	their		dt	poss								PRP$	poss	8
+7	own	own	attr+npremod	jj	attr								JJ	amod	8
+8	account	account		nn									NN	dobj	5
+9	of	of	of+npostmod	in	nmod								IN	prep	8
+10	the	the		dt	art								DT	det	12
+11	Persian	persian	attr+npremod	jj	attr								JJ	amod	12
+12	wars	war		nn	pl								NNS	pobj	9
+13	,	,											,	punct	12
+14	where	where		rb	advl								WRB	advmod	19
+15	one	one		pro	other	pl							PRP	nsubj	17
+16	might	might		vbaux	mod	pos							MD	aux	17
+17	expect	expect	finitecls+rel	vbmain	vblex	vp_w_modal	simple	active	nmod_cls		rel	reldel	VB	relcl	12
+18	to	to		to									TO	aux	19
+19	see	see	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	17
+20	more	more											JJR	dobj	19
+21	of	of	in+jcomp	in	jcomp								IN	prep	20
+22	the	the		dt	art								DT	det	25
+23	Sargonid	sargonid	nn+npremod	nn		proper	npremod						NNP	compound	25
+24	-	-											HYPH	punct	25
+25	style	style		nn									NN	pobj	21
+26	of	of	of+npostmod	in	nmod								IN	prep	25
+27	self	self	nn+npremod	nn			npremod						NN	compound	29
+28	-	-											HYPH	punct	29
+29	praise	praise		nn									NN	pobj	26
+30	.	.											.	punct	5
+
+#sentid = 74
+0	If	if		cs	cnd								IN	mark	9
+1	a	a		dt	art								DT	det	2
+2	person	person		nn									NN	nsubj	9
+3	outside	outside	in+npostmod	in	nmod								IN	prep	2
+4	of	of		in	in_othr								IN	prep	3
+5	the	the		dt	art								DT	det	7
+6	Assyrian	assyrian	attr+npremod	jj	attr								JJ	amod	7
+7	empire	empire		nn									NN	pobj	4
+8	had	have		vbaux									VBD	aux	9
+9	written	write	finitecls+advl	vbmain	vblex	past	perf	active	advlcls		conditional		VBN	advcl	22
+10	an	an		dt									DT	det	11
+11	account	account		nn									NN	dobj	9
+12	of	of	of+npostmod	in	nmod								IN	prep	11
+13	Sargon	sargon	s+gen	dt	poss	proper	sgen						NNP	poss	15
+14	's	's											POS	case	13
+15	campaigns	campaign		nn	pl								NNS	pobj	12
+16	,	,											,	punct	22
+17	he	he		pro	3rd	sg							PRP	nsubj	22
+18	would	would		vbaux	mod	prd							MD	aux	22
+19	most	most	rb+jjrbmod	rb	othr								RBS	advmod	20
+20	likely	likely	rb+advl	rb	advl	ly	splaux						RB	advmod	22
+21	have	have		vbaux									VB	aux	22
+22	included	include		vbmain	vblex	vp_w_modal	perf	active					VBN	ROOT	22
+23	some	some		dt									DT	det	24
+24	examples	example		nn	pl								NNS	dobj	22
+25	of	of	of+npostmod	in	nmod								IN	prep	24
+26	less	less	rb+jjrbmod	rb	adjmod								RBR	advmod	27
+27	honorable	honorable	attr+npremod	jj	attr								JJ	amod	28
+28	battles	battle		nn	pl								NNS	pobj	25
+29	and	and		cc	phrs								CC	cc	28
+30	engagements	engagement		nn	pl	nom							NNS	conj	28
+31	.	.											.	punct	22
+
+#sentid = 75
+0	One	one											CD	nummod	2
+1	possible	possible	attr+npremod	jj	attr								JJ	amod	2
+2	conclusion	conclusion		nn									NN	nsubj	6
+3	of	of	of+npostmod	in	nmod								IN	prep	2
+4	this	this		dt	dt_dem								DT	det	5
+5	acknowledgement	acknowledgement		nn		nom							NN	pobj	3
+6	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	6
+7	that	that		comp	comp_that								IN	mark	9
+8	there	there											EX	expl	9
+9	is	be	thatcls+vcomp	vbmain	be	pres	simple	active	compcls	thatcls	vcomp		VBZ	ccomp	6
+10	a	a		dt	art								DT	det	12
+11	stark	stark	attr+npremod	jj	attr								JJ	amod	12
+12	difference	difference		nn		nom							NN	attr	9
+13	between	between	in+npostmod	in	nmod								IN	prep	12
+14	the	the		dt	art								DT	det	18
+15	Assyrian	assyrian	attr+npremod	jj	attr								JJ	amod	18
+16	and	and		cc	phrs								CC	cc	15
+17	Persian	persian											JJ	conj	15
+18	kings	king		nn	pl	nom							NNS	pobj	13
+19	.	.											.	punct	6
+
+#sentid = 76
+0	the	the		dt	art								DT	det	2
+1	Assyrian	assyrian	attr+npremod	jj	attr								JJ	amod	2
+2	culture	culture		nn		nom							NN	nsubj	3
+3	engrained	engraine		vbmain	vblex	past	simple	active					VBD	ROOT	3
+4	a	a		dt	art								DT	det	5
+5	need	need		nn									NN	dobj	3
+6	for	for	in+npostmod	in	nmod								IN	prep	5
+7	praise	praise		nn									NN	pobj	6
+8	(	(											-LRB-	punct	7
+9	even	even		rb	othr								RB	advmod	12
+10	self	self	nn+npremod	nn			npremod						NN	compound	12
+11	-	-											HYPH	punct	12
+12	praise	praise	appos+npostmod	nn			nappos						NN	appos	7
+13	)	)											-RRB-	punct	7
+14	to	to		to									TO	aux	15
+15	have	have	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	5
+16	honor	honor		nn		nom							NN	dobj	15
+17	.	.											.	punct	3
+
+#sentid = 77
+0	Conversely	conversely	rb+advl	rb	advl	ly							RB	advmod	4
+1	,	,											,	punct	4
+2	the	the		dt	art								DT	det	3
+3	Persians	persians		nn	pl	proper							NNPS	nsubj	4
+4	found	find		vbmain	vblex	past	simple	active					VBD	ROOT	4
+5	their	their		dt	poss								PRP$	poss	6
+6	honor	honor		nn		nom							NN	dobj	4
+7	through	through	in+advl	in	advl								IN	prep	4
+8	their	their		dt	poss								PRP$	poss	9
+9	successes	success		nn	pl	nom							NNS	pobj	7
+10	alone	alone		rb	othr								RB	advmod	9
+11	.	.											.	punct	4
+
+#sentid = 78
+0													_SP	dep	16
+1	For	for	in+advl	in	advl								IN	prep	16
+2	the	the		dt	art								DT	det	4
+3	Persian	persian	attr+npremod	jj	attr								JJ	amod	4
+4	kings	king		nn	pl	nom							NNS	pobj	1
+5	,	,											,	punct	16
+6	the	the		dt	art								DT	det	7
+7	motivation	motivation		nn		nom							NN	nsubjpass	16
+8	to	to		to									TO	aux	9
+9	campaign	campaign	tocls+ncomp	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	ncomp		VB	acl	7
+10	for	for	in+advl	in	advl								IN	prep	9
+11	glory	glory		nn		nom							NN	pobj	10
+12	and	and		cc	phrs								CC	cc	11
+13	honor	honor		nn		nom							NN	conj	11
+14	is	be		vbaux									VBZ	auxpass	16
+15	closely	closely	rb+advl	rb	advl	ly							RB	advmod	16
+16	tied	tie		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	16
+17	to	to	in+advl	in	advl								IN	prep	16
+18	the	the		dt	art								DT	det	19
+19	motivation	motivation		nn		nom							NN	pobj	17
+20	to	to		to									TO	aux	21
+21	campaign	campaign	tocls+ncomp	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	ncomp		VB	acl	19
+22	for	for	in+advl	in	advl								IN	prep	21
+23	retribution	retribution		nn		nom							NN	pobj	22
+24	.	.											.	punct	16
+
+#sentid = 79
+0	This	this		pro	dem	sg							DT	nsubj	1
+1	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	1
+2	also	also	rb+advl	rb	advl								RB	advmod	1
+3	present	present		jj	pred								JJ	acomp	1
+4	in	in	in+jcomp	in	jcomp								IN	prep	3
+5	the	the		dt	art								DT	det	7
+6	Sargon	sargon	nn+npremod	nn		proper	npremod						NNP	compound	7
+7	account	account		nn									NN	pobj	4
+8	.	.											.	punct	1
+
+#sentid = 80
+0	The	the		dt	art								DT	det	4
+1	Persian	persian	attr+npremod	jj	attr								JJ	amod	4
+2	and	and		cc	phrs								CC	cc	1
+3	Assyrian	assyrian											JJ	conj	1
+4	kings	king		nn	pl	nom							NNS	nsubj	5
+5	are	be		vbmain	be	pres	simple	active					VBP	ROOT	5
+6	very	very	rb+jjrbmod	rb	adjmod								RB	advmod	7
+7	similar	similar		jj	pred								JJ	acomp	5
+8	in	in		cs	cs_othr								IN	mark	11
+9	that	that		cs	cs_othr								IN	mark	11
+10	they	they		pro	pl								PRP	nsubj	11
+11	make	make	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		other_advl		VBP	advcl	5
+12	people	people		nn	pl								NNS	nsubj	13
+13	pay	pay		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	ccomp	11
+14	(	(											-LRB-	punct	13
+15	or	or		cc	phrs								CC	cc	13
+16	try	try		vbmain	vblex	nonfinite	simple	active					VB	conj	13
+17	to	to		to									TO	aux	18
+18	make	make	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	16
+19	them	they		pro	pl								PRP	nsubj	20
+20	pay	pay		vbmain	vblex	nonfinite	simple	active	compcls		vcomp	compdel	VB	ccomp	18
+21	)	)											-RRB-	punct	16
+22	for	for	in+advl	in	advl								IN	prep	16
+23	any	any		dt									DT	det	24
+24	battle	battle		nn									NN	pobj	22
+25	the	the		dt	art								DT	det	26
+26	Assyrians	assyrians		nn	pl	proper							NNPS	nsubj	31
+27	or	or		cc	phrs								CC	cc	26
+28	Persians	persians		nn	pl	proper							NNPS	conj	26
+29	might	might		vbaux	mod	pos							MD	aux	31
+30	have	have		vbaux									VB	aux	31
+31	lost	lose	finitecls+rel	vbmain	vblex	vp_w_modal	perf	active	nmod_cls		rel	reldel	VBN	relcl	24
+32	,	,											,	punct	24
+33	any	any		dt									DT	det	34
+34	dishonor	dishonor		nn		nom							NN	conj	24
+35	suffered	suffer	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	34
+36	by	by											IN	agent	35
+37	them	they		pro	pl								PRP	pobj	36
+38	,	,											,	punct	34
+39	or	or		cc	phrs								CC	cc	34
+40	any	any		dt									DT	det	42
+41	other	other	attr+npremod	jj	attr								JJ	amod	42
+42	situation	situation		nn		nom							NN	conj	34
+43	where	where		rb	advl								WRB	advmod	46
+44	they	they		pro	pl								PRP	nsubj	45
+45	felt	felt		vbaux									VBD	aux	46
+46	wronged	wrong	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls	whcls	rel		VBN	relcl	42
+47	.	.											.	punct	5
+
+#sentid = 81
+0	This	this		dt	dt_dem								DT	det	1
+1	point	point		nn									NN	nsubj	2
+2	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	2
+3	difficult	difficult		jj	pred								JJ	acomp	2
+4	to	to		to									TO	aux	5
+5	see	see	tocls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	jcomp		VB	xcomp	3
+6	in	in	in+advl	in	advl								IN	prep	5
+7	the	the		dt	art								DT	det	10
+8	Eighth	eighth		nn		proper	npremod						NNP	compound	9
+9	Campaign	campaign	nn+npremod	nn		proper	npremod						NNP	compound	10
+10	account	account		nn									NN	pobj	6
+11	because	because		cs	cos								IN	mark	14
+12	Sargon	sargon		nn		proper							NNP	nsubj	14
+13	never	never											RB	neg	14
+14	admits	admit	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		causative		VBZ	advcl	2
+15	to	to	in+advl	in	advl								IN	prep	14
+16	losing	lose	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	15
+17	any	any		dt									DT	det	18
+18	engagements	engagement		nn	pl	nom							NNS	dobj	16
+19	.	.											.	punct	2
+
+#sentid = 82
+0	he	he		pro	3rd	sg							PRP	nsubj	2
+1	just	just	rb+advl	rb	advl								RB	advmod	2
+2	trashes	trash		vbmain	vblex	pres	simple	active					VBZ	ROOT	2
+3	any	any		dt									DT	det	4
+4	city	city		nn		nom							NN	dobj	2
+5	that	that		relpro	relpro_that	sg							WDT	nsubj	6
+6	refuses	refuse	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls	thatcls	rel		VBZ	relcl	4
+7	to	to		to									TO	aux	8
+8	submit	submit	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	6
+9	to	to	in+advl	in	advl								IN	prep	8
+10	his	his		dt	poss	sg							PRP$	poss	11
+11	authority	authority		nn		nom							NN	pobj	9
+12	.	.											.	punct	2
+
+#sentid = 83
+0	In	in	in+advl	in	advl								IN	prep	6
+1	The	the		dt	art								DT	det	2
+2	Histories	histories		nn	pl	proper							NNPS	pobj	0
+3	,	,											,	punct	6
+4	Herodotus	herodotus		nn		proper							NNP	nsubj	6
+5	does	do		vbaux									VBZ	aux	6
+6	give	give		vbmain	vblex	pres	simple	active					VB	ROOT	6
+7	several	several	attr+npremod	jj	attr								JJ	amod	8
+8	examples	example		nn	pl								NNS	dobj	6
+9	of	of	of+npostmod	in	nmod								IN	prep	8
+10	Persian	persian	attr+npremod	jj	attr								JJ	amod	11
+11	kings	king		nn	pl	nom							NNS	nsubj	12
+12	acting	act	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	9
+13	to	to		to									TO	aux	14
+14	gain	gain	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	12
+15	retribution	retribution		nn		nom							NN	dobj	14
+16	.	.											.	punct	6
+
+#sentid = 84
+0	In	in	in+advl	in	advl								IN	prep	19
+1	fact	fact		nn									NN	pobj	0
+2	,	,											,	punct	19
+3	in	in	in+advl	in	advl								IN	prep	19
+4	The	the		dt	art								DT	det	5
+5	Histories	histories		nn	pl	proper							NNPS	pobj	3
+6	,	,											,	punct	19
+7	all	all		dt									DT	det	8
+8	three	three											CD	nsubjpass	19
+9	of	of		in	in_othr								IN	prep	8
+10	these	these		dt	dt_dem								DT	det	12
+11	emerging	emerge	attr+npremod	jj	attr	ing							VBG	amod	12
+12	motivations	motivation		nn	pl	nom							NNS	pobj	9
+13	for	for	in+npostmod	in	nmod								IN	prep	12
+14	warfare	warfare		nn									NN	pobj	13
+15	and	and		cc	phrs								CC	cc	14
+16	conquest	conquest		nn									NN	conj	14
+17	are	be		vbaux									VBP	auxpass	19
+18	directly	directly	rb+advl	rb	advl	ly							RB	advmod	19
+19	tied	tie		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	19
+20	together	together	rb+advl	rb	advl								RB	advmod	19
+21	.	.											.	punct	19
+
+#sentid = 85
+0	because	because		cs	cos								IN	mark	3
+1	the	the		dt	art								DT	det	2
+2	Greeks	greeks		nn	pl	proper							NNPS	nsubj	3
+3	deface	deface	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		causative		VBP	advcl	14
+4	sacred	sacred	attr+npremod	jj	attr								JJ	amod	5
+5	lands	land		nn	pl								NNS	dobj	3
+6	in	in	in+npostmod	in	nmod								IN	prep	5
+7	Sardis	sardis		nn		proper							NNP	pobj	6
+8	,	,											,	punct	14
+9	the	the		dt	art								DT	det	11
+10	Persians	persians	nn+npremod	nn	pl	proper	npremod						NNPS	compound	11
+11	king	king		nn		nom							NN	nsubjpass	14
+12	Xerxes	xerxes	appos+npostmod	nn		proper	nappos						NNP	appos	11
+13	is	be		vbaux									VBZ	auxpass	14
+14	dishonored	dishonor		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	14
+15	and	and		cc	phrs								CC	cc	14
+16	seeks	seek		vbmain	vblex	pres	simple	active					VBZ	conj	14
+17	retribution	retribution		nn		nom							NN	dobj	16
+18	(	(											-LRB-	punct	16
+19	Book	book		nn									NN	npadvmod	16
+20	7	7											CD	nummod	19
+21	)	)											-RRB-	punct	16
+22	.	.											-RRB-	punct	14
+
+#sentid = 86
+0													_SP	dep	20
+1	When	when		rb	advl								WRB	advmod	5
+2	the	the		dt	art								DT	det	4
+3	Persian	persian		nn		proper	npremod						NNP	compound	4
+4	Empire	empire		nn		proper							NNP	nsubj	5
+5	rose	rise	finitecls+advl	vbmain	vblex	past	simple	active	advlcls	whcls			VBD	advcl	20
+6	to	to	in+advl	in	advl								IN	prep	5
+7	domination	domination		nn		nom							NN	pobj	6
+8	over	over	in+npostmod	in	nmod								IN	prep	7
+9	the	the		dt	art								DT	det	12
+10	crumbling	crumble		jj	attr	ing							VBG	amod	12
+11	Assyrian	assyrian		jj	attr								JJ	amod	12
+12	one	one		pro	other	pl							CD	pobj	8
+13	,	,											,	punct	20
+14	the	the		dt	art								DT	det	16
+15	Assyrian	assyrian	attr+npremod	jj	attr								JJ	amod	16
+16	one	one		nn	other	pl							NN	nsubj	20
+17	had	have		vbaux									VBD	aux	20
+18	over	over	rb+advl	rb	advl		splaux						RB	advmod	20
+19	-	-											HYPH	punct	20
+20	expanded	expand		vbmain	vblex	past	perf	active					VBN	ROOT	20
+21	itself	itself											PRP	dobj	20
+22	.	.											.	punct	20
+
+#sentid = 87
+0	The	the		dt	art								DT	det	1
+1	kings	king		nn	pl	nom							NNS	nsubj	7
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	the	the		dt	art								DT	det	4
+4	empire	empire		nn									NN	pobj	2
+5	had	have		vbaux									VBD	aux	7
+6	not	not											RB	neg	7
+7	looked	look		vbmain	vblex	past	perf	active					VBN	ROOT	7
+8	to	to	in+advl	in	advl								IN	prep	7
+9	the	the		dt	art								DT	det	10
+10	maintenance	maintenance		nn		nom							NN	pobj	8
+11	of	of	of+npostmod	in	nmod								IN	prep	10
+12	such	such											PDT	predet	15
+13	a	a		dt	art								DT	det	15
+14	vast	vast	attr+npremod	jj	attr								JJ	amod	15
+15	territory	territory		nn		nom							NN	pobj	11
+16	.	.											.	punct	7
+
+#sentid = 88
+0	instead	instead	rb+advl	rb	advl								RB	advmod	5
+1	they	they		pro	pl								PRP	nsubjpass	5
+2	had	have		vbaux									VBD	aux	5
+3	been	be		vbaux									VBN	auxpass	5
+4	mostly	mostly	rb+advl	rb	advl	ly	splaux						RB	advmod	5
+5	consumed	consume		vbmain	vblex	past	perf	pasv_agls					VBN	ROOT	5
+6	with	with	in+advl	in	advl								IN	prep	5
+7	making	make	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	6
+8	the	the		dt	art								DT	det	9
+9	empire	empire		nn									NN	nsubj	10
+10	bigger	big											JJR	ccomp	7
+11	and	and		cc	phrs								CC	cc	10
+12	bigger	big											JJR	conj	10
+13	,	,											,	punct	7
+14	obtaining	obtain		vbmain	vblex	nonfinite	simple	active		ingcls			VBG	dep	7
+15	more	more	attr+npremod	jj	attr								JJR	amod	18
+16	and	and		cc	phrs								CC	cc	15
+17	more	more											JJR	conj	15
+18	wealth	wealth		nn									NN	dobj	14
+19	.	.											.	punct	5
+
+#sentid = 89
+0	The	the		dt	art								DT	det	1
+1	Persians	persians		nn	pl	proper							NNPS	nsubj	2
+2	took	take		vbmain	phrsv	past	simple	active					VBD	ROOT	2
+3	over	over		rb	prtcle								RP	prt	2
+4	the	the		dt	art								DT	det	6
+5	Median	median	attr+npremod	jj	attr								JJ	amod	6
+6	kingdom	kingdom		nn		nom							NN	dobj	2
+7	,	,											,	punct	6
+8	then	then		rb	othr								RB	advmod	6
+9	the	the		dt	art								DT	det	11
+10	Lydian	lydian		jj	attr								JJ	amod	11
+11	one	one											CD	appos	6
+12	,	,											,	punct	6
+13	and	and		cc	phrs								CC	cc	2
+14	continued	continue		vbmain	vblex	past	simple	active					VBD	conj	2
+15	to	to		to									TO	aux	16
+16	expand	expand	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	14
+17	slowly	slowly	rb+advl	rb	advl	ly							RB	advmod	16
+18	until	until		cs	cs_othr								IN	mark	20
+19	they	they		pro	pl								PRP	nsubj	20
+20	were	be	finitecls+advl	vbmain	be	past	simple	active	advlcls		other_advl		VBD	advcl	16
+21	more	more	rb+jjrbmod	rb	adjmod								RBR	advmod	22
+22	powerful	powerful		jj	pred								JJ	acomp	20
+23	and	and		cc	phrs								CC	cc	22
+24	larger	large											JJR	conj	22
+25	than	than		cs	cs_othr								IN	mark	31
+26	the	the		dt	art								DT	det	29
+27	crumbled	crumble	attr+npremod	jj	attr	ed							VBN	amod	29
+28	Assyrian	assyrian	attr+npremod	jj	attr								JJ	amod	29
+29	state	state		nn		nom							NN	nsubj	31
+30	had	have		vbaux									VBD	aux	31
+31	been	be	finitecls+advl	vbmain	be	past	perf	active	advlcls		other_advl		VBN	advcl	22
+32	.	.											.	punct	2
+
+#sentid = 90
+0	Again	again	rb+advl	rb	advl								RB	advmod	5
+1	,	,											,	punct	5
+2	the	the		dt	art								DT	det	4
+3	Persian	persian		nn		proper	npremod						NNP	compound	4
+4	Empire	empire		nn		proper							NNP	nsubj	5
+5	became	become		vbmain	vblex	past	simple	active					VBD	ROOT	5
+6	too	too	rb+jjrbmod	rb	adjmod								RB	advmod	7
+7	focused	focused		jj	pred								JJ	acomp	5
+8	on	on	in+jcomp	in	jcomp								IN	prep	7
+9	obtaining	obtain	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	8
+10	more	more	attr+npremod	jj	attr								JJR	amod	11
+11	territory	territory		nn		nom							NN	dobj	9
+12	and	and		cc	phrs								CC	cc	11
+13	wealth	wealth		nn									NN	conj	11
+14	,	,											,	punct	5
+15	outstretching	outstretche	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	5
+16	it	it		dt	poss	sg							PRP$	poss	18
+17	’s	’s											POS	case	16
+18	reach	reach		nn									NN	dobj	15
+19	a	a		dt	art								DT	det	20
+20	bit	bit		nn									NN	npadvmod	22
+21	too	too	rb+jjrbmod	rb	othr								RB	advmod	22
+22	far	far	rb+advl	rb	advl								RB	advmod	15
+23	,	,											,	punct	5
+24	and	and		cc	phrs								CC	cc	5
+25	found	find		vbmain	vblex	past	simple	active					VBD	conj	5
+26	itself	itself											PRP	nsubj	28
+27	later	later	rb+advl	rb	advl								RB	advmod	28
+28	beaten	beat	thatcls+vcomp	vbmain	phrsv	past	simple	active	compcls		vcomp	compdel	VBN	ccomp	25
+29	down	down		rb	prtcle								RP	prt	28
+30	by	by											IN	agent	28
+31	the	the		dt	art								DT	det	32
+32	Greeks	greeks		nn	pl	proper							NNPS	pobj	30
+33	and	and		cc	phrs								CC	cc	32
+34	eventually	eventually		rb	othr	ly							RB	advmod	35
+35	Alexander	alexander		nn		proper							NNP	conj	32
+36	of	of	of+npostmod	in	nmod								IN	prep	35
+37	Macedon	macedon		nn		proper							NNP	pobj	36
+38	.	.											.	punct	5
+
+#sentid = 91
+0	The	the		dt	art								DT	det	3
+1	two	two											CD	nummod	3
+2	great	great	attr+npremod	jj	attr								JJ	amod	3
+3	empires	empire		nn	pl								NNS	nsubj	5
+4	had	have		vbaux									VBD	aux	5
+5	become	become		vbmain	vblex	past	perf	active					VBN	ROOT	5
+6	too	too	rb+jjrbmod	rb	adjmod								RB	advmod	7
+7	greedy	greedy		jj	pred								JJ	acomp	5
+8	.	.											.	punct	5
+
+#sentid = 92
+0	instead	instead		rb	othr								RB	advmod	1
+1	of	of	in+advl	in	advl								IN	prep	12
+2	being	be	ingcls+incomp	vbmain	be	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	1
+3	content	content		jj	pred								JJ	acomp	2
+4	with	with	in+jcomp	in	jcomp								IN	prep	3
+5	a	a		dt	art								DT	det	8
+6	very	very	rb+jjrbmod	rb	adjmod								RB	advmod	7
+7	large	large	attr+npremod	jj	attr								JJ	amod	8
+8	empire	empire		nn									NN	pobj	4
+9	,	,											,	punct	12
+10	each	each											DT	nsubj	12
+11	had	have		vbaux									VBD	aux	12
+12	sought	seek		vbmain	vblex	past	perf	active					VBN	ROOT	12
+13	glory	glory		nn		nom							NN	dobj	12
+14	to	to	in+advl	in	advl								IN	prep	12
+15	the	the		dt	art								DT	det	16
+16	point	point		nn									NN	pobj	14
+17	of	of	of+npostmod	in	nmod								IN	prep	16
+18	failure	failure		nn		nom							NN	pobj	17
+19	.	.											.	punct	12
+
+#sentid = 93
+0													_SP	dep	22
+1	The	the		dt	art								DT	det	2
+2	reality	reality		nn		nom							NN	nsubj	22
+3	one	one		pro	other	pl							PRP	nsubj	4
+4	discovers	discover	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls		rel	reldel	VBZ	relcl	2
+5	in	in	in+advl	in	advl								IN	prep	4
+6	exploring	explore	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	5
+7	these	these		dt	dt_dem								DT	det	10
+8	new	new	attr+npremod	jj	attr								JJ	amod	10
+9	motivational	motivational	attr+npremod	jj	attr								JJ	amod	10
+10	themes	theme		nn	pl								NNS	dobj	6
+11	for	for	in+npostmod	in	nmod								IN	prep	10
+12	conquest	conquest		nn									NN	pobj	11
+13	on	on	in+advl	in	advl								IN	prep	6
+14	behalf	behalf		nn									NN	pobj	13
+15	of	of	of+npostmod	in	nmod								IN	prep	14
+16	both	both		dt									CC	det	18
+17	Assyrian	assyrian	attr+npremod	jj	attr								JJ	amod	18
+18	kings	king		nn	pl	nom							NNS	pobj	15
+19	and	and		cc	phrs								CC	cc	18
+20	Persian	persian	attr+npremod	jj	attr								JJ	amod	21
+21	ones	one		nn	pl								NNS	conj	18
+22	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	22
+23	that	that		comp	comp_that								IN	mark	25
+24	they	they		pro	pl								PRP	nsubj	25
+25	were	be	thatcls+vcomp	vbmain	be	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	22
+26	probably	probably	rb+advl	rb	advl	ly							RB	advmod	25
+27	just	just		rb	othr								RB	advmod	29
+28	new	new	attr+npremod	jj	attr								JJ	amod	29
+29	ways	way		nn	pl								NNS	attr	25
+30	to	to		to									TO	aux	31
+31	justify	justify	tocls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	rel		VB	relcl	29
+32	gaining	gain	ingcls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	vcomp		VBG	xcomp	31
+33	more	more	attr+npremod	jj	attr								JJR	amod	34
+34	territory	territory		nn		nom							NN	dobj	32
+35	and	and		cc	phrs								CC	cc	34
+36	wealth	wealth		nn									NN	conj	34
+37	.	.											.	punct	22
+
+#sentid = 94
+0	While	while		cs	con								IN	mark	7
+1	the	the		dt	art								DT	det	2
+2	kingdoms	kingdom		nn	pl	nom							NNS	nsubj	7
+3	did	do		vbaux									VBD	aux	7
+4	to	to	in+advl	in	advl								IN	prep	7
+5	some	some		dt									DT	det	6
+6	extent	extent		nn		nom							NN	pobj	4
+7	act	act	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		concessive		VB	advcl	18
+8	on	on	in+advl	in	advl								IN	prep	7
+9	behalf	behalf		nn									NN	pobj	8
+10	of	of	of+npostmod	in	nmod								IN	prep	9
+11	the	the		dt	art								DT	det	12
+12	religions	religion		nn	pl								NNS	pobj	10
+13	they	they		pro	pl								PRP	nsubj	14
+14	represented	represent	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls		rel	reldel	VBD	relcl	12
+15	,	,											,	punct	18
+16	religious	religious	attr+npremod	jj	attr								JJ	amod	17
+17	motivation	motivation		nn		nom							NN	nsubj	18
+18	was	be		vbmain	be	past	simple	active					VBD	ROOT	18
+19	an	an		dt									DT	det	21
+20	easy	easy	attr+npremod	jj	attr								JJ	amod	21
+21	excuse	excuse		nn									NN	attr	18
+22	for	for	in+npostmod	in	nmod								IN	prep	21
+23	expansion	expansion		nn									NN	pobj	22
+24	.	.											.	punct	18
+
+#sentid = 95
+0	Repayment	repayment		nn		nom							NN	nsubj	4
+1	of	of	of+npostmod	in	nmod								IN	prep	0
+2	iniquity	iniquity		nn		nom							NN	pobj	1
+3	too	too	rb+advl	rb	advl								RB	advmod	4
+4	functioned	function		vbmain	vblex	past	simple	active					VBD	ROOT	4
+5	in	in	in+advl	in	advl								IN	prep	4
+6	this	this		dt	dt_dem								DT	det	7
+7	fashion	fashion		nn									NN	pobj	5
+8	.	.											.	punct	4
+
+#sentid = 96
+0	grudges	grudge		nn	pl								NNS	nsubj	2
+1	unresolved	unresolved		jj	attr								JJ	amod	0
+2	became	become		vbmain	vblex	past	simple	active					VBD	ROOT	2
+3	the	the		dt	art								DT	det	4
+4	reason	reason		nn									NN	attr	2
+5	to	to		to									TO	aux	6
+6	launch	launch	tocls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	rel		VB	relcl	4
+7	battles	battle		nn	pl								NNS	dobj	6
+8	that	that		relpro	relpro_that	sg							WDT	nsubjpass	14
+9	probably	probably	rb+advl	rb	advl	ly							RB	advmod	14
+10	should	should		vbaux	mod	nec							MD	aux	14
+11	not	not											RB	neg	14
+12	have	have		vbaux									VB	aux	14
+13	been	be		vbaux									VBN	auxpass	14
+14	fought	fight	finitecls+rel	vbmain	vblex	vp_w_modal	perf	pasv_agls	nmod_cls	thatcls	rel		VBN	relcl	7
+15	.	.											.	punct	2
+
+#sentid = 97
+0	Both	both											CC	preconj	5
+1	the	the		dt	art								DT	det	5
+2	religious	religious	attr+npremod	jj	attr								JJ	amod	5
+3	and	and		cc	phrs								CC	cc	2
+4	retributive	retributive											JJ	conj	2
+5	motivations	motivation		nn	pl	nom							NNS	nsubj	15
+6	in	in	in+npostmod	in	nmod								IN	prep	5
+7	the	the		dt	art								DT	det	10
+8	Eighth	eighth		nn		proper	npremod						NNP	compound	9
+9	Campaign	campaign	nn+npremod	nn		proper	npremod						NNP	compound	10
+10	account	account		nn									NN	pobj	6
+11	and	and		cc									CC	cc	6
+12	in	in											IN	conj	6
+13	The	the		dt	art								DT	det	14
+14	Histories	histories		nn	pl	proper							NNPS	pobj	12
+15	appear	appear		vbmain	vblex	pres	simple	active					VBP	ROOT	15
+16	to	to		to									TO	aux	17
+17	be	be	tocls+vcomp	vbmain	be	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	15
+18	excuses	excuse		nn	pl								NNS	attr	17
+19	to	to		to									TO	aux	20
+20	extend	extend	tocls+ncomp	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	ncomp		VB	acl	18
+21	the	the		dt	art								DT	det	22
+22	empires	empire		nn	pl								NNS	dobj	20
+23	and	and		cc	phrs								CC	cc	22
+24	control	control		nn									NN	conj	22
+25	of	of	of+npostmod	in	nmod								IN	prep	22
+26	native	native	attr+npremod	jj	attr								JJ	amod	27
+27	peoples	people		nn	pl								NNS	pobj	25
+28	,	,											,	punct	20
+29	yielding	yield	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	20
+30	great	great	attr+npremod	jj	attr								JJ	amod	31
+31	wealth	wealth		nn									NN	dobj	29
+32	.	.											.	punct	15
+
+#sentid = 98
+0	It	it		pro	3rd	sg							PRP	nsubj	1
+1	seems	seem		vbmain	vblex	pres	simple	active					VBZ	ROOT	1
+2	that	that		comp	comp_that								IN	mark	8
+3	"	"											``	punct	4
+4	glory	glory		nn		nom							NN	nsubjpass	8
+5	"	"											''	punct	4
+6	is	be		vbaux									VBZ	auxpass	8
+7	deeply	deeply	rb+advl	rb	advl	ly							RB	advmod	8
+8	tied	tie	thatcls+vcomp	vbmain	vblex	pres	simple	pasv_agls	compcls	thatcls	vcomp		VBN	ccomp	1
+9	to	to	in+advl	in	advl								IN	prep	8
+10	the	the		dt	art								DT	det	12
+11	natural	natural	attr+npremod	jj	attr								JJ	amod	12
+12	desire	desire		nn									NN	pobj	9
+13	of	of	of+npostmod	in	nmod								IN	prep	12
+14	the	the		dt	art								DT	det	17
+15	conquest	conquest	nn+npremod	nn			npremod						NN	compound	17
+16	-	-											HYPH	punct	17
+17	state	state		nn		nom							NN	pobj	13
+18	to	to		to									TO	aux	19
+19	expand	expand	tocls+ncomp	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	ncomp		VB	acl	12
+20	.	.											.	punct	1
+
+#sentid = 99
+0	Why	why		rb	advl								WRB	advmod	9
+1	did	do		vbaux									VBD	aux	9
+2	the	the		dt	art								DT	det	6
+3	Assyrian	assyrian	attr+npremod	jj	attr								JJ	amod	6
+4	and	and		cc	phrs								CC	cc	3
+5	Persian	persian											JJ	conj	3
+6	kings	king		nn	pl	nom							NNS	nsubj	9
+7	both	both											DT	appos	6
+8	continuously	continuously	rb+advl	rb	advl	ly	splaux						RB	advmod	9
+9	campaign	campaign		vbmain	vblex	past	simple	active					VB	ROOT	9
+10	until	until		cs	cs_othr								IN	mark	13
+11	their	their		dt	poss								PRP$	poss	12
+12	empires	empire		nn	pl								NNS	nsubj	13
+13	were	be	finitecls+advl	vbmain	be	past	simple	active	advlcls		other_advl		VBD	advcl	9
+14	too	too	rb+jjrbmod	rb	adjmod								RB	advmod	15
+15	large	large		jj	pred								JJ	acomp	13
+16	to	to		to									TO	aux	17
+17	maintain	maintain	tocls+jcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	jcomp		VB	xcomp	15
+18	,	,											,	punct	9
+19	lending	lend	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	9
+20	rise	rise		nn									NN	dative	19
+21	the	the		dt	art								DT	det	22
+22	end	end		nn									NN	dobj	19
+23	of	of	of+npostmod	in	nmod								IN	prep	22
+24	their	their		dt	poss								PRP$	poss	25
+25	eras	era		nn	pl								NNS	pobj	23
+26	and	and		cc	phrs								CC	cc	25
+27	new	new	attr+npremod	jj	attr								JJ	amod	28
+28	dominions	dominion		nn	pl								NNS	conj	25
+29	from	from	in+npostmod	in	nmod								IN	prep	28
+30	other	other	attr+npremod	jj	attr								JJ	amod	32
+31	people	people	nn+npremod	nn	pl		npremod						NNS	compound	32
+32	groups	group		nn	pl								NNS	pobj	29
+33	?	?											.	punct	9
+
+#sentid = 100
+0	It	it		pro	3rd	sg							PRP	nsubj	2
+1	would	would		vbaux	mod	prd							MD	aux	2
+2	appear	appear		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	2
+3	that	that		comp	comp_that								IN	mark	20
+4	no	no											RB	neg	5
+5	matter	matter	rb+advl	rb	advl								RB	advmod	20
+6	how	how	rb+jjrbmod	rb	adjmod								WRB	advmod	7
+7	big	big		jj	attr								JJ	amod	10
+8	an	an		dt									DT	det	9
+9	empire	empire		nn									NN	nsubj	10
+10	got	get		vbmain	vblex	past	simple	active	compcls			compdel	VBD	ccomp	5
+11	or	or		cc	cls								CC	cc	10
+12	how	how	rb+jjrbmod	rb	adjmod								WRB	advmod	13
+13	much	much	attr+npremod	jj	attr								JJ	amod	14
+14	wealth	wealth		nn									NN	dobj	17
+15	one	one											CD	nummod	16
+16	man	man		nn									NN	nsubj	17
+17	controlled	control		vbmain	vblex	past	simple	active					VBD	conj	10
+18	,	,											,	punct	20
+19	there	there											EX	expl	20
+20	was	be	thatcls+vcomp	vbmain	be	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	2
+21	never	never											RB	neg	20
+22	an	an		dt									DT	det	23
+23	amount	amount		nn									NN	attr	20
+24	that	that		relpro	relpro_that	sg							WDT	nsubj	25
+25	was	be	finitecls+rel	vbmain	be	past	simple	active	nmod_cls	thatcls	rel		VBD	relcl	23
+26	sufficient	sufficient		jj	pred								JJ	acomp	25
+27	.	.											.	punct	2
+
+#sentid = 101
+0	The	the		dt	art								DT	det	2
+1	key	key	attr+npremod	jj	attr								JJ	amod	2
+2	development	development		nn		nom							NN	nsubj	10
+3	with	with	in+npostmod	in	nmod								IN	prep	2
+4	both	both		dt									CC	det	9
+5	the	the		dt	art								DT	det	9
+6	Assyrian	assyrian	attr+npremod	jj	attr								JJ	amod	9
+7	and	and		cc	phrs								CC	cc	6
+8	Persian	persian											JJ	conj	6
+9	kings	king		nn	pl	nom							NNS	pobj	3
+10	was	be		vbmain	be	past	simple	active					VBD	ROOT	10
+11	that	that		comp	comp_that								IN	mark	22
+12	this	this		dt	dt_dem								DT	det	13
+13	need	need		nn									NN	nsubj	22
+14	to	to		to									TO	aux	15
+15	expand	expand		vbmain	vblex	nonfinite	simple	active	nmod_cls		ncomp		VB	acl	13
+16	to	to		to									TO	aux	17
+17	prove	prove	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	13
+18	oneself	oneself											PRP	nsubj	19
+19	honorable	honorable											JJ	ccomp	17
+20	and	and		cc	phrs								CC	cc	19
+21	worthy	worthy											JJ	conj	19
+22	found	find	thatcls+vcomp	vbmain	vblex	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	10
+23	ways	way		nn	pl								NNS	dobj	22
+24	to	to		to									TO	aux	25
+25	hide	hide	tocls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	tocls	rel		VB	relcl	23
+26	behind	behind	in+advl	in	advl								IN	prep	25
+27	many	many	attr+npremod	jj	attr								JJ	amod	29
+28	different	different	attr+npremod	jj	attr								JJ	amod	29
+29	facades	facade		nn	pl								NNS	pobj	26
+30	,	,											,	punct	29
+31	including	include		vbmain	nmod	nonfinite	simple	active		ingcls			VBG	prep	29
+32	religious	religious	attr+npremod	jj	attr								JJ	amod	41
+33	,	,											,	punct	32
+34	retributive	retributive											JJ	conj	32
+35	,	,											,	punct	34
+36	and	and		cc	phrs								CC	cc	34
+37	generally	generally	rb+jjrbmod	rb	othr	ly							RB	advmod	38
+38	selfish	selfish											JJ	conj	34
+39	and	and		cc	phrs								CC	cc	38
+40	greedy	greedy											JJ	conj	38
+41	motivations	motivation		nn	pl	nom							NNS	pobj	31
+42	.	.											.	punct	10
+
+#sentid = 102
+0	Unfortunately	unfortunately	rb+advl	rb	advl	ly							RB	advmod	4
+1	,	,											,	punct	4
+2	these	these		dt	dt_dem								DT	det	3
+3	facades	facade		nn	pl								NNS	nsubj	4
+4	are	be		vbmain	be	pres	simple	active					VBP	ROOT	4
+5	not	not											RB	neg	4
+6	permanent	permanent		jj	pred								JJ	acomp	4
+7	.	.											.	punct	4
+
+#sentid = 103
+0	the	the		dt	art								DT	det	2
+1	Assyrian	assyrian	attr+npremod	jj	attr								JJ	amod	2
+2	ones	one		nn	pl	pl							NNS	nsubj	3
+3	gave	give		vbmain	vblex	past	simple	active					VBD	ROOT	3
+4	way	way		nn									NN	dobj	3
+5	to	to	in+advl	in	advl								IN	prep	3
+6	the	the		dt	art								DT	det	8
+7	Persian	persian	attr+npremod	jj	attr								JJ	amod	8
+8	ones	one		nn	pl	pl							NNS	pobj	5
+9	,	,											,	punct	3
+10	yielding	yield	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	3
+11	way	way		nn									NN	dobj	10
+12	to	to	in+advl	in	advl								IN	prep	10
+13	the	the		dt	art								DT	det	15
+14	Macedonian	macedonian		nn		proper	npremod						NNP	compound	15
+15	Empire	empire		nn		proper							NNP	pobj	12
+16	and	and		cc	phrs								CC	cc	15
+17	then	then		rb	othr								RB	advmod	20
+18	the	the		dt	art								DT	det	20
+19	Roman	roman	attr+npremod	jj	attr								JJ	amod	20
+20	one	one		nn									NN	conj	15
+21	.	.											.	punct	3
+
+#sentid = 104
+0	The	the		dt	art								DT	det	1
+1	cycles	cycle		nn	pl								NNS	nsubj	4
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	power	power		nn		nom							NN	pobj	2
+4	appear	appear		vbmain	vblex	pres	simple	active					VBP	ROOT	4
+5	to	to		to									TO	aux	6
+6	be	be	tocls+vcomp	vbmain	be	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	4
+7	unending	unending		jj	pred								JJ	acomp	6
+8	.	.											.	punct	4
+
+#sentid = 105
+0	even	even		rb	othr								RB	advmod	1
+1	today	today		nn									NN	npadvmod	4
+2	,	,											,	punct	4
+3	nations	nation		nn	pl	nom							NNS	nsubj	4
+4	rise	rise		vbmain	vblex	pres	simple	active					VBP	ROOT	4
+5	and	and		cc	phrs								CC	cc	4
+6	fall	fall		vbmain	vblex	pres	simple	active					VBP	conj	4
+7	with	with	in+advl	in	advl								IN	prep	6
+8	the	the		dt	art								DT	det	9
+9	reach	reach		nn									NN	pobj	7
+10	to	to	in+advl	in	advl								TO	prep	13
+11	which	which											WDT	pobj	10
+12	they	they		pro	pl								PRP	nsubj	13
+13	overextend	overextend	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls		rel	reldel	VBP	relcl	9
+14	themselves	themselves		pro	pl								PRP	dobj	13
+15	.	.											.	punct	4

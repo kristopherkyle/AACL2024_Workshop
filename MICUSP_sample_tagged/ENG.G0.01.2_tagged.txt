@@ -1,0 +1,822 @@
+#sentid = 0
+0	The	the		dt	art								DT	det	1
+1	concept	concept		nn									NN	nsubj	4
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	freedom	freedom		nn		nom							NN	pobj	2
+4	carries	carry		vbmain	vblex	pres	simple	active					VBZ	ROOT	4
+5	a	a		dt	art								DT	det	9
+6	relative	relative	attr+npremod	jj	attr								JJ	amod	9
+7	and	and		cc	phrs								CC	cc	6
+8	subjective	subjective											JJ	conj	6
+9	meaning	meaning		nn		nom							NN	dobj	4
+10	.	.											.	punct	4
+
+#sentid = 1
+0	Every	every		dt									DT	det	1
+1	Fourth	fourth		nn		proper							NNP	npadvmod	13
+2	of	of		in	nmod								IN	prep	1
+3	July	july		nn		proper							NNP	pobj	2
+4	,	,											,	punct	13
+5	the	the		dt	art								DT	det	6
+6	people	people		nn	pl								NNS	nsubj	13
+7	of	of	of+npostmod	in	nmod								IN	prep	6
+8	the	the		dt	art								DT	det	10
+9	United	united		nn		proper	npremod						NNP	compound	10
+10	States	states		nn		proper							NNP	pobj	7
+11	magically	magically	rb+advl	rb	advl	ly							RB	advmod	13
+12	"	"											``	punct	13
+13	forget	forget		vbmain	vblex	pres	simple	active					VBP	ROOT	13
+14	"	"											''	punct	13
+15	their	their		dt	poss								PRP$	poss	17
+16	previous	previous	attr+npremod	jj	attr								JJ	amod	17
+17	battles	battle		nn	pl								NNS	dobj	13
+18	with	with	in+npostmod	in	nmod								IN	prep	17
+19	family	family	nn+npremod	nn			npremod						NN	compound	20
+20	members	member		nn	pl	nom							NNS	pobj	18
+21	,	,											,	punct	20
+22	neighbors	neighbor		nn	pl	nom							NNS	conj	20
+23	,	,											,	punct	22
+24	and	and		cc	phrs								CC	cc	22
+25	third	third	attr+npremod	jj	attr								JJ	amod	27
+26	-	-											HYPH	punct	27
+27	world	world	nn+npremod	nn			npremod						NN	compound	29
+28	-	-											HYPH	punct	29
+29	countries	country		nn	pl	nom							NNS	conj	22
+30	,	,											,	punct	13
+31	as	as		cs	cs_othr								IN	mark	33
+32	they	they		pro	pl								PRP	nsubj	33
+33	gather	gather	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		other_advl		VBP	advcl	13
+34	over	over	in+advl	in	advl								IN	prep	33
+35	grilled	grill	attr+npremod	jj	attr	ed							VBN	amod	36
+36	food	food		nn									NN	pobj	34
+37	and	and		cc									CC	cc	34
+38	under	under											IN	conj	34
+39	explosive	explosive	attr+npremod	jj	attr								JJ	amod	40
+40	fireworks	firework		nn	pl								NNS	pobj	38
+41	.	.											.	punct	13
+
+#sentid = 2
+0	The	the		dt	art								DT	det	2
+1	initial	initial	attr+npremod	jj	attr								JJ	amod	2
+2	importance	importance		nn		nom							NN	nsubj	11
+3	of	of	of+npostmod	in	nmod								IN	prep	2
+4	our	our		dt	poss								PRP$	poss	5
+5	country	country	s+gen	dt	poss	nom	sgen						NN	poss	7
+6	's	's											POS	case	5
+7	freedom	freedom		nn		nom							NN	pobj	3
+8	from	from	in+npostmod	in	nmod								IN	prep	7
+9	British	british	attr+npremod	jj	attr								JJ	amod	10
+10	control	control		nn									NN	pobj	8
+11	dissipates	dissipate		vbmain	vblex	pres	simple	active					VBZ	ROOT	11
+12	as	as		rb	othr								RB	advmod	13
+13	quickly	quickly	rb+advl	rb	advl	ly							RB	advmod	11
+14	as	as		in	in_othr								IN	prep	13
+15	a	a		dt	art								DT	det	16
+16	pack	pack		nn									NN	pobj	14
+17	of	of	of+npostmod	in	nmod								IN	prep	16
+18	sparklers	sparkler		nn	pl	nom							NNS	pobj	17
+19	.	.											.	punct	11
+
+#sentid = 3
+0	In	in	in+advl	in	advl								IN	prep	23
+1	his	his		dt	poss	sg							PRP$	poss	2
+2	Address	address		nn		nom							NN	pobj	0
+3	,	,											,	punct	2
+4	What	what											WP	nsubj	8
+5	to	to		in	in_othr								IN	prep	4
+6	the	the		dt	art								DT	det	7
+7	Slave	slave		nn									NN	pobj	5
+8	is	be		vbmain	be	pres	simple	active					VBZ	appos	2
+9	the	the		dt	art								DT	det	10
+10	Fourth	fourth		nn		proper							NNP	attr	8
+11	of	of	of+npostmod	in	nmod								IN	prep	10
+12	July	july		nn		proper							NNP	pobj	11
+13	,	,											,	punct	2
+14	delivered	deliver	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	2
+15	on	on	in+advl	in	advl								IN	prep	14
+16	July	july		nn		proper							NNP	pobj	15
+17	5	5											CD	nummod	16
+18	,	,											,	punct	16
+19	1852	1852											CD	nummod	16
+20	,	,											,	punct	2
+21	Frederick	frederick		nn		proper	npremod						NNP	compound	22
+22	Douglass	douglass		nn		proper							NNP	nsubj	23
+23	glorifies	glorify		vbmain	vblex	pres	simple	active					VBZ	ROOT	23
+24	the	the		dt	art								DT	det	25
+25	people	people	s+gen	dt	poss		sgen						NNS	poss	28
+26	's	's											POS	case	25
+27	perpetual	perpetual	attr+npremod	jj	attr								JJ	amod	28
+28	praise	praise		nn									NN	dobj	23
+29	of	of	of+npostmod	in	nmod								IN	prep	28
+30	America	america	s+gen	dt	poss	proper	sgen						NNP	poss	33
+31	's	's											POS	case	30
+32	patriotic	patriotic	attr+npremod	jj	attr								JJ	amod	33
+33	accomplishments	accomplishment		nn	pl	nom							NNS	pobj	29
+34	,	,											,	punct	33
+35	which	which											WDT	dobj	37
+36	Jefferson	jefferson		nn		proper							NNP	nsubj	37
+37	launched	launch	finitecls+rel	vbmain	vblex	past	simple	active	nmod_cls		rel		VBD	relcl	33
+38	through	through	in+advl	in	advl								IN	prep	37
+39	the	the		dt	art								DT	det	40
+40	Declaration	declaration		nn		proper							NNP	pobj	38
+41	of	of	of+npostmod	in	nmod								IN	prep	40
+42	Independence	independence		nn		proper							NNP	pobj	41
+43	.	.											.	punct	23
+
+#sentid = 4
+0	Douglass	douglass		nn		proper							NNP	nsubj	1
+1	relates	relate		vbmain	vblex	pres	simple	active					VBZ	ROOT	1
+2	to	to	in+advl	in	advl								IN	prep	1
+3	his	his		dt	poss	sg							PRP$	poss	4
+4	audience	audience		nn		nom							NN	pobj	2
+5	of	of	of+npostmod	in	nmod								IN	prep	4
+6	white	white	attr+npremod	jj	attr								JJ	amod	7
+7	abolitionists	abolitionist		nn	pl	nom							NNS	pobj	5
+8	by	by	in+advl	in	advl								IN	prep	1
+9	using	use	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	8
+10	rhetorical	rhetorical	attr+npremod	jj	attr								JJ	amod	11
+11	devices	device		nn	pl								NNS	dobj	9
+12	and	and		cc	phrs								CC	cc	11
+13	stylistic	stylistic	attr+npremod	jj	attr								JJ	amod	14
+14	approaches	approach		nn	pl								NNS	conj	11
+15	while	while		cs	con								IN	mark	16
+16	acknowledging	acknowledge	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls	concessive		VBG	advcl	9
+17	the	the		dt	art								DT	det	19
+18	ambitious	ambitious	attr+npremod	jj	attr								JJ	amod	19
+19	accomplishments	accomplishment		nn	pl	nom							NNS	dobj	16
+20	of	of	of+npostmod	in	nmod								IN	prep	19
+21	the	the		dt	art								DT	det	22
+22	country	country	s+gen	dt	poss	nom	sgen						NN	poss	25
+23	's	's											POS	case	22
+24	Founding	founding		nn		proper	npremod						NNP	compound	25
+25	Fathers	fathers		nn	pl	proper							NNPS	pobj	20
+26	.	.											.	punct	1
+
+#sentid = 5
+0	His	his		dt	poss	sg							PRP$	poss	2
+1	powerful	powerful	attr+npremod	jj	attr								JJ	amod	2
+2	use	use		nn									NN	nsubj	18
+3	of	of	of+npostmod	in	nmod								IN	prep	2
+4	repetition	repetition		nn		nom							NN	pobj	3
+5	,	,											,	punct	4
+6	metaphor	metaphor		nn		nom							NN	conj	4
+7	,	,											,	punct	6
+8	and	and		cc	phrs								CC	cc	6
+9	juxtaposition	juxtaposition		nn		nom							NN	conj	6
+10	,	,											,	punct	4
+11	combined	combine	edcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	edcls	ncomp		VBN	acl	4
+12	with	with	in+advl	in	advl								IN	prep	11
+13	strategic	strategic	attr+npremod	jj	attr								JJ	amod	14
+14	syntax	syntax		nn									NN	pobj	12
+15	and	and		cc	phrs								CC	cc	14
+16	tonal	tonal	nn+npremod	nn		nom	npremod						NN	compound	17
+17	shifts	shift		nn	pl								NNS	conj	14
+18	enhance	enhance		vbmain	vblex	pres	simple	active					VBP	ROOT	18
+19	his	his		dt	poss	sg							PRP$	poss	20
+20	argument	argument		nn		nom							NN	dobj	18
+21	as	as		cs	cs_othr								IN	mark	23
+22	he	he		pro	3rd	sg							PRP	nsubj	23
+23	engages	engage	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		other_advl		VBZ	advcl	18
+24	his	his		dt	poss	sg							PRP$	poss	25
+25	audience	audience		nn		nom							NN	dobj	23
+26	and	and		cc	phrs								CC	cc	23
+27	maintains	maintain		vbmain	vblex	pres	simple	active					VBZ	conj	23
+28	credibility	credibility		nn		nom							NN	dobj	27
+29	–	–											:	punct	18
+30	all	all											DT	nsubj	33
+31	of	of		in	in_othr								IN	prep	30
+32	which	which											WDT	pobj	31
+33	assist	assist	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls				VBP	advcl	18
+34	in	in	in+advl	in	advl								IN	prep	33
+35	unraveling	unravel	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	34
+36	his	his		dt	poss	sg							PRP$	poss	38
+37	shocking	shocking	attr+npremod	jj	attr								JJ	amod	38
+38	conclusion	conclusion		nn									NN	dobj	35
+39	that	that		relpro	relpro_that								IN	mark	42
+40	American	american	attr+npremod	jj	attr								JJ	amod	41
+41	values	value		nn	pl								NNS	nsubj	42
+42	are	be	thatcls+ncomp	vbmain	be	pres	simple	active	nmod_cls	thatcls	ncomp		VBP	acl	38
+43	more	more	rb+jjrbmod	rb	adjmod								RBR	advmod	44
+44	impressive	impressive		jj	pred								JJ	acomp	42
+45	on	on	in+jcomp	in	jcomp								IN	prep	44
+46	paper	paper		nn		nom							NN	pobj	45
+47	than	than	in+jcomp	in	jcomp								IN	prep	44
+48	in	in		in	in_othr								IN	prep	47
+49	practice	practice		nn									NN	pobj	48
+50	.	.											.	punct	18
+
+#sentid = 6
+0													_SP	dep	3
+1	Douglass	douglass		nn		proper							NNP	nsubj	3
+2	initially	initially	rb+advl	rb	advl	ly							RB	advmod	3
+3	speaks	speak		vbmain	vblex	pres	simple	active					VBZ	ROOT	3
+4	from	from	in+advl	in	advl								IN	prep	3
+5	the	the		dt	art								DT	det	7
+6	same	same	attr+npremod	jj	attr								JJ	amod	7
+7	level	level		nn									NN	pobj	4
+8	as	as	in+npostmod	in	nmod								IN	prep	7
+9	that	that		pro	dem	sg							DT	pobj	8
+10	of	of		in	in_othr								IN	prep	9
+11	his	his		dt	poss	sg							PRP$	poss	12
+12	audience	audience		nn		nom							NN	pobj	10
+13	.	.											.	punct	3
+
+#sentid = 7
+0	by	by	in+advl	in	advl								IN	prep	28
+1	stating	state	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	0
+2	that	that		comp	comp_that								IN	mark	4
+3	he	he		pro	3rd	sg							PRP	nsubj	4
+4	is	be	thatcls+vcomp	vbmain	be	pres	simple	active	compcls	thatcls	vcomp		VBZ	ccomp	1
+5	nervous	nervous		jj	pred								JJ	acomp	4
+6	to	to		to									TO	aux	8
+7	be	be		vbaux									VB	aux	8
+8	speaking	speak	ingcls+vcomp	vbmain	prepv	nonfinite	prog	active	compcls	ingcls	jcomp		VBG	xcomp	5
+9	to	to	in+advl	in	advl								IN	prep	8
+10	a	a		dt	art								DT	det	12
+11	large	large	attr+npremod	jj	attr								JJ	amod	12
+12	crowd	crowd		nn									NN	pobj	9
+13	and	and		cc									CC	cc	0
+14	by	by											IN	conj	0
+15	addressing	address	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	14
+16	the	the		dt	art								DT	det	17
+17	public	public		nn									NN	dobj	15
+18	as	as	in+advl	in	advl								IN	prep	15
+19	his	his		dt	poss	sg							PRP$	poss	21
+20	"	"											``	punct	21
+21	fellow	fellow	nn+npremod	nn	pl		npremod						NNS	compound	23
+22	-	-											HYPH	punct	23
+23	citizens	citizen		nn	pl								NNS	pobj	18
+24	,	,											''	punct	28
+25	"	"											''	punct	28
+26	Douglass	douglass		nn		proper							NNP	nsubj	28
+27	temporarily	temporarily	rb+advl	rb	advl	ly							RB	advmod	28
+28	adopts	adopt		vbmain	vblex	pres	simple	active					VBZ	ROOT	28
+29	the	the		dt	art								DT	det	30
+30	viewpoint	viewpoint		nn									NN	dobj	28
+31	of	of	of+npostmod	in	nmod								IN	prep	30
+32	an	an		dt									DT	det	33
+33	American	american		nn		proper							NNP	pobj	31
+34	on	on	in+advl	in	advl								IN	prep	28
+35	Independence	independence		nn		proper	npremod						NNP	compound	36
+36	Day	day		nn		proper							NNP	pobj	34
+37	in	in		cs	cs_othr								IN	mark	40
+38	order	order		nn		nom							NN	dep	40
+39	to	to		to									TO	aux	40
+40	establish	establish		vbmain	vblex	nonfinite	simple	active	advlcls		other_advl		VB	advcl	28
+41	credibility	credibility		nn		nom							NN	dobj	40
+42	for	for	in+npostmod	in	nmod								IN	prep	41
+43	both	both		dt									DT	det	44
+44	himself	himself		pro	3rd	sg							PRP	pobj	42
+45	and	and		cc	phrs								CC	cc	44
+46	his	his		dt	poss	sg							PRP$	poss	47
+47	argument	argument		nn		nom							NN	conj	44
+48	(	(											-LRB-	punct	40
+49	Douglass	douglass	in+advl	in	advl	proper							NNP	prep	40
+50	380	380											CD	nummod	49
+51	)	)											-RRB-	punct	40
+52	.	.											-RRB-	punct	28
+
+#sentid = 8
+0	He	he		pro	3rd	sg							PRP	nsubj	1
+1	uses	use		vbmain	vblex	pres	simple	active					VBZ	ROOT	1
+2	metaphor	metaphor		nn		nom							NN	dobj	1
+3	as	as		cs	cs_othr								IN	mark	5
+4	he	he		pro	3rd	sg							PRP	nsubj	5
+5	joins	join	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		other_advl		VBZ	advcl	1
+6	his	his		dt	poss	sg							PRP$	poss	7
+7	audience	audience		nn		nom							NN	dobj	5
+8	in	in	in+advl	in	advl								IN	prep	5
+9	praising	praise	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	8
+10	the	the		dt	art								DT	det	11
+11	resilience	resilience		nn		nom							NN	dobj	9
+12	of	of	of+npostmod	in	nmod								IN	prep	11
+13	the	the		dt	art								DT	det	15
+14	Founding	founding		nn		proper	npremod						NNP	compound	15
+15	Fathers	fathers		nn	pl	proper							NNPS	pobj	12
+16	.	.											.	punct	1
+
+#sentid = 9
+0	"	"											``	punct	26
+1	As	as		cs	cs_othr								IN	mark	5
+2	the	the		dt	art								DT	det	4
+3	sheet	sheet	nn+npremod	nn			npremod						NN	compound	4
+4	anchor	anchor		nn		nom							NN	nsubj	5
+5	takes	take	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		other_advl		VBZ	advcl	26
+6	a	a		dt	art								DT	det	8
+7	firm	firm	attr+npremod	jj	attr								JJ	amod	8
+8	hold	hold		nn									NN	dobj	5
+9	,	,											,	punct	26
+10	when	when		rb	advl								WRB	advmod	14
+11	the	the		dt	art								DT	det	12
+12	ship	ship		nn									NN	nsubjpass	14
+13	is	be		vbaux									VBZ	auxpass	14
+14	tossed	toss	finitecls+advl	vbmain	vblex	pres	simple	pasv_by	advlcls	whcls			VBN	advcl	20
+15	by	by											IN	agent	14
+16	the	the		dt	art								DT	det	17
+17	storm	storm		nn									NN	pobj	15
+18	,	,											,	punct	20
+19	so	so		rb	link								RB	advmod	20
+20	did	do		vbaux									VBD	aux	26
+21	the	the		dt	art								DT	det	22
+22	cause	cause		nn									NN	nsubj	26
+23	of	of	of+npostmod	in	nmod								IN	prep	22
+24	your	your		dt	poss								PRP$	poss	25
+25	fathers	father		nn	pl	nom							NNS	pobj	23
+26	grow	grow		vbmain	vblex	past	simple	active					VB	ROOT	26
+27	stronger	strong		jj	pred								JJR	acomp	26
+28	.	.											.	punct	26
+29	.	.											.	punct	26
+30	.	.											''	punct	26
+31	"	"											''	punct	26
+32	(	(											-LRB-	punct	26
+33	381	381											CD	punct	26
+34	)	)											-RRB-	punct	26
+35	.	.											-RRB-	punct	26
+
+#sentid = 10
+0													_SP	dep	6
+1	The	the		dt	art								DT	det	3
+2	stormy	stormy	attr+npremod	jj	attr								JJ	amod	3
+3	fight	fight		nn									NN	nsubj	6
+4	for	for	in+npostmod	in	nmod								IN	prep	3
+5	independence	independence		nn		nom							NN	pobj	4
+6	triumphed	triumph		vbmain	vblex	past	simple	active					VBD	ROOT	6
+7	with	with	in+advl	in	advl								IN	prep	6
+8	the	the		dt	art								DT	det	9
+9	Declaration	declaration		nn		proper							NNP	pobj	7
+10	of	of	of+npostmod	in	nmod								IN	prep	9
+11	Independence	independence		nn		proper							NNP	pobj	10
+12	,	,											,	punct	9
+13	the	the		dt	art								DT	det	17
+14	"	"											``	punct	17
+15	ring	ring	nn+npremod	nn		nom	npremod						NN	compound	17
+16	-	-											HYPH	punct	17
+17	bolt	bolt	appos+npostmod	nn			nappos						NN	appos	9
+18	"	"											''	punct	17
+19	in	in	in+npostmod	in	nmod								IN	prep	17
+20	the	the		dt	art								DT	det	21
+21	destiny	destiny		nn									NN	pobj	19
+22	of	of	of+npostmod	in	nmod								IN	prep	21
+23	the	the		dt	art								DT	det	24
+24	nation	nation		nn		nom							NN	pobj	22
+25	.	.											.	punct	6
+
+#sentid = 11
+0	The	the		dt	art								DT	det	1
+1	metaphor	metaphor		nn		nom							NN	nsubjpass	8
+2	of	of	of+npostmod	in	nmod								IN	prep	1
+3	the	the		dt	art								DT	det	6
+4	ring	ring	nn+npremod	nn		nom	npremod						NN	compound	6
+5	-	-											HYPH	punct	6
+6	bolt	bolt		nn									NN	pobj	2
+7	is	be		vbaux									VBZ	auxpass	8
+8	designed	design		vbmain	vblex	pres	simple	pasv_agls					VBN	ROOT	8
+9	to	to		to									TO	aux	10
+10	give	give	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	8
+11	the	the		dt	art								DT	det	12
+12	audience	audience		nn		nom							NN	dative	10
+13	a	a		dt	art								DT	det	15
+14	tangible	tangible	attr+npremod	jj	attr								JJ	amod	15
+15	grasp	grasp		nn									NN	dobj	10
+16	of	of	of+npostmod	in	nmod								IN	prep	15
+17	the	the		dt	art								DT	det	18
+18	significance	significance		nn		nom							NN	pobj	16
+19	of	of	of+npostmod	in	nmod								IN	prep	18
+20	the	the		dt	art								DT	det	21
+21	declaration	declaration		nn		nom							NN	pobj	19
+22	and	and		cc	phrs								CC	cc	8
+23	leaves	leave		vbmain	vblex	pres	simple	active					VBZ	conj	8
+24	them	they		pro	pl								PRP	dative	23
+25	the	the		dt	art								DT	det	26
+26	option	option		nn		nom							NN	dobj	23
+27	of	of	of+npostmod	in	nmod								IN	prep	26
+28	"	"											``	punct	29
+29	reaping	reap	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	27
+30	the	the		dt	art								DT	det	31
+31	fruits	fruit		nn	pl								NNS	dobj	29
+32	"	"											''	punct	31
+33	of	of	of+npostmod	in	nmod								IN	prep	31
+34	success	success		nn		nom							NN	pobj	33
+35	.	.											.	punct	8
+
+#sentid = 12
+0													_SP	dep	10
+1	After	after	in+advl	in	advl								IN	prep	10
+2	acknowledging	acknowledge	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	1
+3	America	america	s+gen	dt	poss	proper	sgen						NNP	poss	6
+4	's	's											POS	case	3
+5	past	past	attr+npremod	jj	attr								JJ	amod	6
+6	achievements	achievement		nn	pl	nom							NNS	dobj	2
+7	,	,											,	punct	10
+8	Douglass	douglass		nn		proper							NNP	nsubj	10
+9	dramatically	dramatically	rb+advl	rb	advl	ly							RB	advmod	10
+10	shifts	shift		vbmain	vblex	pres	simple	active					VBZ	ROOT	10
+11	his	his		dt	poss	sg							PRP$	poss	12
+12	tone	tone		nn									NN	dobj	10
+13	as	as		cs	cs_othr								IN	mark	15
+14	he	he		pro	3rd	sg							PRP	nsubj	15
+15	isolates	isolate	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		other_advl		VBZ	advcl	10
+16	himself	himself		pro	3rd	sg							PRP	dobj	15
+17	from	from	in+advl	in	advl								IN	prep	15
+18	the	the		dt	art								DT	det	20
+19	collective	collective	attr+npremod	jj	attr								JJ	amod	20
+20	group	group		nn									NN	pobj	17
+21	by	by	in+advl	in	advl								IN	prep	15
+22	saying	say	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	21
+23	that	that		comp	comp_that								IN	mark	27
+24	he	he		pro	3rd	sg							PRP	nsubj	27
+25	will	will		vbaux	mod	prd							MD	aux	27
+26	"	"											``	punct	27
+27	see	see	thatcls+vcomp	vbmain	vblex	vp_w_modal	simple	active	compcls	thatcls	vcomp		VB	ccomp	22
+28	this	this		dt	dt_dem								DT	det	29
+29	day	day		nn									NN	dobj	27
+30	and	and		cc	phrs								CC	cc	29
+31	its	its		dt	poss								PRP$	poss	33
+32	popular	popular	attr+npremod	jj	attr								JJ	amod	33
+33	characteristics	characteristic		nn	pl								NNS	conj	29
+34	from	from	in+advl	in	advl								IN	prep	27
+35	the	the		dt	art								DT	det	36
+36	slave	slave	s+gen	dt	poss		sgen						NN	poss	38
+37	's	's											POS	case	36
+38	point	point		nn									NN	pobj	34
+39	of	of	of+npostmod	in	nmod								IN	prep	38
+40	view	view		nn									NN	pobj	39
+41	"	"											''	punct	27
+42	and	and		cc	cls								CC	cc	27
+43	that	that											IN	mark	49
+44	"	"											``	punct	49
+45	this	this		dt	dt_dem								DT	det	46
+46	Fourth	fourth		nn		proper							NNP	nsubj	49
+47	of	of	of+npostmod	in	nmod								IN	prep	46
+48	July	july		nn		proper							NNP	pobj	47
+49	is	be		vbmain	be	pres	simple	active					VBZ	conj	27
+50	yours	yours											PRP$	attr	49
+51	,	,											,	punct	50
+52	not	not											RB	neg	50
+53	mine	mine											PRP	conj	50
+54	"	"											''	punct	49
+55	(	(											-LRB-	punct	49
+56	386	386											CD	attr	49
+57	)	)											.	punct	49
+58	.	.											.	punct	10
+
+#sentid = 13
+0	He	he		pro	3rd	sg							PRP	nsubj	1
+1	claims	claim		vbmain	vblex	pres	simple	active					VBZ	ROOT	1
+2	that	that		comp	comp_that								IN	mark	5
+3	July	july	nn+npremod	nn		proper	npremod						NNP	compound	4
+4	4th	4th		nn									NN	nsubj	5
+5	makes	make	thatcls+vcomp	vbmain	vblex	pres	simple	active	compcls	thatcls	vcomp		VBZ	ccomp	1
+6	a	a		dt	art								DT	det	7
+7	mockery	mockery		nn		nom							NN	dobj	5
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	the	the		dt	art								DT	det	11
+10	realistic	realistic	attr+npremod	jj	attr								JJ	amod	11
+11	situation	situation		nn		nom							NN	pobj	8
+12	in	in	in+npostmod	in	nmod								IN	prep	11
+13	America	america		nn		proper							NNP	pobj	12
+14	and	and		cc	phrs								CC	cc	5
+15	poses	pose		vbmain	vblex	pres	simple	active					VBZ	conj	5
+16	a	a		dt	art								DT	det	17
+17	series	series		nn		nom							NN	dobj	15
+18	of	of	of+npostmod	in	nmod								IN	prep	17
+19	rhetorical	rhetorical	attr+npremod	jj	attr								JJ	amod	20
+20	questions	question		nn	pl	nom							NNS	pobj	18
+21	comparing	compare	ingcls+rel	vbmain	vblex	nonfinite	simple	active	nmod_cls	ingcls	ncomp		VBG	acl	20
+22	himself	himself		pro	3rd	sg							PRP	dobj	21
+23	with	with	in+advl	in	advl								IN	prep	21
+24	other	other	attr+npremod	jj	attr								JJ	amod	25
+25	citizens	citizen		nn	pl								NNS	pobj	23
+26	.	.											.	punct	1
+
+#sentid = 14
+0	"	"											``	punct	2
+1	What	what											WP	attr	2
+2	have	have		vbmain	vblex	pres	simple	active					VBP	ROOT	2
+3	I	i		pro	1st	sg							PRP	nsubj	2
+4	,	,											,	punct	3
+5	or	or		cc	phrs								CC	cc	3
+6	those	those											DT	conj	3
+7	I	i		pro	1st	sg							PRP	nsubj	8
+8	represent	represent	finitecls+rel	vbmain	vblex	pres	simple	active	nmod_cls		rel	reldel	VBP	relcl	6
+9	,	,											,	punct	6
+10	to	to		to									TO	aux	11
+11	do	do	tocls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	tocls			VB	advcl	2
+12	with	with	in+advl	in	advl								IN	prep	11
+13	your	your		dt	poss								PRP$	poss	15
+14	national	national	attr+npremod	jj	attr								JJ	amod	15
+15	independence	independence		nn		nom							NN	pobj	12
+16	?	?											''	punct	2
+17	"	"											''	punct	2
+18	(	(											-LRB-	punct	19
+19	385	385											CD	npadvmod	2
+20	)	)											-RRB-	punct	2
+
+#sentid = 15
+0	Combining	combine	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	11
+1	the	the		dt	art								DT	det	2
+2	device	device		nn									NN	dobj	0
+3	of	of	of+npostmod	in	nmod								IN	prep	2
+4	anaphora	anaphora		nn									NN	pobj	3
+5	with	with	in+advl	in	advl								IN	prep	0
+6	more	more	attr+npremod	jj	attr								JJR	amod	8
+7	rhetorical	rhetorical	attr+npremod	jj	attr								JJ	amod	8
+8	questions	question		nn	pl	nom							NNS	pobj	5
+9	,	,											,	punct	11
+10	he	he		pro	3rd	sg							PRP	nsubj	11
+11	emphasizes	emphasize		vbmain	vblex	pres	simple	active					VBZ	ROOT	11
+12	his	his		dt	poss	sg							PRP$	poss	13
+13	accusations	accusation		nn	pl	nom							NNS	dobj	11
+14	of	of	of+npostmod	in	nmod								IN	prep	13
+15	American	american	attr+npremod	jj	attr								JJ	amod	16
+16	ignorance	ignorance		nn		nom							NN	pobj	14
+17	through	through	in+advl	in	advl								IN	prep	11
+18	the	the		dt	art								DT	det	19
+19	phrases	phrase		nn	pl								NNS	pobj	17
+20	"	"											``	punct	22
+21	you	you		pro	2nd	sg							PRP	nsubj	22
+22	have	have		vbmain	vblex	pres	simple	active	nmod_cls		ncomp	reldel	VBP	acl	19
+23	no	no		dt									DT	det	24
+24	right	right		nn									NN	dobj	22
+25	"	"											''	punct	22
+26	and	and		cc	cls								CC	cc	22
+27	"	"											``	punct	30
+28	need	need		vbaux									VBP	aux	30
+29	I	i		pro	1st	sg							PRP	nsubj	30
+30	tell	tell		vbmain	vblex	pres	simple	active					VB	conj	22
+31	you	you		pro	2nd	sg							PRP	dobj	30
+32	"	"											''	punct	30
+33	in	in	in+advl	in	advl								IN	prep	11
+34	order	order		nn		nom							NN	pobj	33
+35	to	to		to									TO	aux	36
+36	escalate	escalate		vbmain	vblex	nonfinite	simple	active	nmod_cls		ncomp		VB	acl	34
+37	his	his		dt	poss	sg							PRP$	poss	38
+38	authority	authority		nn		nom							NN	dobj	36
+39	and	and		cc	phrs								CC	cc	38
+40	ethos	ethos		nn									NN	conj	38
+41	.	.											.	punct	11
+
+#sentid = 16
+0	Douglass	douglass		nn		proper							NNP	nsubj	2
+1	then	then		rb	link								RB	advmod	2
+2	stresses	stress		vbmain	vblex	pres	simple	active					VBZ	ROOT	2
+3	America	america	s+gen	dt	poss	proper	sgen						NNP	poss	5
+4	's	's											POS	case	3
+5	arrogance	arrogance		nn		nom							NN	dobj	2
+6	through	through	in+advl	in	advl								IN	prep	2
+7	antithesis	antithesis		nn									NN	pobj	6
+8	as	as		cs	cs_othr								IN	mark	10
+9	he	he		pro	3rd	sg							PRP	nsubj	10
+10	juxtaposes	juxtapose	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		other_advl		VBZ	advcl	2
+11	people	people	s+gen	dt	poss		sgen						NNS	poss	14
+12	's	's											POS	case	11
+13	shallow	shallow	attr+npremod	jj	attr								JJ	amod	14
+14	tolerance	tolerance		nn		nom							NN	dobj	10
+15	with	with	in+advl	in	advl								IN	prep	10
+16	people	people	s+gen	dt	poss		sgen						NNS	poss	19
+17	's	's											POS	case	16
+18	actual	actual	attr+npremod	jj	attr								JJ	amod	19
+19	behavior	behavior		nn		nom							NN	pobj	15
+20	in	in	in+npostmod	in	nmod								IN	prep	19
+21	their	their		dt	poss								PRP$	poss	23
+22	own	own	attr+npremod	jj	attr								JJ	amod	23
+23	nation	nation		nn		nom							NN	pobj	20
+24	.	.											.	punct	2
+
+#sentid = 17
+0	he	he		pro	3rd	sg							PRP	nsubj	1
+1	condemns	condemn		vbmain	vblex	pres	simple	active					VBZ	ROOT	1
+2	the	the		dt	art								DT	det	3
+3	way	way		nn									NN	dobj	1
+4	they	they		pro	pl								PRP	nsubj	5
+5	are	be	finitecls+rel	vbmain	be	pres	simple	active	nmod_cls		rel	reldel	VBP	relcl	3
+6	"	"											``	punct	5
+7	all	all											DT	dep	5
+8	on	on	in+advl	in	advl								IN	prep	5
+9	fire	fire		nn									NN	pobj	8
+10	at	at	in+advl	in	advl								IN	prep	5
+11	the	the		dt	art								DT	det	12
+12	mention	mention		nn		nom							NN	pobj	10
+13	of	of	of+npostmod	in	nmod								IN	prep	12
+14	liberty	liberty		nn									NN	pobj	13
+15	for	for	in+npostmod	in	nmod								IN	prep	14
+16	France	france		nn		proper							NNP	pobj	15
+17	or	or		cc									CC	cc	15
+18	for	for											IN	conj	15
+19	Ireland	ireland		nn		proper							NNP	pobj	18
+20	.	.											.	punct	5
+
+#sentid = 18
+0	but	but		cc	cls								CC	cc	1
+1	are	be		vbmain	be	pres	simple	active					VBP	ROOT	1
+2	as	as		rb	adjmod								RB	advmod	3
+3	cold	cold		jj	pred								JJ	acomp	1
+4	as	as	in+jcomp	in	jcomp								IN	prep	3
+5	an	an		dt									DT	det	6
+6	iceberg	iceberg		nn									NN	pobj	4
+7	at	at	in+advl	in	advl								IN	prep	1
+8	the	the		dt	art								DT	det	9
+9	thought	thought		nn									NN	pobj	7
+10	of	of	of+npostmod	in	nmod								IN	prep	9
+11	liberty	liberty		nn									NN	pobj	10
+12	for	for	in+npostmod	in	nmod								IN	prep	11
+13	the	the		dt	art								DT	det	14
+14	enslaved	enslave		vbmain	vblex	nonfinite	simple	active		edcls			VBN	pobj	12
+15	of	of	in+advl	in	advl								IN	prep	14
+16	America	america		nn		proper							NNP	pobj	15
+17	"	"											''	punct	1
+18	(	(											-LRB-	punct	1
+19	389	389											CD	dep	1
+20	)	)											-RRB-	punct	1
+21	.	.											-RRB-	punct	1
+
+#sentid = 19
+0	Additionally	additionally	rb+advl	rb	advl	ly							RB	advmod	16
+1	,	,											,	punct	16
+2	with	with	in+advl	in	advl								IN	prep	16
+3	Douglass	douglass	s+gen	dt	poss	proper	sgen						NNP	poss	5
+4	'	'											POS	case	3
+5	allusion	allusion		nn									NN	pobj	2
+6	back	back		rb	othr								RB	advmod	5
+7	to	to		in	in_othr								IN	prep	6
+8	Jefferson	jefferson		nn		proper							NNP	pobj	7
+9	and	and		cc	phrs								CC	cc	8
+10	the	the		dt	art								DT	det	11
+11	Declaration	declaration		nn		proper							NNP	conj	8
+12	,	,											,	punct	16
+13	the	the		dt	art								DT	det	14
+14	audience	audience		nn		nom							NN	nsubj	16
+15	can	can		vbaux	mod	pos							MD	aux	16
+16	infer	infer		vbmain	vblex	vp_w_modal	simple	active					VB	ROOT	16
+17	that	that		comp	comp_that								IN	mark	19
+18	Douglass	douglass		nn		proper							NNP	nsubj	19
+19	implies	imply	thatcls+vcomp	vbmain	vblex	pres	simple	active	compcls	thatcls	vcomp		VBZ	ccomp	16
+20	that	that		comp	comp_that								IN	mark	27
+21	although	although		cs	con								IN	mark	23
+22	Jefferson	jefferson		nn		proper							NNP	nsubj	23
+23	symbolized	symbolize	finitecls+advl	vbmain	vblex	past	simple	active	advlcls		concessive		VBD	advcl	27
+24	freedom	freedom		nn		nom							NN	dobj	23
+25	,	,											,	punct	27
+26	he	he		pro	3rd	sg							PRP	nsubj	27
+27	owned	own	thatcls+vcomp	vbmain	vblex	past	simple	active	compcls	thatcls	vcomp		VBD	ccomp	19
+28	hundreds	hundred		nn	pl								NNS	dobj	27
+29	of	of	of+npostmod	in	nmod								IN	prep	28
+30	slaves	slave		nn	pl								NNS	pobj	29
+31	himself	himself		pro	3rd	sg							PRP	npadvmod	27
+32	,	,											,	punct	27
+33	thus	thus		rb	link								RB	advmod	35
+34	further	far	rb+advl	rb	advl								RB	advmod	35
+35	demonstrating	demonstrate	ingcls+advl	vbmain	vblex	nonfinite	simple	active	advlcls	ingcls			VBG	advcl	27
+36	the	the		dt	art								DT	det	38
+37	ironic	ironic	attr+npremod	jj	attr								JJ	amod	38
+38	tendencies	tendency		nn	pl	nom							NNS	dobj	35
+39	of	of	of+npostmod	in	nmod								IN	prep	38
+40	human	human	attr+npremod	jj	attr								JJ	amod	41
+41	nature	nature		nn		nom							NN	pobj	39
+42	and	and		cc	phrs								CC	cc	38
+43	the	the		dt	art								DT	det	45
+44	hypocritical	hypocritical	attr+npremod	jj	attr								JJ	amod	45
+45	message	message		nn		nom							NN	conj	38
+46	in	in	in+npostmod	in	nmod								IN	prep	45
+47	his	his		dt	poss	sg							PRP$	poss	49
+48	independence	independence	nn+npremod	nn		nom	npremod						NN	compound	49
+49	speech	speech		nn									NN	pobj	46
+50	.	.											.	punct	16
+
+#sentid = 20
+0													_SP	dep	21
+1	While	while		cs	con								IN	mark	4
+2	Douglas	douglas		nn		proper							NNP	nsubj	4
+3	dramatically	dramatically	rb+advl	rb	advl	ly							RB	advmod	4
+4	shifts	shift	finitecls+advl	vbmain	vblex	pres	simple	active	advlcls		concessive		VBZ	advcl	21
+5	his	his		dt	poss	sg							PRP$	poss	6
+6	tone	tone		nn									NN	dobj	4
+7	from	from	in+advl	in	advl								IN	prep	4
+8	sharing	share	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	7
+9	brotherhood	brotherhood		nn		nom							NN	dobj	8
+10	with	with	in+advl	in	advl								IN	prep	8
+11	his	his		dt	poss	sg							PRP$	poss	12
+12	audience	audience		nn		nom							NN	pobj	10
+13	to	to	in+advl	in	advl								IN	prep	4
+14	speaking	speak	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	13
+15	in	in	in+advl	in	advl								IN	prep	14
+16	a	a		dt	art								DT	det	18
+17	condescending	condescending	attr+npremod	jj	attr								JJ	amod	18
+18	manner	manner		nn		nom							NN	pobj	15
+19	,	,											,	punct	21
+20	he	he		pro	3rd	sg							PRP	nsubj	21
+21	equivocates	equivocate		vbmain	vblex	pres	simple	active					VBZ	ROOT	21
+22	by	by	in+advl	in	advl								IN	prep	21
+23	concluding	conclude	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	22
+24	his	his		dt	poss	sg							PRP$	poss	25
+25	speech	speech		nn									NN	dobj	23
+26	with	with	in+advl	in	advl								IN	prep	23
+27	a	a		dt	art								DT	det	28
+28	quote	quote		nn									NN	pobj	26
+29	by	by	in+npostmod	in	nmod								IN	prep	28
+30	William	william		nn		proper	npremod						NNP	compound	32
+31	Lloyd	lloyd		nn		proper	npremod						NNP	compound	32
+32	Garrison	garrison		nn		proper							NNP	pobj	29
+33	.	.											.	punct	21
+
+#sentid = 21
+0	By	by	in+advl	in	advl								IN	prep	24
+1	leaving	leave	ingcls+incomp	vbmain	vblex	nonfinite	simple	active	compcls	ingcls	incomp		VBG	pcomp	0
+2	the	the		dt	art								DT	det	3
+3	audience	audience		nn		nom							NN	dobj	1
+4	with	with	in+advl	in	advl								IN	prep	1
+5	the	the		dt	art								DT	det	7
+6	inspirational	inspirational	attr+npremod	jj	attr								JJ	amod	7
+7	words	word		nn	pl								NNS	pobj	4
+8	of	of	of+npostmod	in	nmod								IN	prep	7
+9	"	"											``	punct	8
+10	God	god		nn		proper							NNP	nsubj	11
+11	speed	speed		vbmain	vblex	pres	simple	active	compcls		incomp		VBP	pcomp	8
+12	the	the		dt	art								DT	det	13
+13	year	year		nn									NN	dobj	11
+14	of	of	of+npostmod	in	nmod								IN	prep	13
+15	jubilee	jubilee		nn		nom							NN	pobj	14
+16	/	/											,	punct	13
+17	the	the		dt	art								DT	det	19
+18	wide	wide	attr+npremod	jj	attr								JJ	amod	19
+19	world	world		nn									NN	dep	20
+20	o'er	o'er											XX	npadvmod	11
+21	,	,											''	punct	24
+22	"	"											''	punct	24
+23	Douglass	douglass		nn		proper							NNP	nsubj	24
+24	reinstates	reinstate		vbmain	vblex	pres	simple	active					VBZ	ROOT	24
+25	the	the		dt	art								DT	det	26
+26	speech	speech	s+gen	dt	poss		sgen						NN	poss	29
+27	's	's											POS	case	26
+28	patriotic	patriotic	attr+npremod	jj	attr								JJ	amod	29
+29	undertone	undertone		nn									NN	dobj	24
+30	(	(											-LRB-	punct	29
+31	390	390											CD	appos	29
+32	)	)											-RRB-	punct	29
+33	.	.											-RRB-	punct	24
+
+#sentid = 22
+0	He	he		pro	3rd	sg							PRP	nsubj	1
+1	ends	end		vbmain	vblex	pres	simple	active					VBZ	ROOT	1
+2	on	on	in+advl	in	advl								IN	prep	1
+3	a	a		dt	art								DT	det	5
+4	positive	positive	attr+npremod	jj	attr								JJ	amod	5
+5	note	note		nn									NN	pobj	2
+6	in	in		cs	cs_othr								IN	mark	10
+7	order	order		nn		nom							NN	pobj	6
+8	to	to		to									TO	aux	9
+9	re	re		vbmain	vblex	nonfinite	simple	active	nmod_cls		ncomp		VB	acl	7
+10	-	-		vbmain	vblex	nonfinite	simple	active	advlcls		other_advl		VB	advcl	1
+11	establish	establish		vbmain	vblex	nonfinite	simple	active	advlcls				VB	advcl	1
+12	any	any		dt									DT	det	13
+13	credibility	credibility		nn		nom							NN	dobj	11
+14	that	that		pro	dem	sg							WDT	dobj	18
+15	he	he		pro	3rd	sg							PRP	nsubj	18
+16	might	might		vbaux	mod	pos							MD	aux	18
+17	have	have		vbaux									VB	aux	18
+18	lost	lose	finitecls+rel	vbmain	vblex	vp_w_modal	perf	active	nmod_cls		rel		VBN	relcl	13
+19	during	during	in+advl	in	advl								IN	prep	18
+20	the	the		dt	art								DT	det	21
+21	speech	speech		nn									NN	pobj	19
+22	and	and		cc	phrs								CC	cc	11
+23	to	to		to									TO	aux	24
+24	ensure	ensure		vbmain	vblex	nonfinite	simple	active		tocls			VB	conj	11
+25	that	that		comp	comp_that								IN	mark	27
+26	he	he		pro	3rd	sg							PRP	nsubj	27
+27	motivates	motivate	thatcls+vcomp	vbmain	vblex	pres	simple	active	compcls	thatcls	vcomp		VBZ	ccomp	24
+28	his	his		dt	poss	sg							PRP$	poss	29
+29	audience	audience		nn		nom							NN	dobj	27
+30	.	.											.	punct	1
+
+#sentid = 23
+0	it	it		pro	3rd	sg							PRP	nsubj	1
+1	is	be		vbmain	be	pres	simple	active					VBZ	ROOT	1
+2	up	up	in+advl	in	advl								IN	prep	1
+3	to	to		in	in_othr								IN	prep	2
+4	them	they		pro	pl								PRP	pobj	3
+5	to	to		to									TO	aux	6
+6	mobilize	mobilize	tocls+vcomp	vbmain	vblex	nonfinite	simple	active	compcls	tocls	vcomp		VB	xcomp	1
+7	the	the		dt	art								DT	det	8
+8	Declaration	declaration		nn		proper							NNP	dobj	6
+9	of	of	of+npostmod	in	nmod								IN	prep	8
+10	Independence	independence		nn		proper							NNP	pobj	9
+11	into	into	in+advl	in	advl								IN	prep	6
+12	action	action		nn		nom							NN	pobj	11
+13	like	like		cs	cs_othr								IN	mark	18
+14	their	their		dt	poss								PRP$	poss	16
+15	Founding	founding		nn		proper	npremod						NNP	compound	16
+16	Fathers	fathers		nn	pl	proper							NNPS	nsubj	18
+17	had	have		vbaux									VBD	aux	18
+18	done	do	finitecls+advl	vbmain	vblex	past	perf	active	advlcls		other_advl		VBN	advcl	6
+19	in	in	in+advl	in	advl								IN	prep	18
+20	past	past	attr+npremod	jj	attr								JJ	amod	21
+21	generations	generation		nn	pl	nom							NNS	pobj	19
+22	.	.											.	punct	1
+
+#sentid = 24
+0	Douglass	douglass		nn		proper							NNP	nsubj	1
+1	demands	demand		vbmain	vblex	pres	simple	active					VBZ	ROOT	1
+2	a	a		dt	art								DT	det	4
+3	new	new	attr+npremod	jj	attr								JJ	amod	4
+4	Declaration	declaration		nn		proper							NNP	dobj	1
+5	.	.											.	punct	1
